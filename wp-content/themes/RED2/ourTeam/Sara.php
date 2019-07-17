@@ -17,12 +17,8 @@
          </p>
             
          <!-- ------------  Grįžimui  ------------------------------ -->
-         <a href="<?= get_permalink(get_page_by_path('home',OBJECT,'page')) ?>">
-         <a href="<?= get_permalink('p-c') ?>">
+        <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>">
 
-
-
-         <a href="http://localhost/wordpress/p-c/"></a>
 
 
          <img src="<?= get_field('sara') ?>" alt="Sara">
