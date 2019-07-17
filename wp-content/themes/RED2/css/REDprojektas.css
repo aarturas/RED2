@@ -1,0 +1,1228 @@
+* {
+    box-sizing: border-box;
+}
+
+html 
+{
+    font-size: 14px;
+}
+
+
+/*................................clearfix...........................................*/
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+.clearfix {
+	display: inline-block;
+}
+/* start commented backslash hack \*/
+* html .clearfix {
+	height: 1%;
+}
+.clearfix {
+	display: block;
+}
+
+
+/* Dar vienas visa "body" (visa puslapi) apimantis rėmelis */
+body 
+{
+    /* display: flex; */
+    min-height: 100vh;
+    /* flex-direction: column; */
+    background-color: #F5F5F5;
+    font-family: 'Libre Baskerville', 'san-serif';
+
+    /* border: 4px solid black; */
+
+}
+
+/* Nesupratau kas, bet apima:iconos rėmelis viršuje,nav 4 užrašai,apstinis arrow|3 nuotraukų rėmelis */
+/* 6 nuotraukų kairės ir dešinės arrow, su tarpu tarp nuotraukų bruksneliais, "follow us on ...", langelis */
+/* "Contact Us" langelis, send-langelis ir visas apatinis nav baras:Home,About Us,Social,Contact... */
+
+a 
+{
+    text-decoration: none;
+
+    /* border: 4px solid red; */
+
+}
+
+/*           Visas "conteineris", t.y. rėmelis aplink puslapi */
+
+.container 
+{
+    max-width: 102.86rem;
+    margin: auto;
+    text-overflow: clip;
+    overflow: hidden;
+
+    /* border: 4px solid violet; */
+
+}
+
+
+
+
+
+
+/* ---------------------------------  PAGRINDINĖS VIRŠUTINĖS NUOTRAUKOS STILIUS --------------------  */
+
+header 
+
+   /* Visas virsutinis "blokas" su navigacija ir 'Premium' užrašų */
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 45.7142rem;
+    background-image: linear-gradient(rgba(197, 49, 99, 0.83), rgba(197, 49, 99, 0.83)), url("../img/header-fonas.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat no-repeat;
+    overflow: hidden;
+    padding-bottom: 2.86rem;
+
+    /* border: 2px solid black; */
+       
+
+}
+
+/* -----------------------------------  UŽRAŠAS PIRMOJE DALYJE  ------------------------------ */
+
+.since 
+{
+    width: 52.5rem;
+    height: 7.14rem;
+    /*          apatinis trikampis*/
+}
+
+/* Didesnis langelis/rėmelis su užrašų "Premium Quality & Tradition" ir zemiau "SINCE 1978" kartu */
+.box8 
+{
+    display: flex;
+    flex-direction: column;
+    padding: 70px;
+    align-items: center;
+    font-size: 1.6rem;
+    color: aliceblue;
+    font-style: 'Libre Baskerville', serif;
+
+    border: 4px dashed violet;
+
+
+
+}
+
+/*  ---------------------- "SINCE 1978" Užrašo langelis/rėmelis -----------------------------  */
+.box8> p 
+{
+    font-style: italic;
+    padding: 0;
+
+    /* border: 4px solid white; */
+
+}
+
+/*  ----------------------  "Premium Quality & Tradition" Užrašo langelis  ----------------------- */
+.box8> h1 
+{
+    font-style: 'Libre Baskerville';
+    align-items: center;
+
+    border: 4px solid green;
+
+}
+
+/*  ------------------------- Po "SINCE 1978" Užrašo zemiau rodykle i apacia (arrow-down) --------------  */
+
+.head-img:last-child 
+{
+    width: 2.57rem;
+    height: 2.57rem;
+
+    /* border: 3px solid black; */
+
+}
+
+
+/*  ---------------------------------- viršutinė navigacija ----------------------------  */
+
+/*          Viršutinės navigacijos "blokas", iki Užrašo "Premium Quality & Tradition" */
+
+#nav-bar 
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 6.86rem;
+    padding-left: 6.86rem;
+    padding-right: 6.86rem;
+    /* text-decoration: none; */
+
+
+    /* border: 2px solid blue; */
+
+}
+
+/* Šitų paįmiau iš Velox'0 **************************** ----------------------------------- */
+
+
+/* .fixed {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+  }
+
+.nav-collapse,
+.nav-collapse * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.nav-collapse,
+.nav-collapse ul {
+  list-style: none;
+  width: 100%;
+  float: left;
+}
+*/
+
+
+@media screen and (min-width: 767px) {
+    .nav-collapse 
+    {
+      float: right;
+      width: auto;
+    }
+  }
+
+  .nav-collapse li 
+  {
+    float: left;
+    width: 100%;
+  }
+
+  @media screen and (min-width: 767px) {
+    .nav-collapse li 
+    {
+      width: auto;
+    }
+  }
+
+/*
+
+  .nav-collapse a:active,
+.nav-collapse .active a {
+color: #000;
+}
+
+@media screen and (min-width: 767px) {
+    .nav-collapse a {
+     border-left: 1px solid white;
+      padding: 1.02em 2em;
+      text-align: center;
+      border-top: 0;
+      float: left;
+      margin: 0;
+    }
+  } */
+
+
+  /* ------------------------------------------
+  NAV TOGGLE STYLES
+-------------------------------------------------------------------------------- */
+
+@font-face {
+    font-family: "responsivenav";
+    src:url("../icons/responsivenav.eot");
+    src:url("../icons/responsivenav.eot?#iefix") format("embedded-opentype"),
+      url("../icons/responsivenav.ttf") format("truetype"),
+      url("../icons/responsivenav.woff") format("woff"),
+      url("../icons/responsivenav.svg#responsivenav") format("svg");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  .nav-toggle {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none;
+    text-indent: -300px;
+    position: relative;
+    overflow: hidden;
+    width: 60px;
+    height: 55px;
+    float: right;
+  }
+
+
+  .nav-toggle:before {
+    color: #fff; /* Edit this to change the icon color */
+    font: normal 28px/55px "responsivenav"; /* Edit font-size (28px) to change the icon size */
+    text-transform: none;
+    text-align: center;
+    position: absolute;
+    content: "\2261"; /* Hamburger icon */
+    text-indent: 0;
+    speak: none;
+    width: 100%;
+    left: 0;
+    top: 0;
+  }
+
+
+  .nav-toggle.active:before {
+    font-size: 24px;
+    content: "\78"; /* Close icon */
+  }
+
+
+  /* Iki cia ************************************************** ---------------------------------- */
+
+
+/*                  Viršutinės, kaireje iconeles rėmelis */
+
+#nav-bar img 
+{
+    width: 2.86rem;
+    height: 2.86rem;
+
+    /* border: 4px solid white; */
+
+}
+
+/*  -------------------------- "pilnas" langelis Viršutinės navigacijos iconos su nuorodom  ------------------------- */
+
+#nav-bar li 
+{
+    display: inline-block;
+
+    /* border: 1px solid blue; */
+}
+
+/*  -------------------------- Viršutinės navigacijos 'icona' ir HOME ABOUT US SOCIAL CONTACT užrašai  ---------------- */
+#nav-bar a 
+{
+    text-decoration: none;
+    line-height: 1.28rem;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0.6px;
+    color: #FFFFFF;
+    margin-left: 1.43rem;
+    margin-right: 1.43rem;
+
+    border: 3px solid red;
+}
+
+/*  ------------------------------ Meet our team" uzrasas?  ------------------------------------------------------------- */
+/* .box6 
+{
+    display: flex;
+    flex-direction: column;
+    padding-left: -10em;
+    align-items: center;
+    font-size: 1.6rem;
+    font-style: 'Libre Baskerville', serif;
+
+    border: 3px solid yellow;
+} */
+
+#nav-bar a:hover 
+{
+    text-decoration: underline;
+}
+
+/*             Meet our team" uzrasas? */
+
+.box6> h2 
+{
+    padding-left: 1em;
+}
+
+/* ---------------------------------------- 1. SHOWCASE:  TRIJŲ nuotraukų tvarkymas arba 2-a dalis  -----------------  */
+
+/*  ---------------------------- "Meet Our Team" ir Trijų žmonių nuotraukų visas 2 (antras) blokas  --------------------- */
+.showcase 
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    /* height: 49.6429rem; */
+    width: 100%;
+    background-color: #FFFFFF;
+    padding-top: 4.2857rem;
+    padding-bottom: 4.0714rem;
+    /* padding-left: 10rem;
+    padding-right: 17.8571rem; */
+    /* overflow: hidden; */
+
+
+    /* border: 5px solid yellow; */
+}
+
+/*  ---------------------------------  "Meet Our Team" uzrasas  ----------------------------------------------------- */
+.showcase h2
+{
+    font-size: 5rem;
+    letter-spacing: 0.006rem;
+    margin: 0rem;
+
+    /* border: 1px solid orange; */
+}
+
+/*  ---------------------------------  linija po "Meet Our Team" užrašų ---------------------------------------------  */
+.showcase>img 
+{
+    margin-top: 1.5rem;
+    margin-bottom: 4.36rem;
+
+    /* border: 4px double blue; */
+}
+
+.showcase> p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+
+    padding-top: 0.6rem;
+    font-style: italic;
+    line-height: 1.86rem;
+    font-size: 1.28rem;
+    text-align: center;
+    letter-spacing: 0.4px;
+    border: 17px solid black;
+
+}
+
+/*  ------------------------------ nuotraukų blokas, div, box'as juodas apvadas stačiakampis, iki 1150px  -------------------*/
+.box 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 32.21rem;
+    max-width: 24rem;
+    margin: 0 10px;
+    /* margin-left: 3.57rem;
+    margin-left: 3.57rem; */
+    text-align: center;
+
+    height: auto;
+    margin-bottom: 15px;
+
+    border: 7px solid black;
+}
+
+.showcase> card 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+/* ------------------- 3 žmonių nuotraukų geltonas apvalus rėmelis nuo "pilno lango", iki 1150px ----------------------------  */
+.box img 
+{
+    border-radius: 50%;
+    width: 20rem;
+    height: 20rem;
+
+    border: 5px dashed yellow;
+}
+
+        /* ------------------------------------------ Nuotraukos 3 su media query  -------------------------------------------  */
+
+@media only screen and (max-width: 1150px)
+ {
+     /* ------------------------------- Kvadratinis rėmelis atsirandantis nuo 1150px aplink 3 nuotraukas  --------------------- */
+    .box 
+    {
+        /* height: 20rem;
+        width: 15rem; */
+
+    border: 3px solid brown;
+
+    }
+
+    /* ------------------------- Apvalus rėmelis aplink nuotraukas atsiranda nuo 1150 ir mažinant būna iki 900px  ------------- */
+    .box img 
+    {
+        width: 17rem;
+        height: 17rem;
+        margin-top: 10px;
+
+    border: 3px solid blue;
+    }
+}
+
+@media only screen and (max-width: 900px)
+
+ {
+     /* ---------------------------  vertikalus 3 nuotraukų rėmelis atsirandantis nuo 900 px ir mažinant būna iki galo  ------------- */
+    .box-images
+     {
+        flex-direction: column;
+
+    border: 5px double black;
+
+    }
+
+    /* -------------------- 3 nuotraukos nuo 900px mažėjančiu režimu "dashed" linija (rėmelis aplink nuotraukas)  ------------------ */
+    .box img 
+    {
+        /* width: 12rem;
+        height: 12rem; */
+
+    border: 3px dashed black;
+    }
+
+    /* .box {
+        height: auto;
+        margin-bottom: 15px;
+    } */
+}
+
+    /* ---------------------- 3 nuotraukos "dashed" linija (stačiakampis rėmelis aplink žmonių Vardus ir pavard.)  ------------------- */
+    .box h3
+    {
+        font-size: 2rem;
+        font-weight: bolder;
+        color: #333333;
+
+        /* border: 2px dashed green; */
+    }
+
+/*  ------------------------ 3 žmonių nuotraukų aprašymo tekstas įrėmintas i punktyrini stačiakampį (nepranykstantis)  ------------------ */
+    .box p
+    {
+        font-family: Libre-Baskerville;
+        font-size: 1rem;
+        padding-left: 1.4286rem;
+        padding-right: 1.4286rem;
+        font-style: italic;
+        color: rgba(51, 51, 51, 0.5);
+
+        /* border: 2px dashed red; */
+    }
+
+/* --------------------------------------  2. SHOWCASE-2:  Trečia dalis su 6 nuotraukomis  ---------------------------------------------- */
+
+  /* ----------------------------  Visas 'Trečias "blokas"(sekcija)' su 'slider' 6-iomis nuotraukomis (oranžinis punktyras)  ------------- */
+.showcase2
+{
+    padding-top: 2rem;
+    padding-bottom: 4.23rem;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+
+    /* border: 3px dashed orange; */
+}
+
+/*  ------------------------------ "Slider'io" nuotraukų ir "Contact Us" su formos rėmelis įrėminimas  --------------------------------- */
+.row 
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    /* border: 1px dashed black; */
+}
+
+/* ---------------------------- "FOLLOW US ON INSTAGRAM" ikonos įrėminimas punktyriniu kvadratu  ------------------------------------ */
+.btn i
+ {
+    font-size: 1.57rem;
+    margin-right: 1.43rem;
+
+    /* border: 3px dashed blueviolet; */
+}
+
+ /* ---------------------------- punktyrinis stačiakampis rėmelis aplink "FOLLOW US ON INSTAGRAM" Užrašo  --------------------------- */
+.btn p
+ {
+    /* font-family: Sintony; */
+    /* font-size: 1.14rem; */
+
+    /* border: 3px dashed orange; */
+
+}
+
+/* --------------------  "slider'io" irėminimo stačiakampis (oranžinis punktyras) su šoniniais 'arrow-right' ir 'arrow-left'  --------- */
+/* atsiranda nuo 1150px  */
+.slider
+ {
+    display: flex;
+    width: 1000px;
+
+    /* border: 3px dashed orange; */
+}
+
+  /*  --------------------------------  Idedame media query SLIDER'iui ---------------------------------------------------------------- */
+
+@media only screen and (max-width: 1150px)
+{
+    /* --------------------- punktyrinis raudonas stačiakampis atsiranda aplink "slider" nuo 1150px ir lieka iki 'galo'  --------------- */
+    .slider
+    {
+        width: 600px;
+
+    /* border: 3px dashed red; */
+    }
+}
+  @media only screen and (max-width: 640px)
+{
+    /* ----------------------------  dvigubas rėmelis aplink 'sliderį' su kairiu ir dešiniu 'arrow', tik nuo 322px ir mažiau  ----------- */
+    .slider
+    {
+        width: 322px;
+
+    /* border: 3px double #3B5998; */
+    }
+}
+  
+/* -----------------------------  dvigubas geltonas rėmelis aplink 'sliderio-swiperio' nuotraukas -------------------------------------- */
+.swiper-container
+ {
+    width: 80%;
+
+    /* border: 4px double yellow; */
+}
+
+/*  ----------------------- dvigubas mėlynas rėmelis įrėmina abi : kairį ir desinį "arrow" abipus 'sliderio' nuotraukų  ----------------- */
+.showcase2 img 
+{
+    width: 13.71rem;
+
+    /* border: 4px double blue; */
+}
+
+/* ----------------------------- dvibubas mėlynas rėmelis (kvadratas) aplink pačias 'sliderio' nuotraukas  ---------------------------- */
+.showcase2-card
+ {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 14.29rem;
+    width: 14.29rem;
+    background-color: #FFFFFF;
+    margin: 1.43rem;
+    box-shadow: 0px 2px 0px #DCDCDC;
+    border-radius: 4px;
+
+    /* border: 4px double blue; */
+
+}
+
+/* ------------------------ punktyrinis nuotraukų 'sliderio' įrėminimas, kai "užvedi" "pelę"  ---------------------------------------- */
+.showcase2-card:hover
+ {
+    position: relative;
+    background-image: linear-gradient(rgba(197, 49, 99, 0.83), rgba(197, 49, 99, 0.83));
+    z-index: 1;
+
+    /* border: 5px dashed red; */
+
+}
+
+/* ---------------------------- punktyrinis nuotraukų 'sliderio' įrėminimas, kai "uzvedi" "pele"  ------------------------------------ */
+        /* ------------------  užkrauna antrąkart dar "riebiau" rėmelį ant rėmelio, tik daugiau 'viduje'  ---------------------------- */
+.select:hover 
+{
+    position: absolute;
+    z-index: 2;
+
+    /* border: 7px dashed yellow; */
+}
+
+/* ------------------------ "FOLLOW US ON INSTAGRAM" stačiakampio/langelio/mygtuko įrėminimas dviguba oranžine linija  --------------- */
+.btn 
+{
+    width: 21rem;
+    height: 4.14rem;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 2px 0px #DCDCDC;
+
+    /* border: 7px double orange; */
+}
+
+
+/* ------------------ Dar vienas "FOLLOW US ON INSTAGRAM" langelio įrėminimas juoda punktyrine linija  -------------------------------- */
+/* ------------------------------- ICON'os stilius  ----------------------------------------------------------------------------------- */
+.wrapper
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 21rem;
+    height: 4.09rem;
+    background-color: #FFFFFF;
+    margin-top: 4.23rem;
+
+    /* border: 7px dashed black; */
+}
+
+/* ------------------------------ 3. SHOWCASE-3:  pradedu nuo žemėlapio su emailu ---------------------------------------------------- */
+
+/* ----------------------------- Viso 4-o bloko "įrėminimas" 'riebia' juoda punktyrine linija  --------------------------------------- */
+.showcase3
+{
+    background-color: #C53163;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* height: 46.14rem; */
+    /* width: 100%; */
+    padding-bottom: 7rem;
+
+    /* border: 7px dashed black; */
+}
+
+/* ----------------  Prie 1150px 'atsiranda' (iki "galo", mažinant ) punktyrinis įrėminimas (vertikalus) formos su žemėlapįu  --------- */
+@media only screen and (max-width: 1150px)
+{
+    .showcase3 div.row 
+    {
+        flex-direction: column;
+
+    /* border: 4px dashed blueviolet; */
+    }
+}
+
+/* ------------------ atsiranda du atskiri geltoni, punktyriniai įrėminimai, formai ir žemėlapiui, mažinant nuo 500px  ----------------- */
+@media only screen and (max-width: 500px)
+{
+    .showcase3-card
+    {
+       width: calc(100% - 20px);
+
+    /* border: 5px dashed yellow; */
+   }
+    
+
+   /* ------------------  Formos įrėminimas Žalia punktyrine linija, visi 3 inputai su "Send" mygtuku, bet tik 500px ir mažiau  ---------- */
+    .showcase3-card .myForm
+     {
+        width: 100%;
+
+    /* border: 5px dashed green; */
+    }
+
+
+    /* -------------------  Žalia punktyrinė linija aplink žemėlapį, bet tik nuo 0 iki 500px; -------------------------------------------  */
+    .showcase3-card .iframe, .showcase3-card .mapouter, .showcase3-card .gmap_canvas
+    {
+       width: 300px;
+
+       /* border: 5px dashed green; */
+   }
+
+
+      /* -----------------------  Žalia punktyrinė linija aplink "Send" mygtuko langą, bet tik nuo 0 iki 500px;  -------------------------- */
+   
+   .showcase3-card .send_btn 
+   {
+    width: 200px;
+
+    /* border: 5px dashed green; */
+   }
+
+    /* --------------------  Žalia punktyrinė linija aplink visa formą + žemėlapis, 0 iki 500px; stačiakampis i virsu ----------------  */
+   .showcase3 div.row 
+   {
+    width: 100%;
+
+    /* border: 5px dashed green; */
+   }
+
+    /*  ------------------------ Žalia punktyrinė linija aplink žemėlapį, 500px iki 0; (be Užrašo)  ----------------------------------- */
+    .showcase3-card .mapouter 
+    {
+        margin: 0 auto;
+
+    /* border: 5px dashed green; */
+    }
+}
+
+
+
+@media only screen and (max-width: 350px)
+{
+    /* -------------------------  Žalia punktyrinė linija aplink žemėlapį, nuo350px iki 0; (be Užrašo)  ------------------------------ */
+    .showcase3-card .iframe, .showcase3-card .mapouter, .showcase3-card .gmap_canvas
+    {
+       width: 270px;
+
+    /* border: 5px dashed green; */
+
+   }
+}
+
+
+@media only screen and (max-width: 370px)
+{
+    /* ------------------------  Žalia punktyrinė linija aplink žemėlapį ir forma nuo 370px iki 0px; (be Užrašo) stačiai  ---------------*/
+
+    .showcase3-card
+    {
+       margin-left: 0!important;
+       margin-right: 0!important;
+
+    /* border: 5px dashed green; */
+   }
+}
+
+
+  @media only screen and (max-width: 640px)
+{
+    /* .showcase3-card
+     {
+        width: 322px;
+    } */
+}
+
+
+/* ------------------------ "Contact Us" div'as, Užrašo langelis (raudona punktyrinė linija) ------------------------------------------- */
+.showcase3 h2
+ {
+    font-size: 2.5rem;
+    margin: 1rem;
+    padding-top: 4.3rem;
+    font-size: 2.5rem;
+    text-align: center;
+    letter-spacing: 0.006rem;
+    color: white;
+
+    /* border: 5px dashed red; */
+
+}
+
+
+/* ----------------------- "Send" mygtuko stačiakampis langelis su raudona punktyrine linija ----------------------------------------- */
+.send_btn 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    color: white;
+    width: 32.21rem;
+    height: 4.29rem;
+    font-family: Libre Baskerville;
+    font-weight: bold;
+    font-size: 1.43rem;
+    letter-spacing: 0.03rem;
+
+    /* border: 5px dashed red; */
+}
+
+
+/* ---------------------- Po "Contact Us" "underline" linijos (div) langelis (raudona punktyrine linija) ----------------------------- */
+.undeline 
+{
+    width: 8.5rem;
+    padding-bottom: 5.71rem;
+
+    /* border: 5px dashed red; */
+}
+
+
+/*  ------------------------ Formos ir žemėlapio langelių (2 div) įrėminimas (raudona punktyrine linija)  ------------------------------ */
+.showcase3-card 
+{
+    margin: 1.46rem;
+    height: 25.71rem;
+    /* "nuskrenda" i kairę visas stulpelis */
+    /* o tekstas atsiduria dešinėje */
+    /* width: 32.2143rem; */
+
+    /* border: 5px dashed red; */
+}
+
+
+/* ------------------------  Užrašo, po žemėlapio, įrėminimas (raudona punktyrine linija)  ------------------------------------------- */
+.showcase3-card p 
+{
+    padding-top: 0.6rem;
+    font-style: italic;
+    line-height: 1.86rem;
+    font-size: 1.28rem;
+    text-align: center;
+    letter-spacing: 0.4px;
+    color: #FFFFFF;
+
+    /* border: 5px dashed red; */
+}
+
+
+/*  ----------------------------- pradedu bandymus su query apatinę dalimi ----------------------------------- ---------------------- */
+
+@media only screen and (max-width: 1150px)
+ {
+    body {
+        background-color: rgb(91, 197, 49);
+      }
+      /*       Ketvirtas blokas įrėmintas ( raudona punktyrine linija ) nuo 0 iki 1150px; */
+    .showcase3 {
+        height: auto;
+        width: auto;
+
+    /* border: 5px dashed red; */
+    }
+}
+
+     /* --------------------- Visas puslapio blokas įrėmintas ( raudona punktyrine linija ) nuo 0 iki 900px; -------------------------- */
+@media only screen and (max-width: 900px)
+ {
+    body 
+    {
+        background-color: rgb(173, 177, 230);
+
+    /* border: 5px dashed red; */
+    }
+}
+
+     /* --------------------- Visas puslapio blokas įrėmintas ( raudona punktyrinė linija ) nuo 0 iki 322px; -------------------------- */
+@media only screen and (max-width: 322px)
+ {
+    body 
+    {
+        background-color: lightblue;
+
+    /* border: 5px dashed red; */
+    }
+}
+
+/* --------------------- Visas formos turinys (visi inputai) + "Send" mygtukas, įrėminti kvadratu su r. punkt. linija --------------- */
+.myForm 
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 32.22rem;
+
+    /* border: 5px dashed red; */
+}
+
+.map 
+{
+    padding-right: 17.79rem;
+    height: 32.21rem;
+    width: 20rem;
+}
+
+/* ------------------------ Apatinis nav. blokas ( Home, About Us, Social, ...) įrėminti raudona punktyrine linija ------------------- */
+.showcase4 
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #333333;
+    height: 15.93rem;
+    width: 100%;
+    color: white;
+    padding: 1rem;
+
+    /* border: 5px dashed red; */
+}
+
+/* ------------------ Visi apatinės (5-dalies) nav. užrašai ir iconos langeliuose, įrėmintuose raudona punktyrinė linija  ------------- */
+.showcase4 a {
+    color: white;
+
+    /* border: 5px dashed red; */
+}
+
+/* ---------------------- Trijų formos inputų langelių įrėmintuose raudona punktyrine linija, kiekvieno langelio atskirai ------------- */
+input, textarea 
+{
+    width: 100%;
+    height: 4.29rem;
+    border: 1px solid #ccc;
+    resize: vertical;
+    margin-top: 0.71rem;
+    margin-bottom: 0.71rem;
+    padding-left: 2.14rem;
+    font-size: 1.43rem;
+    color: #DCDCDC;
+
+    /* border: 5px dashed red; */
+}
+
+/* -------------------------- "Message" langelio (input) įrėmintuose raudona punktyrinė linija  --------------------------------------- */
+textarea {
+    padding-top: 1.21rem;
+
+    /* border: 5px dashed red; */
+}
+
+/* --------- 1. "Hover" 'ivedimas'.Kada užvedus "pele" atsiranda raudona punktyrinė linija ----------------------------------------- */
+/* --------- 2. Visų formos input'u langelių  įrėmintuose, atskirai, raudona punktyrinė linija ------------------------------------- */
+
+input:hover, textarea:hover, input:focus, textarea:focus {
+    color: black;
+
+    /* border: 5px dashed red; */
+}
+
+/* -----------------------  PASTUMIA EMAIL'Ą I KAIRĘ ARBA NE  ---------------------------------------------------------------------*/
+/* input, textarea, .mapouter, .send_btn, .gmap_canvas {
+    border-radius: 4px;
+} */
+/* --------------------------  Mygtuko apipavidalinimas -------------------------------------------------------------------------- */
+
+input[type=submit] 
+{
+    background-color: #333333;
+    width: 32.21rem;
+    height: 4.29rem;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+#mrg 
+{
+    margin-top: 0rem;
+}
+
+.mapouter p 
+{
+    text-align: left;
+}
+
+/*  ------------------------------- "Message" input'o langelio įrėminimas raudona punktyrinė linija  ------------------------------- */
+textarea 
+{
+    width: 100%;
+    height: 8.57rem;
+    margin-top: 0.71rem;
+    margin-bottom: 1.43rem;
+
+    /* border: 5px dashed red; */
+}
+
+.fa 
+{
+    font-size: 100px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover 
+{
+    opacity: 0.7;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------- */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 1.43rem;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.main-nav>ul {
+    list-style-type: none;
+    justify-content: center;
+    display: flex;
+    flex: 1;
+}
+
+/* ------------------  Langeliai aplink apatinę nav. su užrašais (home,about us,social ir facebook icon,twiter icon,...)  ---------------- */
+/*  ------------------ Kiekvienas langelis atskirai įrėmintas raudona punktyrinė linija  ------------------------------------------------ */
+.footer-nav li {
+    margin: 1.43rem;
+    display: inline-block;
+    color: white;
+
+    /* border: 5px dashed red; */
+}
+
+/* ---------------------- Visų apatinės nav. langelių viename įrėminimas raudona punktyrinė linija  -------------------------------------- */
+/* ---------------------  tik nav. langelių su užrašais (home, About us, Social, Contact ir icon)  ---------------------------------------- */
+.footer-nav ul {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin-bottom: 2.15rem;
+
+    /* border: 5px dashed red; */
+}
+
+/* --------------------- Visų apatinės nav. langelių viename įrėminimas raudona punktyrinė linija  -------------------------------------- */
+/* --------------------- Tik icon'u be užrašų  kiekvienos (icon-keturios) langelio atskirai įrėminimas  ---------------------------------- */
+.icon {
+    margin-left: 1.36rem;
+    margin-right: 1.36rem;
+
+    /* border: 5px dashed red; */
+}
+
+/* --------------------- "Logo", kuri yra tarp apatinės nav. užrašų (Home,About us,...), per viduri, įrėminimas --------------------------- */
+.logo {
+    height: 2.86rem;
+    width: 2.86rem;
+    margin-left: 1.43rem;
+    margin-right: 1.43rem;
+
+    /* border: 5px dashed red; */
+
+}
+
+.main-nav li {
+    margin-right: 1em;
+}
+
+/* ------------------------ "footer'io", viso paskutinio bloko įrėminimas raudona punktyrinė linija  -------------------------------------- */
+#footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2E2E2E;
+    display: flex;
+    height: 2.86rem;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    color: rgba(255, 255, 255, 0.199474);
+    font-size: 10px;
+
+    /* border: 5px dashed red; */
+}
+
+/* -------------------------Viršutinė nav.(HOME,ABOUT US,SOCIAL,CONTACT) įrėminimas nuo 1024px iki 768px  -------------------------------- */
+@media  (min-width: 768px) and (max-width: 1024px)
+ {
+    header nav,
+    header nav li,
+    /* --------------------- showcase3-card,  ------------------------------------------- */
+    footer-nav
+    {
+        float: none;
+        text-align: center;
+        width: 100%;
+
+    /* border: 5px dashed red; */
+    }
+
+    /* ----------------------- Viso pirmo bloko įrėminimas nuo 1024px iki 768px raudona punktyrinė linija  ------------------------------ */
+    header
+    {
+        padding-bottom: 1.43rem;
+
+    /* border: 5px dashed red; */
+
+    }
+}
+
+@media  (min-width: 481px) and (max-width: 767px)
+ {
+     /* ------------------------ Viršutinės nav. užrašų įrėminimas nuo (767px iki 481px) raudona punktyrinė linija --------------------- */
+    header nav,
+    header nav li,
+    /* showcase3-card, */
+    footer-nav
+    {
+        float: none;
+        text-align: center;
+        width: 100%;
+
+    /* border: 5px dashed red; */
+
+    }
+
+    /* ------------------------ Viso pirmo bloko įrėminimas nuo 767px iki 481px raudona punktyrinė linija  ----------------------------- */
+    header
+    {
+        padding-bottom: 1.43rem;
+
+    /* border: 5px dashed red; */
+
+    }
+}
+
+@media  (min-width: 320px) and (max-width: 480px)
+ {
+     /* -------------------------- Viršutinės nav. užrašų įrėminimas (nuo 480px iki 320px) raudona punktyrinė linija ------------------ */
+
+    header nav,
+    header nav li,
+    /* showcase3-card, */
+    footer-nav
+    {
+        float: none;
+        text-align: center;
+        width: 100%;
+
+    /* border: 5px dashed red; */
+    }
+
+    /* --------------------------- Viso pirmo bloko įrėminimas nuo 480px iki 320px raudona punktyrinė linija  ---------------------------- */
+
+    header
+    {
+        padding-bottom: 1.43rem;
+
+    /* border: 5px dashed red; */
+    }
+}
+
+/*  ----------------------- Viršutinės navigacijos dežutė-div'as, aprašymas --------------------------------------- */
+.top-container 
+{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 30px 30px 30px 30px;
+    font-size: 20px;
+    font-family: 'Libre Baskerville', san-serif;
+
+    border: 3px dashed red;
+
+}
+
+/* ------------------------ "List" taškų "nuėmimas" ---------------------------------- */
+
+.top-container nav ul
+{ 
+    list-style: none;
+
+    border: 1px double green;
+}
+
