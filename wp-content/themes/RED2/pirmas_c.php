@@ -65,6 +65,7 @@
       <img src="<?= get_theme_file_uri('/img/section2-line.svg') ?>" alt="underline-septintas">
 
 
+      
 
          <!-- --------------------------------------------- TRIJŲ ŽMONIŲ NUOTRAUKOS ------------------------------------ -->
          <div class="box10">
