@@ -19,13 +19,10 @@
             the Tampere Philharmonic Orchestra in Finland.
         </p>
 
-         <a href="http://localhost/wordpress/p-c/">
+        <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>">
+
             
-                                                <img src="<?= get_field('kim') ?>" alt="Kim">
-
-
-
-            </a>
+            <img src="<?= get_field('kim') ?>" alt="Kim">
 
     </div>
 

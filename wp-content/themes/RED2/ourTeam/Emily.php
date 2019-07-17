@@ -16,11 +16,16 @@
             experience for fish lovers!
          </p>
             
-         <a href="http://localhost/wordpress/p-c/">
-            
-               <img style="padding-left:20px; padding-top:20px; max-width:30%; padding-bottom:20px;"
-                  img src="{{asset('img/Emily_Porter.jpg')}}" alt="Kim">
-            </a>
+        
+        <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>">
+
+               <!-- Čia įkeliame nuotraukas, kada WP nurodome ne "url", bet "id", po to su "get" įdedame -->
+               <!-- Kitaip negu per "kelią su 'url'", nurodome tiesiai WP nuskaityti 'id' numerį -->
+         <?= wp_get_attachment_image(get_field('emily'))  ?> 
+
+
+
+
    </div>
 
 

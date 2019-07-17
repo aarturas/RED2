@@ -17,36 +17,19 @@
          </p>
             
          <!-- ------------  Grįžimui  ------------------------------ -->
-
-         <a href="http://localhost/wordpress/p-c/">
-
-
-            <img style="padding-left:20px; padding-top:20px; max-width:30%; padding-bottom:20px;"
-               img src="{{asset('img/Sara_McCoy.jpg')}}" alt="Sara">
-
-               <!-- img src="{{asset('img/Sara_McCoy.jpg')}}" alt="Sara"> -->
-               <img src="<?= get_field('Sara_McCoy') ?>" alt="Sara-a">
-               <img src="<?= get_field('img/Sara_McCoy.jpg') ?>" alt="Sara-b">
-               <img src="<?= get_field('Sara') ?>" alt="Sara-c">
-               <img src="<?= get_field('http://localhost/wordpress/Sara') ?>" alt="Sara-d">
+         <a href="<?= get_permalink(get_page_by_path('home',OBJECT,'page')) ?>">
+         <a href="<?= get_permalink('p-c') ?>">
 
 
-               <img src="<?= get_field('Sara') ?>" alt="Sara-pirmas">
-               <img src="<?= get_field_object('Sara') ?>" alt="Sara-antras">
-               <img src="<?= get_field_object('http://localhost/wordpress/Sara') ?>" alt="Sara-antras">
 
-               <img src="http://localhost/wordpress/Sara" alt="Sara-trecias">
-               <img src="<?php echo get_template_directory_uri('localhost/wordpress/p_c/Sara'); ?>/img/Sara.jpg" alt="Sara-ketvirtas">
-               <img src="<?php get_field('localhost/wordpress/p_c/Sara'); ?>/img/Sara.jpg" alt="Sara-ketvirtas">
+         <a href="http://localhost/wordpress/p-c/"></a>
 
-               <img src="/wp-content/themes/RED2/assets/img/Sara" alt="Sara-penktas"/>
-               <img src="<?= get_theme_file_uri('/img/p_c/Sara.jpg') ?>" alt="Sara-sestas">
-               <img src="<?= get_theme_file_uri('Sara') ?>" alt="Sara-septintas-a">
-               <img src="<?= get_theme_file_uri('Sara-McCoy') ?>" alt="Sara-septintas-b">
 
-               </a>
+         <img src="<?= get_field('sara') ?>" alt="Sara">
 
-               <img src=" <?php echo wp_get_attachment_image('localhost/wordpress/p_c/Sara'); ?>/img/Sara_McCoy.jpg";>
+
+           
+
 
 
 

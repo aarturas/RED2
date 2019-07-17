@@ -65,17 +65,21 @@
       <img src="<?= get_theme_file_uri('/img/section2-line.svg') ?>" alt="underline-septintas">
 
 
-      
+
 
          <!-- --------------------------------------------- TRIJŲ ŽMONIŲ NUOTRAUKOS ------------------------------------ -->
          <div class="box10">
             <div class="row box-images">
 
+               <!-- ------------------------------------------------- DENNIS KIM  ------------------------------------------------- -->
+               
                <div class="col-lg-3 col-sm-6 col-md-3 box">
                   <article class="os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s">
                         <span class="lnr lnr-pencil"></span>
+                              <!-- Nurodome kelią "get_permalink" su "path" ir funkcijos viduje nurodome "kelią" -->
                               <a href="<?= get_permalink(get_page_by_path('kim-page',OBJECT,'page')) ?>">
-                                 <img src="<?= get_field('kim') ?>" alt="Kim">
+                                 <!-- Įkeliame 'visą' nuotrauką -->
+                                 <img src="<?= get_field('kim') ?>" alt="Kim"> 
                               </a>
                            <h3>Denis Kim</h3>
                         <div class="smallline"></div>
@@ -83,9 +87,12 @@
                   </article>
                </div>
 
+               <!-- ------------------------------------------------- SARA McCOY  ------------------------------------------------- -->
+
                <div class="col-lg-3 col-sm-6 col-md-3 box">
                   <article class="os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s">
                         <span class="lnr lnr-pencil"></span>
+                        <!-- Nurodome kelią su "path" ir funkcijos viduje nurodome "id" numerį -->
                         <a href="<?= get_permalink(480) ?>">
                                  <img src="<?= get_field('sara') ?>" alt="Sara">
                               </a>
@@ -95,11 +102,16 @@
                   </article>
                </div>
 
+               <!-- ------------------------------------------------- EMILY PORTER  ------------------------------------------------- -->
+
                <div class="col-lg-3 col-sm-6 col-md-3 box">
                   <article class="os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s">
                      <span class="lnr lnr-pencil"></span>
+                           <!-- Su "get_permalink" nurodome kuriuo keliu pasirinktinai norime, kad rodytų 'img' failą -->
+                           <!-- Šiuo atveju pasirenkame su nuotraukos "id" numeriu -->
                         <a href="<?= get_permalink(476) ?>">
-                           <?= wp_get_attachment_image(get_field('emily')) ?>
+                        <!-- Čia įkeliame nuotraukas, kada WP nurodome ne "url", bet "id", po to su "get" įdedame -->
+                           <?= wp_get_attachment_image(get_field('emily'))  ?> 
                         </a>
                            <h3>Emily Porter</h3>
                         <div class="smallline"></div>
