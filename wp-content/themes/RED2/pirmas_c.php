@@ -5,25 +5,28 @@
 
 
 
-<!---------------------------------------- FOOTERIO NAVIGACIJA, PENKTA DALIS - kitoje dalyje: į "pagrindą"  ----------------------->
-
-
    <header>
 
-      <!-- --------------------------- 1. Pradeda "krautis iš čia iki "yeldo"---------------------------------------------- -->
-
-      <!-- ------------------------------------ Viršutinė navigacija su logo ---------------------------------------------- -->
+      <!-- ------------------------ Viršutinė navigacija su logo kairėje pusėje ---------------------------------------- -->
 
       <div class="top-container">
 
-               <div class="logo"><a href="#"><img src="http://localhost/RED/public/img/logo.png" alt=""/></a></div>
+               <div class="logo">
+                  <a href="#">
+                     <img src="<?= get_theme_file_uri('/img/logo.png') ?>" alt="up logo">
+                  </a>
+               </div>
+
                <nav class="nav-collapse">
                   <ul>
-                     <!-- <li class="menu-item active"><a href="http://localhost/RED/public" img src="http://localhost/RED/public/figma3.html" data-scroll>Home</li> -->
                      <li class="menu-item"><a href="<?= home_url('pirmas_c/') ?>">Home</a></li>
                      <li class="menu-item"><a href="<?= home_url('about-us/') ?>">About Us</a></li>
+                     <li class="menu-item"><a href="<?= home_url('social/') ?>">Social</a></li>
                      <li class="menu-item"><a href="<?= home_url('contact/') ?>">Contact</a></li>
-                     <li class="menu-item"><a href="<?= get_permalink(480) ?>">Sara</a></li>
+
+                     <!--  --------------- Nesigauna grąžinti "Contact", nes vis rodo "Sara" ---------------------------- -->
+
+                     <!-- <li class="menu-item"><a href="<?= get_permalink(480) ?>">Contact</a></li> -->
                   </ul>
                </nav>
  
@@ -42,9 +45,11 @@
 
       <!-- -------------------------  APATINIS "ARROW DOWN" SIMBOLIS  ------------------------------------ -->
 
-      <a href="#">
-         <img class="head-img" src="http://localhost/RED/public/img/head-arrow.png" alt="arrow down">
-      </a>
+      <!-- <a href="#"> -->
+         <!-- <img class="head-img" src="http://localhost/RED/public/img/head-arrow.png" alt="arrow down"> -->
+      <img class="head-img" src="<?= get_theme_file_uri('/img/head-arrow.png') ?>" alt="arrow down">
+
+      <!-- </a> -->
 
    </header>
 
@@ -65,32 +70,30 @@
       <img src="<?= get_theme_file_uri('/img/section2-line.svg') ?>" alt="underline-septintas">
 
 
-
-
          <!-- --------------------------------------------- TRIJŲ ŽMONIŲ NUOTRAUKOS ------------------------------------ -->
          <div class="box10">
             <div class="row box-images">
 
                <!-- ------------------------------------------------- DENNIS KIM  ------------------------------------------------- -->
-               
+
                <div class="col-lg-3 col-sm-6 col-md-3 box">
-                  <article class="os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s">
+                  <!-- <article class="os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s"> -->
                         <span class="lnr lnr-pencil"></span>
                               <!-- Nurodome kelią "get_permalink" su "path" ir funkcijos viduje nurodome "kelią" -->
-                              <a href="<?= get_permalink(get_page_by_path('kim-page',OBJECT,'page')) ?>">
+                              <a href="<?= get_permalink(get_page_by_path('kim',OBJECT,'page')) ?>">
                                  <!-- Įkeliame 'visą' nuotrauką -->
                                  <img src="<?= get_field('kim') ?>" alt="Kim"> 
                               </a>
                            <h3>Denis Kim</h3>
                         <div class="smallline"></div>
                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.</p>
-                  </article>
+                  <!-- </article> -->
                </div>
 
                <!-- ------------------------------------------------- SARA McCOY  ------------------------------------------------- -->
 
                <div class="col-lg-3 col-sm-6 col-md-3 box">
-                  <article class="os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s">
+                  <!-- <article class="os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s"> -->
                         <span class="lnr lnr-pencil"></span>
                         <!-- Nurodome kelią su "path" ir funkcijos viduje nurodome "id" numerį -->
                         <a href="<?= get_permalink(480) ?>">
@@ -99,24 +102,24 @@
                               <h3>Sara McCoy</h3>
                            <div class="smallline"></div>
                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.</p>
-                  </article>
+                  <!-- </article> -->
                </div>
 
                <!-- ------------------------------------------------- EMILY PORTER  ------------------------------------------------- -->
 
                <div class="col-lg-3 col-sm-6 col-md-3 box">
-                  <article class="os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s">
+                  <!-- <article class="os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s"> -->
                      <span class="lnr lnr-pencil"></span>
                            <!-- Su "get_permalink" nurodome kuriuo keliu pasirinktinai norime, kad rodytų 'img' failą -->
-                           <!-- Šiuo atveju pasirenkame su nuotraukos "id" numeriu -->
+                           <!-- Pasirenkame su nuotraukos "id" numeriu -->
                         <a href="<?= get_permalink(476) ?>">
-                        <!-- Čia įkeliame nuotraukas, kada WP nurodome ne "url", bet "id", po to su "get" įdedame -->
+                        <!-- Įkeliame nuotraukas, kada WP nurodome ne "url", bet "id", po to su "get" įdedame -->
                            <?= wp_get_attachment_image(get_field('emily'))  ?> 
                         </a>
                            <h3>Emily Porter</h3>
                         <div class="smallline"></div>
                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.</p>
-                  </article>
+                  <!-- </article> -->
                </div>
             </div>
          </div>
@@ -129,67 +132,70 @@
       <div class="row slider">
 
          <!--  ----------------------------------- LEFT ARROW nuotrauka  -------------------------------------- -->
-
-         <a href="#">
-            <img class="left-arrow" src="http://localhost/RED/public/img/Left Arrow.png" alt="left arrow" style="height: 60px; width: 60px;">
-         </a>
-
+            <img class="left-arrow" src="<?= get_theme_file_uri('img/Left arrow.png') ?>" alt="Left arrow" style="height: 60px; width: 60px;">
 
          <!--  ----------------- SWIPER-SLIDER IR ---- ŠEŠIOS NUOTRAUKĖLĖS EILĖJE  --------------------------- -->
 
          <div class="swiper-container">
             <div class="swiper-wrapper">
 
+               <!-- --------------------------------  Pirma nuotrauka: PAVĖSINE  ------------------------------- -->
                <div class="swiper-slide">
-                  <a href="#">
                      <div class="showcase2-card">
-                        <img class="select" src="http://localhost/RED/public/img/Image 1.jpg" alt="pavesine">
+                        <img class="select" src="<?= get_theme_file_uri('img/Image 1.jpg') ?>" alt="Pavėsinė">
                      </div>
-                  </a>
+               </div>
+               <!-- --------------------------------  Antra nuotrauka: FONAS  ------------------------------- -->
+               <div class="swiper-slide">
+                     <div class="showcase2-card">
+                        <img class="select" src="<?= get_theme_file_uri('img/Image 2 Mouse Over.jpg') ?>" alt="Fonas">
+                     </div>
+               </div>
+               <!-- --------------------------------  Trečia nuotrauka: GATVĖ  ------------------------------- -->
+               <div class="swiper-slide">
+                     <div class="showcase2-card">
+                        <img class="select" src="<?= get_theme_file_uri('img/Image 3.jpg') ?>" alt="Gatvė">
+                     </div>
+               </div>
+               <!-- --------------------------------  Ketvirta nuotrauka: CENTRAS  ------------------------------- -->
+               <div class="swiper-slide">
+                     <div class="showcase2-card">
+                        <img class="select" src="<?= get_theme_file_uri('img/Image 4.jpg') ?>" alt="Centras">
+                     </div>
+               </div>
+               <!-- --------------------------------  Penkta nuotrauka: CENTRAS  ------------------------------- -->
+               <div class="swiper-slide">
+                     <div class="showcase2-card">
+                        <img class="select" src="<?= get_theme_file_uri('img/Image 4.jpg') ?>" alt="Centras">
+                     </div>
+               </div>
+               <!-- --------------------------------  Šešta nuotrauka: DOG  ------------------------------- -->
+               <div class="swiper-slide">
+                     <div class="showcase2-card">
+                        <img class="select" src="<?= get_theme_file_uri('img/dog.jpg') ?>" alt="Dog">
+                     </div>
+               </div>
+               <!-- --------------------------------  Septinta nuotrauka: CAT  ------------------------------- -->
+               <div class="swiper-slide">
+                     <div class="showcase2-card">
+                        <img class="select" src="<?= get_theme_file_uri('img/cat.jpg') ?>" alt="Cat">
+                     </div>
+               </div>
+               <!-- --------------------------------  Aštunta nuotrauka: CHAIRS-COMFORT  ------------------------------- -->
+               <div class="swiper-slide">
+                     <div class="showcase2-card">
+                        <img class="select" src="<?= get_theme_file_uri('img/chairs-comfort.jpg') ?>" alt="Chairs-comfort">
+                     </div>
                </div>
 
-               <div class="swiper-slide">
-                  <a href="#">
-                     <div class="showcase2-card">
-                        <img class="select"  src="http://localhost/RED/public/img/Image 2 Mouse Over.jpg" alt="fonas">
-                     </div>
-                  </a>
-               </div>
-
-               <div class="swiper-slide">
-                  <a href="#">
-                     <div class="showcase2-card">
-                        <img class="select"  src="http://localhost/RED/public/img/Image 3.jpg" alt="gatve">
-                     </div>
-                  </a>
-               </div>
-
-               <div class="swiper-slide">
-                  <a href="#">
-                     <div class="showcase2-card">
-                        <img class="select"  src="http://localhost/RED/public/img/Image 4.jpg" alt="centras">
-                     </div>
-                  </a>
-               </div>
-
-               <div class="swiper-slide">
-                  <a href="#">
-                     <div class="showcase2-card">
-                        <img class="select"  src="http://localhost/RED/public/img/Image 4.jpg" alt="centras">
-                     </div>
-                  </a>
-               </div>
-
-            </div>
-         </div>  <!-- // "swiper-container" // -->
+            </div> <!--"swiper-wrapper" -->
+         </div>  <!-- "swiper-container" -->
 
          <!--  ---------------------------- RIGHT ARROW nuotrauka  --------------------------------------- -->
 
-         <a href="#">
-            <img class="right-arrow" src="http://localhost/RED/public/img/Right Arrow.png" alt="right arrow" style="height: 60px; width: 60px;">
-         </a>
+            <img class="right-arrow" src="<?= get_theme_file_uri('img/Right Arrow.png') ?>" alt="Right arrow" style="height: 60px; width: 60px;">
 
-      </div>  <!-- // "row slider" // -->
+      </div>  <!-- "row slider"  -->
 
       <!--  -------------  INSTAGRAM ICONA IR UŽRAŠAS "FOLLOW US ON INSTAGRAM"  ----------------------- -->
 
@@ -200,7 +206,7 @@
             </p>
       </a>
 
-   </section> <!-- // "showcase-2" // -->
+   </section> <!--  "showcase-2"  -->
 
 
    <!-- ---  SHOWCASE-3   ------------------------------  KETVIRTA DALIS  ----------------------------- -->
@@ -216,7 +222,7 @@
 
       <!--  ------------------------- UNDELINE nuotrauka  ----------------------------------------------- -->
 
-      <img img class="undeline" src="<?= get_theme_file_uri('/img\About Us Undderline.png') ?>" alt="undeline">
+      <img img class="undeline" src="<?= get_theme_file_uri('/img/About Us Undderline.png') ?>" alt="undeline">
 
       <!-- -------------------------  VARDAS, EMAIL'AS, MESSAGE  --------------------------------------- -->
 
@@ -229,8 +235,7 @@
 
                <input type="text" id="fullname" name= "fullname" placeholder= "Full Name" >
                <input type="text" id="email" name="email" placeholder="contact@email.com">
-               <textarea name="subject" placeholder="Message">
-               </textarea>
+               <textarea name="subject" placeholder="Message"></textarea>
 
 
                <!--  -------------------------- SEND input'as  -------------------------------------- -->
@@ -241,20 +246,22 @@
                   </strong>
                </a>
 
-               <input type="hidden" name="_token" value="LtDNhgRSUUSB0cHwwiUCjwCX0SsGlyZXmzMVtZh6">            </form>
-         </div>
+               <input type="hidden" name="_token" value="LtDNhgRSUUSB0cHwwiUCjwCX0SsGlyZXmzMVtZh6"> 
 
-                  <!--  ------------------------------  ŽEMĖLAPIS  ---------------------------------------- -->
+            </form>           
+         </div> <!-- "showcase3-card" -->
+
+         <!--  ------------------------------  ŽEMĖLAPIS  ---------------------------------------- -->
 
          <div class="showcase3-card">
             <div class="mapouter">
                <div class="gmap_canvas">
-                  <iframe width="451" height="280" id="gmap_canvas" src="https://maps.google.com/maps?q=lithuania%20vilnius%20zirmunu%2070&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no"
-                        marginheight="0" marginwidth="0">
+                  <iframe width="451" height="280" id="gmap_canvas" src="https://maps.google.com/maps?q=lithuania%20vilnius%20zirmunu%2070&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                      frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
                   </iframe>
                      <a href="https://www.crocothemes.net">
                      </a>
-               </div> <!-- // "gmap_canvas" // -->
+               </div> <!-- "gmap_canvas" -->
 
                <style>
                   .mapouter
@@ -271,7 +278,7 @@
                         width: 451px;
                      }
                </style>
-            </div> <!-- // "mapouter" // -->
+            </div> <!-- "mapouter" -->
 
 
             <!-- ---------------------------  UŽRAŠAS PO ŽEMĖLAPIU  ---------------------------- -->
@@ -281,9 +288,9 @@
                </p>
             </div>
 
-         </div> <!-- // "showcase3-card" // -->
-      </div> <!-- --// "row" // -->
-   </section> <!-- // "showcase-3" // -->
+         </div> <!--  "showcase3-card"  -->
+      </div> <!--  "row"  -->
+   </section> <!--  "showcase-3"  -->
 
 
    <!--  ------------------------------------------  Initialize Swiper  ------------------------------- -->
@@ -321,9 +328,6 @@
    </script>
 
 
- <!--  Kraunasi iš  yieldo iki čia, po to persikelia į "home" content  ------------------ -->
-
-
    <!-- -------------------------  Footer-nav nesikrauna, tik po to, gale pasikrauna ....  ------------------ -->
 
    <section class="showcase4">
@@ -331,29 +335,34 @@
       <div class="footer-nav">
          <ul>
             <li>
-               <a href="http://localhost/RED/public" img src="http://localhost/RED/public/figma3.html">
+               <!-- <a href="http://localhost/RED/public" img src="http://localhost/RED/public/figma3.html"> -->
+               <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>">
                   Home
                </a>
             </li>
 
             <li>
-               <a href="http://localhost/RED/public/about-us" img src="http://localhost/RED/public/about.html">
+               <!-- <a href="http://localhost/RED/public/about-us" img src="http://localhost/RED/public/about.html"> -->
+               <a href="<?= get_permalink(get_page_by_path('about us',OBJECT,'page')) ?>">
                   About Us
                </a>
             </li>
 
             <a href="#">
-               <img class="logo" src="http://localhost/RED/public/img/Footer Logo.svg" alt="Logo">
-            </a>
-
+               <!-- <img class="logo" src="http://localhost/RED/public/img/Footer Logo.svg" alt="Logo"> -->
+            <img class="icon" src="<?= get_theme_file_uri('img/Footer Logo.svg') ?>" alt="Logo">
+               <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>"></a>
             <li>
-               <a href="http://localhost/RED/public/social" img src="http://localhost/RED/public/services.html">
+
+               <!-- <a href="http://localhost/RED/public/social" img src="http://localhost/RED/public/services.html"> -->
+               <a href="<?= get_permalink(get_page_by_path('social',OBJECT,'page')) ?>">
                   Social
                </a>
             </li>
                
             <li>
-               <a href="http://localhost/RED/public/contact" img src="http://localhost/RED/public/contact.html">
+               <!-- <a href="http://localhost/RED/public/contact" img src="http://localhost/RED/public/contact.html"> -->
+               <a href="<?= get_permalink(get_page_by_path('contact',OBJECT,'page')) ?>">
                   Contact
                </a>
             </li>

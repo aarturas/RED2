@@ -13,10 +13,8 @@
             <h3 style="color:azure; padding-left:2em">CONNECT</h3>
          </p>
             
-         <!-- <a href="{{route('home')}}"> -->
-         <a href="http://localhost/wordpress/p-c/">
-
-            <img class="img"  src="{{asset('img/social5.png')}}" alt="Logo" style="object-fit: contain; height: 100px; padding-left:2em; padding-bottom:1em;">
+         <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>">
+            <img class="img" src="<?= get_theme_file_uri('img/social2.png') ?>" alt="icon" style="object-fit: contain; height: 100px; padding-left:2em; padding-bottom:1em;">
          </a>
 
    </div>

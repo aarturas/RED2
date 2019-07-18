@@ -16,11 +16,11 @@
             as a camera operator.
          </p>
             
-         <!-- ------------  Grįžimui  ------------------------------ -->
+         <!-- ------------  Grįžimui kelias per 'p-c' ---   Tai "wordpress'o" funkcija  ---------- -->
         <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>">
 
 
-
+            <!-- Kad rodytų nuotrauką, "get_field" funkciją parašome -->
          <img src="<?= get_field('sara') ?>" alt="Sara">
 
 

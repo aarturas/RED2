@@ -274,7 +274,7 @@ color: #000;
     position: absolute;
     content: "\2261"; /* Hamburger icon */
     text-indent: 0;
-    speak: none;
+    /* speak: none; */
     width: 100%;
     left: 0;
     top: 0;
@@ -284,13 +284,13 @@ color: #000;
   .nav-toggle.active:before {
     font-size: 24px;
     content: "\78"; /* Close icon */
+
+    border: 4px solid white;
+
   }
 
 
-  /* Iki cia ************************************************** ---------------------------------- */
-
-
-/*                  Viršutinės, kaireje iconeles rėmelis */
+/* ------------------------------ Viršutinės, kairėje iconėlės rėmelis  ---------------------------------- */
 
 #nav-bar img 
 {
@@ -558,14 +558,14 @@ color: #000;
 }
 
  /* ---------------------------- punktyrinis stačiakampis rėmelis aplink "FOLLOW US ON INSTAGRAM" Užrašo  --------------------------- */
-.btn p
- {
+/* .btn p */
+ /* { */
     /* font-family: Sintony; */
     /* font-size: 1.14rem; */
 
     /* border: 3px dashed orange; */
 
-}
+/* } */
 
 /* --------------------  "slider'io" irėminimo stačiakampis (oranžinis punktyras) su šoniniais 'arrow-right' ir 'arrow-left'  --------- */
 /* atsiranda nuo 1150px  */
@@ -608,7 +608,7 @@ color: #000;
     /* border: 4px double yellow; */
 }
 
-/*  ----------------------- dvigubas mėlynas rėmelis įrėmina abi : kairį ir desinį "arrow" abipus 'sliderio' nuotraukų  ----------------- */
+/*  ----------------------- dvigubas mėlynas rėmelis įrėmina abi : kairį ir dešinį "arrow" abipus 'sliderio' nuotraukų  ----------------- */
 .showcase2 img 
 {
     width: 13.71rem;
@@ -633,7 +633,7 @@ color: #000;
 
 }
 
-/* ------------------------ punktyrinis nuotraukų 'sliderio' įrėminimas, kai "užvedi" "pelę"  ---------------------------------------- */
+/* ------------------------ atsiranda punktyrinis nuotraukų 'sliderio' įrėminimas "užvedus" "pelę"  ---------------------------------------- */
 .showcase2-card:hover
  {
     position: relative;
@@ -646,6 +646,7 @@ color: #000;
 
 /* ---------------------------- punktyrinis nuotraukų 'sliderio' įrėminimas, kai "uzvedi" "pele"  ------------------------------------ */
         /* ------------------  užkrauna antrąkart dar "riebiau" rėmelį ant rėmelio, tik daugiau 'viduje'  ---------------------------- */
+
 .select:hover 
 {
     position: absolute;
@@ -1210,10 +1211,10 @@ textarea
     justify-content: space-between;
     width: 100%;
     padding: 30px 30px 30px 30px;
-    font-size: 20px;
+    font-size: 14px;
     font-family: 'Libre Baskerville', san-serif;
 
-    border: 3px dashed red;
+    /* border: 3px dashed red; */
 
 }
 
@@ -1223,6 +1224,12 @@ textarea
 { 
     list-style: none;
 
-    border: 1px double green;
+    /* border: 1px double green; */
 }
 
+.top-container a {
+    margin: 4px;
+}
+
+
+    

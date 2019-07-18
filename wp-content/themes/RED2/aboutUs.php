@@ -7,11 +7,7 @@
 <?php     get_header();   ?>
 
 
-
-
-
 <div class="AboutUs">
-
 
 
          <div style="background-color:blue; padding-top:10px;" font-style="color:white;">
@@ -29,10 +25,15 @@
                   we communicate directly with our consumers. <br>
                </p>
             
-            <a href="http://localhost/wordpress/p-c/">
 
-                  <img style="padding-left:0; padding-top:50px; max-width:100%; padding-bottom:0px;"
-                     src="https://cdn.pixabay.com/photo/2015/05/06/16/31/andromeda-galaxy-755442_960_720.jpg">
-            </a>
+                  <!-- <img style="padding-left:0; padding-top:50px; max-width:100%; padding-bottom:0px;"
+                     src="https://cdn.pixabay.com/photo/2015/05/06/16/31/andromeda-galaxy-755442_960_720.jpg"> -->
+
+                  <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>"
+
+                     <!--  --------------------- Nerodo paveikslėlio  --------------------------------------- -->
+
+                  </a>
+
          </div>
          
