@@ -24,7 +24,7 @@
                      <li class="menu-item"><a href="<?= home_url('social/') ?>">Social</a></li>
                      <li class="menu-item"><a href="<?= home_url('contact/') ?>">Contact</a></li>
 
-                     <!--  --------------- Nesigauna grąžinti "Contact", nes vis rodo "Sara" ---------------------------- -->
+                     <!--  --------------- Nesigauna grąžinti "Contact", nes vis rodo "Sarą" ---------------------------- -->
 
                      <!-- <li class="menu-item"><a href="<?= get_permalink(480) ?>">Contact</a></li> -->
                   </ul>

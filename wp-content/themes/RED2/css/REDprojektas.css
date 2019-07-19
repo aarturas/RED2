@@ -557,16 +557,6 @@ color: #000;
     /* border: 3px dashed blueviolet; */
 }
 
- /* ---------------------------- punktyrinis stačiakampis rėmelis aplink "FOLLOW US ON INSTAGRAM" Užrašo  --------------------------- */
-/* .btn p */
- /* { */
-    /* font-family: Sintony; */
-    /* font-size: 1.14rem; */
-
-    /* border: 3px dashed orange; */
-
-/* } */
-
 /* --------------------  "slider'io" irėminimo stačiakampis (oranžinis punktyras) su šoniniais 'arrow-right' ir 'arrow-left'  --------- */
 /* atsiranda nuo 1150px  */
 .slider
@@ -612,6 +602,7 @@ color: #000;
 .showcase2 img 
 {
     width: 13.71rem;
+    height: 13.5rem;
 
     /* border: 4px double blue; */
 }
@@ -641,7 +632,6 @@ color: #000;
     z-index: 1;
 
     /* border: 5px dashed red; */
-
 }
 
 /* ---------------------------- punktyrinis nuotraukų 'sliderio' įrėminimas, kai "uzvedi" "pele"  ------------------------------------ */
@@ -793,13 +783,10 @@ color: #000;
    }
 }
 
-
+/*  ----------------------------- Čia nežinau kas buvo įrašyta?  ------------------------------------- */
   @media only screen and (max-width: 640px)
 {
-    /* .showcase3-card
-     {
-        width: 322px;
-    } */
+   
 }
 
 
@@ -809,15 +796,18 @@ color: #000;
     font-size: 2.5rem;
     margin: 1rem;
     padding-top: 4.3rem;
-    font-size: 2.5rem;
     text-align: center;
     letter-spacing: 0.006rem;
     color: white;
 
     /* border: 5px dashed red; */
-
 }
 
+.showcase3 h2 :hover 
+{
+    position: relative;
+    background-color: rgb(49, 67, 238);
+}
 
 /* ----------------------- "Send" mygtuko stačiakampis langelis su raudona punktyrine linija ----------------------------------------- */
 .send_btn 
@@ -853,9 +843,6 @@ color: #000;
 {
     margin: 1.46rem;
     height: 25.71rem;
-    /* "nuskrenda" i kairę visas stulpelis */
-    /* o tekstas atsiduria dešinėje */
-    /* width: 32.2143rem; */
 
     /* border: 5px dashed red; */
 }
@@ -985,7 +972,7 @@ textarea {
 input:hover, textarea:hover, input:focus, textarea:focus {
     color: black;
 
-    /* border: 5px dashed red; */
+    border: 5px dashed red;
 }
 
 /* -----------------------  PASTUMIA EMAIL'Ą I KAIRĘ ARBA NE  ---------------------------------------------------------------------*/
@@ -1231,5 +1218,61 @@ textarea
     margin: 4px;
 }
 
+.top-container a:hover
+ {
+    position: relative;
+    background-image: linear-gradient(rgba(197, 49, 99, 0.83), rgba(9, 165, 45, 0.83));
+    z-index: 1;
 
+    /* border: 5px dashed red; */
+}
+
+.top-container a:hover {
+    opacity: 0.7;
+}
     
+/*  -------- Instagramos mygtuko (follow us on ... "hover'is", kada užvedus "pele" pasikeičia spalva ----------- */
+
+ .showcase2 a.wrapper:hover
+{
+    position: relative;
+    background-image: linear-gradient(rgba(197, 49, 99, 0.83), rgba(189, 228, 19, 0.83));
+    z-index: 1;
+    opacity: 0.7;
+
+
+    /* border: 5px dashed red; */
+}
+
+/*  ----------------------- Footer'io nav. icon'os  ---------------------------- */
+
+.showcase4 ul a:hover 
+{
+    position: relative;
+    background-image: linear-gradient(rgba(49, 197, 148, 0.83), rgba(19, 40, 228, 0.83));
+    z-index: 1;
+    opacity: 0.7;
+}
+
+/*  ----------------------- Footer'io 'social' icon'ėlių "hover"  ---------------------------- */
+.showcase4 img.icon:hover 
+{
+    position: relative;
+    background-image: linear-gradient(rgba(49, 197, 148, 0.83), rgba(19, 40, 228, 0.83));
+    z-index: 1;
+    opacity: 0.5;
+}
+
+ /* .schowcase>col-lg-3 col-sm-6 col-md-3 box:hover
+{
+    position: relative;
+    background-image: linear-gradient(rgba(49, 197, 148, 0.83), rgba(19, 40, 228, 0.83));
+    z-index: 1;
+    opacity: 0.5;
+} */
+
+
+
+
+
+
