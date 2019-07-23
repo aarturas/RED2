@@ -22,22 +22,17 @@
             
 
 
-               <!-- <a href="http://localhost/wordpress/p-c/">
-                  <img style="padding-left:0; padding-top:50px; max-width:100%; padding-bottom:0px;"
-                     src="https://cdn.pixabay.com/photo/2015/05/06/16/31/andromeda-galaxy-755442_960_720.jpg">
-               </a> -->
-
 
             <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>">
-               <img class="img" src="https://cdn.pixabay.com/photo/2015/05/06/16/31/andromeda-galaxy-755442_960_720.jpg" alt="andromeda" style=style="padding-left:0; padding-top:50px; max-width:100%; padding-bottom:0px;">
-               
-
-
-
-
-
-
+               <img class="img" 
+                  src="https://cdn.pixabay.com/photo/2015/05/06/16/31/andromeda-galaxy-755442_960_720.jpg"
+                  alt="andromeda" 
+                  style=" padding-top:50px; max-width:100%; padding-bottom:0px; ">
             </a>
+
+
+
+
 
          </div>
          

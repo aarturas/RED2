@@ -52,7 +52,7 @@
    </header>
 
    
-   <!--  --------------------------------------------UŽRAŠAS "MEET OUR TEAM"   ------------------------------------->
+   <!--  --------------------------------------------  UŽRAŠAS "MEET OUR TEAM"   ---------------------------------->
 
    <section class="showcase">
 
@@ -62,17 +62,17 @@
          </h2>
       </div>
 
-      <!-- ------------------------------------------------ LINIJA PO UŽRAŠU----------------------------------------- -->
+      <!-- ------------------------------------------------ LINIJA PO UŽRAŠU------------------------------------ -->
 
       <!-- <img src="http://localhost/RED/public/img/section2-line.svg" alt="undeline"> -->
       <img src="<?= get_theme_file_uri('/img/section2-line.svg') ?>" alt="underline-septintas">
 
 
-         <!-- --------------------------------------------- TRIJŲ ŽMONIŲ NUOTRAUKOS ------------------------------------ -->
+         <!-- --------------------------------------------- TRIJŲ ŽMONIŲ NUOTRAUKOS --------------------------- -->
          <div class="box10">
             <div class="row box-images">
 
-               <!-- ------------------------------------------------- DENNIS KIM  ------------------------------------------------- -->
+               <!-- ------------------------------------------------- DENNIS KIM  ------------------------------ -->
 
                <div class="col-lg-3 col-sm-6 col-md-3 box">
                         <span class="lnr lnr-pencil"></span>
@@ -86,7 +86,7 @@
                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.</p>
                </div>
 
-               <!-- ------------------------------------------------- SARA McCOY  ------------------------------------------------- -->
+               <!-- ------------------------------------------------- SARA McCOY  ------------------------------- -->
 
                <div class="col-lg-3 col-sm-6 col-md-3 box">
                         <span class="lnr lnr-pencil"></span>
@@ -99,7 +99,7 @@
                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.</p>
                </div>
 
-               <!-- ------------------------------------------------- EMILY PORTER  ------------------------------------------------- -->
+               <!-- ------------------------------------------------- EMILY PORTER  ----------------------------- -->
 
                <div class="col-lg-3 col-sm-6 col-md-3 box">
                      <span class="lnr lnr-pencil"></span>
@@ -118,15 +118,15 @@
    </section>
 
 
-   <!-- ----------------------------------------  SHOWCASE-2  ------  TREČIA DALIS ------------------------  -->
+   <!-- ----------------------------------------  SHOWCASE-2  ------  TREČIA DALIS ----------------------------  -->
 
    <section class="showcase2">
-      <div class="row slider">
+      <div class="row slider">  <!-- "Įtraukiame" į "row-slider" kairią ir dešinę rodykles + 3 img. -->
 
          <!--  ----------------------------------- LEFT ARROW nuotrauka  -------------------------------------- -->
             <img class="left-arrow" src="<?= get_theme_file_uri('img/Left arrow.png') ?>" alt="Left arrow" style="height: 60px; width: 60px;">
 
-         <!--  ----------------- SWIPER-SLIDER IR ---- ŠEŠIOS NUOTRAUKĖLĖS EILĖJE  --------------------------- -->
+         <!--  ----------------- SWIPER-SLIDER IR ---- AŠTUONIOS NUOTRAUKĖLĖS EILĖJE  ------------------------- -->
 
          <div class="swiper-container">
             <div class="swiper-wrapper">
@@ -137,19 +137,19 @@
                         <img class="select" src="<?= get_theme_file_uri('img/Image 1.jpg') ?>" alt="Pavėsinė">
                      </div>
                </div>
-               <!-- --------------------------------  Antra nuotrauka: FONAS  ------------------------------- -->
+               <!-- --------------------------------  Antra nuotrauka: FONAS  ---------------------------------- -->
                <div class="swiper-slide">
                      <div class="showcase2-card">
                         <img class="select" src="<?= get_theme_file_uri('img/Image 2 Mouse Over.jpg') ?>" alt="Fonas">
                      </div>
                </div>
-               <!-- --------------------------------  Trečia nuotrauka: GATVĖ  ------------------------------- -->
+               <!-- --------------------------------  Trečia nuotrauka: GATVĖ  --------------------------------- -->
                <div class="swiper-slide">
                      <div class="showcase2-card">
                         <img class="select" src="<?= get_theme_file_uri('img/Image 3.jpg') ?>" alt="Gatvė">
                      </div>
                </div>
-               <!-- --------------------------------  Ketvirta nuotrauka: CENTRAS  ------------------------------- -->
+               <!-- --------------------------------  Ketvirta nuotrauka: CENTRAS  ----------------------------- -->
                <div class="swiper-slide">
                      <div class="showcase2-card">
                         <img class="select" src="<?= get_theme_file_uri('img/Image 4.jpg') ?>" alt="Centras">
@@ -161,19 +161,19 @@
                         <img class="select" src="<?= get_theme_file_uri('img/Image 4.jpg') ?>" alt="Centras">
                      </div>
                </div>
-               <!-- --------------------------------  Šešta nuotrauka: DOG  ------------------------------- -->
+               <!-- --------------------------------  Šešta nuotrauka: DOG  ------------------------------------ -->
                <div class="swiper-slide">
                      <div class="showcase2-card">
                         <img class="select" src="<?= get_theme_file_uri('img/dog.jpg') ?>" alt="Dog">
                      </div>
                </div>
-               <!-- --------------------------------  Septinta nuotrauka: CAT  ------------------------------- -->
+               <!-- --------------------------------  Septinta nuotrauka: CAT  --------------------------------- -->
                <div class="swiper-slide">
                      <div class="showcase2-card">
                         <img class="select" src="<?= get_theme_file_uri('img/cat.jpg') ?>" alt="Cat">
                      </div>
                </div>
-               <!-- --------------------------------  Aštunta nuotrauka: CHAIRS-COMFORT  ------------------------------- -->
+               <!-- --------------------------------  Aštunta nuotrauka: CHAIRS-COMFORT  ----------------------- -->
                <div class="swiper-slide">  
                      <div class="showcase2-card">
                         <img class="select" src="<?= get_theme_file_uri('img/chairs-comfort.jpg') ?>" alt="Chairs-comfort">
@@ -183,13 +183,13 @@
             </div> <!--"swiper-wrapper" -->
          </div>  <!-- "swiper-container" -->
 
-         <!--  ---------------------------- RIGHT ARROW nuotrauka  --------------------------------------- -->
+         <!--  ---------------------------- RIGHT ARROW nuotrauka  --------------------------------------------- -->
 
             <img class="right-arrow" src="<?= get_theme_file_uri('img/Right Arrow.png') ?>" alt="Right arrow" style="height: 60px; width: 60px;">
 
       </div>  <!-- "row slider"  -->
 
-      <!--  -------------  INSTAGRAM ICONA IR UŽRAŠAS "FOLLOW US ON INSTAGRAM"  ----------------------- -->
+      <!--  -------------  INSTAGRAM ICONA IR UŽRAŠAS "FOLLOW US ON INSTAGRAM"  -------------------------------- -->
 
       <a href="#" class="wrapper btn">
          <i class="fab fa-instagram"></i>
@@ -201,7 +201,7 @@
    </section> <!--  "showcase-2"  -->
 
 
-   <!-- ---  SHOWCASE-3   ------------------------------  KETVIRTA DALIS  ----------------------------- -->
+   <!-- ---  SHOWCASE-3   ------------------------------  KETVIRTA DALIS  ------------------------------------- -->
 
    <section class="showcase3">
 
@@ -212,25 +212,25 @@
       </a>
 
 
-      <!--  ------------------------- UNDELINE nuotrauka  ----------------------------------------------- -->
+      <!--  ------------------------- UNDELINE nuotrauka  ------------------------------------------------------ -->
 
       <img img class="undeline" src="<?= get_theme_file_uri('/img/About Us Undderline.png') ?>" alt="undeline">
 
-      <!-- -------------------------  VARDAS, EMAIL'AS, MESSAGE  --------------------------------------- -->
+      <!-- -------------------------  VARDAS, EMAIL'AS, MESSAGE  ----------------------------------------------- -->
 
       <div class="row">
          <div class="showcase3-card">
             <form class="myForm">
 
 
-               <!--  ---------------------- <form action="myForm">  ------------------------------------ -->
+               <!--  ---------------------- <form action="myForm">  -------------------------------------------- -->
 
                <input type="text" id="fullname" name= "fullname" placeholder= "Full Name" >
                <input type="text" id="email" name="email" placeholder="contact@email.com">
                <textarea name="subject" placeholder="Message"></textarea>
 
 
-               <!--  -------------------------- SEND input'as  -------------------------------------- -->
+               <!--  -------------------------- SEND input'as  ------------------------------------------------- -->
 
                <a class="send_btn" href="#">
                   <strong>
@@ -243,7 +243,7 @@
             </form>           
          </div> <!-- "showcase3-card" -->
 
-         <!--  ------------------------------  ŽEMĖLAPIS  ---------------------------------------- -->
+         <!--  ------------------------------  ŽEMĖLAPIS  ------------------------------------------------------ -->
 
          <div class="showcase3-card">
             <div class="mapouter">
