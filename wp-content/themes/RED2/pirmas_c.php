@@ -75,7 +75,6 @@
                <!-- ------------------------------------------------- DENNIS KIM  ------------------------------------------------- -->
 
                <div class="col-lg-3 col-sm-6 col-md-3 box">
-                  <!-- <article class="os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s"> -->
                         <span class="lnr lnr-pencil"></span>
                               <!-- Nurodome kelią "get_permalink" su "path" ir funkcijos viduje nurodome "kelią" -->
                               <a href="<?= get_permalink(get_page_by_path('kim',OBJECT,'our_team')) ?>">
@@ -85,13 +84,11 @@
                            <h3>Denis Kim</h3>
                         <div class="smallline"></div>
                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.</p>
-                  <!-- </article> -->
                </div>
 
                <!-- ------------------------------------------------- SARA McCOY  ------------------------------------------------- -->
 
                <div class="col-lg-3 col-sm-6 col-md-3 box">
-                  <!-- <article class="os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s"> -->
                         <span class="lnr lnr-pencil"></span>
                         <!-- Nurodome kelią su "path" ir funkcijos viduje nurodome "id" numerį -->
                         <a href="<?= get_permalink(480) ?>">
@@ -100,24 +97,21 @@
                               <h3>Sara McCoy</h3>
                            <div class="smallline"></div>
                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.</p>
-                  <!-- </article> -->
                </div>
 
                <!-- ------------------------------------------------- EMILY PORTER  ------------------------------------------------- -->
 
                <div class="col-lg-3 col-sm-6 col-md-3 box">
-                  <!-- <article class="os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s"> -->
                      <span class="lnr lnr-pencil"></span>
                            <!-- Su "get_permalink" nurodome kuriuo keliu pasirinktinai norime, kad rodytų 'img' failą -->
                            <!-- Pasirenkame su nuotraukos "id" numeriu -->
                         <a href="<?= get_permalink(476) ?>">
-                        <!-- Įkeliame nuotraukas, kada WP nurodome ne "url", bet "id", po to su "get" įdedame -->
+                        <!-- Įkeliame nuotraukas, kada WP nurodome ne "url", bet "id", po to su "get" gauname nuotrauką -->
                            <?= wp_get_attachment_image(get_field('emily'))  ?> 
                         </a>
                            <h3>Emily Porter</h3>
                         <div class="smallline"></div>
                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.</p>
-                  <!-- </article> -->
                </div>
             </div>
          </div>
@@ -138,7 +132,7 @@
             <div class="swiper-wrapper">
 
                <!-- --------------------------------  Pirma nuotrauka: PAVĖSINE  ------------------------------- -->
-               <div class="swiper-slide">
+               <div class="swiper-slide">                                    <!-- pridedame "swipe-slider" klasę -->
                      <div class="showcase2-card">
                         <img class="select" src="<?= get_theme_file_uri('img/Image 1.jpg') ?>" alt="Pavėsinė">
                      </div>
@@ -180,7 +174,7 @@
                      </div>
                </div>
                <!-- --------------------------------  Aštunta nuotrauka: CHAIRS-COMFORT  ------------------------------- -->
-               <div class="swiper-slide">
+               <div class="swiper-slide">  
                      <div class="showcase2-card">
                         <img class="select" src="<?= get_theme_file_uri('img/chairs-comfort.jpg') ?>" alt="Chairs-comfort">
                      </div>
@@ -305,7 +299,7 @@
             prevEl: '.left-arrow',
             },
 
-            // <!--  ------------------------------------  Sustatome BREAKPOINTS  ------------------------------- -->
+            // <!--  ---------------------------  Sustatome BREAKPOINTS  ------------------------------- -->
 
             breakpoints: 
          {
@@ -326,7 +320,7 @@
    </script>
 
 
-   <!-- -------------------------  Footer-nav nesikrauna, tik po to, gale pasikrauna ....  ------------------ -->
+   <!-- ---  SHOWCASE-4  ----  Footer-nav   4 užrašai su logotipu per vidurį --- : (home, about us, "logo", social, contact) -- -->
 
    <section class="showcase4">
 

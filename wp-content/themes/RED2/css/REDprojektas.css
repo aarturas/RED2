@@ -1255,6 +1255,7 @@ textarea
     background-image: linear-gradient(rgba(49, 197, 148, 0.83), rgba(19, 40, 228, 0.83));
     z-index: 1;
     opacity: 0.5;
+    border-radius: 50%;
 }
 
 
