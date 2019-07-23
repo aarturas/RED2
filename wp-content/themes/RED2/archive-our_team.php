@@ -1,13 +1,15 @@
 <?php
 
-// --------------- 1. Užsikrauna pirmas
 get_header();
 
 
 
 echo '<h1>Archyvas Our Team</h1>';
+echo '<h4>Viską sudedame kas netilpo</h4>';
 
 // <!--  ---------  Iš index'so viską iškeliame į "pirmas.php"  ---------      -->
+
+
 
 
 get_footer();  ?>

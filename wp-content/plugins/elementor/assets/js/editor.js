@@ -1,4 +1,4 @@
-/*! elementor - v2.6.2 - 14-07-2019 */
+/*! elementor - v2.6.5 - 18-07-2019 */
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -14892,8 +14892,8 @@ helpers = {
     } // Multiple conditions with relations.
 
 
-    if (conditions) {
-      return elementor.conditions.check(conditions, values);
+    if (conditions && !elementor.conditions.check(conditions, values)) {
+      return false;
     }
 
     if (_.isEmpty(condition)) {
@@ -21893,13 +21893,16 @@ function (_Marionette$Behavior) {
           editModel = this.view.getEditModel(),
           hOrientation = editModel.getSetting('_offset_orientation_h'),
           vOrientation = editModel.getSetting('_offset_orientation_v'),
-          settingToChange = {};
-      var xPos = ui.position.left,
+          settingToChange = {},
+          isRTL = elementorFrontend.config.is_rtl;
+      var parentWidth = this.$el.offsetParent().width(),
+          elementWidth = this.$el.outerWidth(true),
+          left = ui.position.left,
+          right = parentWidth - left - elementWidth;
+      var xPos = isRTL ? right : left,
           yPos = ui.position.top,
           offsetX = '_offset_x',
           offsetY = '_offset_y';
-      var parentWidth = this.$el.offsetParent().width(),
-          elementWidth = this.$el.outerWidth(true);
 
       if ('end' === hOrientation) {
         xPos = parentWidth - xPos - elementWidth;
