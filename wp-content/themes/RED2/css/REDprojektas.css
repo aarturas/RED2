@@ -170,7 +170,7 @@ header
 
     /* border: 3px dashed red; */
 }
-/* ------------------------ Navigacijos "List" taškų "nuėmimas" ---------------------------------- */
+/* ------------------------ Navigacijos "List" taškų "pašalinimas" ---------------------------------- */
 
 .top-container nav ul
 { 
@@ -179,17 +179,17 @@ header
     /* border: 1px double green; */
 }
 
-/*  ------------------- Padarome tarpelius tarp nav meniu nuorodų  -------------------------- */
+/*  ------------------- Tarpeliai tarp nav meniu nuorodų (home, about us, social ir contact)  ---------------- */
 .top-container a 
 {
     margin: 4px;
+    color: white;
 }
 
 /* ---------------------  Hover'is viršutinei nav menu (dešinėje viršuje) ------------------------------------ */
 .top-container a:hover
 {
     position: relative;
-    /* background-image: linear-gradient(rgba(197, 49, 99, 0.83), rgba(9, 165, 45, 0.83)); */
     background-color: green;
     z-index: 1;
     opacity: 0.8;
@@ -199,7 +199,7 @@ header
 
 
 
-/* Šitų paįmiau iš Velox'0 **************************** ----------------------------------- */
+/* Šitų paėmiau iš Velox'0 **************************** ----------------------------------- */
 
 
 /* .fixed {
@@ -224,24 +224,37 @@ header
 }
 */
 
+ /* -----------------  pranyksta prie 767px didesnis rėmelis aplink top menu nuorodas ---------------------- */
+
 @media screen and (min-width: 767px) {
     .nav-collapse 
     {
       float: right;
       width: auto;
+
+    /* border:2px dashed blueviolet; */
     }
   }
 
+  /* ------------------- navigacijos rėmelis nepranyksta?... --------------------------------------------- */
   .nav-collapse li 
   {
     float: left;
     width: 100%;
+
+    /* border: 2px dashed red; */
+
   }
+
+
+  /* ---------Rėmelis, mažesnis aplink menu (home,aboutUs,social,contact) mažinant, prie 767px pranyksta ------- */
 
   @media screen and (min-width: 767px) {
     .nav-collapse li 
     {
       width: auto;
+
+    /* border: 2px dashed white; */
     }
   }
 
@@ -292,7 +305,6 @@ color: #000;
     float: right;
   }
 
-
   .nav-toggle:before 
   {
     color: #fff; /* Edit this to change the icon color */
@@ -302,12 +314,10 @@ color: #000;
     position: absolute;
     content: "\2261"; /* Hamburger icon */
     text-indent: 0;
-    /* speak: none; */
     width: 100%;
     left: 0;
     top: 0;
   }
-
 
   .nav-toggle.active:before 
   {
@@ -352,32 +362,12 @@ color: #000;
     /* border: 3px solid red; */
 }
 
-/*  ------------------------------ Meet our team" užrašas?  ------------------------------------------------------------- */
-/* .box6 
-{
-    display: flex;
-    flex-direction: column;
-    padding-left: -10em;
-    align-items: center;
-    font-size: 1.6rem;
-    font-style: 'Libre Baskerville', serif;
-
-    border: 3px solid yellow;
-} */
-
 #nav-bar a:hover 
 {
     text-decoration: underline;
 }
 
-/* ----------------- Meet our team" užrašas?  ------------------------------------------------ */
-
-/* .box6> h2 
-{
-    padding-left: 1em;
-} */
-
-/* ---------------------------------------- 1. SHOWCASE:  TRIJŲ nuotraukų tvarkymas arba 2-a dalis  -----------------  */
+/* ------------------------------ 1. SHOWCASE:  TRIJŲ nuotraukų tvarkymas arba 2-a dalis  ------------------------------  */
 
 /*  ---------------------------- "MEET OUR TEAM" ir Trijų žmonių nuotraukų visas 2 (antras) blokas  --------------------- */
 .showcase 
@@ -386,14 +376,10 @@ color: #000;
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    /* height: 49.6429rem; */
     width: 100%;
     background-color: #FFFFFF;
     padding-top: 4.2857rem;
     padding-bottom: 4.0714rem;
-    /* padding-left: 10rem;
-    padding-right: 17.8571rem; */
-    /* overflow: hidden; */
 
     /* border: 5px solid yellow; */
 }
@@ -417,23 +403,6 @@ color: #000;
     /* border: 4px double blue; */
 }
 
-/*  -------------------------------- Kaip ir nuotraukų kvadratinis rėmelis??? --------------------------------- */
-/*  -------------------------------- Ir tekstas p , bet nelabai kas keičiasi  --------------------------------- */
-/* .showcase> p  */
-/* { */
-    /* display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: column;
-    width: 100%;
-    padding-top: 0.6rem;
-    font-style: italic;
-    line-height: 1.86rem;
-    font-size: 1.28rem;
-    letter-spacing: 0.4px; */
-
-    /* border: 4px solid red; */
-/* } */
 
 /*  ---------------------- nuotraukų blokas, div, box'as juodas apvadas stačiakampis, iki 1150px  -------------------*/
 .box 
@@ -442,11 +411,8 @@ color: #000;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    /* height: 32.21rem; */
     max-width: 24rem;
     margin: 0 10px;
-    /* margin-left: 3.57rem;
-    margin-left: 3.57rem; */
     text-align: center;
     height: auto;
     margin-bottom: 15px;
@@ -475,7 +441,7 @@ color: #000;
     /* border: 5px dashed yellow; */
 }
 
-/*  ---------------------------- Padariau trijų žmonių nuotraukų "hover'į"  --------------------------- */
+/*  ---------------------------- 'Padariau' trijų žmonių nuotraukų "hover'į"  --------------------------- */
 .box10 a:hover
 {
     position: relative;
@@ -485,11 +451,11 @@ color: #000;
     border-radius: 50%;
 }
 
-        /* ------------------------------------------ Nuotraukos 3 su media query  -------------------------------------------  */
+        /* ---------------------------------- Nuotraukos 3 su media query  -------------------------------------------  */
 
 @media only screen and (max-width: 1150px)
  {
-     /* ------------------------------- Stačiakampis rėmelis atsirandantis nuo 1150px aplink 3 nuotraukas  --------------------- */
+     /* -------------------------- Stačiakampis rėmelis atsirandantis nuo 1150px aplink 3 nuotraukas  ------------------ */
     /* .box 
     {
         height: 20rem;
@@ -498,7 +464,7 @@ color: #000;
     border: 3px solid brown;
     } */
 
-    /* ------------------------- Apvalus rėmelis aplink nuotraukas atsiranda nuo 1150 ir mažinant būna iki 900px  ------------- */
+    /* ------------------ Apvalus rėmelis aplink nuotraukas atsiranda nuo 1150 ir mažinant būna iki 900px  ------------- */
     .box img 
     {
         width: 17rem;
@@ -512,7 +478,7 @@ color: #000;
 @media only screen and (max-width: 900px)
 
  {
-     /* ---------------------------  vertikalus 3 nuotraukų rėmelis atsirandantis nuo 900 px ir mažinant būna iki galo  ------------- */
+     /* ---------------  vertikalus 3 nuotraukų rėmelis atsirandantis nuo 900 px ir mažinant būna iki galo  ------------- */
     .box-images
      {
         flex-direction: column;
@@ -520,19 +486,23 @@ color: #000;
     /* border: 5px double black; */
     }
 
-    /* -------------------- 3 nuotraukos nuo 900px mažėjančiu režimu "dashed" linija (rėmelis aplink nuotraukas)  ------------------ */
-    /* .box img  */
-    /* { */
-        /* width: 12rem;
-        height: 12rem; */
+    /* ----------- 3 nuotraukos nuo 900px mažinant, apvali "dashed" linija aplink nuotraukas ------------------ */
+    .box img 
+    { 
+        width: 12rem;
+        height: 12rem;
 
     /* border: 3px dashed black; */
-    /* } */
+    }
 
-    /* .box {
+    /* --- Atsiranda mažinant nuo 900px, stačiakampis rėmelis, "dashed" linija aplink nuotraukas su tekstu ---- */
+     .box 
+     {
         height: auto;
         margin-bottom: 15px;
-    } */
+
+    /* border: 3px dashed yellow; */
+    }
 }
 
     /* ---------------------- 3 nuotraukos "dashed" linija (stačiakampis rėmelis aplink žmonių Vardus ir pavard.)  ------------------- */
@@ -545,7 +515,7 @@ color: #000;
         /* border: 2px dashed green; */
     }
 
-/*  ------------------------ 3 žmonių nuotraukų aprašymo tekstas įrėmintas i punktyrini stačiakampį (nepranykstantis)  ------------------ */
+/*  --------- 3 žmonių nuotraukų aprašymo tekstas įrėmintas į punktyrinį stačiakampį (nepranykstantis)  ---------------- */
     .box p
     {
         font-family: Libre-Baskerville;
@@ -558,9 +528,9 @@ color: #000;
         /* border: 2px dashed red; */
     }
 
-/* --------------------------------------  2. SHOWCASE-2:  Trečia dalis su 6 nuotraukomis  ---------------------------------------------- */
+    /* ---------------------  2. SHOWCASE-2:  Trečia dalis su 6 nuotraukomis  ------------------------------------------ */
 
-  /* ----------------------------  Visas 'Trečias "blokas"(sekcija)' su 'slider' 6-iomis nuotraukomis (oranžinis punktyras)  ------------- */
+     /* --------  Visas 'Trečias "blokas"(sekcija)' su 'slider' 6-iomis nuotraukomis (oranžinis punktyras)  ------------ */
 .showcase2
 {
     padding-top: 2rem;
@@ -603,8 +573,8 @@ color: #000;
     /* border: 3px dashed orange; */
 }
 
-  /*  --------------------------  Įdedame media query SLIDER'iui ---------------------------------------------------------------- */
-    /* ---- Punktyrinis raudonas stačiakampis atsiranda aplink "slider" nuo 1150px ir lieka iki 'galo'  --------------- */
+/*  --------------------------  Įdedame media query SLIDER'iui ---------------------------------------------------------------- */
+/* ---- Punktyrinis raudonas stačiakampis atsiranda aplink "slider" nuo 1150px ir lieka iki 'galo'  --------------- */
 
 @media only screen and (max-width: 1150px)
 {
@@ -659,10 +629,9 @@ color: #000;
     border-radius: 4px;
 
     /* border: 4px double blue; */
-
 }
 
-/* ----------- Atsiranda punktyrinis nuotraukų 'sliderio' įrėminimas "užvedus" "pelę"  --------------------------------- */
+/* ----------- Atsiranda punktyrinis nuotraukų 'sliderio' įrėminimas, "užvedus" "pelę"  --------------------------------- */
 .showcase2-card:hover
  {
     position: relative;
@@ -672,8 +641,8 @@ color: #000;
     /* border: 5px dashed red; */
 }
 
-/* ---------------- punktyrinis nuotraukų 'sliderio' įrėminimas, kai "uzvedi" "pele"  ------------------------------------ */
-        /* ------  užkrauna antrąkart dar "riebiau" rėmelį ant rėmelio, tik daugiau 'viduje'  ---------------------------- */
+/* ---------------- Punktyrinis nuotraukų 'sliderio' įrėminimas, kai "užvedi" "pelę"  ------------------------------------ */
+/* ------  Užkrauna antrąkart dar "riebiau" rėmelį ant rėmelio, tik daugiau 'viduje'  ---------------------------- */
 
 .select:hover 
 {
@@ -727,7 +696,7 @@ color: #000;
     /* border: 7px dashed black; */
 }
 
-/* ------  Prie 1150px 'atsiranda' (iki "galo", mažinant ) punktyrinis įrėminimas (vertikalus) formos su žemėlapįu  --------- */
+/* ------  Prie 1150px 'atsiranda' (iki "galo", mažinant ) punktyrinis įrėminimas (vertikalus) formos su žemėlapiu  --------- */
 @media only screen and (max-width: 1150px)
 {
     .showcase3 div.row 
@@ -738,18 +707,18 @@ color: #000;
     }
 }
 
-/* ----- atsiranda du atskiri geltoni, punktyriniai įrėminimai, formai ir žemėlapiui, mažinant nuo 500px  ----------------- */
+/* ----- atsiranda du atskiri geltoni, punktyriniai įrėminimai, "input" formai ir žemėlapiui, nuo 0 iki 500px  ----------------- */
 @media only screen and (max-width: 500px)
 {
     .showcase3-card
     {
-       width: calc(100% - 20px);
+       width: calc(100% - 20px);     /* Paskaičiuojame plotį kitaip */
 
-    /* border: 5px dashed yellow; */
+    /* border: 3px dashed yellow; */
    }
     
 
-   /* -------  Formos įrėminimas Žalia punktyrine linija, visi 3 inputai su "Send" mygtuku, bet tik 500px ir mažiau  ---------- */
+   /* -------  Formos įrėminimas Žalia punktyrine linija, visi 3 inputai su "Send" mygtuku, nuo 0 iki 500px  ---------- */
     .showcase3-card .myForm
      {
         width: 100%;
@@ -758,7 +727,7 @@ color: #000;
     }
 
 
-    /* ------  Žalia punktyrinė linija aplink žemėlapį, bet tik nuo 0 iki 500px; -------------------------------------------  */
+    /* ------  Žalia punktyrinė linija aplink žemėlapį, nuo 0 iki 500px; -------------------------------------------  */
     .showcase3-card .iframe, .showcase3-card .mapouter, .showcase3-card .gmap_canvas
     {
        width: 300px;
@@ -767,7 +736,7 @@ color: #000;
    }
 
 
-      /* ------  Žalia punktyrinė linija aplink "Send" mygtuko langą, bet tik nuo 0 iki 500px;  -------------------------- */
+      /* ------  Žalia punktyrinė linija aplink "Send" mygtuko langą, nuo 0 iki 500px;  -------------------------- */
    
    .showcase3-card .send_btn 
    {
@@ -776,7 +745,7 @@ color: #000;
     /* border: 5px dashed green; */
    }
 
-    /* ------  Žalia punktyrinė linija aplink visa formą + žemėlapis, 0 iki 500px; stačiakampis i virsu ----------------  */
+    /* ------  Žalia punktyrinė linija aplink visą formą + žemėlapis,nuo 0 iki 500px; stačiakampis i viršų ----------------  */
    .showcase3 div.row 
    {
     width: 100%;
@@ -784,7 +753,7 @@ color: #000;
     /* border: 5px dashed green; */
    }
 
-    /*  ----- Žalia punktyrinė linija aplink žemėlapį, 500px iki 0; (be Užrašo)  ----------------------------------- */
+    /*  ----- Žalia punktyrinė linija aplink žemėlapį, nuo 0 iki 500px; (be Užrašo)  ----------------------------------- */
     .showcase3-card .mapouter 
     {
         margin: 0 auto;
@@ -793,7 +762,8 @@ color: #000;
     }
 }
 
-    /* -------  Žalia punktyrinė linija aplink žemėlapį, nuo350px iki 0; (be Užrašo)  ------------------------------ */
+
+/* -------  Žalia punktyrinė linija aplink žemėlapį, nuo 0 iki 350px; (be Užrašo)  ------------------------------ */
 
 @media only screen and (max-width: 350px)
 {
@@ -805,7 +775,7 @@ color: #000;
    }
 }
 
-    /* ------  Žalia punktyrinė linija aplink žemėlapį ir forma nuo 370px iki 0px; (be Užrašo) stačiai  ---------------*/
+/* ------  Žalia punktyrinė linija aplink žemėlapį ir forma nuo 0 iki 350px; (be Užrašo) stačiai  ---------------*/
 
 @media only screen and (max-width: 370px)
 {
@@ -824,6 +794,7 @@ color: #000;
    
 }
 
+/* ------------------ SHOWCASE 3 ----------------------------------------------------- */
 
 /* ------------- "Contact Us" div'as, Užrašo langelis (raudona punktyrinė linija) ------------------------------------------- */
 .showcase3 h2
@@ -898,7 +869,7 @@ color: #000;
 }
 
 
-/*  ----------- pradedu bandymus su query apatinę dalimi ----------------------------------- ---------------------- */
+/*  ----------- pradedu bandymus su query apatine dalimi ----------------------------------- ---------------------- */
 /*       Ketvirtas blokas įrėmintas ( raudona punktyrine linija ) nuo 0 iki 1150px; */
 
 @media only screen and (max-width: 1150px)
@@ -925,7 +896,7 @@ color: #000;
     }
 }
 
-/* -------- Visas puslapio blokas įrėmintas ( raudona punktyrinė linija ) nuo 0 iki 322px; -------------------------- */
+/* -------- Visas puslapio blokas įrėmintas ( raudona punktyrine linija ) nuo 0 iki 322px; -------------------------- */
 @media only screen and (max-width: 322px)
  {
     body 
@@ -955,6 +926,8 @@ color: #000;
     width: 20rem;
 }
 
+/* ----------------------- SHOWCASE-4 -------------------------------------------------- */
+
 /* -------- Apatinis nav. blokas ( Home, About Us, Social, ...) įrėminti raudona punktyrine linija ------------------- */
 .showcase4 
 {
@@ -971,14 +944,16 @@ color: #000;
     /* border: 5px dashed red; */
 }
 
-/* ---- FOOTER ---- Visi apatinės (5-dalies) nav. užrašai ir iconos langeliuose, įrėmintuose raudona punktyrinė linija  ------------- */
+/* ------------------------------ FOOTER NAV ------------------------------------------------------------------------- */
+
+/* ------- Visi apatinės (5-dalies) nav. užrašai ir iconos langeliuose, įrėmintuose raudona punktyrine linija -------- */
 .showcase4 a {
     color: white;
 
     /* border: 5px dashed red; */
 }
 
-/* ------ Trijų formos inputų langelių įrėmintuose raudona punktyrine linija, kiekvieno langelio atskirai ------------- */
+/* ------ Trijų formos inputų langeliai, įrėminti raudona punktyrine linija, kiekvienas langelis atskirai ------------- */
 input, textarea 
 {
     width: 100%;
@@ -994,15 +969,15 @@ input, textarea
     /* border: 5px dashed red; */
 }
 
-/* ------- "Message" langelio (input) įrėmintuose raudona punktyrinė linija  --------------------------------------- */
+/* ------- "Message" langelis (input), įrėmintas raudona punktyrine linija  --------------------------------------- */
 textarea {
     padding-top: 1.21rem;
 
     /* border: 5px dashed red; */
 }
 
-/* --------- 1. "Hover" 'ivedimas'.Kada užvedus "pele" atsiranda raudona punktyrinė linija ----------------------------------------- */
-/* --------- 2. Visų formos input'u langelių  įrėmintuose, atskirai, raudona punktyrinė linija ------------------------------------- */
+/* --------- 1. "Hover" 'veikimas'.Užvedus "pelę", atsiranda raudona punktyrinė linija ---------------------------- */
+/* --------- 2. Visų formos input'u langelių  įrėmintuose, atskirai, raudona punktyrinė linija ------------------------ */
 
 input:hover, textarea:hover, input:focus, textarea:focus {
     color: black;
@@ -1010,7 +985,7 @@ input:hover, textarea:hover, input:focus, textarea:focus {
     /* border: 5px dashed red; */
 }
 
-/* -----------------  Mygtuko apipavidalinimas -------------------------------------------------------------------------- */
+/* -----------------  Mygtuko 'apipavidalinimas' -------------------------------------------------------------------------- */
 
 input[type=submit] 
 {
@@ -1044,44 +1019,46 @@ textarea
     /* border: 5px dashed red; */
 }
 
-.fa 
+/* .fa 
 {
     font-size: 100px;
     width: 50px;
     text-align: center;
     text-decoration: none;
-}
 
-.fa:hover 
+    border: 5px dashed red;
+} */
+
+/* .fa:hover 
 {
     opacity: 0.7;
-}
+} */
 
 /* ----------------------------------------------------------------------------------- */
-.fa-facebook {
+/* .fa-facebook {
     background: #3B5998;
     color: white;
-}
+} */
 
-.column {
+/* .column {
     float: left;
     width: 50%;
     margin-top: 6px;
     padding: 1.43rem;
-}
+} */
 
-.row:after {
+/* .row:after {
     content: "";
     display: table;
     clear: both;
-}
+} */
 
-.main-nav>ul {
+/* .main-nav>ul {
     list-style-type: none;
     justify-content: center;
     display: flex;
     flex: 1;
-}
+} */
 
 /* ------------------  Langeliai aplink apatinę nav. su užrašais (home,about us,social ir facebook icon,twiter icon,...)  ---------------- */
 /*  ------------------ Kiekvienas langelis atskirai įrėmintas raudona punktyrine linija  ------------------------------------------------ */
@@ -1145,8 +1122,8 @@ textarea
     /* border: 5px dashed red; */
 }
 
-/* -------------------------Viršutinė nav.(HOME,ABOUT US,SOCIAL,CONTACT), įrėminimas nuo 1024px iki 768px  -------------------------------- */
-    /* --------------------- showcase3-card,  ------------------------------------------- */
+
+/* --------------Visų vavigacijos užrašų (HOME,ABOUT US,SOCIAL,CONTACT) įrėminimas nuo (768px iki 1024px)    ------------ */
 
 @media  (min-width: 768px) and (max-width: 1024px)
  {
@@ -1162,7 +1139,7 @@ textarea
     /* border: 5px dashed red; */
     }
 
-    /* ------------- Viso pirmo bloko įrėminimas nuo 1024px iki 768px raudona punktyrinė linija  ------------------------------ */
+    /* ------------- Viso pirmo bloko įrėminimas nuo (768px iki 1024px), raudona punktyrine linija  ------------------- */
     header
     {
         padding-bottom: 1.43rem;
@@ -1171,7 +1148,8 @@ textarea
     }
 }
 
-     /* ------------------------ Viršutinės nav. užrašų įrėminimas nuo (767px iki 481px) raudona punktyrinė linija --------------------- */
+
+     /* ----------- Visų navigacijos užrašų įrėminimas nuo (481px iki 767px), raudona punktyrine linija ---------------- */
 
 @media  (min-width: 481px) and (max-width: 767px)
 {
@@ -1188,7 +1166,7 @@ textarea
     /* border: 5px dashed red; */
     }
 
-    /* ------------------------ Viso pirmo bloko įrėminimas nuo 481px iki 767px raudona punktyrine linija  ----------------------------- */
+    /* -------------- Viso pirmo bloko įrėminimas nuo (481px iki 767px) raudona punktyrine linija  ---------------------- */
     header
     {
         padding-bottom: 1.43rem;
@@ -1199,7 +1177,7 @@ textarea
 
 @media  (min-width: 320px) and (max-width: 480px)
  {
-     /* -------------------------- Viršutinės nav. užrašų įrėminimas (nuo 480px iki 320px) raudona punktyrinė linija ------------------ */
+    /* -------------- Visų navigacijos užrašų įrėminimas nuo(320px iki 480px) raudona punktyrine linija  ----------------- */
 
     header nav,
     header nav li,
@@ -1211,10 +1189,10 @@ textarea
         text-align: center;
         width: 100%;
 
-    border: 5px dashed red;
+    /* border: 5px dashed red; */
     }
 
-    /* --------------------------- Viso pirmo bloko įrėminimas nuo 480px iki 320px raudona punktyrinė linija  ---------------------------- */
+    /* ------------ Viso pirmo bloko įrėminimas nuo 480px iki 320px raudona punktyrinė linija  ------------------------- */
 
     header
     {
@@ -1223,9 +1201,8 @@ textarea
     /* border: 5px dashed red; */
     }
 }
-
     
-/*  -------- Instagramos mygtuko (follow us on ... "hover'is", kada užvedus "pele" pasikeičia spalva ----------- */
+/*  -------- Instagramos mygtuko (follow us on ... "hover'is", kada užvedus "pele" pasikeičia spalva ------------------- */
 
  .showcase2 a.wrapper:hover
 {
@@ -1233,7 +1210,6 @@ textarea
     background-image: linear-gradient(rgba(197, 49, 99, 0.83), rgba(189, 228, 19, 0.83));
     z-index: 1;
     opacity: 0.7;
-
 
     /* border: 5px dashed red; */
 }
@@ -1258,19 +1234,16 @@ textarea
     border-radius: 50%;
 }
 
-
-
-/* Bandau padaryti "response" apatinei nav - footeriui (soc uzrasams) */
-
+/* Bandau padaryti "response" apatinei nav - footeriui (soc. užrašams) */
 
 @media  (min-width: 400px) and (max-width: 680px) 
 {
 .showcase4 
-{
-    float: none;
-    text-align: center;
-    width: 100%;
-}
+    {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
 }
 
 

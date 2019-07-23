@@ -201,7 +201,7 @@
    </section> <!--  "showcase-2"  -->
 
 
-   <!-- ---  SHOWCASE-3   ------------------------------  KETVIRTA DALIS  ------------------------------------- -->
+   <!-- -----------------------------  SHOWCASE-3  ------------------------------------------------------- -->
 
    <section class="showcase3">
 
@@ -212,25 +212,25 @@
       </a>
 
 
-      <!--  ------------------------- UNDELINE nuotrauka  ------------------------------------------------------ -->
+      <!--  ------------------------- UNDELINE nuotrauka  -------------SHOWCASE-3------------------------------- -->
 
       <img img class="undeline" src="<?= get_theme_file_uri('/img/About Us Undderline.png') ?>" alt="undeline">
 
-      <!-- -------------------------  VARDAS, EMAIL'AS, MESSAGE  ----------------------------------------------- -->
+      <!-- -------------------------  VARDAS, EMAIL'AS, MESSAGE  ------  SHOWCASE-3   ------------------------- -->
 
       <div class="row">
          <div class="showcase3-card">
             <form class="myForm">
 
 
-               <!--  ---------------------- <form action="myForm">  -------------------------------------------- -->
+               <!--  ---------------------- <form action="myForm">  ---------- SHOWCASE-3 ------------------------ -->
 
                <input type="text" id="fullname" name= "fullname" placeholder= "Full Name" >
                <input type="text" id="email" name="email" placeholder="contact@email.com">
                <textarea name="subject" placeholder="Message"></textarea>
 
 
-               <!--  -------------------------- SEND input'as  ------------------------------------------------- -->
+               <!--  -------------------------- SEND input'as  ----------- SHOWCASE-3 --------------------------- -->
 
                <a class="send_btn" href="#">
                   <strong>
@@ -243,7 +243,7 @@
             </form>           
          </div> <!-- "showcase3-card" -->
 
-         <!--  ------------------------------  ŽEMĖLAPIS  ------------------------------------------------------ -->
+         <!--  ------------------------------  ŽEMĖLAPIS  -------------------- SHOWCASE-3 --------------------- -->
 
          <div class="showcase3-card">
             <div class="mapouter">
@@ -273,7 +273,7 @@
             </div> <!-- "mapouter" -->
 
 
-            <!-- ---------------------------  UŽRAŠAS PO ŽEMĖLAPIU  ---------------------------- -->
+            <!-- ---------------------------  UŽRAŠAS PO ŽEMĖLAPIU  ---------- SHOWCASE-3 ------------ -->
             <div>
                <p>
                   811 7th Avenue 53rd Street<br> New York, 10019, United States
@@ -285,7 +285,7 @@
    </section> <!--  "showcase-3"  -->
 
 
-   <!--  ------------------------------------------  Initialize Swiper  ------------------------------- -->
+   <!--  ------------------------------------------  Initialize Swiper  ----------- SHOWCASE-3 ----------- -->
 
    <script>
 
@@ -299,7 +299,7 @@
             prevEl: '.left-arrow',
             },
 
-            // <!--  ---------------------------  Sustatome BREAKPOINTS  ------------------------------- -->
+            // <!--  ---------------------------  Sustatome BREAKPOINTS  ------------- SHOWCASE-3 ---------- -->
 
             breakpoints: 
          {
@@ -319,8 +319,9 @@
 
    </script>
 
+   <!-- ----------------------------------  SHOWCASE-4 ------------------------------------------------------------ -->
 
-   <!-- ---  SHOWCASE-4  ----  Footer-nav   4 užrašai su logotipu per vidurį --- : (home, about us, "logo", social, contact) -- -->
+   <!-- -------  Footer-nav   4 užrašai su logotipu per vidurį --- : (home, about us, "logo", social, contact) -- -->
 
    <section class="showcase4">
 

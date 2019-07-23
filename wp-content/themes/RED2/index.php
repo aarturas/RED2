@@ -5,7 +5,8 @@ get_header();
 
 
 
-echo 'PETRAS';
+echo 'PETRAS ir ANTANAS';
+echo 'Kada "užsikrauna" per su klaida';
 
 // <!--  ---------  Iš index'so viską iškeliame į "pirmas.php"  ---------      -->
 
