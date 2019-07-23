@@ -33,7 +33,7 @@
       </div> <!--"container"-->
 
 
-      <!--  --------------------  UŽRAŠAS SINCE PER VIDURĮ IR APATINĖ ARROW  ------------------------- -->
+      <!--  --------------------  UŽRAŠAS <SINCE 1978> PER VIDURĮ IR <Premium Quality & Tradition>  ------------------------- -->
 
       <div class="box8">
          <h1>
@@ -41,15 +41,13 @@
          </h1>
          <p>SINCE 1978</p>
       </div>
-        
 
       <!-- -------------------------  APATINIS "ARROW DOWN" SIMBOLIS  ------------------------------------ -->
 
-      <!-- <a href="#"> -->
+      <a href="#footer">
          <!-- <img class="head-img" src="http://localhost/RED/public/img/head-arrow.png" alt="arrow down"> -->
       <img class="head-img" src="<?= get_theme_file_uri('/img/head-arrow.png') ?>" alt="arrow down">
-
-      <!-- </a> -->
+      </a>
 
    </header>
 
@@ -80,7 +78,7 @@
                   <!-- <article class="os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0.3s"> -->
                         <span class="lnr lnr-pencil"></span>
                               <!-- Nurodome kelią "get_permalink" su "path" ir funkcijos viduje nurodome "kelią" -->
-                              <a href="<?= get_permalink(get_page_by_path('kim',OBJECT,'page')) ?>">
+                              <a href="<?= get_permalink(get_page_by_path('kim',OBJECT,'our_team')) ?>">
                                  <!-- Įkeliame 'visą' nuotrauką -->
                                  <img src="<?= get_field('kim') ?>" alt="Kim"> 
                               </a>

@@ -36,6 +36,26 @@ add_action('wp_footer', function () {
 
 
 
+add_action('init', function() {
+ 
+   register_post_type( 'our_team',
+   // CPT Options
+       array(
+           'labels' => array(
+               'name' => 'Our Team',
+               'singular_name' => 'Our Team',
+           ),
+           'public' => true,
+           'has_archive' => true,
+           'rewrite' => array('slug' => 'our-team'),
+       )
+   );
+});
+
+
+
+
+
 
 
 
