@@ -24,12 +24,13 @@
         
 
       <!-- Grįžimo 'link'as į pagrindinį puslapį -->
-      <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>">
+      <!-- <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>"> -->
+      <a href="<?= get_permalink(get_page_by_path('home',OBJECT,'page')) ?>">
 
-      <img src="<?= get_field('emily') ?>" alt="Emily">
+         <img src="<?= get_field('emily') ?>" alt="Emily">
+      </a>
 
       <!-- <?= wp_get_attachment_image(get_field('emily'))  ?>  -->
-
 
 
 

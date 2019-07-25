@@ -31,7 +31,7 @@
       <!-- Kad rodytų nuotrauką, "get_field" funkciją parašome -->
       <img src="<?= get_field('sara') ?>" alt="Sara">
 
-
+      </a>
 
 
 

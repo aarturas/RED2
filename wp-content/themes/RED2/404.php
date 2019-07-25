@@ -5,7 +5,7 @@ get_header();
 
 
 
-echo '<h1>404 Puslapio nėra ir nebus</h1>';
+echo '<h1>404 Puslapio nėra ir nebus, nebent pataisytumėte</h1>';
 
 
 

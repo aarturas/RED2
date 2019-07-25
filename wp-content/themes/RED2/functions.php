@@ -3,7 +3,7 @@
 
 //    Užrašome konstantas
 
-define('VER_', '1.78');
+define('VER_', '1.78'); // Patys sugalvojame pavadinimą ('1.78'), kad matytusi kokia versija
 
 /**
  * Enqueue scripts and styles.
@@ -35,6 +35,7 @@ add_action('wp_footer', function () {
 });
 
 
+// Aprašomos funkcijos, kad atsirastų "Dashbord'e" (WP), nuoroda-užrašas su "Our Team"
 
 add_action('init', function() {
  
@@ -53,7 +54,23 @@ add_action('init', function() {
 });
 
 
+// Aprašomos funkcijos, kad atsirastų "Dashbord'e" (WP), nuoroda-užrašas su "Our Contact"
 
+add_action('init', function() {
+ 
+   register_post_type( 'our_contact',                // kaip visur ir DB identifikuojamas
+   // CPT Options
+       array(
+           'labels' => array(
+               'name' => 'Our Kazkas',                 // kaip pavadinimas atrodo išorėje
+               'singular_name' => 'Our Pavadinimas',         // toks pats tik vienaskaita
+           ), 
+           'public' => true,
+           'has_archive' => true,
+           'rewrite' => array('slug' => 'our-contact'),            // kaip matosi išorėje
+       )
+   );
+});
 
 
 
