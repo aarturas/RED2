@@ -24,8 +24,9 @@
             
 
 
-      <!-- ------------  Grįžimui kelias per 'p-c' ---   Tai "wordpress'ui" funkcija  ---------- -->
+      <!-- ------------  Grįžimo kelias per 'p-c'   ---------- -->
       <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>">
+      
 
 
       <!-- Kad rodytų nuotrauką, "get_field" funkciją parašome -->

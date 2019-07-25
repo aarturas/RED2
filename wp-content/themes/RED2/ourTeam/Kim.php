@@ -7,6 +7,8 @@
 
       <h1 style="color:azure; padding-left:4em; padding-top:15px;">
          Dennis Kim
+
+         ddddddddddddddddddddddddd
       </h1>
 
 
@@ -27,7 +29,9 @@
          </p>
 
 
-         <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>">
+         <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'our_contact')) ?>">
+
+         <!-- <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>"> -->
             <img src="<?= get_field('kim') ?>" alt="Kim">
          </a>
 

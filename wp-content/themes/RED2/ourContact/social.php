@@ -4,6 +4,7 @@
          
    <div style="background-color:blue; padding-top:10px;" font-style="color:white;">
 
+
       <h1 style="color:azure; padding-left:1em; padding-top:15px;">
          Social
       </h1>
@@ -24,6 +25,7 @@
 
 
 
+         
 
          <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>">
             <img class="img" 
@@ -31,6 +33,11 @@
                   alt="pic in pic" 
                   style="padding-left:0; padding-top:50px; max-width:100%; padding-bottom:0px;">
          </a>
+
+
+
+
+
 
    </div>
 

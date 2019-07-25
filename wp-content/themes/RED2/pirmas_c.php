@@ -13,16 +13,19 @@
 
                <div class="logo">
                   <a href="#">
-                     <img src="<?= get_theme_file_uri('/img/logo.png') ?>" alt="up logo">
+                     <!-- <img src="<?= get_theme_file_uri('/img/logo.png') ?>" alt="upper logo"> -->
+                     <img class="head-img" src="<?= get_theme_file_uri('/img/logo.png') ?>" alt="upper logo">
+
                   </a>
                </div>
 
                <nav class="nav-collapse">
                   <ul>
-                     <li class="menu-item"><a href="<?= home_url('pirmas_c/') ?>">Home</a></li>
+                     <li class="menu-item"><a href="<?= home_url('home/') ?>">Home</a></li>
+                     <!-- <li class="menu-item"><a href="<?= home_url('pirmas_c/') ?>">Home</a></li> --- Negali grįžti į "home" nuorodą  -->
+
                      <li class="menu-item"><a href="<?= home_url('about-us/') ?>">About Us</a></li>
                      <li class="menu-item"><a href="<?= home_url('social/') ?>">Social</a></li>
-                     
                      <li class="menu-item"><a href="<?= home_url('contact/') ?>">Contact</a></li>
 
                      <!--  --------------- Nesigauna grąžinti "Contact", nes vis rodo "Sarą" ---------------------------- -->

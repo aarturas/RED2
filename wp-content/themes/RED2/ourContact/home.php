@@ -13,13 +13,15 @@
 
                <div class="logo">
                   <a href="#">
-                     <img src="<?= get_theme_file_uri('/img/logo.png') ?>" alt="up logo">
+                     <!-- <img src="<?= get_theme_file_uri('/img/logo.png') ?>" alt="upper logo"> -->
+                     <img class="head-img" src="<?= get_theme_file_uri('/img/logo.png') ?>" alt="upper logo">
+
                   </a>
                </div>
 
                <nav class="nav-collapse">
                   <ul>
-                     <li class="menu-item"><a href="<?= home_url('pirmas_c/') ?>">Home</a></li>
+                     <li class="menu-item"><a href="<?= home_url('home/') ?>">Home</a></li>
                      <li class="menu-item"><a href="<?= home_url('about-us/') ?>">About Us</a></li>
                      <li class="menu-item"><a href="<?= home_url('social/') ?>">Social</a></li>
                      <li class="menu-item"><a href="<?= home_url('contact/') ?>">Contact</a></li>
@@ -91,7 +93,10 @@
                <div class="col-lg-3 col-sm-6 col-md-3 box">
                         <span class="lnr lnr-pencil"></span>
                         <!-- Nurodome kelią su "path" ir funkcijos viduje nurodome "id" numerį -->
-                        <a href="<?= get_permalink(480) ?>">
+                        <!-- <a href=" <?= get_permalink(480) ?>">   --  nesigauna dabar su foto indeksu surasti kelio -->
+                        <!-- Todėl naudosime kitą, iš 'Kimo' paimtą nuorodą -->
+                        <a href="<?= get_permalink(get_page_by_path('sara',OBJECT,'our_team')) ?>">
+
                                  <img src="<?= get_field('sara') ?>" alt="Sara">
                               </a>
                               <h3>Sara McCoy</h3>
@@ -105,7 +110,9 @@
                      <span class="lnr lnr-pencil"></span>
                            <!-- Su "get_permalink" nurodome kuriuo keliu pasirinktinai norime, kad rodytų 'img' failą -->
                            <!-- Pasirenkame su nuotraukos "id" numeriu -->
-                        <a href="<?= get_permalink(476) ?>">
+                        <a href="<?= get_permalink(get_page_by_path('emily',OBJECT,'our_team')) ?>">
+
+                        <!-- <a href="<?= get_permalink(476) ?>"> -->
                         <!-- Įkeliame nuotraukas, kada WP nurodome ne "url", bet "id", po to su "get" gauname nuotrauką -->
                            <?= wp_get_attachment_image(get_field('emily'))  ?> 
                         </a>

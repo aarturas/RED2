@@ -54,7 +54,7 @@ add_action('init', function() {
 });
 
 
-// Aprašomos funkcijos, kad atsirastų "Dashbord'e" (WP), nuoroda-užrašas su "Our Contact"
+// Aprašomos funkcijos, kad atsirastų "Dashbord'e" (WP consoleje), nuoroda-užrašas su "Our Contact"
 
 add_action('init', function() {
  
