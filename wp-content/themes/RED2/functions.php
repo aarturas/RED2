@@ -62,8 +62,8 @@ add_action('init', function() {
    // CPT Options
        array(
            'labels' => array(
-               'name' => 'Our Kazkas',                 // kaip pavadinimas atrodo išorėje
-               'singular_name' => 'Our Pavadinimas',         // toks pats tik vienaskaita
+               'name' => 'Our Contact',                 // kaip pavadinimas atrodo išorėje, t.y. WP consoleje
+               'singular_name' => 'Our Contact',         // toks pats tik vienaskaita
            ), 
            'public' => true,
            'has_archive' => true,

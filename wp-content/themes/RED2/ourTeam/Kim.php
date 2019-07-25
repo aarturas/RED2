@@ -1,14 +1,16 @@
 <?php /* Template Name: Kim */ ?>
 
 
+
    <div style="background-color:blue; padding-top:10px;" font-style="color:white;">
 
-   
+
       <h1 style="color:azure; padding-left:4em; padding-top:15px;">
          Dennis Kim
       </h1>
 
 
+      
 
          <p style="color:azure; padding:20px;">
             Dennis Kim is the new concertmaster of Pacific Symphony.<br>

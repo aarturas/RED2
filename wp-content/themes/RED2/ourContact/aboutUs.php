@@ -4,7 +4,7 @@
 
          <div style="background-color:blue; padding-top:10px;" font-style="color:white;">
 
-         
+
             <h1 style="color:azure; padding-left:2em;">
                About Us
             </h1>
@@ -24,7 +24,7 @@
             </p>
             
 
-
+            <!-- -------- Nurodome "kelią" tiesiai iš interneto ------ -->
                
             <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>">
                <img class="img" 
