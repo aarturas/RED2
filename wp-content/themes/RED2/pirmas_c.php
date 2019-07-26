@@ -336,12 +336,14 @@
 
       <div class="footer-nav">
          <ul>
+            <!--   ---------------------------------- HOME  ------------------------------------------------ -->
             <li>
                <!-- <a href="http://localhost/RED/public" img src="http://localhost/RED/public/figma3.html"> -->
                <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>">
                   Home
                </a>
             </li>
+            <!--   ---------------------------------- ABOUT US ------------------------------------------------ -->
 
             <li>
                <!-- <a href="http://localhost/RED/public/about-us" img src="http://localhost/RED/public/about.html"> -->
@@ -349,18 +351,22 @@
                   About Us
                </a>
             </li>
+            <!--   ---------------------------------- LOGO "Pinterest" ---------------------------------------- -->
 
             <a href="#">
                <!-- <img class="logo" src="http://localhost/RED/public/img/Footer Logo.svg" alt="Logo"> -->
-            <img class="icon" src="<?= get_theme_file_uri('img/Footer Logo.svg') ?>" alt="Logo">
-               <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>"></a>
-            <li>
+               <img class="icon" src="<?= get_theme_file_uri('img/Footer Logo.svg') ?>" alt="Logo">
+            <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>"></a>
 
+            <!--   ---------------------------------- SOCIAL ------------------------------------------------ -->
+
+            <li>
                <!-- <a href="http://localhost/RED/public/social" img src="http://localhost/RED/public/services.html"> -->
                <a href="<?= get_permalink(get_page_by_path('social',OBJECT,'page')) ?>">
                   Social
                </a>
             </li>
+            <!--   ---------------------------------- CONTACT  ------------------------------------------------ -->
                
             <li>
                <!-- <a href="http://localhost/RED/public/contact" img src="http://localhost/RED/public/contact.html"> -->
