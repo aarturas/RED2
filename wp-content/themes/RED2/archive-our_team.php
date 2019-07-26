@@ -9,7 +9,7 @@ echo '<h4>Viską sudedame kas netilpo</h4>';
 
 
 
-// <!--  ---------  Iš index'so viską iškeliame į "pirmas.php"  ---------      -->
+// <!--  ---------  Iš index'so viską iškeliame į "pirmas_c.php"  ---------      -->
 
 
 

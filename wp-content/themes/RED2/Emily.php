@@ -1,6 +1,7 @@
 <?php /* Template Name: Emily */ ?>
 
 
+
    <div style="background-color:blue; padding-top:10px;" font-style="color:white;">
 
 
@@ -9,6 +10,7 @@
       </h1>
 
 
+      
 
       <p style="color:azure; padding:20px;">
          I am passionate about seafood, but also about eating<br> 

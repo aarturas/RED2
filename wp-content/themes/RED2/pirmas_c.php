@@ -1,13 +1,10 @@
 <?php /* Template Name: Pirmas Puslapis_c */ ?>
 
-
 <?php     get_header();   ?>
-
-
 
    <header>
 
-      <!-- ------------------------ Viršutinė navigacija su logo kairėje pusėje ---------------------------------------- -->
+      <!-- ---------------- Viršutinės navigacijos logo kairėje pusėje ------------------------------ -->
 
       <div class="top-container">
 
@@ -19,11 +16,12 @@
                   </a>
                </div>
 
+               <!-- ---------- Viršutinės navigacijos menu dešinėje pusėje (viršuje) ------------------ -->
+
                <nav class="nav-collapse">
                   <ul>
                      <li class="menu-item"><a href="<?= home_url('home/') ?>">Home</a></li>
                      <!-- <li class="menu-item"><a href="<?= home_url('pirmas_c/') ?>">Home</a></li> --- Negali grįžti į "home" nuorodą  -->
-
                      <li class="menu-item"><a href="<?= home_url('about-us/') ?>">About Us</a></li>
                      <li class="menu-item"><a href="<?= home_url('social/') ?>">Social</a></li>
                      <li class="menu-item"><a href="<?= home_url('contact/') ?>">Contact</a></li>
@@ -37,16 +35,16 @@
       </div> <!--"container"-->
 
 
-      <!--  --------------------  UŽRAŠAS <SINCE 1978> PER VIDURĮ IR <Premium Quality & Tradition>  ------------------------- -->
+      <!--  ---------  užrašas <SINCE 1978> ir <Premium Quality & Tradition>  ------------------- -->
 
       <div class="box8">
          <h1>
-               Premium Quality & Tradition
+            Premium Quality & Tradition
          </h1>
          <p>SINCE 1978</p>
       </div>
 
-      <!-- -------------------------  APATINIS "ARROW DOWN" SIMBOLIS  ------------------------------------ -->
+      <!-- ------------------  APATINIS "ARROW DOWN" SIMBOLIS  -------------------------------- -->
 
       <a href="#footer">
          <!-- <img class="head-img" src="http://localhost/RED/public/img/head-arrow.png" alt="arrow down"> -->
@@ -54,7 +52,6 @@
       </a>
 
    </header>
-
    
    <!--  --------------------------------------------  UŽRAŠAS "MEET OUR TEAM"   ---------------------------------->
 
@@ -66,17 +63,18 @@
          </h2>
       </div>
 
-      <!-- ------------------------------------------------ LINIJA PO UŽRAŠU------------------------------------ -->
+      <!-- ------------------------------------------- LINIJA PO UŽRAŠU------------------------------------ -->
 
       <!-- <img src="http://localhost/RED/public/img/section2-line.svg" alt="undeline"> -->
       <img src="<?= get_theme_file_uri('/img/section2-line.svg') ?>" alt="underline-septintas">
 
 
-         <!-- --------------------------------------------- TRIJŲ ŽMONIŲ NUOTRAUKOS --------------------------- -->
+         <!-- ------------------------------------- TRIJŲ ŽMONIŲ NUOTRAUKOS --------------------------- -->
+
          <div class="box10">
             <div class="row box-images">
 
-               <!-- ------------------------------------------------- DENNIS KIM  ------------------------------ -->
+               <!-- ------------------------------------- DENNIS KIM  ------------------------------ -->
 
                <div class="col-lg-3 col-sm-6 col-md-3 box">
                         <span class="lnr lnr-pencil"></span>
@@ -90,7 +88,7 @@
                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.</p>
                </div>
 
-               <!-- ------------------------------------------------- SARA McCOY  ------------------------------- -->
+               <!-- ------------------------------------ SARA McCOY  ------------------------------- -->
 
                <div class="col-lg-3 col-sm-6 col-md-3 box">
                         <span class="lnr lnr-pencil"></span>
@@ -106,7 +104,7 @@
                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.</p>
                </div>
 
-               <!-- ------------------------------------------------- EMILY PORTER  ----------------------------- -->
+               <!-- ----------------------------------- EMILY PORTER  ----------------------------- -->
 
                <div class="col-lg-3 col-sm-6 col-md-3 box">
                      <span class="lnr lnr-pencil"></span>
@@ -122,17 +120,18 @@
                         <div class="smallline"></div>
                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.</p>
                </div>
-            </div>
-         </div>
-   </section>
 
+            </div> <!-- // "row box-images" -->
+         </div><!-- // "box10"-->
+   </section> <!-- // class="showcase" -->
 
-   <!-- ----------------------------------------  SHOWCASE-2  ------  TREČIA DALIS ----------------------------  -->
+   <!-- --------------------------------  SHOWCASE-2  ---  TREČIA DALIS ----------------------------  -->
 
    <section class="showcase2">
       <div class="row slider">  <!-- "Įtraukiame" į "row-slider" kairią ir dešinę rodykles + 3 img. -->
 
-         <!--  ----------------------------------- LEFT ARROW nuotrauka  -------------------------------------- -->
+         <!--  ------------------------- LEFT ARROW nuotrauka  -------------------------------------- -->
+
             <img class="left-arrow" src="<?= get_theme_file_uri('img/Left arrow.png') ?>" alt="Left arrow" style="height: 60px; width: 60px;">
 
          <!--  ----------------- SWIPER-SLIDER IR ---- AŠTUONIOS NUOTRAUKĖLĖS EILĖJE  ------------------------- -->
@@ -189,14 +188,14 @@
                      </div>
                </div>
 
-            </div> <!--"swiper-wrapper" -->
-         </div>  <!-- "swiper-container" -->
+            </div> <!-- //"swiper-wrapper" -->
+         </div>  <!-- // "swiper-container" -->
 
          <!--  ---------------------------- RIGHT ARROW nuotrauka  --------------------------------------------- -->
 
             <img class="right-arrow" src="<?= get_theme_file_uri('img/Right Arrow.png') ?>" alt="Right arrow" style="height: 60px; width: 60px;">
 
-      </div>  <!-- "row slider"  -->
+      </div>  <!-- // "row slider"  -->
 
       <!--  -------------  INSTAGRAM ICONA IR UŽRAŠAS "FOLLOW US ON INSTAGRAM"  -------------------------------- -->
 
@@ -207,8 +206,7 @@
             </p>
       </a>
 
-   </section> <!--  "showcase-2"  -->
-
+   </section> <!-- // "showcase-2"  -->
 
    <!-- -----------------------------  SHOWCASE-3  ------------------------------------------------------- -->
 
@@ -220,7 +218,6 @@
          </h2>
       </a>
 
-
       <!--  ------------------------- UNDELINE nuotrauka  -------------SHOWCASE-3------------------------------- -->
 
       <img img class="undeline" src="<?= get_theme_file_uri('/img/About Us Undderline.png') ?>" alt="undeline">
@@ -231,13 +228,11 @@
          <div class="showcase3-card">
             <form class="myForm">
 
-
                <!--  ---------------------- <form action="myForm">  ---------- SHOWCASE-3 ------------------------ -->
 
                <input type="text" id="fullname" name= "fullname" placeholder= "Full Name" >
                <input type="text" id="email" name="email" placeholder="contact@email.com">
                <textarea name="subject" placeholder="Message"></textarea>
-
 
                <!--  -------------------------- SEND input'as  ----------- SHOWCASE-3 --------------------------- -->
 
@@ -250,7 +245,7 @@
                <input type="hidden" name="_token" value="LtDNhgRSUUSB0cHwwiUCjwCX0SsGlyZXmzMVtZh6"> 
 
             </form>           
-         </div> <!-- "showcase3-card" -->
+         </div> <!-- // "showcase3-card" -->
 
          <!--  ------------------------------  ŽEMĖLAPIS  -------------------- SHOWCASE-3 --------------------- -->
 
@@ -262,7 +257,7 @@
                   </iframe>
                      <a href="https://www.crocothemes.net">
                      </a>
-               </div> <!-- "gmap_canvas" -->
+               </div> <!-- // "gmap_canvas" -->
 
                <style>
                   .mapouter
@@ -279,8 +274,7 @@
                         width: 451px;
                      }
                </style>
-            </div> <!-- "mapouter" -->
-
+            </div> <!--// "mapouter" -->
 
             <!-- ---------------------------  UŽRAŠAS PO ŽEMĖLAPIU  ---------- SHOWCASE-3 ------------ -->
             <div>
@@ -289,10 +283,9 @@
                </p>
             </div>
 
-         </div> <!--  "showcase3-card"  -->
-      </div> <!--  "row"  -->
-   </section> <!--  "showcase-3"  -->
-
+         </div> <!-- // "showcase3-card"  -->
+      </div> <!-- // "row"  -->
+   </section> <!-- // "showcase-3"  -->
 
    <!--  ------------------------------------------  Initialize Swiper  ----------- SHOWCASE-3 ----------- -->
 
@@ -325,7 +318,6 @@
          }
       });
 
-
    </script>
 
    <!-- ----------------------------------  SHOWCASE-4 ------------------------------------------------------------ -->
@@ -333,8 +325,8 @@
    <!-- -------  Footer-nav   4 užrašai su logotipu per vidurį --- : (home, about us, "logo", social, contact) -- -->
 
    <section class="showcase4">
-
       <div class="footer-nav">
+
          <ul>
             <!--   ---------------------------------- HOME  ------------------------------------------------ -->
             <li>
@@ -343,31 +335,30 @@
                   Home
                </a>
             </li>
-            <!--   ---------------------------------- ABOUT US ------------------------------------------------ -->
 
+            <!--   ---------------------------------- ABOUT US ------------------------------------------------ -->
             <li>
                <!-- <a href="http://localhost/RED/public/about-us" img src="http://localhost/RED/public/about.html"> -->
                <a href="<?= get_permalink(get_page_by_path('about us',OBJECT,'page')) ?>">
                   About Us
                </a>
             </li>
-            <!--   ---------------------------------- LOGO "Pinterest" ---------------------------------------- -->
 
+            <!--   ---------------------------------- LOGO "Pinterest" ---------------------------------------- -->
             <a href="#">
                <!-- <img class="logo" src="http://localhost/RED/public/img/Footer Logo.svg" alt="Logo"> -->
                <img class="icon" src="<?= get_theme_file_uri('img/Footer Logo.svg') ?>" alt="Logo">
             <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>"></a>
 
             <!--   ---------------------------------- SOCIAL ------------------------------------------------ -->
-
             <li>
                <!-- <a href="http://localhost/RED/public/social" img src="http://localhost/RED/public/services.html"> -->
                <a href="<?= get_permalink(get_page_by_path('social',OBJECT,'page')) ?>">
                   Social
                </a>
             </li>
+
             <!--   ---------------------------------- CONTACT  ------------------------------------------------ -->
-               
             <li>
                <!-- <a href="http://localhost/RED/public/contact" img src="http://localhost/RED/public/contact.html"> -->
                <a href="<?= get_permalink(get_page_by_path('contact',OBJECT,'page')) ?>">
@@ -376,8 +367,7 @@
             </li>
                   
          </ul>
-      </div> <!-- // "footer-nav" // -->
-
+      </div> <!-- //"footer-nav" -->
 
       <!-- -------------------------  FOOTERIO ICO'NOS  ----------------------------------------------------- -->
 
@@ -394,8 +384,10 @@
          <a href="#">
             <img class="icon" src="<?= get_theme_file_uri('img/Pinterest.png') ?>" alt="icon">
          </a>
-      </div>
+      </div><!--//"icon"-->
 
-   </section> <!-- // "showcase4" // -->
+   </section> <!--"showcase4"-->
+
+
 
    <?php get_footer();  ?>

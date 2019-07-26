@@ -127,7 +127,7 @@ header {
 }
 li {
 	display: inline-block;
-	float: left;
+	// float: left;
 	width: 100%;
 	margin-right: 1em;
 }
@@ -289,9 +289,9 @@ p {
 	body {
 		background-color: $color_biloba_flower_approx;
 	}
-	.box img {
+	// .box img {
 		// border: 3px dashed $black;
-	}
+	// }
 }
 .showcase2 {
 	padding-top: 2rem;
@@ -363,17 +363,17 @@ p {
 		width: 200px;
 	}
 }
-@media only screen and(max-width: 350px) {
-	.showcase3-card {
-		// .iframe: ;
-	}
-	.mapouter {
-		width: 270px;
-	}
-	.gmap_canvas {
-		width: 270px;
-	}
-}
+// @media only screen and(max-width: 350px) {
+// 	.showcase3-card {
+// 		// .iframe: ;
+// 	}
+// 	.mapouter {
+// 		width: 270px;
+// 	}
+// 	.gmap_canvas {
+// 		width: 270px;
+// 	}
+// }
 @media only screen and(max-width: 370px) {
 	.showcase3-card {
 		margin-left: 0!important;
@@ -487,12 +487,12 @@ input[type=submit] {
 	margin-top: 6px;
 	padding: 1.43rem;
 }
-.main-nav {
-	// >ul: ;
-}
-.footer-nav {
-	// li: ;
-}
+// .main-nav {
+// 	// >ul: ;
+// }
+// .footer-nav {
+// 	// li: ;
+// }
 .icon {
 	margin-left: 1.36rem;
 	margin-right: 1.36rem;
