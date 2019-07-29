@@ -1,12 +1,8 @@
 <?php /* Template Name: Pirmas Puslapis */ ?>
 
-
-
 <!-- // užsikrauna pirmas -->
 
 <?php     get_header();   ?>
-
-
 
 <header>
 
@@ -17,6 +13,7 @@
       <div class="container">
          <div class="row">
             <div class="col-lg-12">
+
                <div class="logo"><a href="#"><img src="{{asset('img/logo.png')}}" alt=""/></a></div>
                <nav class="nav-collapse">
                   <ul>
@@ -26,6 +23,7 @@
                      <li class="menu-item"><a href="{{route('contact')}}" img src="{{asset('contact.html')}}" data-scroll>Contact</a></li>
                   </ul>
                </nav>
+               
             </div> <!--"col-lg-12"-->
          </div> <!--"row"-->
       </div> <!--"container"-->

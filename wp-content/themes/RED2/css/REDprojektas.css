@@ -131,12 +131,13 @@ header
 
 /*  ------------------------- Po "SINCE 1978" Užrašo zemiau rodykle i apacia (arrow-down) --------------  */
 
-.head-img:last-child 
+/* .head-img:last-child  */  /* atrodo, kad niekas nesikeicia*/
+.head-img
 {
     width: 2.57rem;
     height: 2.57rem;
 
-    /* border: 3px solid black; */
+    border: 2px solid black;
 }
 
 
@@ -184,7 +185,14 @@ header
 {
     margin: 4px;
     color: white;
+
+    border: 2px double green;
 }
+
+/* .top-container logo {
+    color: #FFFFFF;
+    background-color: black;
+} */
 
 /* ---------------------  Hover'is viršutinei nav menu (dešinėje viršuje) ------------------------------------ */
 .top-container a:hover

@@ -10,7 +10,7 @@
 
                <div class="logo">
                   <a href="#">
-                     <!-- <img src="<?= get_theme_file_uri('/img/logo.png') ?>" alt="upper logo"> -->
+                     <!-- <img src="<?= get_theme_file_uri('/img/logo2.png') ?>" alt="upper logo"> -->
                      <img class="head-img" src="<?= get_theme_file_uri('/img/logo.png') ?>" alt="upper logo">
 
                   </a>
