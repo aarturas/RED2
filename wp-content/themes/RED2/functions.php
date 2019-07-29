@@ -47,7 +47,7 @@ add_action('init', function() {
                'singular_name' => 'Our Team',
            ),
            'public' => true,
-           'has_archive' => true,
+           'has_archive' => false,
            'rewrite' => array('slug' => 'our-team'),
        )
    );

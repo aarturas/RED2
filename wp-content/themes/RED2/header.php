@@ -17,6 +17,8 @@
     <!-- <link rel="stylesheet" href=" {{asset('css/style.scss')}}"> -->
     <!-- <link rel="stylesheet" href="{{asset('css/style2.scss')}}"> -->
     <!-- <link rel="stylesheet" href="{{asset('css/mano.scss')}}"> -->
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/css/swiper.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
@@ -28,7 +30,7 @@
     <!--  -------------------- JS  -------------------------------------------------------------->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script>
 
-
+    
 
     <?php    wp_head();   ?>
 

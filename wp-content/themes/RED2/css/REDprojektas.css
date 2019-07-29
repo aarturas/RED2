@@ -555,9 +555,9 @@ color: #000;
 /*  ------------------------------ "Slider'io" nuotraukų ir "Contact Us" su formos rėmelis įrėminimas  --------------------------------- */
 .row 
 {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+    /* display: flex;
+    align-items: center;*/
+    justify-content: center; 
 
     /* border: 1px dashed black; */
 }

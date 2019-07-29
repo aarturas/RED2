@@ -74,53 +74,49 @@
          <div class="box10">
             <div class="row box-images">
 
-               <!-- ------------------------------------- DENNIS KIM  ------------------------------ -->
 
-               <div class="col-lg-3 col-sm-6 col-md-3 box">
-                        <span class="lnr lnr-pencil"></span>
-                              <!-- Nurodome kelią "get_permalink" su "path" ir funkcijos viduje nurodome "kelią" -->
-                              <a href="<?= get_permalink(get_page_by_path('kim',OBJECT,'our_team')) ?>">
-                                 <!-- Įkeliame 'visą' nuotrauką -->
-                                 <img src="<?= get_field('kim') ?>" alt="Kim"> 
-                              </a>
-                           <h3>Denis Kim</h3>
-                        <div class="smallline"></div>
-                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.</p>
-               </div>
+         <!-- Visi our tem puslapiai  -->
+         <?php
+               
+            $query = new WP_Query(array(
+            'post_type' => 'our_team',
+            'post_status' => 'publish',
+            'posts_per_page' => -1,
+            ));
 
-               <!-- ------------------------------------ SARA McCOY  ------------------------------- -->
 
-               <div class="col-lg-3 col-sm-6 col-md-3 box">
-                        <span class="lnr lnr-pencil"></span>
-                        <!-- Nurodome kelią su "path" ir funkcijos viduje nurodome "id" numerį -->
-                        <!-- <a href=" <?= get_permalink(480) ?>">   --  nesigauna dabar su foto indeksu surasti kelio -->
-                        <!-- Todėl naudosime kitą, iš 'Kimo' paimtą nuorodą -->
-                        <a href="<?= get_permalink(get_page_by_path('sara',OBJECT,'our_team')) ?>">
+            while ($query->have_posts()) {
+                  $query->the_post();
+                  $post_id = get_the_ID();
+                  ?>
 
-                                 <img src="<?= get_field('sara') ?>" alt="Sara">
-                              </a>
-                              <h3>Sara McCoy</h3>
+                  <div class="col-lg-3 col-sm-12 col-md-6 box">
+
+                  <div>
+                           <span class="lnr lnr-pencil"></span>
+                                 <!-- Nurodome kelią "get_permalink" su "path" ir funkcijos viduje nurodome "kelią" -->
+                                 <a href="<?= get_permalink($post_id) ?>">
+                                    <!-- Įkeliame 'visą' nuotrauką -->
+                                    <img src="<?= get_field('photo') ?>" alt="<?= get_field('alt') ?>">
+                                 </a>
+                              <h3><?= get_field('title') ?></h3>
                            <div class="smallline"></div>
-                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.</p>
-               </div>
+            </div>
+                        <p><?= get_field('desc') ?></p>
+        
+                  </div>
 
-               <!-- ----------------------------------- EMILY PORTER  ----------------------------- -->
+                  <?php
 
-               <div class="col-lg-3 col-sm-6 col-md-3 box">
-                     <span class="lnr lnr-pencil"></span>
-                           <!-- Su "get_permalink" nurodome kuriuo keliu pasirinktinai norime, kad rodytų 'img' failą -->
-                           <!-- Pasirenkame su nuotraukos "id" numeriu -->
-                        <a href="<?= get_permalink(get_page_by_path('emily',OBJECT,'our_team')) ?>">
+               }
+               wp_reset_query();
 
-                        <!-- <a href="<?= get_permalink(476) ?>"> -->
-                        <!-- Įkeliame nuotraukas, kada WP nurodome ne "url", bet "id", po to su "get" gauname nuotrauką -->
-                           <?= wp_get_attachment_image(get_field('emily'))  ?> 
-                        </a>
-                           <h3>Emily Porter</h3>
-                        <div class="smallline"></div>
-                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting let. Lorem Ipsum has been the industry.</p>
-               </div>
-
+            ?>
+            
+            
+            
+            
+            
             </div> <!-- // "row box-images" -->
          </div><!-- // "box10"-->
    </section> <!-- // class="showcase" -->
