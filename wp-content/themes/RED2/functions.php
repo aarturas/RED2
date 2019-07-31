@@ -41,7 +41,8 @@ add_action('init', function() {
  
    register_post_type( 'our_team',
    // CPT Options
-       array(
+       array
+       (
            'labels' => array(
                'name' => 'Our Team',
                'singular_name' => 'Our Team',
