@@ -555,8 +555,7 @@ color: #000;
 /*  ------------------------------ "Slider'io" nuotraukų ir "Contact Us" su formos rėmelis įrėminimas  --------------------------------- */
 .row 
 {
-    /* display: flex;
-    align-items: center;*/
+    display: flex;
     justify-content: center; 
 
     /* border: 1px dashed black; */
@@ -623,7 +622,7 @@ color: #000;
     /* border: 4px double blue; */
 }
 
-/* -------------- Dvibubas mėlynas rėmelis (kvadratas) aplink 'sliderio' nuotraukas  ---------------------------- */
+/* -------------- Dvigubas mėlynas rėmelis (kvadratas) aplink 'sliderio' nuotraukas  ---------------------------- */
 .showcase2-card
  {
     display: flex;

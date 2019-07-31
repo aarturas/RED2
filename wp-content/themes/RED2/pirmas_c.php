@@ -69,62 +69,60 @@
       <img src="<?= get_theme_file_uri('/img/section2-line.svg') ?>" alt="underline-septintas">
 
 
-         <!-- ------------------------------------- TRIJŲ ŽMONIŲ NUOTRAUKOS --------------------------- -->
+      <!-- ------------------------------------- TRIJŲ ŽMONIŲ NUOTRAUKOS --------------------------- -->
 
-         <div class="box10">
-            <div class="row box-images">
+      <div class="box10">
+         <div class="row box-images">
 
+            <!-- ------------- Visi "our tem" puslapiai dabar įkeliami šio kodo pagalba ------------------------- -->
+            <?php
+                  
+               $query = new WP_Query(array
+               (
+               'post_type' => 'our_team',   // "viešinamas" per POST'ą --> our team
+               'post_status' => 'publish',
+               'posts_per_page' => -1,
+               ));
 
-         <!-- Visi our tem puslapiai  -->
-         <?php
-               
-            $query = new WP_Query(array(
-            'post_type' => 'our_team',
-            'post_status' => 'publish',
-            'posts_per_page' => -1,
-            ));
-
-
-            while ($query->have_posts()) {
-                  $query->the_post();
-                  $post_id = get_the_ID();
-                  ?>
-
-                  <div class="col-lg-3 col-sm-12 col-md-6 box">
-
-                  <div>
-                           <span class="lnr lnr-pencil"></span>
-                                 <!-- Nurodome kelią "get_permalink" su "path" ir funkcijos viduje nurodome "kelią" -->
-                                 <a href="<?= get_permalink($post_id) ?>">
-                                    <!-- Įkeliame 'visą' nuotrauką -->
-                                    <img src="<?= get_field('photo') ?>" alt="<?= get_field('alt') ?>">
-                                 </a>
-                              <h3><?= get_field('title') ?></h3>
-                           <div class="smallline"></div>
-            </div>
-                        <p><?= get_field('desc') ?></p>
-        
-                  </div>
-
-                  <?php
-
-               }
-               wp_reset_query();
-
+               while($query->have_posts()) {
+                     $query->the_post();
+                     $post_id = get_the_ID();
             ?>
-            
-            
-            
-            
-            
-            </div> <!-- // "row box-images" -->
-         </div><!-- // "box10"-->
+
+<!-- ----------------------- Dabar visi WP trijų žmonių info atvaizduojama per čia pateiktą kodą: ------------------- -->
+               <div class="col-lg-3 col-sm-12 col-md-6 box">
+                  <div>
+
+                     <span class="lnr lnr-pencil"></span>
+
+                     <!-- Nurodome kelią "get_permalink" su "path" ir funkcijos viduje nurodome "kelią" -->
+                     <a href="<?= get_permalink($post_id) ?>">
+
+                        <!-- Įkeliame 'visas' nuotraukas -->
+                        <img src="<?= get_field('photo') ?>" alt="<?= get_field('alt') ?>">
+                     </a>
+
+                     <h3><?= get_field('title') ?></h3>
+                     
+                     <div class="smallline"></div>
+                     <p><?= get_field('desc') ?></p>
+                     
+                  </div>
+               </div>
+
+            <?php
+            }
+            wp_reset_query();
+            ?>
+         
+         </div> <!-- // "row box-images" -->
+      </div><!-- // "box10"-->
    </section> <!-- // class="showcase" -->
 
    <!-- --------------------------------  SHOWCASE-2  ---  TREČIA DALIS ----------------------------  -->
 
    <section class="showcase2">
-      <div class="row slider">  <!-- "Įtraukiame" į "row-slider" kairią ir dešinę rodykles + 3 img. -->
+      <div class="row slider">  <!-- "Įtraukiame" į "row-slider" kairę ir dešinę rodykles + 3 img. -->
 
          <!--  ------------------------- LEFT ARROW nuotrauka  -------------------------------------- -->
 
