@@ -136,8 +136,9 @@ header
 {
     width: 2.57rem;
     height: 2.57rem;
+    /* box-shadow: inset 0px 0px 6px 0px black; */
 
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 
 
@@ -186,7 +187,7 @@ header
     margin: 4px;
     color: white;
 
-    border: 2px double green;
+    /* border: 2px double green; */
 }
 
 /* .top-container logo {
@@ -425,7 +426,7 @@ color: #000;
     height: auto;
     margin-bottom: 15px;
 
-    /* border: 7px solid black; */
+    border: 2px solid red;
 }
 
 .showcase> card 
@@ -458,6 +459,9 @@ color: #000;
     opacity: 0.6;
     border-radius: 50%;
 }
+
+
+
 
         /* --------------- 3 ŽMONIŲ NUOTRAUKOS su media query  -------------------------------------------  */
 
@@ -518,7 +522,7 @@ color: #000;
     {
         font-size: 2rem;
         font-weight: bolder;
-        color: #333333;
+        /* color: #333333; */
 
         /* border: 2px dashed green; */
     }
@@ -533,7 +537,7 @@ color: #000;
         font-style: italic;
         color: rgba(51, 51, 51, 0.5);
 
-        /* border: 2px dashed red; */
+        border: 2px dashed red;
     }
 
     /* ---------------------  2. SHOWCASE-2:  Trečia dalis su 6 nuotraukomis  ------------------------------------------ */
@@ -579,6 +583,10 @@ color: #000;
 
     /* border: 3px dashed orange; */
 }
+
+
+
+
 
 /*  --------------------------  Įdedame media query SLIDER'iui ---------------------------------------------------------------- */
 /* ---- Punktyrinis raudonas stačiakampis atsiranda aplink "slider" nuo 1150px ir lieka iki 'galo'  --------------- */

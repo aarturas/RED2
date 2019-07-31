@@ -105,6 +105,7 @@
                      <h3><?= get_field('title') ?></h3>
                      
                      <div class="smallline"></div>
+                     
                      <p><?= get_field('desc') ?></p>
                      
                   </div>
@@ -126,7 +127,7 @@
 
          <!--  ------------------------- LEFT ARROW nuotrauka  -------------------------------------- -->
 
-            <img class="left-arrow" src="<?= get_theme_file_uri('img/Left arrow.png') ?>" alt="Left arrow" style="height: 60px; width: 60px;">
+         <img class="left-arrow" src="<?= get_theme_file_uri('img/Left arrow.png') ?>" alt="Left arrow" style="height: 60px; width: 60px;">
 
          <!--  ----------------- SWIPER-SLIDER IR ---- AŠTUONIOS NUOTRAUKĖLĖS EILĖJE  ------------------------- -->
 

@@ -35,13 +35,13 @@
     <?php    wp_head();   ?>
 
 
-    <!--   ------------------Įdedame menu viršuje  ------------------------------------- -->
-    <div class="menu">
+    <!--   ------------------Jeigu norime, kad viršuje rodytų menu, įdedame šį kodą ------------------------------------- -->
+    <!-- <div class="menu">
         <a href="<?= home_url() ?>">Home</a>
         <a href="<?= home_url('about us/') ?>">About Us</a>
         <a href="<?= home_url('contact/') ?>">Contact</a>
         <a href="<?= home_url('social/') ?>">Social</a>
-    </div>
+    </div> -->
 
 
 </head>
