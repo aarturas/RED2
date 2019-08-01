@@ -1,13 +1,10 @@
 <?php /* Template Name: home */ ?>
 
-
 <?php     get_header();   ?>
-
-
 
    <header>
 
-      <!-- ------------------------ Viršutinė navigacija su logo kairėje pusėje ---------------------------------------- -->
+      <!-- ---------------- Viršutinė navigacija su logo kairėje pusėje ---------------------------------------- -->
 
       <div class="top-container">
 
@@ -19,12 +16,15 @@
                   </a>
                </div>
 
+               <!-- ---------- Viršutinės navigacijos menu dešinėje pusėje (viršuje) ------------------ -->
+
                <nav class="nav-collapse">
                   <ul>
                      <li class="menu-item"><a href="<?= home_url('home/') ?>">Home</a></li>
                      <li class="menu-item"><a href="<?= home_url('about-us/') ?>">About Us</a></li>
                      <li class="menu-item"><a href="<?= home_url('social/') ?>">Social</a></li>
                      <li class="menu-item"><a href="<?= home_url('contact/') ?>">Contact</a></li>
+
 
                      <!--  --------------- Nesigauna grąžinti "Contact", nes vis rodo "Sarą" ---------------------------- -->
 
@@ -39,12 +39,12 @@
 
       <div class="box8">
          <h1>
-               Premium Quality & Tradition
+            Premium Quality & Tradition
          </h1>
          <p>SINCE 1978</p>
       </div>
 
-      <!-- -------------------------  APATINIS "ARROW DOWN" SIMBOLIS  ------------------------------------ -->
+      <!-- ------------------  APATINIS "ARROW DOWN" SIMBOLIS  -------------------------------- -->
 
       <a href="#footer">
          <!-- <img class="head-img" src="http://localhost/RED/public/img/head-arrow.png" alt="arrow down"> -->
@@ -52,7 +52,6 @@
       </a>
 
    </header>
-
    
    <!--  --------------------------------------------  UŽRAŠAS "MEET OUR TEAM"   ---------------------------------->
 

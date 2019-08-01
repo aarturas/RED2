@@ -1,3 +1,5 @@
+<?php     get_header();   ?>
+   
    <div style="background-color:blue; padding-top:10px;" font-style="color:white;">
 
 
@@ -41,3 +43,5 @@
 
 
     </div>
+
+    <?php     get_footer();   ?>

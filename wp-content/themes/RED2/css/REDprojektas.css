@@ -536,7 +536,7 @@ color: #000;
         padding-right: 1.4286rem;
         font-style: italic;
         color: rgba(51, 51, 51, 0.5);
-
+text-align: left;
         border: 2px dashed red;
     }
 
@@ -565,6 +565,12 @@ color: #000;
     /* border: 1px dashed black; */
 }
 
+.row.slider {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
 /* ---------------------------- "FOLLOW US ON INSTAGRAM" ikonos įrėminimas punktyriniu kvadratu  ------------------------------------ */
 .btn i
  {
@@ -585,7 +591,9 @@ color: #000;
 }
 
 
-
+.wrapper p {
+    margin: 0;
+}
 
 
 /*  --------------------------  Įdedame media query SLIDER'iui ---------------------------------------------------------------- */

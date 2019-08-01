@@ -54,6 +54,16 @@ add_action('init', function() {
    );
 });
 
+register_taxonomy('skills',array('our_team'), array(
+    'hierarchical' => true,
+    'show_ui' => true,
+    'show_admin_column' => true,
+    'query_var' => true,
+    'rewrite' => array( 'slug' => 'skills' ),
+  ));
+
+
+
 
 // Aprašomos funkcijos, kad atsirastų "Dashbord'e" (WP consoleje), nuoroda-užrašas su "Our Contact"
 
