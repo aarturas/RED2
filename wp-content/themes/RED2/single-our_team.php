@@ -23,6 +23,8 @@
       <div style="color:azure; padding:20px;">
          <?= get_field('desc') ?>
       </div>
+
+
      
 
       <!--  ------------------------------ PHOTO ------------------------------------------------------------------ -->
@@ -39,7 +41,12 @@
 
      
 
-
+      <div style="color:azure; padding:20px;">
+         <?php 
+         $term_list = wp_get_post_terms($post->ID, 'skills', array('fields' => 'names'));
+         echo implode(', ',$term_list);
+         ?>
+      </div>
 
 
     </div>

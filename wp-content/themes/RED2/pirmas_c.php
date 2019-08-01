@@ -41,9 +41,12 @@
          <h1>
             Premium Quality & Tradition
          </h1>
-         <p>SINCE 1978</p>
-      </div>
 
+         <p>
+            SINCE 1978
+         </p>
+      </div><!-- box8 -->
+         
       <!-- ------------------  APATINIS "ARROW DOWN" SIMBOLIS  -------------------------------- -->
 
       <a href="#footer">
@@ -75,42 +78,56 @@
          <div class="row box-images">
 
          <!-- ----------------- WP atvaizdavimas -------------------------------------------------------------- -->
-            <!-- ------------- Visi "our tem" puslapiai dabar įkeliami šio kodo pagalba ------------------------- -->
-            <?php
+         <!-- ------------- Visi "our tem" puslapiai dabar įkeliami šio kodo pagalba ------------------------- -->
+
+         <?php
                   
-               $query = new WP_Query(array
-               (
-               'post_type' => 'our_team',   // "viešinamas" per POST'ą --> our team
-               'post_status' => 'publish',
-               'posts_per_page' => -1,      // Kad rodytų visus page
-               ));
+         $query = new WP_Query(array
+         (
+         'post_type' => 'our_team',   // "viešinamas" per POST'ą --> our team
+         'post_status' => 'publish',
+         'posts_per_page' => -1,      // Kad rodytų visus 'page'
+         ));
 
-               while($query->have_posts()) {
-                     $query->the_post();
-                     $post_id = get_the_ID();
-                  ?>
+         while($query->have_posts()) {
+               $query->the_post();
+               $post_id = get_the_ID();
+         ?>
 
-                  <!-- ----------- Dabar visi WP trijų žmonių info atvaizduojama per čia pateiktą kodą: --------------- -->
+         <!-- ----------- Dabar visi WP trijų žmonių info atvaizduojama per čia pateiktą kodą: --------------- -->
 
-               <div class="col-lg-3 col-sm-12 col-md-6 box">
-                  <div>
-                     <span class="lnr lnr-pencil"></span>
+         <div class="col-lg-3 col-sm-12 col-md-6 box">
+            <div><!-- Papildomas div'as -->
+               <span class="lnr lnr-pencil"></span>
 
-                     <!-- Nurodome kelią "get_permalink" su "path" ir funkcijos viduje nurodome "kelią" -->
-                     <a href="<?= get_permalink($post_id) ?>">
-                        <!-- Įkeliame 'visas' nuotraukas -->
-                        <img src="<?= get_field('photo') ?>" alt="<?= get_field('alt') ?>"> <!-- PHOTO -->
-                     </a>
+               <!-- Nurodome kelią "get_permalink" su "path" ir funkcijos viduje nurodome "kelią" -->
+               <a href="<?= get_permalink($post_id) ?>">
+                  <!-- Įkeliame 'visas' nuotraukas -->
+                  <img src="<?= get_field('photo') ?>" alt="<?= get_field('alt') ?>"> <!-- PHOTO -->
+               </a>
 
-                     <h3><?= get_field('title') ?></h3>  <!-- TITLE -->
-                        <div class="smallline"></div>       
-                     <p><?= get_field('desc') ?></p>     <!-- DESC -->
-                     
-                  </div>
-               </div> <!-- col-lg-3 col-sm-12 col-md-6 box -->
+               <h3><?= get_field('title') ?></h3>  <!-- TITLE -->
+                  <div class="smallline"></div>       
+               <p><?= get_field('desc') ?></p>     <!-- DESC -->
+
+               <?php
+
+               $term_list = wp_get_post_terms($post_id, 'skills', array('fields' => 'all'));// gauname termu lista, kaip objektus
+               foreach($term_list as $term)  //einame per visą listą
+               { 
+                  ?> <a href="
+                  <?= get_term_link($term->term_taxonomy_id, 'skills')?>"> <!-- skaiciuojame kiekvieno termo linka, turedami jo id -->
+                  <?= $term->name ?> <!-- paimame termo varda -->
+                  </a> <?php
+               }
+
+               ?>
+               
+            </div><!-- papildomas div'as -->
+         </div> <!-- col-lg-3 col-sm-12 col-md-6 box -->
 
 
-            <?php }  wp_reset_query(); ?>
+      <?php }  wp_reset_query(); ?>
          
          </div> <!-- // "row box-images" -->
       </div><!-- // "box10"-->
@@ -191,10 +208,12 @@
       <!--  -------------  INSTAGRAM ICONA IR UŽRAŠAS "FOLLOW US ON INSTAGRAM"  -------------------------------- -->
 
       <a href="#" class="wrapper btn">
-         <i class="fab fa-instagram"></i>
-            <p>
-               FOLLOW US ON INSTAGRAM
-            </p>
+         <i class="fab fa-instagram">
+         </i>
+         
+         <p>
+            FOLLOW US ON INSTAGRAM
+         </p>
       </a>
 
    </section> <!-- // "showcase-2"  -->
@@ -378,6 +397,7 @@
       </div><!--//"icon"-->
 
    </section> <!--"showcase4"-->
+
 
 
 
