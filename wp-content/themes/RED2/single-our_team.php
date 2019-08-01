@@ -18,23 +18,23 @@
       </h1>
 
       <!-- --------------------------- DESCRIPTION - DESC ----------------------------------- -->
-        <!-- ----------------------- Paaiškinimo patalpinimas i WP --------------------------- -->
 
+        <!-- ------------------------ Pridedame "lauką" <desc> ---------------------------------- -->
       <div style="color:azure; padding:20px;">
          <?= get_field('desc') ?>
       </div>
      
 
       <!--  ------------------------------ PHOTO ------------------------------------------------------------------ -->
-      <!-- Perkeliame "our team" tiesiai į WP, nes susikūrėme nuorodą "single-our_team", su nuoroda į 'photo' -->
 
+      <!-- ----------------- Grįžimas į pagrindinį langą -------------------------------------- -->
       <a href="<?= get_permalink(get_page_by_path('p-c',OBJECT,'page')) ?>">
-      <!-- WP irgi susikūriame langelį su pavadinimu "photo" -->
+
+      <!-- Perkeliame "our team" tiesiai į WP, nes susikūrėme nuorodą "single-our_team" į 'photo' -->
          <img src="<?= get_field('photo') ?>" alt="<?= get_field('alt') ?>">
       </a>
 
            
-      <!-- ----------------- Grįžimas į pagrindinį langą -------------------------------------- -->
       <!--  --------------"permalink" funkcija "duoda" matyti puslapį ne tik iš 'localhost'o' ------------ -->
 
      
@@ -43,5 +43,7 @@
 
 
     </div>
+
+
 
     <?php     get_footer();   ?>

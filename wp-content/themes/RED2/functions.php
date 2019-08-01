@@ -44,7 +44,7 @@ add_action('init', function() {
        array
        (
            'labels' => array(
-               'name' => 'Our Team',
+               'name' => 'Our Team',  // Kreipiamės į "our-team", taip ir rodys
                'singular_name' => 'Our Team',
            ),
            'public' => true,
@@ -54,8 +54,10 @@ add_action('init', function() {
    );
 });
 
-register_taxonomy('skills',array('our_team'), array(
-    'hierarchical' => true,
+// ---------------- Taxonomy-skillsų kodas --------------------------
+
+register_taxonomy('skills',array('our_team'), array(   // Kreipiamės į "our-team"
+    'hierarchical' => true,   // Pridedame "hierarchiją"---> true
     'show_ui' => true,
     'show_admin_column' => true,
     'query_var' => true,
