@@ -11,8 +11,12 @@ define('VER_', '1.78'); // Patys sugalvojame pavadinimą ('1.78'), kad matytusi 
 
 add_action('wp_enqueue_scripts', function () {
 
-   // wp_enqueue_style( 'red', get_theme_file_uri('css/REDprojektas.css'), [], VER_);
-   wp_enqueue_style( 'style', get_theme_file_uri('css/REDprojektas.css'), [], VER_);
+    // wp_enqueue_style( 'style', get_theme_file_uri('css/REDprojektas.css'), [], VER_);
+    //    wp_enqueue_style( 'style', get_theme_file_uri('css/suTrStyle.css'), [], VER_);
+    // wp_enqueue_style( 'style', get_theme_file_uri('css/naujasScss.scss'), [], VER_);
+    wp_enqueue_style( 'red', get_theme_file_uri('css/REDprojektas.css'), [], VER_);
+
+
 
 	// wp_enqueue_script( 'slider', get_theme_file_uri('js/jquery.slider.js'), [], VER_);
 

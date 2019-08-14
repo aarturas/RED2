@@ -19,6 +19,8 @@ $color_celeste_approx: #ccc;
 $white_19_9474: rgba(255, 255, 255, 0.199474);
 $color_fuego_83_approx: rgba(189, 228, 19, 0.83);
 
+
+
 //fonts
 $font_0: responsivenav;
 $font_1: Libre Baskerville;
@@ -528,11 +530,13 @@ header
 	}
 }
 
+/* --  "input" formai ir žemėlapiui, nuo 0 iki 500px  ----- */
+
 @media only screen and(max-width: 500px) 
 {
    .showcase3-card 
    {
-		width: calc(100% - 20px);
+		width: calc(100% - 20px);   /* Paskaičiuojame plotį kitaip--- */
 		.myForm {
 			width: 100%;
 		}
@@ -557,6 +561,8 @@ header
 	}
 }
 
+/* -------   linija aplink žemėlapį, nuo 0 iki 350px;--------------- */
+
 @media only screen and(max-width: 350px) 
 {
    .showcase3-card 
@@ -574,6 +580,8 @@ header
 	}
 }
 
+/* --   žemėlapis ir forma nuo 0 iki 370px ------*/
+
 @media only screen and(max-width: 370px) 
 {
    .showcase3-card 
@@ -582,6 +590,8 @@ header
 		margin-right: 0!important;
 	}
 }
+
+/* ----- "Send" mygtuko stačiakampis langelis ----------------------- */
 
 .send_btn 
 {
@@ -598,6 +608,8 @@ header
 	letter-spacing: 0.03rem;
 }
 
+/* -- Po "Contact Us" "underline" linija (div) langelis------------ */
+
 .undeline 
 {
 	width: 8.5rem;
@@ -607,9 +619,9 @@ header
 .showcase3-card 
 {
 	margin: 1.46rem;
-   height: 25.71rem;
-   
-   p 
+	height: 25.71rem;
+	
+	p    /* -- Užrašo, po žemėlapio, įrėminimas  ------------ -- */
    {
 		padding-top: 0.6rem;
 		font-style: italic;
@@ -621,24 +633,29 @@ header
 	}
 }
 
-@media only screen and(max-width: 322px) {
-	body {
-		background-color: $color_regent_st_blue_approx;
-	}
-}
-.myForm {
+/* ----- Visas formos turinys (visi inputai) + "Send" mygtukas------------ */
+
+.myForm 
+{
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: space-between;
 	width: 32.22rem;
 }
-.map {
+
+.map 
+{
 	padding-right: 17.79rem;
 	height: 32.21rem;
 	width: 20rem;
 }
-.showcase4 {
+
+/* ------------- SHOWCASE-4 ----------------------------------- */
+/* -------- Apatinis nav. blokas ( Home, About Us, Social, ... -------- */
+
+.showcase4 
+{
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -648,16 +665,22 @@ header
 	width: 100%;
 	color: $white;
 	padding: 1rem;
-	a {
+
+	a  /* ------- Visi apatinės (5-dalies) nav. užrašai ir iconos langeliuose--- */
+	{
 		color: $white;
 	}
-	ul a:hover {
+
+	ul a:hover 
+	{
 		position: relative;
 		background-image: linear-gradient($color_shamrock_83_approx, $color_persian_blue_83_approx);
 		z-index: 1;
 		opacity: 0.7;
 	}
-	img.icon:hover {
+
+	img.icon:hover 
+	{
 		position: relative;
 		background-image: linear-gradient($color_shamrock_83_approx, $color_persian_blue_83_approx);
 		z-index: 1;
@@ -666,7 +689,11 @@ header
 		border-radius: 50%;
 	}
 }
-input {
+
+/* ----- 2. Visų formos input'u langelių  įrėmintuose, atskirai--- */
+
+input 
+{
 	width: 100%;
 	height: 4.29rem;
 	border: 1px solid $color_celeste_approx;
@@ -676,14 +703,20 @@ input {
 	padding-left: 2.14rem;
 	font-size: 1.43rem;
 	color: $color_alto_approx;
-	&:hover {
+
+	&:hover 
+	{
 		color: $black;
 	}
-	&:focus {
+
+	&:focus 
+	{
 		color: $black;
 	}
 }
-textarea {
+
+textarea 
+{
 	width: 100%;
 	height: 4.29rem;
 	border: 1px solid $color_celeste_approx;
@@ -698,14 +731,20 @@ textarea {
 	height: 8.57rem;
 	margin-top: 0.71rem;
 	margin-bottom: 1.43rem;
-	&:hover {
+
+	&:hover 
+	{
 		color: $black;
 	}
-	&:focus {
+
+	&:focus 
+	{
 		color: $black;
 	}
 }
-input[type=submit] {
+
+input[type=submit] 
+{
 	background-color: $color_mine_shaft_approx;
 	width: 32.21rem;
 	height: 4.29rem;
@@ -714,33 +753,56 @@ input[type=submit] {
 	border: none;
 	cursor: pointer;
 }
-#mrg {
+
+#mrg 
+{
 	margin-top: 0;
 }
-.footer-nav {
-	li {
+
+/* -- apatinę nav. su užrašais (home,about us,social ir facebook icon,twiter icon,.---- */
+
+.footer-nav 
+{
+	li 
+	{
 		margin: 1.43rem;
 		display: inline-block;
 		color: $white;
 	}
-	ul {
+
+	/* -- tik nav. langelių su užrašais (home, About us, Social, Contact ir icon)  ----------------- */
+
+	ul 
+	{
 		display: flex;
 		align-items: center;
 		padding: 0;
 		margin-bottom: 2.15rem;
 	}
 }
-.icon {
+
+/* -- Tik icon'u be užrašų  kiekvienos (icon-keturios) ---- */
+
+.icon 
+{
 	margin-left: 1.36rem;
 	margin-right: 1.36rem;
 }
-.logo {
+
+/* -- "Logo", kuri yra tarp apatinės nav.  įrėminimas --------- */
+
+.logo 
+{
 	height: 2.86rem;
 	width: 2.86rem;
 	margin-left: 1.43rem;
 	margin-right: 1.43rem;
 }
-#footer {
+
+/* --- "footer'io", viso paskutinio bloko įrėminimas  ---- */
+
+#footer 
+{
 	background-color: $color_mine_shaft_approx;
 	display: flex;
 	height: 2.86rem;
@@ -750,40 +812,62 @@ input[type=submit] {
 	color: $white_19_9474;
 	font-size: 10px;
 }
-@media(min-width: 768px) and(max-width: 1024px) {
-	header {
+
+/* -- Visų navigacijos užrašų (HOME,ABOUT US,SOCIAL,CONTACT) (768px iki 1024px) ---- */
+
+@media(min-width: 768px) and(max-width: 1024px) 
+{
+	header 
+	{
 		padding-bottom: 1.43rem;
-		nav {
+
+		nav 
+		{
 			float: none;
 			text-align: center;
 			width: 100%;
-			li {
+
+			li 
+			{
 				float: none;
 				text-align: center;
 				width: 100%;
 			}
 		}
 	}
-	footer-nav {
+
+	.showcase4 
+	{
 		float: none;
 		text-align: center;
 		width: 100%;
 	}
-	.showcase4 {
+
+	footer-nav 
+	{
 		float: none;
 		text-align: center;
 		width: 100%;
 	}
 }
-@media(min-width: 481px) and(max-width: 767px) {
-	header {
+
+/* -- Visų navigacijos užrašų įrėminimas nuo (481px iki 767px)---- */
+
+@media(min-width: 481px) and(max-width: 767px) 
+{
+	header 
+	{
 		padding-bottom: 1.43rem;
-		nav {
+
+		nav 
+		{
 			float: none;
 			text-align: center;
 			width: 100%;
 			font-size: 20px;
-			li {
+
+			li 
+			{
 				float: none;
 				text-align: center;
 				width: 100%;
@@ -791,6 +875,7 @@ input[type=submit] {
 			}
 		}
 	}
+
 	footer-nav {
 		float: none;
 		text-align: center;
@@ -805,9 +890,11 @@ input[type=submit] {
 	}
 }
 
+/* -- Visų navigacijos užrašų įrėminimas nuo(320px iki 480px) -- */
+
 @media(min-width: 320px) and(max-width: 480px) 
 {
-   header 
+   header  /* -- Viso pirmo bloko įrėminimas nuo 320px iki 480px -- */
    {
 		padding-bottom: 1.43rem;
       nav 
@@ -851,6 +938,8 @@ input[type=submit] {
 	}
 }
 
+/* Bandau padaryti "response" apatinei nav - footeriui (soc. užrašams) */
+
 @media(min-width: 400px) and(max-width: 680px) 
 {
    .showcase4 
@@ -893,3 +982,12 @@ input[type=submit] {
 	margin-right: 1em;
 }
 
+/* -------- Puslapio spalva pasidaro šviesiai mėlyna nuo 0 iki 322px; ---------------------- */
+
+@media only screen and(max-width: 322px) 
+{
+	body 
+	{
+		background-color: $color_regent_st_blue_approx;
+	}
+}
