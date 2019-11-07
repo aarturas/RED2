@@ -282,6 +282,8 @@ header {
   text-decoration: underline;
 }
 
+/* -------------------------------------  1  ------------------------------------------------- */
+
 /* ------------------- 1. SHOWCASE:  TRIJŲ nuotraukų tvarkymas arba 2-a dalis  ------------------------------  */
 
 /*  ---------------- "MEET OUR TEAM" ir Trijų žmonių nuotraukų visas 2 (antras) blokas  --------------------- */
@@ -427,6 +429,8 @@ header {
   }
 }
 
+/* ---------------------------------------  2  --------------------------------------------- */
+
 /* ---------------  2. SHOWCASE-2:  Trečia dalis su 6 nuotraukomis  ------------------------ */
 
 /* ----  Visas 'Trečias "blokas"(sekcija)' su 'slider' 6-iomis nuotraukomis (oranžinis punktyras)  ------------ */
@@ -443,6 +447,16 @@ header {
   /* border: 3px dashed orange; */
 }
 
+.showcase2 .left-arrow {
+  height: 60px;
+  width: 60px;
+}
+
+.showcase2 .right-arrow {
+  height: 60px;
+  width: 60px;
+}
+
 /*  ------ "Slider'io" nuotraukų ir "Contact Us" su formos rėmelis įrėminimas  ------------- */
 
 .row {
@@ -457,7 +471,7 @@ header {
   justify-content: center;
   align-items: center;
 
-  /* REIKALINGAS , KAD RODYKLES BUTU VIENOJE EILEJE */
+  /* REIKALINGAS , KAD RODYKLES (left ir right arrow), BUTU VIENOJE EILEJE */
   flex-wrap: nowrap;
 }
 
@@ -544,7 +558,7 @@ header {
   height: 14.29rem;
   width: 100%;
 
-  /* width: 14.29rem; */
+  width: 14.29rem;
 
   background-color: #ffffff;
 
@@ -559,15 +573,9 @@ header {
 
 .showcase2-card:hover {
   position: relative;
-  /* background-image: linear-gradient(
-    rgba(197, 49, 99, 0.83),
-    rgba(197, 49, 99, 0.83)
-  ); */
 
-  /* background-color: #e24545; */
   background-color: grey;
   text-decoration: none;
-
   z-index: 1;
 
   /* border: 5px dashed red; */
@@ -596,8 +604,6 @@ header {
   background-color: #ffffff;
   margin-top: 4.23rem;
 
-  /* flex-wrap: nowrap; */
-
   /* border: 7px dashed black; */
 }
 
@@ -609,12 +615,13 @@ header {
 
 .showcase2 a.wrapper:hover {
   position: relative;
-
   background-color: lightgrey;
   z-index: 1;
 
   /* border: 5px dashed red; */
 }
+
+/* -----------------------------------------  3  -------------------------------------------- */
 
 /* ----------------- 3. SHOWCASE-3:  pradedu nuo žemėlapio su emailu ---------------------- */
 
@@ -702,10 +709,8 @@ header {
 
 @media only screen and (max-width: 500px) {
   .showcase3-card {
-    width: calc(
-      100% - 20px
-    ); /* Paskaičiuojame plotį kitaip--- <---------------- */
-
+    width: calc(100% - 20px);
+    /* Paskaičiuojame plotį kitaip--- <---------------- */
     /* border: 3px dashed yellow; */
   }
 

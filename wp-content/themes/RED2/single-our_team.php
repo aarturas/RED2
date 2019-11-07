@@ -9,7 +9,7 @@
 
    <!-- --------------------------------- TITLE -------------------------------------- -->
    <!-- ----------------------- Pavadinimo patalpinimas, <h3> --------------------------- -->
-   <!-- Rodo, pvz 'Kim'o puslapyje jo varda ir pavarde -->
+   <!-- Rodo, pvz 'Kim'o puslapyje jo vardą ir pavardę -->
 
    <h1 style="color:azure; padding-left:4em; padding-top:15px;">
       <?= get_field('title') ?>

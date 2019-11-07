@@ -32,8 +32,8 @@
          </ul>
       </nav>
 
-   </div>
-   <!--"container"-->
+   </div> <!-- -----------------"top-container" - pabaiga ------------------------------------>
+
 
 
    <!--  ---------  užrašas <SINCE 1978> ir <Premium Quality & Tradition>  ------------------- -->
@@ -46,7 +46,7 @@
       <p>
          SINCE 1978
       </p>
-   </div><!-- box8 -->
+   </div> <!-- ---- box8 - pabaiga ---------------------------------------------- -->
 
    <!-- ------------------  APATINIS "ARROW DOWN" SIMBOLIS  -------------------------------- -->
 
@@ -113,18 +113,18 @@
 
                <?php
 
-                  $term_list = wp_get_post_terms($post_id, 'skills', array('fields' => 'all')); // gauname termu lista, kaip objektus
-                  foreach ($term_list as $term)  //einame per visą listą
-                  {
-                     ?> <a href="
+                     $term_list = wp_get_post_terms($post_id, 'skills', array('fields' => 'all')); // gauname termu lista, kaip objektus
+                     foreach ($term_list as $term)  //einame per visą listą
+                     {
+                        ?> <a href="
                         <?= get_term_link($term->term_taxonomy_id, 'skills') ?>">
                   <!-- skaiciuojame kiekvieno termo linka, turedami jo id -->
                   <?= $term->name ?>
                   <!-- paimame termo varda -->
                </a> <?php
-                        }
+                              }
 
-                        ?>
+                              ?>
 
             </div><!-- papildomas div'as -->
          </div> <!-- col-lg-3 col-sm-12 col-md-6 box -->
@@ -133,85 +133,101 @@
          <?php }
          wp_reset_query(); ?>
 
-      </div> <!-- // "row box-images" -->
-   </div><!-- // "box10"-->
-</section> <!-- // class="showcase" -->
+      </div> <!-- ------ "row box-images" - pabaiga --------------- -->
+   </div><!-- ------------- "box10" - pabaiga --------------------------------->
+</section> <!-- ------------- class="showcase"  pabaiga ----------------------- -->
 
 <!-- -------------------------------  SHOWCASE-2  ---  TREČIA DALIS ----------------------------  -->
 
 <section class="showcase2">
    <div class="row slider">
+
       <!-- "Įtraukiame" į "row-slider" kairę ir dešinę rodykles + 3 img. -->
 
       <!--  ------------------------- LEFT ARROW nuotrauka  -------------------------------------- -->
 
-      <img class="left-arrow" src="<?= get_theme_file_uri('img/Left arrow.png') ?>" alt="Left arrow"
-         style="height: 60px; width: 60px;">
+      <img class="left-arrow" src="<?= get_theme_file_uri('img/Left arrow.png') ?>" alt="Left arrow">
+
 
       <!--  ----------------- SWIPER-SLIDER IR ---- AŠTUONIOS NUOTRAUKĖLĖS EILĖJE  ------------------------- -->
 
       <div class="swiper-container">
          <div class="swiper-wrapper">
 
-            <!-- --------------------------------  Pirma nuotrauka: PAVĖSINE  ------------------------------- -->
+            <!-- --------------------------------  Pirma nuotrauka: PAVĖSINĖ  ------------------------------- -->
+
             <div class="swiper-slide">
                <!-- pridedame "swipe-slider" klasę -->
                <div class="showcase2-card">
                   <img class="select" src="<?= get_theme_file_uri('img/Image 1.jpg') ?>" alt="Pavėsinė">
                </div>
             </div>
+
             <!-- --------------------------------  Antra nuotrauka: FONAS  ---------------------------------- -->
+
             <div class="swiper-slide">
                <div class="showcase2-card">
                   <img class="select" src="<?= get_theme_file_uri('img/Image 2 Mouse Over.jpg') ?>" alt="Fonas">
                </div>
             </div>
+
             <!-- --------------------------------  Trečia nuotrauka: GATVĖ  --------------------------------- -->
+
             <div class="swiper-slide">
                <div class="showcase2-card">
                   <img class="select" src="<?= get_theme_file_uri('img/Image 3.jpg') ?>" alt="Gatvė">
                </div>
             </div>
+
             <!-- --------------------------------  Ketvirta nuotrauka: CENTRAS  ----------------------------- -->
+
             <div class="swiper-slide">
                <div class="showcase2-card">
                   <img class="select" src="<?= get_theme_file_uri('img/Image 4.jpg') ?>" alt="Centras">
                </div>
             </div>
+
             <!-- --------------------------------  Penkta nuotrauka: CENTRAS  ------------------------------- -->
+
             <div class="swiper-slide">
                <div class="showcase2-card">
                   <img class="select" src="<?= get_theme_file_uri('img/Image 4.jpg') ?>" alt="Centras">
                </div>
             </div>
+
             <!-- --------------------------------  Šešta nuotrauka: DOG  ------------------------------------ -->
+
             <div class="swiper-slide">
                <div class="showcase2-card">
                   <img class="select" src="<?= get_theme_file_uri('img/dog.jpg') ?>" alt="Dog">
                </div>
             </div>
+
             <!-- --------------------------------  Septinta nuotrauka: CAT  --------------------------------- -->
+
             <div class="swiper-slide">
                <div class="showcase2-card">
                   <img class="select" src="<?= get_theme_file_uri('img/cat.jpg') ?>" alt="Cat">
                </div>
             </div>
+
             <!-- --------------------------------  Aštunta nuotrauka: CHAIRS-COMFORT  ----------------------- -->
+
             <div class="swiper-slide">
                <div class="showcase2-card">
                   <img class="select" src="<?= get_theme_file_uri('img/chairs-comfort.jpg') ?>" alt="Chairs-comfort">
                </div>
             </div>
 
-         </div> <!-- //"swiper-wrapper" -->
-      </div> <!-- // "swiper-container" -->
+         </div> <!-- -----------------"swiper-wrapper" - pabaiga ---------------- -->
+      </div> <!-- --------------- "swiper-container" - pabaiga ------------------ -->
 
       <!--  ---------------------------- RIGHT ARROW nuotrauka  --------------------------------------------- -->
 
-      <img class="right-arrow" src="<?= get_theme_file_uri('img/Right Arrow.png') ?>" alt="Right arrow"
-         style="height: 60px; width: 60px;">
+      <img class="right-arrow" src="<?= get_theme_file_uri('img/Right Arrow.png') ?>" alt="Right arrow">
 
-   </div> <!-- // "row slider"  -->
+
+   </div> <!-- --------------------- "row slider" - pabaiga --------------------  -->
 
    <!--  -------------  INSTAGRAM ICONA IR UŽRAŠAS "FOLLOW US ON INSTAGRAM"  -------------------------------- -->
 
@@ -224,7 +240,7 @@
       </p>
    </a>
 
-</section> <!-- // "showcase-2"  -->
+</section> <!-- ----------------- "showcase-2" - pabaiga ------------------------  -->
 
 <!-- -----------------------------  SHOWCASE-3  ------------------------------------------------------- -->
 
@@ -263,7 +279,7 @@
             <input type="hidden" name="_token" value="LtDNhgRSUUSB0cHwwiUCjwCX0SsGlyZXmzMVtZh6">
 
          </form>
-      </div> <!-- // "showcase3-card" -->
+      </div> <!-- ------------------- "showcase3-card" - pabaiga ----------------------- -->
 
       <!--  ------------------------------  ŽEMĖLAPIS  -------------------- SHOWCASE-3 --------------------- -->
 
@@ -276,7 +292,7 @@
                </iframe>
                <a href="https://www.crocothemes.net">
                </a>
-            </div> <!-- // "gmap_canvas" -->
+            </div> <!-- ------------ "gmap_canvas" - pabaiga --------------------- -->
 
             <style>
             .mapouter {
@@ -293,7 +309,7 @@
             }
             </style>
          </div>
-         <!--// "mapouter" -->
+         <!-- ----------- "mapouter" - pabaiga ------------------------------- -->
 
          <!-- ---------------------------  UŽRAŠAS PO ŽEMĖLAPIU  ---------- SHOWCASE-3 ------------ -->
          <div>
@@ -302,9 +318,9 @@
             </p>
          </div>
 
-      </div> <!-- // "showcase3-card"  -->
-   </div> <!-- // "row"  -->
-</section> <!-- // "showcase-3"  -->
+      </div> <!-- -------------- "showcase3-card" - pabaiga ---------------------  -->
+   </div> <!-- -------------- "row" - pabaiga ------------------------------------- -->
+</section> <!-- --------- "showcase-3" - pabaiga ---------------------------------  -->
 
 <!--  ------------------------------------------  Initialize Swiper  ----------- SHOWCASE-3 ----------- -->
 
@@ -314,7 +330,7 @@ var swiper = new Swiper('.swiper-container', {
    spaceBetween: 30,
    navigation: {
       nextEl: '.right-arrow',
-      prevEl: '.left-arrow',
+      prevEl: '.left-arrow'
    },
 
    // <!--  ---------------------------  Sustatome BREAKPOINTS  ------------- SHOWCASE-3 ---------- -->
@@ -326,7 +342,7 @@ var swiper = new Swiper('.swiper-container', {
       },
       640: {
          slidesPerView: 1,
-         spaceBetween: 30,
+         spaceBetween: 30
       }
    }
 });
@@ -359,7 +375,7 @@ var swiper = new Swiper('.swiper-container', {
          <!--   ---------------------------------- LOGO "Pinterest" ---------------------------------------- -->
          <a href="#">
             <!-- <img class="logo" src="http://localhost/RED/public/img/Footer Logo.svg" alt="Logo"> -->
-            <img class="icon" src="<?= get_theme_file_uri('img/Footer Logo.svg') ?>" alt="Logo">
+            <img class="icon" src="<?= get_theme_file_uri('img/Footer Logo.svg') ?>" alt="Logo Pinterest">
             <a href="<?= get_permalink(get_page_by_path('p-c', OBJECT, 'page')) ?>"></a>
 
             <!--   ---------------------------------- SOCIAL ------------------------------------------------ -->
@@ -379,28 +395,30 @@ var swiper = new Swiper('.swiper-container', {
             </li>
 
       </ul>
-   </div> <!-- //"footer-nav" -->
+   </div> <!-- -----------"footer-nav" - pabaiga ------------------------- -->
 
    <!-- -------------------------  FOOTERIO ICO'NOS  ----------------------------------------------------- -->
 
    <div class="icon">
       <a href="#">
-         <img class="icon" src="<?= get_theme_file_uri('img/Facebook.png') ?>" alt="icon">
+         <img class="icon" src="<?= get_theme_file_uri('img/Facebook.png') ?>" alt="icon Facebook">
       </a>
       <a href="#">
-         <img class="icon" src="<?= get_theme_file_uri('img/Twitter.png') ?>" alt="icon">
+         <img class="icon" src="<?= get_theme_file_uri('img/Twitter.png') ?>" alt="icon Twitter">
       </a>
       <a href="#">
-         <img class="icon" src="<?= get_theme_file_uri('img/Instagram.png') ?>" alt="icon">
+         <img class="icon" src="<?= get_theme_file_uri('img/Instagram.png') ?>" alt="icon Instagram">
       </a>
       <a href="#">
-         <img class="icon" src="<?= get_theme_file_uri('img/Pinterest.png') ?>" alt="icon">
+         <img class="icon" src="<?= get_theme_file_uri('img/Pinterest.png') ?>" alt="icon Pinterest">
       </a>
    </div>
-   <!--//"icon"-->
+   <!-- ----------------------- "icon" - pabaiga ---------------------->
 
 </section>
-<!--"showcase4"-->
+<!-- ----------------------"showcase4" - pabaiga ------------------------->
+
+
 
 
 
