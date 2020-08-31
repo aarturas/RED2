@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 html {
@@ -38,6 +40,9 @@ body {
   min-height: 100vh;
   background-color: #f5f5f5;
   font-family: 'Libre Baskerville', 'san-serif';
+
+  /* margin: 0;
+  padding: 0; */
 
   /* border: 4px solid black; */
 }
@@ -140,9 +145,9 @@ header {
 
 .top-container {
   display: flex;
-  /* justify-content: space-between; */
-  justify-content: space-around;
-
+  justify-content: space-between;
+  /* justify-content: space-around; */
+  margin: 0 10px 0 10px;
   width: 100%;
   padding: 30px 30px 30px 30px;
   font-size: 14px;
@@ -166,8 +171,9 @@ header {
   =================================================================================================== */
 
 .top-container a {
-  margin: 4px;
+  /* margin: 4px; */
   color: white;
+  margin: 0 20px;
 
   /* border: 2px double green; */
 }
@@ -306,6 +312,7 @@ header {
 .showcase {
   display: flex;
   justify-content: space-between;
+
   align-items: center;
   flex-direction: column;
   width: 100%;
@@ -322,6 +329,8 @@ header {
   font-size: 5rem;
   letter-spacing: 0.006rem;
   margin: 0rem;
+
+  text-align: center;
 
   /* border: 1px solid orange; */
 }
@@ -431,6 +440,7 @@ header {
   .box img {
     width: 12rem;
     height: 12rem;
+    /* height: auto; */
 
     /* border: 3px dashed black; */
   }
@@ -975,7 +985,7 @@ textarea {
   display: flex;
   align-items: center;
   padding: 0;
-  margin-bottom: 2.15rem;
+  /* margin-bottom: 2.15rem; */
 
   /* border: 5px dashed red; */
 }
