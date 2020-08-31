@@ -1,0 +1,776 @@
+Return-path: <bounces+8865454-3f08-modernus=grezimas.lt@em6250.visiting.lt>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Wed, 09 Jan 2019 13:32:22 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <bounces+8865454-3f08-modernus=grezimas.lt@em6250.visiting.lt>)
+	id 1ghC5u-0003hU-5M
+	for modernus@grezimas.lt; Wed, 09 Jan 2019 13:32:22 +0200
+Received: from [50.31.63.254] (helo=o1.hv30e.shared.sendgrid.net)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.90_1)
+	(envelope-from <bounces+8865454-3f08-modernus=grezimas.lt@em6250.visiting.lt>)
+	id 1ghC5t-0003gp-PT
+	for modernus@grezimas.lt; Wed, 09 Jan 2019 13:32:22 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=visiting.lt; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=s1; bh=vA33iIlkhJhya/cSGF5gSWuG+bc=; b=JQ5sOFZVYvDwJ6UhqwA7gMn
+	iruzeRJ/jwRZsRk3RgenRs2nfSAc+d32jjj/SS26eBY3WxXluHAngdSpX2WMtj7z
+	Ptm3ys6NmxwkTNDg+73ykxY5jiJNuIl7bbjhuenFYqUUxVi91jJoog3rxqboSNUk
+	GTJq6lzs5qD3NlDD7XyU=
+Content-Type: multipart/alternative; boundary=7da44bc32a42e688c235d77fcd979411b8766d8795ea4f39d5ec81046d49
+Date: Wed, 09 Jan 2019 07:44:55 +0000 (UTC)
+From: "Vestu.lt" <info@visiting.lt>
+Mime-Version: 1.0
+Reply-To: info@vestu.lt
+Subject: =?UTF-8?Q?Rengini=C5=B3_organizavimas_ir_vedimas_-_Vestu.lt?=
+To: modernus@grezimas.lt
+Message-ID: <FNuJWu5nQGmTHJUcrCbhKg@ismtpd0019p1iad2.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@em6250.visiting.lt?subject=http://url3947.visiting.lt/asm/unsubscribe/*q*user_id=8865454*a*data=xSDoBlbk-2EnOm_6ictesSq288tkhl4AqcgSiQ5idPY6IH7iJotaYhmZjv-NcBJ1FrNGpUo6dyYBTT1X7LZRfv-_umFZac4y7iHG0ivl6FruIy8VqQ2NHdc6ZJWpHJEzK0K4cNV1_bqxKWSjnpArOV4xX6Cp4Te_N4ARMOtg04IyuUEWY4rXxIrXfdCWfswuF7o0gmlcrQll9PvncWfyLaghSKPvGRnybxVIzHEYGKLH6ywV5Aly_gOZuL4ABbZbWIyEa7T3uUSxt8QTHtSS8vZD9cfRQ3yaBhz8hYqnqmKlW-ZXBcA2dZdWya6t0-6zMCs2ewnNjQ7KZ2NMtcHYBNFATJPAZRgeQlUrHNEAJmPB261Q-acBg4gdWG2Sip0VCYxlXV57-lLzYDePrset_uf5BtAI0oGEa81yLbHSw3LDEYb8JZE9Ijc9SVhT5nQBEu0n7DNTCFQ5E-VVoksw7olJa7PUupHHbsM_nnOQV5dfWal5vI4qJ-9fCa7d4kaSWsKyILcFEtFwM2wlBV7ZRefXVQkvttIa5WipeYbiY_c=>
+X-SG-EID: 16h7rUYBGDn70x3+zBZDaJaRkoL0AMYUOfLMkgS5w0AoimjQ217AVzVso/jQpNC3syqpzYxApw66gp
+ ym5yfQUmlcsFqfmlMx/HCADKJxvcDGHDPss1DU168yYW0peNfEVqLg8z2QtwjtsKkXPviU+JAoyihB
+ dfyVe3XnEKPV+fURx0eNPxoagD9lvgKW1j0ZLjMWAZ5uxC1l1S91IcxODNlQc4EHgHz06Gy6Xa3OVO
+ w=
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP0kHobfDltDJdIQeVYMTU5cKrCw2jVq3ZBV0A
+ R6A4wGrkZMVB71R4aNDLtEq53VBDNMLiEDgak6oUFF706NNn1UdPotAzMv0H1Oal1uUGUKHwIF67tg
+ YkzqtUbg91H2TnPNVdERI47wu1yHD4boIjDV
+X-Spam-Checked: visiting.lt, 194.135.87.7, vestu.lt, w3.org, amazonaws.com,
+	72.21.210.29, serveriai.lt, amazon.com
+
+--7da44bc32a42e688c235d77fcd979411b8766d8795ea4f39d5ec81046d49
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+RENGINI=C5=B2 VED=C4=96JAI IR ORGANIZATORIAI
+
+https://vestu.lt/
+
+Visus=C2=A0renginio organizavimo=C2=A0reikalus patik=C4=97kite mums. Padeda=
+me nuo pa=C4=8Dios pirmos minut=C4=97s =E2=80=93 kartu sukuriame renginio v=
+izij=C4=85, v=C4=97liau keliaujama prie technini=C5=B3 renginio organizavim=
+o klausim=C5=B3, na ir galiausiai renginio i=C5=A1pildymo.
+
+M=C5=ABs=C5=B3 puslapis https://vestu.lt/
+
+Vedame ir organizuojame
+
+https://vestu.lt/renginiu_organizavimas_imonems.php
+
+=C4=AEmoni=C5=B3 vakar=C4=97lius https://vestu.lt/renginiu_organizavimas_im=
+onems.php
+
+Organizuojame =C4=AFmoni=C5=B3 renginius =E2=80=93=C2=A0 =C4=AEvairius vaka=
+r=C4=97lius, nauj=C5=B3 produkt=C5=B3 pristatymo renginius, atidarymo =C5=
+=A1ventes.
+
+=C4=AEmon=C4=97s rengini=C5=B3 vedimui esame paruo=C5=A1=C4=99 skirtingus s=
+cenarij=C5=B3 variantus, kuriuos galima keisti, adaptuoti pagal poreikius a=
+r sukurti visi=C5=A1kai naujus - esame pasiruo=C5=A1=C4=99 ir pa=C4=8Dioms =
+netik=C4=97=C4=8Diausioms id=C4=97joms, renginio temoms. Atsi=C5=BEvelgiame=
+ =C4=AF =C4=AFmoni=C5=B3 jau tur=C4=97tus renginius ir si=C5=ABlome i=C5=A1=
+skirtin=C4=99, k=C5=ABrybi=C5=A1kai sud=C4=97liot=C4=85 program=C4=85.
+
+https://vestu.lt/jubiliejaus_organizavimas.php
+
+Gimtadienius https://vestu.lt/jubiliejaus_organizavimas.php
+
+Gimtadienio vakar=C4=97l=C4=AF galime suorganizuoti nuo a iki z =E2=80=93 =
+=C5=A1vent=C4=97s vieta, maistas, pramogos ir linksmyb=C4=97s. Turima patir=
+tis dirbant su skirtingas paslaugas teikian=C4=8Diais partneriais pad=C4=97=
+s i=C5=A1sirinkti Jums tinkamiausius variantus. Vakar=C4=97l=C4=AF gali pap=
+uo=C5=A1ti k=C5=ABrybingi ir =C4=AFmantr=C5=ABs dekorai, sve=C4=8Dius =C5=
+=A1okio pamokai pakviesti ir pasirodymais program=C4=85 papildyti =C5=BEino=
+mos =C5=A1ok=C4=97jos, gyva muzika ir dainomis nustebinti gars=C5=ABs atlik=
+=C4=97jai, =C5=BEad=C4=85 atimti mag=C5=B3 =C5=A1ou. Viskas ko reikia =E2=
+=80=93 susisiekti nurodytais kontaktais ir aptarti poreikius bei galimybes.
+
+https://vestu.lt/laisvalaikio_pramogu_organizavimas.php
+
+Laisvalaikio pramogas https://vestu.lt/laisvalaikio_pramogu_organizavimas.p=
+hp
+
+M=C5=ABs=C5=B3 komanda si=C5=ABlo aktyvi=C5=B3 pramog=C5=B3 visoje Lietuvoj=
+e organizavimo paslaugas.=C2=A0 Pramogos orientuojamos =C4=AF skirtingo am=
+=C5=BEiaus ir poreiki=C5=B3 asmenis, tad tereikia i=C5=A1sirinkti artimiaus=
+i=C4=85 =C5=A1ird=C5=BEiai pramog=C4=85 ir tiesiog m=C4=97gautis geru laiku=
+, mes pasir=C5=ABpinsime visomis smulkmenomis.
+
+Si=C5=ABlome ir pa=C5=BEintines keliones po =C4=AFvairius =C5=BEinomus ir d=
+ar neatrastus lankytinus objektus, padedame sve=C4=8Diams susipa=C5=BEinti =
+su unikalia architekt=C5=ABra, pasim=C4=97gauti Lietuvos gamtos gro=C5=BEiu=
+ ekskursij=C5=B3 metu bei artimiau susipa=C5=BEinti su lietuvi=C5=A1komis t=
+radicijomis.
+
+Sve=C4=8Diams Lietuvoje padedame suorganizuoti ir kult=C5=ABrines pramogas,=
+ tokias kaip koncertai, var=C5=BEybos pasir=C5=ABpiname ir u=C5=BEimtumu ir=
+ pramogomis laisvu nuo darb=C5=B3 metu =E2=80=93 vakarais bei naktimis.
+
+Tod=C4=97l jei J=C5=ABs=C5=B3 organizacija planuoja priimti sve=C4=8Dius i=
+=C5=A1 u=C5=BEsienio ir nori suteikti jiems pa=C4=8Di=C4=85 geriausi=C4=85 =
+patirt=C4=AF Lietuvoje =E2=80=93 kreipkit=C4=97s ir mes Jums pad=C4=97sime!
+
+D=C4=97l kainos ir papildom=C5=B3 klausim=C5=B3 susisiekite:
+
+Rokas: (+370) 609 88386 - Vilnius.
+
+Eimantas: (+370) 685 75345 - Kaunas.
+
+M=C5=ABs=C5=B3 puslapis - https://vestu.lt/ https://vestu.lt/
+
+Vestu.lt
+
+Lietuva, Vilnius,=20=20=20
+
+Unsubscribe http://url3947.visiting.lt/asm/unsubscribe/global/?user_id=3D88=
+65454&data=3DxmzIGebtQ-q4ARUV2ZH7x8P8PFxlTrtKjKFjPtkAYxS7flvScbcLXyzKu_dDWW=
+wR8UgDtdOSzIhYTsuFiUP3tgam5f8vHugjPu9iq6KJYhLoyY9BZVlhEDWnLg7gBRmQFH0YtKcEm=
+7qbu62ViDqza5IvzqpVygBqcCiMuNza7CO4HuksTsd075kyBT5eIM5K4ldSqc4QE5HbNl2dkG-D=
+GCCqZVoaGu7qJDwlZLDFXglv9VLHyYF6g0gX1ivrRjTtsJrNCCkmwFxk4siXFOPLADlr1huCdB7=
+OtTPigeipoYoS9HH3eFh5gX_8NrSbsd5P31CvjGXdVqUsABR9DZRPN4LM2B05mqBLipOkLCU3kp=
+9BY6PQv0Ii3EHISrUr2Aeg0DQHFxFI5pFUWC_bxmsq0jUUJtsscZWm4vDE2n10qdEKos948XsrH=
+PWUpsO4xb9RrEpkvU00XyrNesJ4LabTgOHz_CTxh5QysC_GyRf422UNX6MIguDZhOIFQgOTkUxs=
+jwAa-NZgj4l5jJE0v8PpU_eVYyjhC4sI1vYfySGWQLIezz77v4Ag2knZgfOAn0mp - Unsubscr=
+ibe Preferences http://url3947.visiting.lt/asm/?user_id=3D8865454&data=3DoI=
+YbRF_dEKgohWRgJ1oD3Uxf1eMydFSGVBTT49voTBfWmerv6-tD_-qZwnLcuX7cfaTlT_c1C45pi=
+12UBberuQqoGfMpiIrvQSneB9stt4Knub2DnYXR5_D_-I65cFsn5H-sMKDnMgsIneJZ0daAhmcD=
+sCM8qCOxDHen78CXA26YQPiLFb1gmasgoYIZpWKYnwRsyrio64LQE6H2wg_zJqzVc21CHw5yeM5=
+BZTJzCXZvyer6tp6Tqh3PpWJZ3lH-e2iZ9MHZGNQg5uPi4nA2xEiUd4Uzm0_0HcdeSehZwTmKcN=
+6pE-YU9oWtiDWF9RxFP-Q1Nlm2spgmFE62kfQY2psn2nGwZsZseYUcJsK01oPZ8mbTmwIPZJMz3=
+KfAXdBpp4wZugA2vAT8KkgWRAIc4vdRz9ONm1GyTtMszAJ8IBllld0Ez9igkNK-H8MGmLUZ9h7p=
+GFe983dJ6myRWdMF1JDXZNGX5V-eaJc102YhoH8wG83IxBB3DF9MeM5Eo8UTfZOHtn_dS63qZuA=
+4fmskxQ=3D=3D=
+
+--7da44bc32a42e688c235d77fcd979411b8766d8795ea4f39d5ec81046d49
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html data-editor-version=3D"2" class=3D"sg-campaigns" xmlns=3D"http://www.=
+w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1, minimum-scale=3D1, maximum-scale=3D1" /><!--[if !mso]><!-->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge" /><!--<![end=
+if]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <style type=3D"text/css">
+      body {width: 600px;margin: 0 auto;}
+      table {border-collapse: collapse;}
+      table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+      img {-ms-interpolation-mode: bicubic;}
+    </style>
+    <![endif]-->
+
+    <style type=3D"text/css">
+      body, p, div {
+        font-family: arial;
+        font-size: 14px;
+      }
+      body {
+        color: #000000;
+      }
+      body a {
+        color: #1188E6;
+        text-decoration: none;
+      }
+      p { margin: 0; padding: 0; }
+      table.wrapper {
+        width:100% !important;
+        table-layout: fixed;
+        -webkit-font-smoothing: antialiased;
+        -webkit-text-size-adjust: 100%;
+        -moz-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      img.max-width {
+        max-width: 100% !important;
+      }
+      .column.of-2 {
+        width: 50%;
+      }
+      .column.of-3 {
+        width: 33.333%;
+      }
+      .column.of-4 {
+        width: 25%;
+      }
+      @media screen and (max-width:480px) {
+        .preheader .rightColumnContent,
+        .footer .rightColumnContent {
+            text-align: left !important;
+        }
+        .preheader .rightColumnContent div,
+        .preheader .rightColumnContent span,
+        .footer .rightColumnContent div,
+        .footer .rightColumnContent span {
+          text-align: left !important;
+        }
+        .preheader .rightColumnContent,
+        .preheader .leftColumnContent {
+          font-size: 80% !important;
+          padding: 5px 0;
+        }
+        table.wrapper-mobile {
+          width: 100% !important;
+          table-layout: fixed;
+        }
+        img.max-width {
+          height: auto !important;
+          max-width: 480px !important;
+        }
+        a.bulletproof-button {
+          display: block !important;
+          width: auto !important;
+          font-size: 80%;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+        }
+        .columns {
+          width: 100% !important;
+        }
+        .column {
+          display: block !important;
+          width: 100% !important;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+          margin-left: 0 !important;
+          margin-right: 0 !important;
+        }
+      }
+    </style>
+    <!--user entered Head Start-->
+=20=20=20=20
+     <!--End Head user entered-->
+  </head>
+  <body>
+    <center class=3D"wrapper" data-link-color=3D"#1188E6" data-body-style=
+=3D"font-size: 14px; font-family: arial; color: #000000; background-color: =
+#ebebeb;">
+      <div class=3D"webkit">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" class=3D"wrapper" bgcolor=3D"#ebebeb">
+          <tr>
+            <td valign=3D"top" bgcolor=3D"#ebebeb" width=3D"100%">
+              <table width=3D"100%" role=3D"content-container" class=3D"out=
+er" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                <tr>
+                  <td width=3D"100%">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+                      <tr>
+                        <td>
+                          <!--[if mso]>
+                          <center>
+                          <table><tr><td width=3D"600">
+                          <![endif]-->
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" style=3D"width: 100%; max-width:600px;" align=3D"cent=
+er">
+                            <tr>
+                              <td role=3D"modules-container" style=3D"paddi=
+ng: 0px 0px 0px 0px; color: #000000; text-align: left;" bgcolor=3D"#ffffff"=
+ width=3D"100%" align=3D"left">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+    <table class=3D"module preheader preheader-hide" role=3D"module" data-t=
+ype=3D"preheader" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%"
+           style=3D"display: none !important; mso-hide: all; visibility: hi=
+dden; opacity: 0; color: transparent; height: 0; width: 0;">
+      <tr>
+        <td role=3D"module-content">
+          <p>RENGINI=C5=B2 VED=C4=96JAI IR ORGANIZATORIAI</p>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout=
+: fixed;">
+      <tr>
+        <td style=3D"font-size:6px;line-height:10px;padding:0px 0px 0px 0px=
+;" valign=3D"top" align=3D"center">
+          <a href=3D"http://url3947.visiting.lt/wf/click?upn=3DC5-2B19W-2BF=
+69YJsDJ5WVcLW1qx27sIfY7QfIh582K5et0-3D_YmytkhLeZzT628UeBJT0rDh1rFTVZ7R3As-2=
+BkU7-2Fv6C1caqRe01FXraE-2FoSF9odhDJnn9AZhpw-2BpvCt8XOde6w9MbjSzYeyb8EuYrmrw=
+43fmIa7-2FpY3SWQ0RcD-2BAC77hjnHcnl1CvyZNiNmjD-2FqbAUeefFA7szA8YAGV6rHMV2mLs=
+Jm6aaLT-2Fp1l-2Ba9ipgAWLCXfH83YZE9VQRHXXdLi7Jdey8phpaWh5Zl0otDI3BoigiSvMmtI=
+jS5A1grD-2FtV1x6Uj1qSimXmjFQFBN3Ly0eMiGh27Kb-2FqGojmxGe4IUKixpom6eL-2FKjwFr=
+pMbFns3NPU-2B4uDqDc8HXGj4qs2i7yVxuER8uI8l-2F7ynYoJDCLjFTiWfklz6FvBL6qn0EIN0=
+PGwyksEZykKaxO77eBwDyU6u91gKzq-2FLTHTeoJFIa-2FaU-3D"><img class=3D"max-widt=
+h" border=3D"0" style=3D"display:block;color:#000000;text-decoration:none;f=
+ont-family:Helvetica, arial, sans-serif;font-size:16px;max-width:100% !impo=
+rtant;width:100%;height:auto !important;" src=3D"https://marketing-image-pr=
+oduction.s3.amazonaws.com/uploads/ae078b293c79307917cbfaa03bdbc7938db75b55a=
+d3c42649f391805b6fe91969373e82c4925437c4cc1d86a66d03464a6bfdffaa221a4a9f770=
+da44bba87f09.png" alt=3D"Vestu.lt - rengini=C5=B3 organizavimas" width=3D"6=
+00"></a>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:30px 045px 30px 45px;line-height:22px;text-ali=
+gn:inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div style=3D"text-align: center;">Visus&nbsp;renginio organiza=
+vimo&nbsp;reikalus patik=C4=97kite mums. Padedame nuo pa=C4=8Dios pirmos mi=
+nut=C4=97s =E2=80=93 kartu sukuriame renginio vizij=C4=85, v=C4=97liau keli=
+aujama prie technini=C5=B3 renginio organizavimo klausim=C5=B3, na ir galia=
+usiai renginio i=C5=A1pildymo.</div>
+        </td>
+      </tr>
+    </table>
+  <table border=3D"0" cellPadding=3D"0" cellSpacing=3D"0" class=3D"module" =
+data-role=3D"module-button" data-type=3D"button" role=3D"module" style=3D"t=
+able-layout:fixed" width=3D"100%"><tbody><tr><td align=3D"center" class=3D"=
+outer-td" style=3D"padding:0px 0px 45px 0px"><table border=3D"0" cellPaddin=
+g=3D"0" cellSpacing=3D"0" class=3D"button-css__deep-table___2OZyb wrapper-m=
+obile" style=3D"text-align:center"><tbody><tr><td align=3D"center" bgcolor=
+=3D"#b7451c" class=3D"inner-td" style=3D"border-radius:6px;font-size:16px;t=
+ext-align:center;background-color:inherit"><a style=3D"background-color:#b7=
+451c;border:1px solid #333333;border-color:#b7451c;border-radius:4px;border=
+-width:1px;color:#ffffff;display:inline-block;font-family:arial,helvetica,s=
+ans-serif;font-size:16px;font-weight:normal;letter-spacing:0px;line-height:=
+10px;padding:15px 75px 15px 75px;text-align:center;text-decoration:none" hr=
+ef=3D"http://url3947.visiting.lt/wf/click?upn=3DC5-2B19W-2BF69YJsDJ5WVcLW1q=
+x27sIfY7QfIh582K5et0-3D_YmytkhLeZzT628UeBJT0rDh1rFTVZ7R3As-2BkU7-2Fv6C1caqR=
+e01FXraE-2FoSF9odhDJnn9AZhpw-2BpvCt8XOde6w9MbjSzYeyb8EuYrmrw43fmIa7-2FpY3SW=
+Q0RcD-2BAC77hjnHcnl1CvyZNiNmjD-2FqbAUeefFA7szA8YAGV6rHMV2mLsJm6aaLT-2Fp1l-2=
+Ba9ipgAWLCXfH83YZE9VQRHXXdLi7JUUgJ48H7-2FCxIfj-2F693RqCfFO1bYbQA0SswYBNetCx=
+YMD06IJSRTkMN9XP0IogzXV56UsSScLJsSrtntBf827sVpd7CiCYN9b0BvQM8IAXV3rK-2BFEyV=
+fewroZuRRWH1TGAixWHlZw3segs-2BMhlsEfRZftL0p8RBRv5I8mdD7jGMmCky-2FX49ibvB42O=
+MKclu8eVReUTOyWvHmToP-2B3T-2FdWwg-3D" target=3D"_blank">M=C5=ABs=C5=B3 pusl=
+apis</a></td></tr></tbody></table></td></tr></tbody></table>
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"5px"
+                 style=3D"line-height:5px; font-size:5px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 5px 0px;"
+                bgcolor=3D"#ebebeb"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;line-height:22px;text-align:in=
+herit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <h1 style=3D"text-align: center;"><span style=3D"color:#454545;=
+"><span style=3D"font-size:20px;"><span style=3D"font-family:arial,helvetic=
+a,sans-serif;">Vedame ir organizuojame</span></span></span></h1>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout=
+: fixed;">
+      <tr>
+        <td style=3D"font-size:6px;line-height:10px;padding:0px 45px 0px 45=
+px;" valign=3D"top" align=3D"center">
+          <a href=3D"http://url3947.visiting.lt/wf/click?upn=3DC5-2B19W-2BF=
+69YJsDJ5WVcLWzaVvIHAJYBzrKrMCUsistOzAp2aObIadbUp4dljXjJjRyeelLgnFyo18bRd5NI=
+mnw-3D-3D_YmytkhLeZzT628UeBJT0rDh1rFTVZ7R3As-2BkU7-2Fv6C1caqRe01FXraE-2FoSF=
+9odhDJnn9AZhpw-2BpvCt8XOde6w9MbjSzYeyb8EuYrmrw43fmIa7-2FpY3SWQ0RcD-2BAC77hj=
+nHcnl1CvyZNiNmjD-2FqbAUeefFA7szA8YAGV6rHMV2mLsJm6aaLT-2Fp1l-2Ba9ipgAWLCXfH8=
+3YZE9VQRHXXdLi7JY1kr-2BzBtLrzRKLHEG5Ap6jK9ZgFZyoSmXj-2FjNu9YkBUN0rht2R5ZA7R=
+37oV2VRyFMvGufVqFM5rWnzA7MxPt7ob5JgR8BJWyb5ipA6kcLLtQhmqHdZPrJ5W50ALQ44d3fv=
+yYzTGZJSCL5iLL19yq0jU6n4W6uO-2Fu-2FlxGWDjWST-2ByEjtxVWRN6Hvne3JkA4PuP-2Fezz=
+sbiQjme4cH9-2BRzfmg-3D"><img class=3D"max-width" border=3D"0" style=3D"disp=
+lay:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, =
+sans-serif;font-size:16px;max-width:100% !important;width:100%;height:auto =
+!important;" src=3D"https://marketing-image-production.s3.amazonaws.com/upl=
+oads/2cf46ded8c8a67f55740ff6e7d369f9842eebcb555f85e864109a9b21d39568c23fb39=
+5997180a90ceea46bbecec210441c040b130eda33fcbdb3604fe04ed29.jpeg" alt=3D"Ves=
+tu.lt - Rengini=C5=B3 organizavimas =C4=AFmon=C4=97ms" width=3D"600"></a>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:20px 45px 16px 45px;line-height:22px;text-alig=
+n:inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div><a href=3D"http://url3947.visiting.lt/wf/click?upn=3DC5-2B=
+19W-2BF69YJsDJ5WVcLWzaVvIHAJYBzrKrMCUsistOzAp2aObIadbUp4dljXjJjRyeelLgnFyo1=
+8bRd5NImnw-3D-3D_YmytkhLeZzT628UeBJT0rDh1rFTVZ7R3As-2BkU7-2Fv6C1caqRe01FXra=
+E-2FoSF9odhDJnn9AZhpw-2BpvCt8XOde6w9MbjSzYeyb8EuYrmrw43fmIa7-2FpY3SWQ0RcD-2=
+BAC77hjnHcnl1CvyZNiNmjD-2FqbAUeefFA7szA8YAGV6rHMV2mLsJm6aaLT-2Fp1l-2Ba9ipgA=
+WLCXfH83YZE9VQRHXXdLi7JeMz2C-2BN4k1PP3FpbdIIPbP6bFgeeclSZ2fjAumwD3FOhUkSbM1=
+SDxQ3GPIB-2FNGANKFGucikwsTD-2B8ylzfPIOnPX3-2B3vLzOmNpGUA8SKleU43g4xG5pCFOR6=
+xOMjT4NUHU0Zu1arCOpju4P4-2BToE-2FVrfpZ4BlOAFEPcwsW33Aqv1nhWwA7Aog-2Fhb1f-2B=
+RpdbbViSyecKXl7RZ3wyaAjiubZQ-3D"><span style=3D"color:#B7451C;"><span style=
+=3D"font-size:18px;"><strong><span style=3D"font-family:arial,helvetica,san=
+s-serif;">=C4=AEmoni=C5=B3 vakar=C4=97lius</span></strong></span></span></a=
+></div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:0px 45px 25px 045px;line-height:22px;text-alig=
+n:inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div>Organizuojame =C4=AFmoni=C5=B3 renginius =E2=80=93&nbsp; =
+=C4=AEvairius vakar=C4=97lius, nauj=C5=B3 produkt=C5=B3 pristatymo renginiu=
+s, atidarymo =C5=A1ventes.</div>
+
+<div>&nbsp;</div>
+
+<div>=C4=AEmon=C4=97s rengini=C5=B3 vedimui esame paruo=C5=A1=C4=99 skirtin=
+gus scenarij=C5=B3 variantus, kuriuos galima keisti, adaptuoti pagal poreik=
+ius ar sukurti visi=C5=A1kai naujus - esame pasiruo=C5=A1=C4=99 ir pa=C4=8D=
+ioms netik=C4=97=C4=8Diausioms id=C4=97joms, renginio temoms. Atsi=C5=BEvel=
+giame =C4=AF =C4=AFmoni=C5=B3 jau tur=C4=97tus renginius ir si=C5=ABlome i=
+=C5=A1skirtin=C4=99, k=C5=ABrybi=C5=A1kai sud=C4=97liot=C4=85 program=C4=85=
+.</div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout=
+: fixed;">
+      <tr>
+        <td style=3D"font-size:6px;line-height:10px;padding:0px 45px 0px 45=
+px;" valign=3D"top" align=3D"center">
+          <a href=3D"http://url3947.visiting.lt/wf/click?upn=3DC5-2B19W-2BF=
+69YJsDJ5WVcLW672ZQ-2B9rL0Bb5bx7zoOCgiWAJAnPgP9kgYdZ9912BD1tR-2Fo4jHEUGWXUK2=
+brxyz8A-3D-3D_YmytkhLeZzT628UeBJT0rDh1rFTVZ7R3As-2BkU7-2Fv6C1caqRe01FXraE-2=
+FoSF9odhDJnn9AZhpw-2BpvCt8XOde6w9MbjSzYeyb8EuYrmrw43fmIa7-2FpY3SWQ0RcD-2BAC=
+77hjnHcnl1CvyZNiNmjD-2FqbAUeefFA7szA8YAGV6rHMV2mLsJm6aaLT-2Fp1l-2Ba9ipgAWLC=
+XfH83YZE9VQRHXXdLi7JX1YoQgcXwFPm-2BEwXSSIWrNodxqQ8jv9oY99xa3836G8gp60O5MSYI=
+pEkmAZTTicDamlhuS5YCJXjMNEdtKLJxbOH3WUBv8FWLirpfq8k5ziKK-2FhvSOkT6-2BFyuAqW=
+4xEBOH4JIIZLVCvNLZv3QKl1wVMB7SRMWkwWTpuLG9ICj4EyE4yYjMGeBdg0VF9VYy5tGYkkr4L=
+C3kPnHHTWVHbBGE-3D"><img class=3D"max-width" border=3D"0" style=3D"display:=
+block;color:#000000;text-decoration:none;font-family:Helvetica, arial, sans=
+-serif;font-size:16px;max-width:100% !important;width:100%;height:auto !imp=
+ortant;" src=3D"https://marketing-image-production.s3.amazonaws.com/uploads=
+/245ae5578d42d12339ed31508e6758b58e0d8364956ad9e69202cd1cf21187cbb1ead45207=
+70008532edb579325ef101fb7b65ad297d19e88a1b316033c1503a.jpeg" alt=3D"Vestu.l=
+t - Gimtadieni=C5=B3 organizavimas" width=3D"600"></a>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:20px 45px 16px 45px;line-height:22px;text-alig=
+n:inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div><a href=3D"http://url3947.visiting.lt/wf/click?upn=3DC5-2B=
+19W-2BF69YJsDJ5WVcLW672ZQ-2B9rL0Bb5bx7zoOCgiWAJAnPgP9kgYdZ9912BD1tR-2Fo4jHE=
+UGWXUK2brxyz8A-3D-3D_YmytkhLeZzT628UeBJT0rDh1rFTVZ7R3As-2BkU7-2Fv6C1caqRe01=
+FXraE-2FoSF9odhDJnn9AZhpw-2BpvCt8XOde6w9MbjSzYeyb8EuYrmrw43fmIa7-2FpY3SWQ0R=
+cD-2BAC77hjnHcnl1CvyZNiNmjD-2FqbAUeefFA7szA8YAGV6rHMV2mLsJm6aaLT-2Fp1l-2Ba9=
+ipgAWLCXfH83YZE9VQRHXXdLi7JQSdCQ3gSCi00ed7RGhYsfA0INLlxoZzDk2JB2RoiegOW8KCd=
+JavjfnvV3bayJOZ4Bx8Rwiyp3jIFwCSEhwaOc9upgWdIlR9fJykTbSYbpTP7itGS71Q27QyNby2=
+LsIr5rkjypg-2FsLNngEk0rOX1CUnk4ASdbH-2F95paj34EQ5tEiPdy0gHFhr-2FVQQXMTu5K-2=
+FHEOOzqXb3wIZU0WDTSpXLPw-3D"><span style=3D"color:#B7451C;"><span style=3D"=
+font-size:18px;"><strong><span style=3D"font-family:arial,helvetica,sans-se=
+rif;">Gimtadienius</span></strong></span></span></a></div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:0px 45px 25px 45px;line-height:22px;text-align=
+:inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div>Gimtadienio vakar=C4=97l=C4=AF galime suorganizuoti nuo a =
+iki z =E2=80=93 =C5=A1vent=C4=97s vieta, maistas, pramogos ir linksmyb=C4=
+=97s. Turima patirtis dirbant su skirtingas paslaugas teikian=C4=8Diais par=
+tneriais pad=C4=97s i=C5=A1sirinkti Jums tinkamiausius variantus. Vakar=C4=
+=97l=C4=AF gali papuo=C5=A1ti k=C5=ABrybingi ir =C4=AFmantr=C5=ABs dekorai,=
+ sve=C4=8Dius =C5=A1okio pamokai pakviesti ir pasirodymais program=C4=85 pa=
+pildyti =C5=BEinomos =C5=A1ok=C4=97jos, gyva muzika ir dainomis nustebinti =
+gars=C5=ABs atlik=C4=97jai, =C5=BEad=C4=85 atimti mag=C5=B3 =C5=A1ou. Viska=
+s ko reikia =E2=80=93 susisiekti nurodytais kontaktais ir aptarti poreikius=
+ bei galimybes.</div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout=
+: fixed;">
+      <tr>
+        <td style=3D"font-size:6px;line-height:10px;padding:0px 45px 0px 45=
+px;" valign=3D"top" align=3D"center">
+          <a href=3D"http://url3947.visiting.lt/wf/click?upn=3DC5-2B19W-2BF=
+69YJsDJ5WVcLW-2FBxi4tRD6odI-2BvPOQ691-2BTl0Epj2wqtZqv22LyemMKiDmYHlcQ3-2BWM=
+pytKGt3-2BClw-3D-3D_YmytkhLeZzT628UeBJT0rDh1rFTVZ7R3As-2BkU7-2Fv6C1caqRe01F=
+XraE-2FoSF9odhDJnn9AZhpw-2BpvCt8XOde6w9MbjSzYeyb8EuYrmrw43fmIa7-2FpY3SWQ0Rc=
+D-2BAC77hjnHcnl1CvyZNiNmjD-2FqbAUeefFA7szA8YAGV6rHMV2mLsJm6aaLT-2Fp1l-2Ba9i=
+pgAWLCXfH83YZE9VQRHXXdLi7JbGgQJ3PbjsWuIYMLKOe3OAweYu0QkihrWhHTwnWK5FGLO6uiM=
+5yLDawZhvcuY3yUuRFL0YxQRDQTFhjwDr9IGhiSSMTs9hlbVtmwV05fWXz55qPhj-2FX1xSG442=
+oozMKNwHivxnztEHpMv-2BfnwjNPLgzddo76mGxQC2EFapyC4B31uxxAsi5ogVfa5JGIeJtV3rY=
+ZaB9HpITeH8xvN4jc64-3D"><img class=3D"max-width" border=3D"0" style=3D"disp=
+lay:block;color:#000000;text-decoration:none;font-family:Helvetica, arial, =
+sans-serif;font-size:16px;max-width:100% !important;width:100%;height:auto =
+!important;" src=3D"https://marketing-image-production.s3.amazonaws.com/upl=
+oads/7e264082c95be5ceccf666ef1ffc1a26d29ef8ea503c03c67ee7acf76db192222c1e00=
+179cd9580f4f9f33f2c2f967ca6358265e533ef4b02889268eee671530.jpeg" alt=3D"Ves=
+tu.lt -  Laisvalaikio ir pramog=C5=B3 organizavimas" width=3D"600"></a>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:20px 45px 16px 45px;line-height:22px;text-alig=
+n:inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div><a href=3D"http://url3947.visiting.lt/wf/click?upn=3DC5-2B=
+19W-2BF69YJsDJ5WVcLW-2FBxi4tRD6odI-2BvPOQ691-2BTl0Epj2wqtZqv22LyemMKiDmYHlc=
+Q3-2BWMpytKGt3-2BClw-3D-3D_YmytkhLeZzT628UeBJT0rDh1rFTVZ7R3As-2BkU7-2Fv6C1c=
+aqRe01FXraE-2FoSF9odhDJnn9AZhpw-2BpvCt8XOde6w9MbjSzYeyb8EuYrmrw43fmIa7-2FpY=
+3SWQ0RcD-2BAC77hjnHcnl1CvyZNiNmjD-2FqbAUeefFA7szA8YAGV6rHMV2mLsJm6aaLT-2Fp1=
+l-2Ba9ipgAWLCXfH83YZE9VQRHXXdLi7Jc36c13SsSlRVuIsiXa-2B3-2F8hoBW-2F7zS3gg0gj=
+nJM6yelRWvPvv-2FiAKcJ-2FQKS5rEj1a4QIAYk2t8JaUEoCSnHJbmsV5j646xq7OqZPMH7-2BD=
+EzmafsuSMF-2BcO5AV-2BJWwgFfdWhB4LiU9Hen1izGQulsHzhKUNvl-2BpPXjrxbYsCo-2Fuce=
+H077-2BWP0R5vwLgQBe-2FzVhus3pWMiBoRGokW58DUja4-3D"><span style=3D"color:#B7=
+451C;"><span style=3D"font-size:18px;"><strong><span style=3D"font-family:a=
+rial,helvetica,sans-serif;">Laisvalaikio pramogas</span></strong></span></s=
+pan></a></div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:0px 45px 25px 45px;line-height:22px;text-align=
+:inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div>
+<div>M=C5=ABs=C5=B3 komanda si=C5=ABlo <u>aktyvi=C5=B3 pramog=C5=B3</u> vis=
+oje Lietuvoje organizavimo paslaugas.&nbsp; Pramogos orientuojamos =C4=AF s=
+kirtingo am=C5=BEiaus ir poreiki=C5=B3 asmenis, tad tereikia i=C5=A1sirinkt=
+i artimiausi=C4=85 =C5=A1ird=C5=BEiai pramog=C4=85 ir tiesiog m=C4=97gautis=
+ geru laiku, mes pasir=C5=ABpinsime visomis smulkmenomis.</div>
+
+<div>&nbsp;</div>
+
+<div>Si=C5=ABlome ir <u>pa=C5=BEintines keliones</u> po =C4=AFvairius =C5=
+=BEinomus ir dar neatrastus lankytinus objektus, padedame sve=C4=8Diams sus=
+ipa=C5=BEinti su unikalia architekt=C5=ABra, pasim=C4=97gauti Lietuvos gamt=
+os gro=C5=BEiu ekskursij=C5=B3 metu bei artimiau susipa=C5=BEinti su lietuv=
+i=C5=A1komis tradicijomis.</div>
+
+<div>&nbsp;</div>
+
+<div>Sve=C4=8Diams Lietuvoje padedame suorganizuoti ir <u>kult=C5=ABrines p=
+ramogas</u>, tokias kaip koncertai, var=C5=BEybos pasir=C5=ABpiname ir u=C5=
+=BEimtumu ir pramogomis laisvu nuo darb=C5=B3 metu =E2=80=93 vakarais bei n=
+aktimis.</div>
+
+<div>&nbsp;</div>
+
+<div style=3D"text-align: center;">Tod=C4=97l jei J=C5=ABs=C5=B3 organizaci=
+ja planuoja priimti sve=C4=8Dius i=C5=A1 u=C5=BEsienio ir nori suteikti jie=
+ms pa=C4=8Di=C4=85 geriausi=C4=85 patirt=C4=AF Lietuvoje =E2=80=93 kreipkit=
+=C4=97s ir mes Jums pad=C4=97sime!</div>
+</div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"5px"
+                 style=3D"line-height:5px; font-size:5px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 5px 0px;"
+                bgcolor=3D"#ebebeb"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 45px 18px 45px;line-height:22px;text-alig=
+n:inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div>D=C4=97l kainos ir papildom=C5=B3 klausim=C5=B3 susisiekit=
+e:</div>
+
+<div>&nbsp;</div>
+
+<div>Rokas: (+370) 609 88386 - Vilnius.</div>
+
+<div>Eimantas: (+370) 685 75345 - Kaunas.</div>
+
+<div>&nbsp;</div>
+
+<div>M=C5=ABs=C5=B3 puslapis - <a href=3D"http://url3947.visiting.lt/wf/cli=
+ck?upn=3DC5-2B19W-2BF69YJsDJ5WVcLW1qx27sIfY7QfIh582K5et0-3D_YmytkhLeZzT628U=
+eBJT0rDh1rFTVZ7R3As-2BkU7-2Fv6C1caqRe01FXraE-2FoSF9odhDJnn9AZhpw-2BpvCt8XOd=
+e6w9MbjSzYeyb8EuYrmrw43fmIa7-2FpY3SWQ0RcD-2BAC77hjnHcnl1CvyZNiNmjD-2FqbAUee=
+fFA7szA8YAGV6rHMV2mLsJm6aaLT-2Fp1l-2Ba9ipgAWLCXfH83YZE9VQRHXXdLi7JYpcmCSRYR=
+P2rcrhege7wxfVHSz-2ByLGC-2BpKPVRZ-2B5GOeolNOyu0TTHQUv0B7PhstrwRPu-2BZtpzwXj=
+ZAPHPP2CY0tJcnc-2FBO1kbWYVJkB1Q27Y4zLno7-2FeJFgbu9XxesC8-2FM4YTB8cShKTKPVCz=
+jgMVEdIhLgck-2BfxHZM2Nk1ct3u0wP0XYcodFeKlB7krdGet2UjdPlX4KQi7WF455SxBIg-3D"=
+>https://vestu.lt/</a></div>
+        </td>
+      </tr>
+    </table>
+  <div data-role=3D"module-unsubscribe" class=3D"module unsubscribe-css__un=
+subscribe___2CDlR" role=3D"module" data-type=3D"unsubscribe" style=3D"backg=
+round-color:#ebebeb;color:#7a7a7a;font-size:11px;line-height:20px;padding:3=
+0px 0px 30px 0px;text-align:center"><div class=3D"Unsubscribe--addressLine"=
+><p class=3D"Unsubscribe--senderName" style=3D"font-family:;font-size:11px;=
+line-height:20px">Vestu.lt</p><p style=3D"font-family:;font-size:11px;line-=
+height:20px"><span class=3D"Unsubscribe--senderAddress">Lietuva</span>, <sp=
+an class=3D"Unsubscribe--senderCity">Vilnius</span>, <span class=3D"Unsubsc=
+ribe--senderState"></span> <span class=3D"Unsubscribe--senderZip"></span> <=
+/p></div><p style=3D"font-family:;font-size:11px;line-height:20px"><a class=
+=3D"Unsubscribe--unsubscribeLink" href=3D"http://url3947.visiting.lt/asm/un=
+subscribe/global/?user_id=3D8865454&data=3DxmzIGebtQ-q4ARUV2ZH7x8P8PFxlTrtK=
+jKFjPtkAYxS7flvScbcLXyzKu_dDWWwR8UgDtdOSzIhYTsuFiUP3tgam5f8vHugjPu9iq6KJYhL=
+oyY9BZVlhEDWnLg7gBRmQFH0YtKcEm7qbu62ViDqza5IvzqpVygBqcCiMuNza7CO4HuksTsd075=
+kyBT5eIM5K4ldSqc4QE5HbNl2dkG-DGCCqZVoaGu7qJDwlZLDFXglv9VLHyYF6g0gX1ivrRjTts=
+JrNCCkmwFxk4siXFOPLADlr1huCdB7OtTPigeipoYoS9HH3eFh5gX_8NrSbsd5P31CvjGXdVqUs=
+ABR9DZRPN4LM2B05mqBLipOkLCU3kp9BY6PQv0Ii3EHISrUr2Aeg0DQHFxFI5pFUWC_bxmsq0jU=
+UJtsscZWm4vDE2n10qdEKos948XsrHPWUpsO4xb9RrEpkvU00XyrNesJ4LabTgOHz_CTxh5QysC=
+_GyRf422UNX6MIguDZhOIFQgOTkUxsjwAa-NZgj4l5jJE0v8PpU_eVYyjhC4sI1vYfySGWQLIez=
+z77v4Ag2knZgfOAn0mp" style=3D"color:#2277ee">Unsubscribe</a> - <a class=3D"=
+Unsubscribe--unsubscribePreferences" href=3D"http://url3947.visiting.lt/asm=
+/?user_id=3D8865454&data=3DoIYbRF_dEKgohWRgJ1oD3Uxf1eMydFSGVBTT49voTBfWmerv=
+6-tD_-qZwnLcuX7cfaTlT_c1C45pi12UBberuQqoGfMpiIrvQSneB9stt4Knub2DnYXR5_D_-I6=
+5cFsn5H-sMKDnMgsIneJZ0daAhmcDsCM8qCOxDHen78CXA26YQPiLFb1gmasgoYIZpWKYnwRsyr=
+io64LQE6H2wg_zJqzVc21CHw5yeM5BZTJzCXZvyer6tp6Tqh3PpWJZ3lH-e2iZ9MHZGNQg5uPi4=
+nA2xEiUd4Uzm0_0HcdeSehZwTmKcN6pE-YU9oWtiDWF9RxFP-Q1Nlm2spgmFE62kfQY2psn2nGw=
+ZsZseYUcJsK01oPZ8mbTmwIPZJMz3KfAXdBpp4wZugA2vAT8KkgWRAIc4vdRz9ONm1GyTtMszAJ=
+8IBllld0Ez9igkNK-H8MGmLUZ9h7pGFe983dJ6myRWdMF1JDXZNGX5V-eaJc102YhoH8wG83IxB=
+B3DF9MeM5Eo8UTfZOHtn_dS63qZuA4fmskxQ=3D=3D" style=3D"color:#2277ee">Unsubsc=
+ribe Preferences</a></p></div>
+                              </td>
+                            </tr>
+                          </table>
+                          <!--[if mso]>
+                          </td></tr></table>
+                          </center>
+                          <![endif]-->
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </center>
+=20=20
+<img src=3D"http://url3947.visiting.lt/wf/open?upn=3DYmytkhLeZzT628UeBJT0rD=
+h1rFTVZ7R3As-2BkU7-2Fv6C1caqRe01FXraE-2FoSF9odhDJnn9AZhpw-2BpvCt8XOde6w9Mbj=
+SzYeyb8EuYrmrw43fmIa7-2FpY3SWQ0RcD-2BAC77hjnHcnl1CvyZNiNmjD-2FqbAUeefFA7szA=
+8YAGV6rHMV2mLsJm6aaLT-2Fp1l-2Ba9ipgAWLCXfH83YZE9VQRHXXdLi7JUFBdc9f-2Bw4qFK-=
+2BgbnMO7vfZe03fOee5EfrkBCpQ-2BPy5YmPvmeo4kmYz8q-2Bozv7megd1uY-2Bmxu4gthc1yw=
+3UcJw7M2ltJWU3eExeKVhnOISqP4wOoD3w6H1RgdKSQas7pF0nKxqBo3kYB9qAuGFl1L9SLIKlU=
+BIdQjD9YqCQJkDX21JncvcS4thA83uDHSoHKXLllanOB2zMLktPBrH3IxWdzCBftgkM62UuMFNp=
+hduQ" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !i=
+mportant;width:1px !important;border-width:0 !important;margin-top:0 !impor=
+tant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !im=
+portant;padding-top:0 !important;padding-bottom:0 !important;padding-right:=
+0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+--7da44bc32a42e688c235d77fcd979411b8766d8795ea4f39d5ec81046d49--

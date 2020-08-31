@@ -1,0 +1,73 @@
+Return-path: <b2b@cyberbiznes.pl>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Thu, 11 Jul 2019 10:26:45 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92)
+	(envelope-from <b2b@cyberbiznes.pl>)
+	id 1hlTTZ-0005ij-L1
+	for modernus@grezimas.lt; Thu, 11 Jul 2019 10:26:45 +0300
+Received: from [81.18.223.130] (helo=mili.cyberbiznes.biz)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <b2b@cyberbiznes.pl>)
+	id 1hlTTZ-0005id-I9
+	for modernus@grezimas.lt; Thu, 11 Jul 2019 10:26:45 +0300
+Received: from localhost (localhost [127.0.0.1])
+	by mili.cyberbiznes.biz (Postfix) with ESMTP id E1A388818C
+	for <modernus@grezimas.lt>; Thu, 11 Jul 2019 09:26:44 +0200 (CEST)
+Received: from mili.cyberbiznes.biz ([127.0.0.1])
+	by localhost (mili.cyberbiznes.biz [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id cZjx-BDdI0N0 for <modernus@grezimas.lt>;
+	Thu, 11 Jul 2019 09:26:44 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by mili.cyberbiznes.biz (Postfix) with ESMTP id 441FF88592
+	for <modernus@grezimas.lt>; Thu, 11 Jul 2019 09:26:26 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at mili.cyberbiznes.biz
+Received: from mili.cyberbiznes.biz ([127.0.0.1])
+	by localhost (mili.cyberbiznes.biz [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id ltXhDZUvBkyH for <modernus@grezimas.lt>;
+	Thu, 11 Jul 2019 09:26:26 +0200 (CEST)
+Received: from test.cyberbiznes.pl (info.cyberbiznes.pl [92.244.36.130])
+	by mili.cyberbiznes.biz (Postfix) with ESMTPSA id 2711F88479
+	for <modernus@grezimas.lt>; Thu, 11 Jul 2019 09:26:01 +0200 (CEST)
+Date: Thu, 11 Jul 2019 09:26:00 +0200
+To: "modernus@grezimas.lt" <modernus@grezimas.lt>
+From: Krzysztof Antoniewicz <b2b@cyberbiznes.pl>
+Reply-To: Informacja Gospodarcza <b2b@cyberbiznes.pl>
+Subject: =?iso-8859-2?Q?Geriausias_gamintojas_i=B9_Lenkijos?=
+Message-ID: <RDaz7VHcDpLmeb0QxmNSW0KaFAUtlO2Q1LaGoawIPE@test.cyberbiznes.pl>
+X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+Disposition-Notification-To: <b2b@cyberbiznes.pl>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_RDaz7VHcDpLmeb0QxmNSW0KaFAUtlO2Q1LaGoawIPE"
+Content-Transfer-Encoding: 7bit
+X-Spam-Checked: github.com, 140.82.118.3, google.com, 172.217.21.206
+
+This is a multi-part message in MIME format.
+--b1_RDaz7VHcDpLmeb0QxmNSW0KaFAUtlO2Q1LaGoawIPE
+Content-Type: text/plain; charset=us-ascii
+
+List jest tylko w formacie html
+
+--b1_RDaz7VHcDpLmeb0QxmNSW0KaFAUtlO2Q1LaGoawIPE
+Content-Type: text/html; charset=iso-8859-2
+Content-Transfer-Encoding: quoted-printable
+
+Laba diena <br />
+ <br />
+Ar esate suinteresuoti bendradarbiauti su Lenkijos tiek?ju (gamintoju)? <=
+br />
+ <br />
+Kokios prek?s jus domina? <br />
+ <br />
+Pra=B9ome atsi?sti detali=B1 informacij=B1. <br />
+ <br />
+Pagarbiai<br />
+ <br />
+Krzysztof Antoniewicz</br></br></br><a href=3Dmailto:krzys@cyberbiznes.pl=
+?subject=3DRE:%20Geriausias%20gamintojas%20i=B9%20Lenkijos&body=3DUnsunsc=
+ribe><br>Unsubscribe</a>
+
+
+--b1_RDaz7VHcDpLmeb0QxmNSW0KaFAUtlO2Q1LaGoawIPE--
+

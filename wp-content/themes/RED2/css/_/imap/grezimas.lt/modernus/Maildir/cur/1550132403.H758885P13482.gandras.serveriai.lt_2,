@@ -1,0 +1,234 @@
+Return-path: <newsletter@sendersrv.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Thu, 14 Feb 2019 10:20:03 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <newsletter@sendersrv.com>)
+	id 1guCFX-0003VI-FG
+	for modernus@grezimas.lt; Thu, 14 Feb 2019 10:20:03 +0200
+Received: from [185.3.229.125] (helo=mail1.sendersrv.com)
+	by gandras.serveriai.lt with esmtp (Exim 4.90_1)
+	(envelope-from <newsletter@sendersrv.com>)
+	id 1guCFX-0003V3-D7
+	for modernus@grezimas.lt; Thu, 14 Feb 2019 10:20:03 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=smtp; d=sender.lt;
+ h=From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe:Date;
+ bh=BEcH3tddp4xym9Et9sZ9xgasL8Q=;
+ b=wSWqKFqWmu9MaAnXQ0OTWMBe17MZKZ0V7pDUTkOrcnbY2+uYls7l3QV755W2uyqcdxbj9b1YO9RI
+   0H09ayk8IvNu0J15GJ6p4TsCUDuhfXtwiAiKjPyVTEpiaEjgni1Dn4CHtP6DnFgx+MHyDnNfLfs8
+   9PNjrmbL/dfsxIKibC8=
+From: =?UTF-8?Q?Diana_Ko=C5=BEenevskyt=C4=97?= <Diana.Kozenevskyte@officeday.lt>
+To: modernus@grezimas.lt
+Message-ID: <c085b5dd1fe0ff1d1ae80a8e5b54bd2c.1550132403222.newsletter@synergia.data.lt>
+Subject: =?UTF-8?Q?Prane=C5=A1imas_d=C4=97l_stru?=
+ =?UTF-8?Q?kt=C5=ABrini=C5=B3_pasikeitim=C5=B3?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_200242964_1347024640.1550132403221"
+Precedence: bulk
+Feedback-ID: 6148:115432:campaign:SenderNET
+X-Sender-ID: c085b5dd1fe0ff1d1ae80a8e5b54bd2c
+List-Unsubscribe: <http://dev.sender.lt/atsisakymas/c085b5dd1fe0ff1d1ae80a8e5b54bd2c>, <mailto:abuse@sender.lt?subject=c085b5dd1fe0ff1d1ae80a8e5b54bd2c&body=http://dev.sender.lt/atsisakymas/c085b5dd1fe0ff1d1ae80a8e5b54bd2c>
+Date: Thu, 14 Feb 2019 10:20:03 +0200
+X-Spam-Checked: sender.lt, 92.61.39.3, vivasend.com, zoho.eu, 185.20.209.52
+
+------=_Part_200242964_1347024640.1550132403221
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_200242964_1347024640.1550132403221
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3D"en"> <head> <title>Prane=C5=A1imas d=C4=97l st=
+rukt=C5=ABrini=C5=B3 pasikeitim=C5=B3</title> <meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3DUTF-8"> <meta name=3D"viewport" conten=
+t=3D"width=3Ddevice-width"> <style type=3D"text/css"> /* CLIENT-SPECIFIC ST=
+YLES */ #outlook a{padding:0;} /* Force Outlook to provide a "view in brows=
+er" message */ .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* For=
+ce Hotmail to display emails at full width */ .ExternalClass, .ExternalClas=
+s p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .External=
+Class div {line-height: 150%;} /* Force Hotmail to display normal line spac=
+ing */ body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adju=
+st:100%;} /* Prevent WebKit and Windows mobile changing default text sizes =
+*/ table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing=
+ between tables in Outlook 2007 and up */ img{-ms-interpolation-mode:bicubi=
+c;} /* Allow smoother rendering of resized image in Internet Explorer */ /*=
+ RESET STYLES */ body{margin:0; padding:0; width:100% !important;height:100=
+% !important;} img{border:0; height:auto; line-height:100%; outline:none; t=
+ext-decoration:none;display:block;} table{border-collapse:collapse !importa=
+nt;} /* iOS BLUE LINKS */ .appleBody a {color:#68440a; text-decoration: non=
+e;} .appleFooter a {color:#999999; text-decoration: none;} /** * @tab Brows=
+er preview and Unsubscribe link * @section Style * @tip */ a.browser-previe=
+w, a.unsubscribe { /*@editable*/ font-size: 12px; /*@editable*/ font-family=
+: Helvetica, Arial, sans-serif; /*@editable*/ color:#666666; text-decoratio=
+n: none; } /** * @tab Email background * @section Email background * @tip E=
+mail body styling */ body { /*@editable*/ background-color:#ffffff; /*@edit=
+able*/ background-image:none; } /** * @tab Email background * @section Cont=
+ent background * @tip */ .contentWrapper { /*@editable*/ background-color:#=
+ffffff; padding-bottom: 15px; } /** * @tab Headings * @section Heading 1 st=
+yle * @tip */ h1 { margin: 0; padding-bottom: 25px; /*@editable*/ color:#36=
+3636; /*@editable*/ font-family: Arial, Helvetica, sans-serif; /*@editable*=
+/ font-size:28px; /*@editable*/ font-weight:bold; /*@editable*/ text-align:=
+left; line-height: 150%; } /** * @tab Headings * @section Heading 2 style *=
+ @tip */ h2 { margin: 0; padding-bottom: 20px; /*@editable*/ color:#363636;=
+ /*@editable*/ font-family: Arial, Helvetica, sans-serif; /*@editable*/ fon=
+t-size:18px; /*@editable*/ font-weight:bold; /*@editable*/ text-align:left;=
+ line-height: 150%; } /** * @tab Headings * @section Heading 3 style * @tip=
+ */ h3 { margin: 0; padding-bottom: 15px; /*@editable*/ color:#363636; /*@e=
+ditable*/ font-family: Arial, Helvetica, sans-serif; /*@editable*/ font-siz=
+e:18px; /*@editable*/ font-weight:bold; /*@editable*/ text-align:left; line=
+-height: 150%; } /** * @tab Text styling * @section Text style * @tip */ td=
+.text { /*@editable*/ color:#737373; /*@editable*/ font-family: Arial, Helv=
+etica, sans-serif; /*@editable*/ font-size:14px; /*@editable*/ line-height:=
+150%; /*@editable*/ text-align:left; } td.text p { margin-top: 0; margin-bo=
+ttom: 15px; } /** * @tab Text styling * @section Separator style * @tip */ =
+td.separator { /*@editable*/ border-bottom: 1px solid #dedede; } /** * @tab=
+ Buttons * @section Button style * @tip */ .buttonBg { /*@editable*/ backgr=
+ound-color:#e41d32; /*@editable*/ border-radius:5px; } /** * @tab Buttons *=
+ @section Button text style * @tip */ .buttonText, .buttonText a { /*@edita=
+ble*/ color:#FFFFFF; /*@editable*/ font-family:Helvetica, Arial, sans-serif=
+; /*@editable*/ font-size:16px; /*@editable*/ font-weight:normal; text-deco=
+ration: none; } /* MOBILE STYLES */ @media screen and (max-width: 525px) { =
+/* ALLOWS FOR FLUID TABLES */ table[class=3D"wrapper"]{ /*TODO: not needed?=
+ */ width:100% !important; } /* ADJUSTS LAYOUT OF LOGO IMAGE */ td[class=3D=
+"logo"]{ text-align: left; padding: 20px 0 20px 0 !important; } td[class=3D=
+"logo"] img{ margin:0 auto!important; } /* USE THESE CLASSES TO HIDE CONTEN=
+T ON MOBILE */ td[class=3D"mobile-hide"]{ display:none; } img[class=3D"mobi=
+le-hide"]{ display: none !important; } /* RESPONSIVE IMAGES */ td[class=3D"=
+responsive-image"] img, td[class=3D"responsive-image"] div, td[class=3D"res=
+ponsive"] img, td[class=3D"responsive"] div { width: 100% !important; heigh=
+t:auto !important; } /* COLUMN TRANSFORM */ td[class=3D"columns"] .col{ wid=
+th: 100%; display: block; } td[class=3D"columns"] .vspace { height: 15px; w=
+idth: 100%; display: block; } /* FULL-WIDTH TABLES */ table[class=3D"respon=
+sive-table"]{ width:100%!important; } /* UTILITY CLASSES FOR ADJUSTING PADD=
+ING ON MOBILE */ td[class=3D"section-padding"]{ padding: 15px 20px 15px 20p=
+x !important; } td[class=3D"add-padding-top"]{ /*TODO: refactor to columns*=
+/ padding-top: 15px !important; } } a.browser-preview, a.unsubscribe {font-=
+size: 9px;color: #ffffff;}</style> </head> <body style=3D"-ms-text-size-adj=
+ust: 100%; -webkit-text-size-adjust: 100%; height: 100% !important; margin:=
+ 0; padding: 0; width: 100% !important; background-color: #ffffff; backgrou=
+nd-image: none;"> <table width=3D"640" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" align=3D"center" class=3D"wrapper" style=3D"-ms-text-size-adju=
+st: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-=
+rspace: 0pt; border-collapse: collapse !important;"> <tr> <td style=3D"-ms-=
+text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;"> <!-- PREHEADER --> <table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"-ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; border-collapse: collapse !important;"> <tr> <td align=3D"center" =
+style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt;"> <table width=3D"100%" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"-ms-text-si=
+ze-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso=
+-table-rspace: 0pt; border-collapse: collapse !important;"> <tr> <td style=
+=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-l=
+space: 0pt; mso-table-rspace: 0pt; padding: 20px 0px 20px 0px;"> <!-- UNSUB=
+SCRIBE COPY --> <table width=3D"500" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" align=3D"center" class=3D"responsive-table" style=3D"-ms-text-si=
+ze-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso=
+-table-rspace: 0pt; border-collapse: collapse !important;"> <tr> <td align=
+=3D"center" valign=3D"middle" style=3D"-ms-text-size-adjust: 100%; -webkit-=
+text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-=
+size: 12px; line-height: 18px; font-family: Helvetica, Arial, sans-serif; c=
+olor: #666666;" class=3D"browser-preview"> <a class=3D"browser-preview" hre=
+f=3D"http://app.vivasend.com/campaigns/browser_preview/c085b5dd1fe0ff1d1ae8=
+0a8e5b54bd2c" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust=
+: 100%; color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-siz=
+e: 9px; text-decoration: none;">Nematote paveiksl=C4=97li=C5=B3? Spauskite =
+=C4=8Dia.</a> </td> </tr> </table> </td> </tr> </table> </td> </tr> </table=
+> </td> </tr> <tr> <td class=3D"contentWrapper" style=3D"-ms-text-size-adju=
+st: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-=
+rspace: 0pt; background-color: #ffffff; padding-bottom: 15px;"> <table widt=
+h=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"-ms-te=
+xt-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt=
+; mso-table-rspace: 0pt; border-collapse: collapse !important;"> <tbody><tr=
+> <td style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; =
+mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 15px 30px 15px 30px;=
+" class=3D"section-padding" align=3D"center"> <table class=3D"responsive-ta=
+ble" width=3D"580" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" style=
+=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-l=
+space: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;"> =
+<tbody><tr> <td class=3D"text" style=3D"-ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; colo=
+r: #737373; font-family: Arial, Helvetica, sans-serif; font-size: 14px; lin=
+e-height: 150%; text-align: left;"> <div id=3D"JnKqugg4" class=3D" "><h1 st=
+yle=3D"color: #363636; font-family: Arial, Helvetica, sans-serif; font-size=
+: 28px; font-weight: bold; line-height: 150%; margin: 0; padding-bottom: 25=
+px; text-align: left;">D=C4=97l UAB "OFFICEDAY" numatom=C5=B3 strukt=C5=ABr=
+ini=C5=B3 pasikeitim=C5=B3<br></h1><p style=3D"margin-bottom: 15px; margin-=
+top: 0;"><br>Laba diena,<br></p><p style=3D"margin-bottom: 15px; margin-top=
+: 0;">Norime prane=C5=A1ti apie strukt=C5=ABriniu pasikeitimus Officeday ve=
+ikloje. 2019 m. vasario - kovo m=C4=97nesiais J=C5=ABs=C5=B3 u=C5=BEsakomas=
+ Officeday biuro prekes ir paslaugas Jums prad=C4=97s tiekti UAB =E2=80=9ES=
+anitex=E2=80=9C. Tikim=C4=97s, kad =C5=A1ie poky=C4=8Diai nesukels dideli=
+=C5=B3 nepatogum=C5=B3, o ilgainiui u=C5=BEtikrins galimyb=C4=99 Jums gauti=
+ dar geresnes ir =C4=AFvairesnes biuro prekes ir paslaugas.<br></p><p style=
+=3D"margin-bottom: 15px; margin-top: 0;">Oficiali informacija pateikiama pr=
+isegtame prane=C5=A1ime. Jei turite bet koki=C5=B3 klausim=C5=B3, nedvejoki=
+te kreiptis =C4=AF Jus aptarnaujant=C4=AF asmen=C4=AF.<br></p><p style=3D"m=
+argin-bottom: 15px; margin-top: 0;">Gra=C5=BEios dienos,</p><p style=3D"mar=
+gin-bottom: 15px; margin-top: 0;">Officeday<br><br><br></p></div> </td> </t=
+r> </tbody></table> </td> </tr> </tbody></table> <table width=3D"100%" cell=
+spacing=3D"0" cellpadding=3D"0" border=3D"0" style=3D"-ms-text-size-adjust:=
+ 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt; border-collapse: collapse !important;"> <tbody><tr> <td style=3D"=
+-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspac=
+e: 0pt; mso-table-rspace: 0pt; padding: 15px 30px 15px 30px;" class=3D"sect=
+ion-padding" align=3D"center"> <table class=3D"buttonBg" id=3D"button_LLMu2=
+NcN" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center" styl=
+e=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important; b=
+ackground-color: #e41d32; border-radius: 5px;"> <tbody><tr> <td class=3D"bu=
+ttonText" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #FFFFFF; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; tex=
+t-decoration: none; padding-top: 15px; padding-right: 25px; padding-bottom:=
+ 15px; padding-left: 25px;" valign=3D"middle" align=3D"center"> <a href=3D"=
+http://app.vivasend.com/nuoroda/ad6b4e41e87995ba9821c93c593e87b2/ef49fc2d9e=
+7e4bb62e8de0e2f5792e50" target=3D"_blank" style=3D"-ms-text-size-adjust: 10=
+0%; -webkit-text-size-adjust: 100%; color: #FFFFFF; font-family: Helvetica,=
+ Arial, sans-serif; font-size: 16px; font-weight: normal; text-decoration: =
+none;" rel=3D"ad6b4e41e87995ba9821c93c593e87b2">Prane=C5=A1imas (PDF)</a> <=
+/td> </tr> </tbody></table> </td> </tr> </tbody></table></td> </tr> <tr> <t=
+d style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-=
+table-lspace: 0pt; mso-table-rspace: 0pt;"> <!-- FOOTER --> <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"-ms-text=
+-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt; border-collapse: collapse !important;"> <tr> <td ali=
+gn=3D"center" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust=
+: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"> <table width=3D"100=
+%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=
+=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-l=
+space: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;"> =
+<tr> <td style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100=
+%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 20px 0px 20px 0px=
+;"> <!-- UNSUBSCRIBE COPY --> <table width=3D"500" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center" class=3D"responsive-table" style=
+=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-l=
+space: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;"> =
+<tr> <td align=3D"center" valign=3D"middle" style=3D"-ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; font-size: 12px; line-height: 18px; font-family: Helvetica, Arial,=
+ sans-serif; color: #666666;"> <a class=3D"unsubscribe" href=3D"http://app.=
+vivasend.com/recipients/unsubscribe/c085b5dd1fe0ff1d1ae80a8e5b54bd2c" style=
+=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #fff=
+fff; font-family: Helvetica, Arial, sans-serif; font-size: 9px; text-decora=
+tion: none;">Jeigu norite atsisakyti naujienlai=C5=A1kio, spauskite =C4=8Di=
+a</a> </td> </tr> </table> </td> </tr> </table> </td> </tr> </table> </td> =
+</tr> </table> <img src=3D"http://app.vivasend.com/campaigns/register_open/=
+c085b5dd1fe0ff1d1ae80a8e5b54bd2c" width=3D"1" height=3D"1" border=3D"0" alt=
+=3D"" style=3D"height:1px !important;width:1px !important;border-width:0 !i=
+mportant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 =
+!important;margin-left:0 !important;padding-top:0 !important;padding-bottom=
+:0 !important;padding-right:0 !important;padding-left:0 !important;outline-=
+style:none;text-decoration:none;display:block;"></body><img src=3D"http://a=
+pp.vivasend.com/campaigns/register_open/c085b5dd1fe0ff1d1ae80a8e5b54bd2c" w=
+idth=3D"1" height=3D"1" border=3D"0" alt=3D"" style=3D"-ms-interpolation-mo=
+de: bicubic; border: 0; display: block; height: 1px !important; line-height=
+: 100%; outline: none; text-decoration: none; width: 1px !important; border=
+-width: 0 !important; margin-top: 0 !important; margin-bottom: 0 !important=
+; margin-right: 0 !important; margin-left: 0 !important; padding-top: 0 !im=
+portant; padding-bottom: 0 !important; padding-right: 0 !important; padding=
+-left: 0 !important; outline-style: none;"></html>
+------=_Part_200242964_1347024640.1550132403221--

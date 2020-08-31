@@ -1,0 +1,128 @@
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v3.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    if ((nbArr = document[grpName]) != null)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = args[i+1];
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+<link rel="stylesheet" href="stylee.css" type="text/css">
+</head>
+
+<body bgcolor="#003366" text="#000000" onLoad="MM_preloadImages('images/menu/01_on.gif','images/menu/02_on.gif','images/menu/03_on.gif','images/menu/04_on.gif')">
+<div align="center">
+  <table width="760" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="491"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="490" height="96">
+          <param name=movie value="images/banner.swf">
+          <param name=quality value=high>
+          <embed src="images/banner.swf" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="490" height="96">
+          </embed> 
+        </object></td>
+      <td width="269"> 
+        <div align="right"><img src="images/movie.gif" width="270" height="96"></div>
+      </td>
+    </tr>
+  </table>
+  <table width="760" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td background="images/left.gif" width="285" valign="top"><img src="images/dalis.gif" width="287" height="309"></td>
+      <td width="473" valign="top" background="images/right.gif"> 
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr> 
+            <td><a href="index.html" onClick="MM_nbGroup('down','group1','paslaugos','images/menu/01_on.gif',1)" onMouseOver="MM_nbGroup('over','paslaugos','images/menu/01_on.gif','images/menu/01_on.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="paslaugos" src="images/menu/01.gif" border="0" onLoad="" width="95" height="39"></a></td>
+            <td><a href="foto.html" onClick="MM_nbGroup('down','group1','foto','images/menu/02_on.gif',1)" onMouseOver="MM_nbGroup('over','foto','images/menu/02_on.gif','images/menu/02_on.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="foto" src="images/menu/02.gif" border="0" onLoad="" width="149" height="39"></a></td>
+            <td><a href="video1.html" onClick="MM_nbGroup('down','group1','video1','images/menu/03_on.gif',1)" onMouseOver="MM_nbGroup('over','video1','images/menu/03_on.gif','images/menu/03_on.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="video1" src="images/menu/03.gif" border="0" onLoad="" width="66" height="39"></a></td>
+            <td><a href="video2.html" onClick="MM_nbGroup('down','group1','video2','images/menu/04_on.gif',1)" onMouseOver="MM_nbGroup('over','video2','images/menu/04_on.gif','images/menu/04_on.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="video2" src="images/menu/04.gif" border="0" onLoad="" width="67" height="39"></a></td>
+            <td><a href="kontaktai.html" onClick="MM_nbGroup('down','group1','kontaktai','images/menu/05_on.gif',1)" onMouseOver="MM_nbGroup('over','kontaktai','images/menu/05_on.gif','images/menu/05_on.gif',1)" onMouseOut="MM_nbGroup('out')"><img name="kontaktai" src="images/menu/05.gif" border="0" onLoad="" width="96" height="39"></a></td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td><img src="images/video02.gif" width="473" height="56"></td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td valign="top"> 
+              <div align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
+ width="176" height="144" id="Untitled-2">
+                  <param name=movie value="video2.swf">
+                  <param name=quality value=high>
+                  <param name=bgcolor value=#FFFFFF>
+                  <embed src="video2.swf" quality=high bgcolor=#FFFFFF  width="176" height="144" name="Untitled-2"
+ type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+                  </embed> 
+                </object><br>
+                <a href="video/hydrostress2.mpg" class="grezimas2">Video 2 parsisiuntimui 
+                (5,0Mb)</a> <br>
+                <table width="210" border="0" cellspacing="0" cellpadding="0" class="grezimas">
+                  <tr> 
+                    <td class="smally">Paspauskite ant nuorodos dešiniuoju pelės 
+                      klavišu<br>
+                      ir pasirinkite opciją &quot;Save Target As...&quot;.</td>
+                  </tr>
+                </table>
+                <br>
+              </div>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="760" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td background="images/2x2orange.gif"><img src="images/2x2orange.gif" width="2" height="2"></td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>

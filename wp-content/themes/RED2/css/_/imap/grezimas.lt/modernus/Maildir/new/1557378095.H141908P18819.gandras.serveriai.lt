@@ -1,0 +1,248 @@
+Return-path: <vilius@eleksonas.lt>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Thu, 09 May 2019 08:01:35 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <vilius@eleksonas.lt>)
+	id 1hObBW-0004tM-5d
+	for modernus@grezimas.lt; Thu, 09 May 2019 08:01:34 +0300
+Received: from [209.85.160.193] (helo=mail-qt1-f193.google.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.90_1)
+	(envelope-from <vilius@eleksonas.lt>)
+	id 1hObBV-0004tD-Th
+	for modernus@grezimas.lt; Thu, 09 May 2019 08:01:34 +0300
+Received: by mail-qt1-f193.google.com with SMTP id f24so1068854qtk.11
+        for <modernus@grezimas.lt>; Wed, 08 May 2019 22:01:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=eleksonas-lt.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=Y1ZRQbdWSENa+HytXc8808r5eMPid1tnSX2wCBDw3C0=;
+        b=SV1jVP9F1Xtorcg68zA34Z7KZ164cx0BVtl4GFziUcFEsqttLIcguLddiQEmgtVkXl
+         43JTl4qy14J0GHS4+c3xYr6fnGZ05AiMUEqNAvkwJiCFHUt/Eud2NgGFjZ2Wm76FrS6S
+         NtcGJbWW8sNAHURfLeho7lvRMTUC+kKgQtUq47M5+L0PNqu9c/Bq/2bbs380OQkvVoQ1
+         QAlb8cP1PvNbCOjc+XBTlT7+siEZn5pYuwMCDGPB4YwPnHnlwUSPufsQx8eYUYEbg1cV
+         +nJ85YHPqCAtWRRrkGQkXLt3ykhhV6GWRszZJ7we8W0Kh0qnAUwuq+Kz3so9fJepG8ks
+         e8Cg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=Y1ZRQbdWSENa+HytXc8808r5eMPid1tnSX2wCBDw3C0=;
+        b=TLwEr/D+6aIgz/WasWQzQBsdV5jya2krugTIZFbH/jwm3Yi5HWomvpuiP2yFO6GsFH
+         Zy2uoLtUdRG7UtD0l7y1i6QYPmrzNgjFaFHGXOf2NjkbItvHoohE2s8u53YYJO6mclt8
+         3IwS+G53WUBt0zynMfit75la0SI8xrOcBRdOG/sw5n0o89JA4jKuak9Kihdhkg50VPyY
+         zxyWZkamlaKus1h1N0xYrlV7jb4aCDwihIucDG1cIqtIw+AwSG33WlW7UxeoGZEbGcNK
+         0cJGj+IeT1mhdALLkANgghIHcNqAEuYGMsWWQKgybl90EO9mj1L9/xDju2cnUUTjpySH
+         RHVw==
+X-Gm-Message-State: APjAAAVg4eaDK2JYBvlMAcBF9F3euuCXNxZJXhihNOZhFHmrIeKni3Ym
+	gILZPyhltl9Bn0KmItOZVJE9DhcexUkU1MNAuBImKw==
+X-Google-Smtp-Source: APXvYqwMXxVdoJLdDCXT5Q1IFnI+ONvX9nLvfz3X+4eII2cIWmdLohbg9oBUcBeLpsfxiXWwNssOe/b1xVDxNcpVxZU=
+X-Received: by 2002:a0c:c781:: with SMTP id k1mr1759137qvj.133.1557378091774;
+ Wed, 08 May 2019 22:01:31 -0700 (PDT)
+MIME-Version: 1.0
+From: Vilius Rutkauskas <vilius@eleksonas.lt>
+Date: Thu, 9 May 2019 08:00:00 +0300
+Message-ID: <CACKEEyhWFZOhOeefRuwE3DBTLOX4dPjRk97trSdPNBTRBZJfGw@mail.gmail.com>
+Subject: www.tinklotvora.lt / UAB Eleksonas
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="000000000000f1168605886d57b5"
+Bcc: modernus@grezimas.lt
+X-Spam-Checked: tinklotvora.lt, 23.236.62.147, eleksonas.lt, serveriai.lt,
+	google.com, 172.217.23.174
+
+--000000000000f1168605886d57b5
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Laba diena,
+
+jei vis dar ie=C5=A1kote patvaraus ir ilgaam=C5=BEio sprendimo, kaip aptver=
+ti j=C5=ABs=C5=B3
+teritorij=C4=85, galite daugiau nebeie=C5=A1koti! Tinklo tvor=C5=B3 montavi=
+mo specialistai
+=E2=80=93 *=E2=80=9EEleksonas=E2=80=9C* =E2=80=93 j=C5=ABs=C5=B3 paslaugoms=
+! Mes tveriame tinklo tvoras, kurios
+puikiai tinka didel=C4=97ms teritorijoms:
+
+=C2=B7         sodyboms,
+
+=C2=B7         mi=C5=A1ko ar pievos plotams,
+
+=C2=B7         tvenkiniams,
+
+=C2=B7         fermoms,
+
+=C2=B7         komercin=C4=97s paskirties sklypams ir t. t.
+
+Savo teritorij=C4=85 si=C5=ABlome aptverti *regzto, suvirinto* ar *mi=C5=A1=
+ko tinklo tvora*.
+Darbus atliksime spar=C4=8Diai ir kokybi=C5=A1kai, taip pat u=C5=BEtikrinsi=
+me, kad j=C5=ABs=C5=B3
+kiemas nenukent=C4=97t=C5=B3 tveriant tvor=C4=85: tvoros kuolus kalame naud=
+odami oro
+kompresori=C5=B3, tod=C4=97l j=C5=ABs=C5=B3 kiemo nei=C5=A1va=C5=BEin=C4=97=
+s sunkioji technika. Pagal j=C5=ABs=C5=B3
+pageidavimus *galime =C4=AFrengti* ir prie tvoros deran=C4=8Dius *=C4=AFva=
+=C5=BEiavimo vartus
+ar vartelius p=C4=97stiesiems.*
+
+Atliekame visus tvoros tv=C4=97rimo darbus nuo... iki! O jei tvor=C4=85 tve=
+riat=C4=97s
+patys ir norite =C4=AFsigyti kokybi=C5=A1k=C5=B3 med=C5=BEiag=C5=B3, apsila=
+nkykite m=C5=ABs=C5=B3 tinklapyje
+www.tinklotvora.lt ir i=C5=A1sirinkite jums tinkamiausias prekes.
+
+*Sudominome? Turite klausim=C5=B3? Susisiekite su mumis:*
+
+e. pa=C5=A1tu: info@eleksonas.lt
+
+Tel. nr. Vilniuje: +37061590959
+
+Tel. nr. =C5=A0iauliuose: +37063937485
+
+
+
+Jei =C5=A1is lai=C5=A1kas jums neaktualus =E2=80=93 b=C5=ABtume d=C4=97king=
+i, jei persi=C5=B3stum=C4=97te j=C4=AF
+atsakingam asmeniui. Jei lai=C5=A1kas jus pasiek=C4=97 per klaid=C4=85 =E2=
+=80=93 tiesiog j=C4=AF
+ignoruokite.
+
+Pagarbiai,
+Vilius Rutkauskas
+
++37061590959
+www.eleksonas.lt
+
+--000000000000f1168605886d57b5
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;text-al=
+ign:justify;line-height:150%;font-size:12pt;font-family:&quot;Times New Rom=
+an&quot;,serif"><span lang=3D"LT" style=3D"line-height:150%">Laba diena,</s=
+pan></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;text-align:justify;line-=
+height:150%;font-size:12pt;font-family:&quot;Times New Roman&quot;,serif"><=
+span lang=3D"LT" style=3D"line-height:150%">jei vis dar ie=C5=A1kote patvar=
+aus ir ilgaam=C5=BEio sprendimo, kaip aptverti j=C5=ABs=C5=B3
+teritorij=C4=85, galite daugiau nebeie=C5=A1koti! Tinklo tvor=C5=B3 montavi=
+mo specialistai =E2=80=93 <b>=E2=80=9EEleksonas=E2=80=9C</b> =E2=80=93 j=C5=
+=ABs=C5=B3 paslaugoms! Mes tveriame
+tinklo tvoras, kurios puikiai tinka didel=C4=97ms teritorijoms:</span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpFirst" style=3D"margin:0in 0in 0.0001=
+pt 0.5in;text-align:justify;line-height:150%;font-size:12pt;font-family:&qu=
+ot;Times New Roman&quot;,serif"><span lang=3D"LT" style=3D"line-height:150%=
+;font-family:Symbol">=C2=B7<span style=3D"font-variant-numeric:normal;font-=
+variant-east-asian:normal;font-stretch:normal;font-size:7pt;line-height:nor=
+mal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0
+</span></span><span lang=3D"LT" style=3D"line-height:150%">sodyboms, </span=
+></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin:0in 0in 0.000=
+1pt 0.5in;text-align:justify;line-height:150%;font-size:12pt;font-family:&q=
+uot;Times New Roman&quot;,serif"><span lang=3D"LT" style=3D"line-height:150=
+%;font-family:Symbol">=C2=B7<span style=3D"font-variant-numeric:normal;font=
+-variant-east-asian:normal;font-stretch:normal;font-size:7pt;line-height:no=
+rmal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0
+</span></span><span lang=3D"LT" style=3D"line-height:150%">mi=C5=A1ko ar pi=
+evos plotams, </span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin:0in 0in 0.000=
+1pt 0.5in;text-align:justify;line-height:150%;font-size:12pt;font-family:&q=
+uot;Times New Roman&quot;,serif"><span lang=3D"LT" style=3D"line-height:150=
+%;font-family:Symbol">=C2=B7<span style=3D"font-variant-numeric:normal;font=
+-variant-east-asian:normal;font-stretch:normal;font-size:7pt;line-height:no=
+rmal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0
+</span></span><span lang=3D"LT" style=3D"line-height:150%">tvenkiniams, </s=
+pan></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin:0in 0in 0.000=
+1pt 0.5in;text-align:justify;line-height:150%;font-size:12pt;font-family:&q=
+uot;Times New Roman&quot;,serif"><span lang=3D"LT" style=3D"line-height:150=
+%;font-family:Symbol">=C2=B7<span style=3D"font-variant-numeric:normal;font=
+-variant-east-asian:normal;font-stretch:normal;font-size:7pt;line-height:no=
+rmal;font-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0
+</span></span><span lang=3D"LT" style=3D"line-height:150%">fermoms, </span>=
+</p>
+
+<p class=3D"gmail-MsoListParagraphCxSpLast" style=3D"margin:0in 0in 8pt 0.5=
+in;text-align:justify;line-height:150%;font-size:12pt;font-family:&quot;Tim=
+es New Roman&quot;,serif"><span lang=3D"LT" style=3D"line-height:150%;font-=
+family:Symbol">=C2=B7<span style=3D"font-variant-numeric:normal;font-varian=
+t-east-asian:normal;font-stretch:normal;font-size:7pt;line-height:normal;fo=
+nt-family:&quot;Times New Roman&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0
+</span></span><span lang=3D"LT" style=3D"line-height:150%">komercin=C4=97s =
+paskirties sklypams ir t. t.</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;text-align:justify;line-=
+height:150%;font-size:12pt;font-family:&quot;Times New Roman&quot;,serif"><=
+span lang=3D"LT" style=3D"line-height:150%">Savo teritorij=C4=85 si=C5=ABlo=
+me aptverti <b>regzto,
+suvirinto</b> ar <b>mi=C5=A1ko tinklo tvora</b>.
+Darbus atliksime spar=C4=8Diai ir kokybi=C5=A1kai, taip pat u=C5=BEtikrinsi=
+me, kad j=C5=ABs=C5=B3 kiemas
+nenukent=C4=97t=C5=B3 tveriant tvor=C4=85: tvoros kuolus kalame naudodami o=
+ro kompresori=C5=B3,
+tod=C4=97l j=C5=ABs=C5=B3 kiemo nei=C5=A1va=C5=BEin=C4=97s sunkioji technik=
+a. Pagal j=C5=ABs=C5=B3 pageidavimus <b>galime =C4=AFrengti</b> ir prie tvo=
+ros deran=C4=8Dius
+<b>=C4=AFva=C5=BEiavimo vartus ar vartelius
+p=C4=97stiesiems.</b></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;text-align:justify;line-=
+height:150%;font-size:12pt;font-family:&quot;Times New Roman&quot;,serif"><=
+span lang=3D"LT" style=3D"line-height:150%">Atliekame visus tvoros tv=C4=97=
+rimo darbus nuo... iki! O jei tvor=C4=85 tveriat=C4=97s
+patys ir norite =C4=AFsigyti kokybi=C5=A1k=C5=B3 med=C5=BEiag=C5=B3, apsila=
+nkykite m=C5=ABs=C5=B3 tinklapyje </span><span lang=3D"LT"><a href=3D"http:=
+//www.tinklotvora.lt" style=3D"color:blue"><span style=3D"line-height:150%"=
+>www.tinklotvora.lt</span></a></span><span lang=3D"LT" style=3D"line-height=
+:150%"> ir i=C5=A1sirinkite jums tinkamiausias prekes.</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;text-align:justify;line-=
+height:150%;font-size:12pt;font-family:&quot;Times New Roman&quot;,serif"><=
+b><span lang=3D"LT" style=3D"line-height:150%">Sudominome? Turite klausim=
+=C5=B3? Susisiekite
+su mumis:</span></b><span lang=3D"LT" style=3D"line-height:150%"> </span></=
+p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;text-align:justify;line-=
+height:150%;font-size:12pt;font-family:&quot;Times New Roman&quot;,serif"><=
+span lang=3D"LT" style=3D"line-height:150%">e. pa=C5=A1tu: <a href=3D"mailt=
+o:info@eleksonas.lt">info@eleksonas.lt</a></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;text-align:justify;line-=
+height:150%;font-size:12pt;font-family:&quot;Times New Roman&quot;,serif"><=
+span lang=3D"LT" style=3D"line-height:150%">Tel. nr. Vilniuje: +37061590959=
+</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;text-align:justify;line-=
+height:150%;font-size:12pt;font-family:&quot;Times New Roman&quot;,serif"><=
+span lang=3D"LT" style=3D"line-height:150%">Tel. nr. =C5=A0iauliuose: +3706=
+3937485</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;text-align:justify;line-=
+height:150%;font-size:12pt;font-family:&quot;Times New Roman&quot;,serif"><=
+span lang=3D"LT">=C2=A0</span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 8pt;text-align:justify;line-=
+height:150%;font-size:12pt;font-family:&quot;Times New Roman&quot;,serif"><=
+span lang=3D"LT">Jei =C5=A1is lai=C5=A1kas jums neaktualus =E2=80=93 b=C5=
+=ABtume
+d=C4=97kingi, jei persi=C5=B3stum=C4=97te j=C4=AF atsakingam asmeniui. Jei =
+lai=C5=A1kas jus pasiek=C4=97 per
+klaid=C4=85 =E2=80=93 tiesiog j=C4=AF ignoruokite.</span></p><div><div dir=
+=3D"ltr" class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div =
+dir=3D"ltr"><div><div dir=3D"ltr"><br></div><div dir=3D"ltr">Pagarbiai,<div=
+>Vilius Rutkauskas<br></div><div><br></div><div>+37061590959</div><div><a h=
+ref=3D"http://www.eleksonas.lt" target=3D"_blank">www.eleksonas.lt</a></div=
+><div><br></div><div><br></div></div></div></div></div></div></div>
+
+--000000000000f1168605886d57b5--

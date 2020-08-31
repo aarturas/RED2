@@ -1,0 +1,1426 @@
+Return-path: <info@youroccasions.eu>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 26 Nov 2019 07:58:13 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <info@youroccasions.eu>)
+	id 1iZTrY-0003OC-SB
+	for modernus@grezimas.lt; Tue, 26 Nov 2019 07:58:12 +0200
+Received: from [194.15.124.204] (helo=smtp204.gssmtp.pl)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92.3)
+	(envelope-from <info@youroccasions.eu>)
+	id 1iZTrY-0003O7-PB
+	for modernus@grezimas.lt; Tue, 26 Nov 2019 07:58:12 +0200
+Received: from [127.0.0.1] (q2 [10.10.0.226])
+	by smtp204.gssmtp.pl (Postfix) with ESMTP id 7199B18BF59
+	for <modernus@grezimas.lt>; Tue, 26 Nov 2019 06:57:07 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; bh=s2WItIe5sXQ4Rcs0KeoysiQAZmw=;
+ d=youroccasions.eu; h=Date: Subject: From: Reply-To: To: MIME-Version:
+ Content-Type: X-UserId: X-Complaints-To: X-Abuse: Precedence:
+ List-Unsubscribe: GS-UserId: Feedback-ID; i=@youroccasions.eu;
+ s=feb2019.6084; t=1574747827;
+ b=IrPx/Hex5FUIBkCj4vKBt3cOQHFGJBHo5otdJH699kne2mIog/3Wsc/RzZQPA09qMlbNIVFwG
+ 5Bpeq9Hxrdbv9ZsBWIMU919B36CwujC71bIG0HvYSBKrgnkXJbjQoevboNoe9fck0jrGXdc4f
+ VGq0z9LHvj9E9YrrWRqkJoGjA=
+Message-ID: <1574747827.5ddcbeb36bf32@youroccasions.eu>
+Date: Tue, 26 Nov 2019 06:57:07 +0100
+Subject: =?UTF-8?Q?=E2=81=A3=F0=9F=8E=81?= Tavo =?UTF-8?Q?l=C4=99=C5=A1iai?=
+ iki 50% pigiau!
+From: "lesis.lt" <info@youroccasions.eu>
+Reply-To: info@youroccasions.eu
+To: modernus@grezimas.lt
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_=_swift_v4_1574747827_e6b26268cdff797f774e9e43536554b4_=_"
+X-UserId: 0d770c496aa3da6d2c3f2bd19e7b9d6b
+X-Complaints-To: info@youroccasions.eu
+X-Abuse: info@youroccasions.eu
+Precedence: bulk
+List-Unsubscribe: <http://mailing.youroccasions.eu/m4b/mail/unsubscribe?hash=FRMSFBQWFxMQFw==&code=dHZ9fGt3bGpZfmt8Y3B0eGo3dW1lLykhLQ%3D%3D>
+GS-UserId: 0d770c496aa3da6d2c3f2bd19e7b9d6b
+Feedback-ID: KCgoKS4gLQ==
+X-Spam-Checked: youroccasions.eu, 104.27.154.202, w3.org, googleapis.com,
+	216.58.205.228, go2speed.org, go2cloud.org, 34.250.110.70, tracking.wow.digital,
+	63.33.21.129, onaudience.com, 89.161.208.69, googlemail.com, 172.217.23.101,
+	google.com, 172.217.16.142
+
+
+--_=_swift_v4_1574747827_e6b26268cdff797f774e9e43536554b4_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+  Spauskite =C4=8Dia, jei el. Lai=C5=A1kas rodomas neteis=
+ingai
+
+   =20
+
+    Lesis.lt
+
+   =20
+
+   =20
+        .ReadMsgBod=
+y {
+            width: 100%;
+            background-color: #eee;
+    =
+    }
+
+        .ExternalClass {
+            width: 100%;
+          =
+  background-color: #eee;
+        }
+
+        body {
+            wid=
+th: 100%;
+            background-color: #eee;
+            margin: 0;
+=
+            padding: 0;
+            -webkit-font-smoothing: antialiased;=
+
+            font-family: Arial, Times, serif;
+        }
+
+        t=
+able {
+            border-collapse: collapse;
+        }
+
+        a.=
+bla.b1.ew {
+            width: 25%;
+            box-sizing: border-box;=
+
+        }
+
+        a.bla.b2.ew {
+            width: 29%;
+       =
+ }
+
+        a.bla.b3.ew {
+            width: 24%;
+        }
+
+  =
+      @media only screen and (max-width: 640px) {
+            body[yahoo]=
+ .deviceWidth {
+                width: 440px !important;
+              =
+  padding: 0;
+            }
+
+            body[yahoo] .center {
+    =
+            text-align: center !important;
+            }
+
+           =
+ a.bla {
+                float: none;
+                width: 100%;
+  =
+              margin-top: 4px;
+            }
+
+            a.bla.b1,=
+
+            a.bla.b1.ew {
+                width: 100%;
+            }=
+
+
+            a.bla.b2,
+            a.bla.b2.ew {
+                w=
+idth: 100%;
+            }
+
+            a.bla.b3,
+            a.bla.=
+b3.ew {
+                width: 100%;
+                margin-right: -1px=
+ !important
+            }
+
+            a.bla img.logo {
+           =
+     width: 220px !important
+            }
+
+            a img.ico {=
+
+                max-width: 200px !important;
+                margin-ri=
+ght: 0.5%;
+            }
+
+            a.marg {
+                marg=
+in-right: 0 !important
+            }
+
+            .bg {
+           =
+     background-size: 100% 100%;
+                background-repeat: no-re=
+peat;
+            }
+
+            a.top {
+                letter-spa=
+cing: none;
+                font-size: 12px
+            }
+
+        =
+    a.bla.b1 img {
+                max-width: 330px;
+                ma=
+rgin-right: 0.5%
+            }
+
+            a.bla.b2 img {
+        =
+        max-width: 330px;
+                margin-right: 0.5%
+          =
+  }
+
+            a.bla.b3 img {
+                max-width: 230px;
+ =
+               margin-right: 0.5%
+            }
+
+            a.bla.b1=
+ img.spr {
+                max-width: 200px !important;
+               =
+ margin-right: 0.5%;
+            }
+
+            a.bla.b2 img.spr {
+=
+                max-width: 200px !important;
+                margin-right=
+: 0.5%
+            }
+
+            a.bla.b3 img.spr {
+              =
+  max-width: 200px !important;
+                margin-right: 0.5%
+     =
+       }
+
+            .deviceWidth {
+                width: 440px !im=
+portant;
+                padding: 0;
+            }
+
+            tab=
+le.deviceWidth td {
+                max-width: 100% !important
+        =
+    }
+
+            .odl {
+                max-width: 220px !important=
+
+            }
+        }
+
+        @media only screen and (max-width=
+: 479px) {
+
+            body[yahoo] .deviceWidth {
+                wi=
+dth: 300px !important;
+                padding: 0;
+            }
+
+ =
+           body[yahoo] .center {
+                text-align: center !impo=
+rtant;
+            }
+
+            a.bla {
+                float: le=
+ft;
+                width: 100%;
+                margin-top: 4px;
+   =
+             box-sizing: border-box;
+            }
+
+            .dx {=
+
+                font-size: 40px !important;
+            }
+
+       =
+     .sm {
+                font-size: 16px !important;
+                =
+letter-spacing: normal !important
+            }
+
+            .color {=
+
+                color: #000 !important
+            }
+
+            =
+.bg {
+                background-size: 100% 100%;
+                backg=
+round-repeat: no-repeat;
+            }
+
+            a.top {
+       =
+         letter-spacing: none;
+                font-size: 12px;
+       =
+         padding: 0 4px !important
+            }
+
+            a.bla.b=
+1,
+            a.bla.b1.ew {
+                width: 100%;
+           =
+     text-align: center !important
+            }
+
+            a.bla.b=
+2,
+            a.bla.b2.ew {
+                width: 100%;
+           =
+     text-align: center !important;
+                float: none !importan=
+t
+            }
+
+            a.bla.b3,
+            a.bla.b3.ew {
+=
+                width: 100%;
+                text-align: center !importan=
+t
+            }
+
+            a.bla img.logo {
+                width=
+: 200px !important
+            }
+
+            a.marg {
+            =
+    margin-right: 0 !important
+            }
+
+            a img.ico {=
+
+                max-width: 200px !important;
+                text-alig=
+n: center !important
+            }
+
+            a.bla.b1,
+         =
+   a.bla.b2 {
+                text-align: center !important;
+          =
+      width: 100% !important
+            }
+
+            a.bla.b1.fot =
+{
+                max-width: 300px !important
+            }
+
+      =
+      a.bla.b1 img {
+                width: 100% !important;
+          =
+  }
+
+            a.bla.b2 img {
+                width: 100% !importan=
+t;
+            }
+
+            a.bla.b3 img {
+                width:=
+ 100% !important;
+            }
+
+            a.bla.b1 img.spr {
+   =
+             max-width: 150px !important;
+                margin-right: 0=
+.5%;
+            }
+
+            a.bla.b2 img.spr {
+                =
+max-width: 150px !important;
+                margin-right: 0.5%
+       =
+     }
+
+            a.bla.b3 img.spr {
+                max-width: 150=
+px !important;
+                margin-right: 0.5%
+            }
+
+  =
+          .deviceWidth {
+                width: 320px !important;
+     =
+           padding: 0;
+            }
+
+            .odl {
+          =
+      max-width: 200px !important
+            }
+        }
+
+        =
+@media only screen and (max-width: 320px) {
+
+            body[yahoo] .d=
+eviceWidth {
+                width: 280px !important;
+                p=
+adding: 0;
+            }
+
+            body[yahoo] .center {
+       =
+         text-align: center !important;
+            }
+
+            a.=
+top {
+                letter-spacing: none;
+                font-size: =
+12px;
+                padding: 0 4px !important
+            }
+
+    =
+        a.bla {
+                float: none;
+                width: 100=
+%;
+                margin-top: 4px;
+                box-sizing: border-=
+box;
+            }
+
+            a.bla img.logo {
+                wi=
+dth: 200px !important
+            }
+
+            .dx {
+            =
+    font-size: 40px !important;
+                letter-spacing: -2px !imp=
+ortant;
+            }
+
+            .xs {
+                font-size:=
+ 12px !important
+            }
+
+            .sm {
+                f=
+ont-size: 16px !important;
+                letter-spacing: 0px !important=
+
+            }
+
+            .color {
+                color: #000 !i=
+mportant
+            }
+
+            .bg {
+                backgroun=
+d-size: 100% 100%;
+                background-repeat: no-repeat;
+      =
+      }
+
+            a.marg {
+                margin-right: 0 !import=
+ant
+            }
+
+            a.bla.b1,
+            a.bla.b1.ew {=
+
+                width: 100%;
+                text-align: center !impor=
+tant
+            }
+
+            a.bla.b2,
+            a.bla.b2.ew {=
+
+                width: 100%;
+                text-align: center !impor=
+tant;
+                margin-left: -2px !important
+            }
+
+ =
+           a.bla.b3,
+            a.bla.b3.ew {
+                width: 1=
+00%;
+                text-align: center !important
+            }
+
+ =
+           a img.ico {
+                max-width: 200px !important;
+   =
+             margin-right: 0.5%;
+            }
+
+            a.bla.b1 =
+img {
+                width: 100% !important;
+            }
+
+      =
+      a.bla.b2 img {
+                width: 100% !important;
+          =
+  }
+
+            a.bla.b3 img {
+                width: 100% !importan=
+t;
+                float: none !important;
+            }
+
+         =
+   .deviceWidth {
+                width: 280px !important;
+            =
+    padding: 0;
+            }
+
+            .odl {
+                m=
+ax-width: 200px !important
+            }
+        }
+
+   =20
+
+    =
+
+   =20
+
+
+
+
+
+   =20
+   =20
+       =20
+           =20
+          =
+     =20
+                   =20
+                        BLACK WEEK SALE! Pa=
+sinaudok superspasi=C5=ABlymu ir nemok=C4=97k u=C5=BE pristatym=C4=85 Lesis=
+.lt.
+                   =20
+                   =20
+                      =
+ =20
+                           =20
+                                &nbsp;=
+
+                               =20
+                           =20
+      =
+                 =20
+                   =20
+                   =20
+        =
+               =20
+                           =20
+
+                      =
+     =20
+=20
+                           =20
+                       =20
+    =
+               =20
+               =20
+
+               =20
+               =
+    =20
+                       =20
+                   =20
+                =
+
+               =20
+               =20
+
+
+               =20
+         =
+          =20
+                       =20
+                   =20
+           =
+    =20
+
+               =20
+                   =20
+                      =
+ =20
+                           =20
+                           =20
+        =
+                        Black Week superpasi=C5=ABlymai
+                 =
+          =20
+                           =20
+                       =20
+   =
+                =20
+
+                   =20
+                       =20
+=
+
+                           =20
+
+                               =20
+   =
+                                =20
+                                       =
+=20
+                                        Tavo l=C4=99=C5=A1iai iki50% pi=
+giau!
+                                   =20
+                            =
+        Pasinaudok superpasi=C5=ABlymu
+                                =
+
+                           =20
+                       =20
+              =
+     =20
+
+               =20
+
+               =20
+                    =
+
+                       =20
+                   =20
+               =20
+
+=
+               =20
+                   =20
+                       =20
+      =
+                     =20
+                               =20
+               =
+                     =E2=9C=94 Tik originalios prek=C4=97s
+              =
+                 =20
+
+                               =20
+                =
+                    =E2=9C=94 Ma=C5=BEiausios kainos garantija
+          =
+                     =20
+
+                           =20
+                =
+       =20
+                   =20
+
+                   =20
+               =
+        =20
+                           =20
+                          =20
+  =
+                              =E2=9C=94 Nemokamas gr=C4=85=C5=BEinimas ir k=
+eitimas
+                         =20
+                           =20
+     =
+                  =20
+                   =20
+               =20
+
+        =
+       =20
+                   =20
+                       =20
+              =
+     =20
+               =20
+
+               =20
+                   =20
+  =
+                 =20
+                       =20
+                           =
+=20
+                       =20
+                   =20
+               =20
+=
+
+              =20
+               =20
+
+               =20
+             =
+      =20
+                       =20
+                   =20
+               =
+=20
+
+               =20
+
+                   =20
+                       =
+=20
+
+                       =20
+                   =20
+                =
+
+               =20
+               =20
+                   =20
+           =
+             &nbsp;
+                   =20
+               =20
+           =
+    =20
+               =20
+
+               =20
+               =20
+       =
+            =20
+                        &nbsp;
+                   =20
+   =
+            =20
+           =20
+       =20
+   =20
+
+
+   =20
+
+
+I=C5=
+=A1si=C5=B3stas d=C4=97ka Ads Pro Company LTD, 776-778 Barking Road, London=
+, United Kingdom, E13 9PJ pagal komisij=C4=85 UAB "Optes" Optes: =C4=AF.k. =
+302 323 934 Reg. adresas: Vilniaus m. Krivi=C5=B3 g. 5-139/ Baltasis skg. 1=
+2-139. Buvein=C4=97: J. Basanavi=C4=8Diaus 29A, LT-03109 Vilnius. Atsistaty=
+dinimas nuo prane=C5=A1im=C5=B3 gavimo
+
+
+
+
+
+
+
+
+--_=_swift_v4_1574747827_e6b26268cdff797f774e9e43536554b4_=_
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<link href=3D"https://fonts.googleapis.com/css?family=3DOpen Sans:100,100=
+i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900=
+i" rel=3D"stylesheet">
+<link href=3D"https://fonts.googleapis.com/css?family=3DOswald:200,300,400,=
+500,600,700" rel=3D"stylesheet">
+
+<head><center> <span style=3D"font-size: xx-small;"><a href=3D"http://mai=
+ling.youroccasions.eu/home/preview/FRMSFBQWFxMQFw=3D=3D"> Spauskite =
+=C4=8Dia, jei el. Lai=C5=A1kas rodomas neteisingai<span style=3D"font-si=
+ze: xx-small;"></span><br /></a>
+
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUT=
+F-8" />
+
+    <title>Lesis.lt</title>
+
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1" />
+
+    <style type=3D"text/css">
+        .ReadMsgBody {
+            width: 100%;
+            background-color: #eee;
+        }
+
+        .ExternalClass {
+            width: 100%;
+            background-color: #eee;
+        }
+
+        body {
+            width: 100%;
+            background-color: #eee;
+            margin: 0;
+            padding: 0;
+            -webkit-font-smoothing: antialiased;
+            font-family: Arial, Times, serif;
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+
+        a.bla.b1.ew {
+            width: 25%;
+            box-sizing: border-box;
+        }
+
+        a.bla.b2.ew {
+            width: 29%;
+        }
+
+        a.bla.b3.ew {
+            width: 24%;
+        }
+
+        @media only screen and (max-width: 640px) {
+            body[yahoo] .deviceWidth {
+                width: 440px !important;
+                padding: 0;
+            }
+
+            body[yahoo] .center {
+                text-align: center !important;
+            }
+
+            a.bla {
+                float: none;
+                width: 100%;
+                margin-top: 4px;
+            }
+
+            a.bla.b1,
+            a.bla.b1.ew {
+                width: 100%;
+            }
+
+            a.bla.b2,
+            a.bla.b2.ew {
+                width: 100%;
+            }
+
+            a.bla.b3,
+            a.bla.b3.ew {
+                width: 100%;
+                margin-right: -1px !important
+            }
+
+            a.bla img.logo {
+                width: 220px !important
+            }
+
+            a img.ico {
+                max-width: 200px !important;
+                margin-right: 0.5%;
+            }
+
+            a.marg {
+                margin-right: 0 !important
+            }
+
+            .bg {
+                background-size: 100% 100%;
+                background-repeat: no-repeat;
+            }
+
+            a.top {
+                letter-spacing: none;
+                font-size: 12px
+            }
+
+            a.bla.b1 img {
+                max-width: 330px;
+                margin-right: 0.5%
+            }
+
+            a.bla.b2 img {
+                max-width: 330px;
+                margin-right: 0.5%
+            }
+
+            a.bla.b3 img {
+                max-width: 230px;
+                margin-right: 0.5%
+            }
+
+            a.bla.b1 img.spr {
+                max-width: 200px !important;
+                margin-right: 0.5%;
+            }
+
+            a.bla.b2 img.spr {
+                max-width: 200px !important;
+                margin-right: 0.5%
+            }
+
+            a.bla.b3 img.spr {
+                max-width: 200px !important;
+                margin-right: 0.5%
+            }
+
+            .deviceWidth {
+                width: 440px !important;
+                padding: 0;
+            }
+
+            table.deviceWidth td {
+                max-width: 100% !important
+            }
+
+            .odl {
+                max-width: 220px !important
+            }
+        }
+
+        @media only screen and (max-width: 479px) {
+
+            body[yahoo] .deviceWidth {
+                width: 300px !important;
+                padding: 0;
+            }
+
+            body[yahoo] .center {
+                text-align: center !important;
+            }
+
+            a.bla {
+                float: left;
+                width: 100%;
+                margin-top: 4px;
+                box-sizing: border-box;
+            }
+
+            .dx {
+                font-size: 40px !important;
+            }
+
+            .sm {
+                font-size: 16px !important;
+                letter-spacing: normal !important
+            }
+
+            .color {
+                color: #000 !important
+            }
+
+            .bg {
+                background-size: 100% 100%;
+                background-repeat: no-repeat;
+            }
+
+            a.top {
+                letter-spacing: none;
+                font-size: 12px;
+                padding: 0 4px !important
+            }
+
+            a.bla.b1,
+            a.bla.b1.ew {
+                width: 100%;
+                text-align: center !important
+            }
+
+            a.bla.b2,
+            a.bla.b2.ew {
+                width: 100%;
+                text-align: center !important;
+                float: none !important
+            }
+
+            a.bla.b3,
+            a.bla.b3.ew {
+                width: 100%;
+                text-align: center !important
+            }
+
+            a.bla img.logo {
+                width: 200px !important
+            }
+
+            a.marg {
+                margin-right: 0 !important
+            }
+
+            a img.ico {
+                max-width: 200px !important;
+                text-align: center !important
+            }
+
+            a.bla.b1,
+            a.bla.b2 {
+                text-align: center !important;
+                width: 100% !important
+            }
+
+            a.bla.b1.fot {
+                max-width: 300px !important
+            }
+
+            a.bla.b1 img {
+                width: 100% !important;
+            }
+
+            a.bla.b2 img {
+                width: 100% !important;
+            }
+
+            a.bla.b3 img {
+                width: 100% !important;
+            }
+
+            a.bla.b1 img.spr {
+                max-width: 150px !important;
+                margin-right: 0.5%;
+            }
+
+            a.bla.b2 img.spr {
+                max-width: 150px !important;
+                margin-right: 0.5%
+            }
+
+            a.bla.b3 img.spr {
+                max-width: 150px !important;
+                margin-right: 0.5%
+            }
+
+            .deviceWidth {
+                width: 320px !important;
+                padding: 0;
+            }
+
+            .odl {
+                max-width: 200px !important
+            }
+        }
+
+        @media only screen and (max-width: 320px) {
+
+            body[yahoo] .deviceWidth {
+                width: 280px !important;
+                padding: 0;
+            }
+
+            body[yahoo] .center {
+                text-align: center !important;
+            }
+
+            a.top {
+                letter-spacing: none;
+                font-size: 12px;
+                padding: 0 4px !important
+            }
+
+            a.bla {
+                float: none;
+                width: 100%;
+                margin-top: 4px;
+                box-sizing: border-box;
+            }
+
+            a.bla img.logo {
+                width: 200px !important
+            }
+
+            .dx {
+                font-size: 40px !important;
+                letter-spacing: -2px !important;
+            }
+
+            .xs {
+                font-size: 12px !important
+            }
+
+            .sm {
+                font-size: 16px !important;
+                letter-spacing: 0px !important
+            }
+
+            .color {
+                color: #000 !important
+            }
+
+            .bg {
+                background-size: 100% 100%;
+                background-repeat: no-repeat;
+            }
+
+            a.marg {
+                margin-right: 0 !important
+            }
+
+            a.bla.b1,
+            a.bla.b1.ew {
+                width: 100%;
+                text-align: center !important
+            }
+
+            a.bla.b2,
+            a.bla.b2.ew {
+                width: 100%;
+                text-align: center !important;
+                margin-left: -2px !important
+            }
+
+            a.bla.b3,
+            a.bla.b3.ew {
+                width: 100%;
+                text-align: center !important
+            }
+
+            a img.ico {
+                max-width: 200px !important;
+                margin-right: 0.5%;
+            }
+
+            a.bla.b1 img {
+                width: 100% !important;
+            }
+
+            a.bla.b2 img {
+                width: 100% !important;
+            }
+
+            a.bla.b3 img {
+                width: 100% !important;
+                float: none !important;
+            }
+
+            .deviceWidth {
+                width: 280px !important;
+                padding: 0;
+            }
+
+            .odl {
+                max-width: 200px !important
+            }
+        }
+
+    </style>
+
+    <meta name=3D"viewport" content=3D"width=3D320, initial-scale=3D2.3, =
+user-scalable=3Dno">
+    <meta name=3D"viewport" content=3D"width=3D320; initial-scale=3D1.0; =
+maximum-scale=3D1.0; user-scalable=3D0;" />
+
+</head>
+
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"=
+0" yahoo=3D"fix" style=3D"font-family: Verdana, Arial, sans-serif">
+
+    <!-- Wrapper -->
+    <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" align=3D"center">
+        <tr>
+            <td width=3D"100%" valign=3D"top" bgcolor=3D"#eee" style=3D"p=
+adding-top:20px" bgcolor=3D"#eee">
+                <table width=3D"580" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" align=3D"center" class=3D"deviceWidth" style=3D"background-=
+color: #fff">
+                    <tr>
+                        <td style=3D"font-size:1px; color:#fff;">BLACK WEEK=
+ SALE! Pasinaudok superspasi=C5=ABlymu ir nemok=C4=97k u=C5=BE pristaty=
+m=C4=85 Lesis.lt.</td>
+                    </tr>
+                    <tr>
+                        <td style=3D"text-align:center;">
+                            <a href=3D"http://mailing.youroccasions.eu/prox=
+y/348854120/FRMSFBQWFxMQFw=3D=3D?url=3Dhttp%3A%2F%2Ftracking.wow.digital%2=
+Faff_c%3Foffer_id%3D326%26aff_id%3D1%26file_id%3D1307%26url_id%3D490&m=3D1=
+110794" style=3D" text-decoration: none" class=3D"bla">
+                                <span>&nbsp;</span><br />
+                                <img src=3D"https://media.go2speed.org/br=
+and/files/wowdigital/326/20191122112001-logozm.gif" alt=3D"Kontaktinia=
+i l=C4=99=C5=A1iai pigiai ir patikimai - L=C4=99=C5=A1is.lt" border=3D"0" =
+style=3D"margin:0px 10px 20px 10px;" class=3D"deviceWidth logo" />
+                            </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width=3D"100%" bgcolor=3D"#ffffff">
+                            <!-- Logo -->
+
+                            <!-- Nav -->
+=20
+                            <!-- End Nav -->
+                        </td>
+                    </tr>
+                </table>
+
+                <table width=3D"580" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" align=3D"center" class=3D"deviceWidth" style=3D"background-co=
+lor: #eee">
+                    <tr>
+                        <td height=3D"10" style=3D" " align=3D"center"></td=
+>
+                    </tr>
+                </table>
+                <!-- End Header -->
+                <!-- One Column -->
+
+
+                <table>
+                    <tr>
+                        <td height=3D"10"></td>
+                    </tr>
+                </table>
+
+                <table width=3D"580" class=3D"deviceWidth" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" align=3D"center" style=3D" background-c=
+olor: #fff" bgcolor=3D"#fff">
+                    <tr>
+                        <td style=3D"" width=3D"580" style=3D"margin:0 auto=
+; text-align: center;" bgcolor=3D"">
+                            <a href=3D"http://mailing.youroccasions.eu/prox=
+y/348854120/FRMSFBQWFxMQFw=3D=3D?url=3Dhttp%3A%2F%2Ftracking.wow.digital%2=
+Faff_c%3Foffer_id%3D326%26aff_id%3D1%26file_id%3D1307%26url_id%3D490&m=3D1=
+110794" class=3D"bla b1" style=3D"font-family: 'Open Sans', Verdana, san=
+s-serif; text-decoration: none; display: block; color:#000; letter-spaci=
+ng: 0.5px; padding: 5px;">
+                            <p style=3D" font-size: 16px; line-height: 25px=
+; text-align: center;">
+                                Black Week superpasi=C5=ABlymai
+                            </p>
+                            </a>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td bgcolor=3D"#000000" style=3D"background-color=
+: 000000; display: block; text-align: center; ">
+
+                            <div style=3D"display: block; text-align:cen=
+ter; font-weight:normal; width:100%; ">
+
+                                <a href=3D"http://mailing.youroccasions.eu/=
+proxy/348854120/FRMSFBQWFxMQFw=3D=3D?url=3Dhttp%3A%2F%2Ftracking.wow.digit=
+al%2Faff_c%3Foffer_id%3D326%26aff_id%3D1%26file_id%3D1307%26url_id%3D490=
+&m=3D1110794" class=3D"bla b1" style=3D"text-align: center; min-width: 100=
+%; font-family: 'Open Sans', Verdana, sans-serif; color: #fff; text-deco=
+ration: none; display: block; padding: 50px 0; background-color: #000000=
+;" bgcolor=3D"#000000">
+                                    <p style=3D"font-size: 18px; margin:=
+ 0 10px;">
+                                       =20
+                                        <b style=3D"font-size: 33px; font-w=
+eight: 500;">Tavo l=C4=99=C5=A1iai iki<br><strong style=3D"color: #E7511=
+E; font-size: 36px;">50% pigiau!</strong></b><br><br>
+                                    </p>
+                                    <p style=3D"display: inline-block; font=
+-size: 12px; text-transform: uppercase; font-weight: 800; background: #f=
+fffff; color: #000000; padding: 10px 16px; letter-spacing: 1px; margin-t=
+op: 10px;">Pasinaudok superpasi=C5=ABlymu</p>
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+
+                </table>
+
+                <table>
+                    <tr>
+                        <td height=3D"10"></td>
+                    </tr>
+                </table>
+
+                <table width=3D"580" class=3D"deviceWidth" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" align=3D"center" style=3D"background-co=
+lor:#e7511e " bgcolor=3D"#e7511e">
+                    <tr>
+                        <td bgcolor=3D"#e7511e" style=3D"background-color:=
+ e7511e; display: block; text-align: center; padding-top: 15px;">
+                            <div style=3D"display: block; text-align:cen=
+ter; font-weight:normal; border-radius: 0px; border-right:0px; float:lef=
+t; width:100%;">
+                                <a class=3D"bla b2" href=3D"http://mailing.=
+youroccasions.eu/proxy/348854120/FRMSFBQWFxMQFw=3D=3D?url=3Dhttp%3A%2F%2Ft=
+racking.wow.digital%2Faff_c%3Foffer_id%3D326%26aff_id%3D1%26file_id%3D13=
+07%26url_id%3D490&m=3D1110794" style=3D" text-align: center; min-width: =
+50%; font-family: 'Open Sans', Verdana, sans-serif; color: #fff; text-de=
+coration: none; display: inline-block; letter-spacing: 1px;" bgcolor=3D"#e=
+7511e">
+                                    =E2=9C=94 Tik originalios prek=C4=97s
+                                </a>
+
+                                <a class=3D"bla b2" href=3D"http://mailin=
+g.youroccasions.eu/proxy/348854120/FRMSFBQWFxMQFw=3D=3D?url=3Dhttp%3A%2F%2=
+Ftracking.wow.digital%2Faff_c%3Foffer_id%3D326%26aff_id%3D1%26file_id%3D=
+1307%26url_id%3D490&m=3D1110794" style=3D" text-align: center;float:righ=
+t; min-width: 50%; font-family: 'Open Sans', Verdana, sans-serif; color:=
+#fff; text-decoration: none; display: inline-block; letter-spacing: 1px;=
+" bgcolor=3D"#e7511e">
+                                    =E2=9C=94 Ma=C5=BEiausios kainos gar=
+antija
+                                </a>
+
+                            </div>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td style=3D"" width=3D"580" style=3D"margin:0 auto=
+; text-align: center;" bgcolor=3D"">
+                            <a href=3D"http://mailing.youroccasions.eu/prox=
+y/348854120/FRMSFBQWFxMQFw=3D=3D?url=3Dhttp%3A%2F%2Ftracking.wow.digital%2=
+Faff_c%3Foffer_id%3D326%26aff_id%3D1%26file_id%3D1307%26url_id%3D490&m=3D1=
+110794" class=3D"bla b1" style=3D"font-family: 'Open Sans', Verdana, san=
+s-serif; text-decoration: none; display: block; color:#ffffff; letter-sp=
+acing: 1px; padding-bottom: 20px; text-align: center;">
+                          =20
+                                =E2=9C=94 Nemokamas gr=C4=85=C5=BEinimas ir=
+ keitimas
+                         =20
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+
+                <table>
+                    <tr>
+                        <td height=3D"10"></td>
+                    </tr>
+                </table>
+
+                <table width=3D"580" class=3D"deviceWidth" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" align=3D"center" style=3D" background-c=
+olor: #fff" bgcolor=3D"#fff">
+                   =20
+                    <tr>
+                        <td>
+                            <a  href=3D"http://mailing.youroccasions.eu/pro=
+xy/348854120/FRMSFBQWFxMQFw=3D=3D?url=3Dhttp%3A%2F%2Ftracking.wow.digital%=
+2Faff_c%3Foffer_id%3D326%26aff_id%3D1%26file_id%3D1307%26url_id%3D490&m=3D=
+1110794"><img src=3D"https://media.go2speed.org/brand/files/wowdigital/326=
+/20191122112001-1.gif" class=3D"deviceWidth"></a>
+                        </td>
+                    </tr>
+                </table>
+
+              =20
+                <!-- End Column -->
+
+                <table>
+                    <tr>
+                        <td class=3D"" align=3D"center" height=3D"10"></td>
+                    </tr>
+                </table>
+
+                <table width=3D"580" class=3D"deviceWidth" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" align=3D"center" style=3D"" bgcolor=3D"">
+
+                    <tr>
+                        <td style=3D"display: block; text-align: center; ba=
+ckground-color: #000" bgcolor=3D"#000">
+
+                        </td>
+                    </tr>
+                </table>
+                <!-- End 4 Columns -->
+                <table>
+                    <tr>
+                        <td>&nbsp;</td>
+                    </tr>
+                </table>
+                <!-- End One Column -->
+                <!-- 4 Columns -->
+
+                <!-- End 4 Columns -->
+                <table>
+                    <tr>
+                        <td>&nbsp;</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+<img src=3D"http://bedigital.go2cloud.org/aff_i?offer_id=3D1781&aff_id=3D11=
+16&url_id=3D6866&aff_sub4=3D251119&aff_sub=3DNAZWA_BAZY" width=3D"1" hei=
+ght=3D"1" />
+    <!-- End Wrapper -->
+<img src=3D"http://tracking.wow.digital/aff_i?offer_id=3D326&aff_id=3D1&fil=
+e_id=3D1307" width=3D"1" height=3D"1" />
+
+<center><span><span style=3D"font-size: xx-small;">I=C5=A1si=C5=B3sta=
+s d=C4=97ka Ads Pro Company LTD, 776-778 Barking Road, London, United Kin=
+gdom, E13 9PJ pagal komisij=C4=85 UAB "Optes" Optes: =C4=AF.k. 302 323 934=
+ Reg. adresas: Vilniaus m. Krivi=C5=B3 g. 5-139/ Baltasis skg. 12-139. Bu=
+vein=C4=97: J. Basanavi=C4=8Diaus 29A, LT-03109 Vilnius. </span></span><br=
+ /><span style=3D"font-size: xx-small;"><a href=3D"http://mailing.youroc=
+casions.eu/m4b/mail/unsubscribe?hash=3DFRMSFBQWFxMQFw=3D=3D&code=3DdHZ9f=
+Gt3bGpZfmt8Y3B0eGo3dW1lLykhLQ%3D%3D">Atsistatydinimas nuo prane=C5=A1=
+im=C5=B3 gavimo</a></span></center>
+
+
+</body>
+
+</html>
+
+<img src=3D'http://mailing.youroccasions.eu/m4b/m4b_mail/open/FRMSFBQWFxMQF=
+w=3D=3D.gif' width=3D'1' height=3D'1' alt=3D''><img src=3D"https://pixel=
+.onaudience.com/?partner=3D149&amp;mapped=3D7564526a3f3b6bb7864e2e76defb=
+1682&redirect=3Dpixel.onaudience.com%2F%3Fevent%3D98005231" width=3D"0" =
+height=3D"0" alt=3D"">
+
+--_=_swift_v4_1574747827_e6b26268cdff797f774e9e43536554b4_=_--
+

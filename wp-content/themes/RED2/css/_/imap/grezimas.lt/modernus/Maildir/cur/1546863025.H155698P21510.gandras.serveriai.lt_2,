@@ -1,0 +1,70 @@
+Return-path: <dalia.dajura@gmail.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Mon, 07 Jan 2019 14:10:25 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <dalia.dajura@gmail.com>)
+	id 1ggTjc-0005ao-Vt
+	for modernus@grezimas.lt; Mon, 07 Jan 2019 14:10:25 +0200
+Received: from [209.85.208.172] (helo=mail-lj1-f172.google.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.90_1)
+	(envelope-from <dalia.dajura@gmail.com>)
+	id 1ggTjc-0005ae-Rv
+	for modernus@grezimas.lt; Mon, 07 Jan 2019 14:10:24 +0200
+Received: by mail-lj1-f172.google.com with SMTP id x85-v6so140008ljb.2
+        for <modernus@grezimas.lt>; Mon, 07 Jan 2019 04:10:23 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=to:from:message-id:date:user-agent:mime-version
+         :content-transfer-encoding:content-language;
+        bh=XNANs5cVfel3TKsF/GmqsW2pQt5wpj0zSP2bb1frT/M=;
+        b=oRkerlHvO9aqcNsOsqBk+zANOWvtuXTNRXse2mNR4hvm1Irijuatn+YVStvDfh4TBh
+         9yRH+6CDNk0/AZDrBy0YOsrSFa680mwD+Yz3AvFzWuXTZE+ZU+pxAmbuj6/I8R5B/2L6
+         czHm3Q6eqNQOEHoI8X6t9jqDF3Gaa1SXngTHj+/kMJ7Rx9UdVHjJmD4cJtVwUfLmF+x2
+         08sIWnjI0Y9fNR62kBN0fghNGhXYLoZW5L20SqCMtuW3+JFx8VGdO0KWP1m55atrppdG
+         6ziZ4MNMVn5Eja4lWQ+ONAhY36oSopkkubTLH0qMut/hNyzJnvHJNWwR8l+XTBzIq4jt
+         t8jw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:to:from:message-id:date:user-agent:mime-version
+         :content-transfer-encoding:content-language;
+        bh=XNANs5cVfel3TKsF/GmqsW2pQt5wpj0zSP2bb1frT/M=;
+        b=rslc+E8J5RhSOu2cMHyt9heKDq2I27m9luHYqLw0nea3HfvV/e0qJn5Z6Lu2XRIvtI
+         DMXAAA6L60a5fZSGA/5oY1S43azRKGAEIhy3bsNbTV5cWfSniJwQOPhROVtz2RciQdGI
+         G7Jhdgc2klcVgaKWXltCtHyH6PUJ5PPq382fMUv053PD3nE679mtlYYFUQZmBcmtAls+
+         tOid0ucFOn2rHjnziYi9ka23rZp7Ne7wkCEdfk8W6uwy0twRXGDwzG4COwAvetisJ+A6
+         IXLrGOyCg6V8nAJKQxfO+NocbCFHJqPMYGBxhcg8XiiG28COSep+1XerWAA+QfU8k2KD
+         zxSA==
+X-Gm-Message-State: AJcUukfX5zUfmGUouBOLMl/B1BbHjIzYD3uzQnxhACg8yvpGFbtpInx7
+	b4lMhfDiQZghj+7l0OODsmN1KfIb
+X-Google-Smtp-Source: AFSGD/UgXiae6porelnhmyc08CZdL1bdkGG5IxUYQrDa5OAGwyhgnYJBBun1Kkclu9i9kjcFJN41Vg==
+X-Received: by 2002:a2e:744:: with SMTP id i4-v6mr33518032ljd.140.1546863021723;
+        Mon, 07 Jan 2019 04:10:21 -0800 (PST)
+Received: from [192.168.175.166] ([84.32.116.73])
+        by smtp.gmail.com with ESMTPSA id e94sm12762147lfi.23.2019.01.07.04.10.20
+        for <modernus@grezimas.lt>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 07 Jan 2019 04:10:20 -0800 (PST)
+To: =?UTF-8?B?TWlsYcWhaWVuxJc=?= <modernus@grezimas.lt>
+From: =?UTF-8?Q?Dalia_=c5=a0imiene?= <dalia.dajura@gmail.com>
+Message-ID: <fa4192f2-c518-351e-dd10-401583321637@gmail.com>
+Date: Mon, 7 Jan 2019 14:10:20 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:60.0) Gecko/20100101
+ Thunderbird/60.4.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+Content-Language: en-US
+
+
+Laba diena, p. Lilija
+
+Atsiprašau, bet turiu dar kartą patrukdyti. Pasigedome šlagbaumo 
+pultelio, gal galėtų kas nors užvešti?
+
+
+Geros dienos,
+
+Dalia Šimienė
+
+

@@ -1,0 +1,246 @@
+Return-path: <bounces+8CTH6Mgw26_3nQFi@sendersrv.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 19 Nov 2019 08:40:47 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <bounces+8CTH6Mgw26_3nQFi@sendersrv.com>)
+	id 1iWxBv-0006JJ-FX
+	for modernus@grezimas.lt; Tue, 19 Nov 2019 08:40:47 +0200
+Received: from [185.3.229.125] (helo=mail1.sendersrv.com)
+	by gandras.serveriai.lt with esmtp (Exim 4.92.3)
+	(envelope-from <bounces+8CTH6Mgw26_3nQFi@sendersrv.com>)
+	id 1iWxBv-0006JE-Du
+	for modernus@grezimas.lt; Tue, 19 Nov 2019 08:40:47 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=smtp; d=sendersrv.com;
+ h=From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe:Date;
+ bh=c5uqvpsktp+eKLJYXw2YFXjsEvQ=;
+ b=AcnH2QQvp5MiVVohQXMp8258KU1QGuiLt+fCatjqybWbYQ2UZlm5L9HLIKxUAnBwpTURGg1bpT08
+   q9ROVC9SaOSVUfwMYyKl7L9872MFdlgmZIUbk6fdxgXmp7UJptGRhVYALmmsUdyXzTXHzlNVFFSf
+   Dkftl9G897sPAjZoNDM=
+From: =?UTF-8?Q?Martynas_=C5=A0aikus?= <info@motersvizija.lt>
+To: modernus@grezimas.lt
+Message-ID: <8CTH6Mgw26_3nQFi-newsletter@synergia.data.lt>
+Subject: =?UTF-8?Q?NAUJIENA!_Did=C5=BEiausia_Lietuvoje_?=
+ =?UTF-8?Q?konferencija_moterims_-_sugr=C4=AF=C5=BEta?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_81434785_1972216872.1574145647159"
+Precedence: bulk
+Feedback-ID: 117:204894:campaign:SenderNET
+X-Sender-ID: 8CTH6Mgw26_3nQFi
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <https://stats.sender.net/unsubscribe/8CTH6Mgw26_3nQFi>, <mailto:unsubscribe+8CTH6Mgw26_3nQFi@sendersrv.com?subject=8CTH6Mgw26_3nQFi>
+Date: Tue, 19 Nov 2019 08:40:47 +0200
+X-Spam-Checked: sender.net, 104.248.86.238, w3.org, paysera.com, 104.18.130.107,
+	google.com, 172.217.16.142
+
+------=_Part_81434785_1972216872.1574145647159
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_81434786_197663036.1574145647159"
+
+------=_Part_81434786_197663036.1574145647159
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_81434786_197663036.1574145647159
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3D"en" xmlns=3D"http://www.w3.org/1999/xhtml" xml=
+ns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com=
+:office:office"><head> <meta charset=3D"utf-8"> <!-- utf-8 works for most c=
+ases --> <meta name=3D"viewport" content=3D"width=3Ddevice-width"> <!-- For=
+cing initial-scale shouldn't be necessary --> <meta http-equiv=3D"X-UA-Comp=
+atible" content=3D"IE=3Dedge"> <!-- Use the latest (edge) version of IE ren=
+dering engine --> <meta name=3D"x-apple-disable-message-reformatting"> <!--=
+ Disable auto-scale in iOS 10 Mail entirely --> <title>NAUJIENA! Did=C5=BEi=
+ausia Lietuvoje konferencija moterims - sugr=C4=AF=C5=BEta</title> <!-- The=
+ title tag shows in email notifications, like Android 4.4. --> <!--[if mso]=
+> <style> * { font-family: sans-serif !important; } </style> <![endif]--> <=
+style id=3D"senderDefaultStyles" type=3D"text/css"> /* CLIENT-SPECIFIC STYL=
+ES */ #outlook a { padding: 0; } /* Force Outlook to provide a "view in bro=
+wser" message */ .ReadMsgBody { width: 100%; } .ExternalClass { width: 100%=
+; } /* Force Hotmail to display emails at full width */ .ExternalClass, .Ex=
+ternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td,=
+ .ExternalClass div { line-height: 150%; } * { line-height: inherit; } .tes=
+tInternalStyle { color: green; } /* Force Hotmail to display normal line sp=
+acing */ body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; } /* Prevent WebKit and Windows mobile changing default text=
+ sizes */ table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; } /* Re=
+move spacing between tables in Outlook 2007 and up */ img { -ms-interpolati=
+on-mode: bicubic; } /* Allow smoother rendering of resized image in Interne=
+t Explorer */ /* RESET STYLES */ body { margin: 0; padding: 0; width: 100% =
+!important; height: 100% !important; } img { border: 0; height: auto; line-=
+height: 100%; outline: none; text-decoration: none; display: block; max-wid=
+th: 100% !important; } p { margin: 0 } table { border-collapse: collapse !i=
+mportant; border-spacing: 0 !important; } /* iOS BLUE LINKS */ .appleBody a=
+ { color: #68440a; text-decoration: none; } .appleFooter a { color: #999999=
+; text-decoration: none; } h1, h2, h3 { margin: 0; } h1 { font-size: 36px; =
+font-weight: normal; } h2 { font-size: 24px; font-weight: normal; } h3 { fo=
+nt-size: 20px; font-weight: normal; } body { font-family: Arial, Helvetica,=
+ sans-serif; padding: 0; margin: 0; } a { text-decoration: none; color: inh=
+erit; } .sender-1-col, .sender-1-col-1-responsive { width: 8.333333%; } .se=
+nder-2-col, .sender-2-col-2-responsive { width: 16.666667%; } .sender-3-col=
+, .sender-3-col-3-responsive, .sender-3-col-6-responsive { width: 25%; } .s=
+ender-4-col, .sender-4-col-4-responsive { width: 33.333333%; } .sender-5-co=
+l, .sender-5-col-5-responsive { width: 41.666667%; } .sender-6-col, .sender=
+-6-col-6-responsive { width: 50%; } .sender-7-col, .sender-7-col-7-responsi=
+ve { width: 58.333333%; } .sender-8-col, .sender-8-col-8-responsive { width=
+: 66.666667%; } .sender-9-col, .sender-9-col-9-responsive { width: 75%; } .=
+sender-10-col, .sender-10-col-10-responsive { width: 83.333333%; } .sender-=
+11-col, .sender-11-col-11-responsive { width: 91.666667%; } .sender-12-col,=
+ .sender-12-col-12-responsive { width: 100%; } .sender-3-col-6-responsive-w=
+rapper { display: block; width: 50%; float: left; overflow: auto; } @media =
+only screen and (max-width: 640px) { table.internal-content-table { width: =
+100% !important; } img { max-width: 100% !important; max-height: 100% !impo=
+rtant; } .columnSpacing.break-on-mobile { display: none; } /* FULL-WIDTH TA=
+BLES */ table.responsive-table { width: 100% !important; } td.sender-1-col.=
+break-on-mobile, td.sender-2-col.break-on-mobile, td.sender-3-col.break-on-=
+mobile, td.sender-4-col.break-on-mobile, td.sender-5-col.break-on-mobile, t=
+d.sender-6-col.break-on-mobile, td.sender-7-col.break-on-mobile, td.sender-=
+8-col.break-on-mobile, td.sender-9-col.break-on-mobile, td.sender-10-col.br=
+eak-on-mobile, td.sender-11-col.break-on-mobile, td.sender-12-col.break-on-=
+mobile { width: 100% !important; display: block !important; overflow: auto =
+!important; padding-left: 0px !important; padding-right: 0px !important; } =
+td.sender-3-col-6-responsive { width: 50%; padding-bottom: 20px; } tr.sende=
+r-3-col-6-responsive-wrapper { display: initial !important; width: initial =
+!important; float: initial !important; overflow: initial !important; } tabl=
+e.hide-on-mobile, td.hide-on-mobile { display: none !important; } } </style=
+> <!--[if gte mso 7]><xml> <o:OfficeDocumentSettings> <o:AllowPNG/> <o:Pixe=
+lsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml><![endif]-=
+-></head><body style=3D"background-color: rgb(242, 242, 242);"><img src=3D"=
+https://stats.sender.net/email_open/8CTH6Mgw26_3nQFi" width=3D"1" height=3D=
+"1" border=3D"0" alt=3D"" style=3D"height:1px !important;width:1px !importa=
+nt;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !impor=
+tant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !impo=
+rtant;padding-bottom:0 !important;padding-right:0 !important;padding-left:0=
+ !important;outline-style:none;text-decoration:none;display:block;"><!--[if=
+ gte mso 9]><v:background xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D=
+"t"> <v:fill type=3D"tile" color=3D"#f2f2f2"></v:fill></v:background><![end=
+if]--><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" style=3D"mso-padding-alt: 0;mso-marging-alt: 0;"> <tbody><tr> <td class=
+=3D"se-email-backgroun-holder"> <table width=3D"100%" align=3D"center" cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0"> <tbody><tr> <td valign=3D"top=
+"> <table class=3D"se-content-table" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%"> <tbody><tr> <td> <table align=3D"center" wid=
+th=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <tbody><tr> <=
+td align=3D"center"> <table width=3D"100%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" align=3D"center"> <tbody><tr> <td style=3D"padding: 20px 0=
+px 20px 0px;"> <!-- UNSUBSCRIBE COPY --> <table width=3D"100%" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" align=3D"center" class=3D"responsive-t=
+able"> <tbody><tr> <td align=3D"center" valign=3D"middle" class=3D"browser-=
+preview-unsubscribe-section-td"> <a class=3D"browser-preview-unsubscribe-se=
+ction-link" style=3D" color: #737373; font-size: 12px; font-family: Arial, =
+Helvetica Neue, Helvetica, sans-serif;" href=3D"https://stats.sender.net/br=
+owser_preview/8CTH6Mgw26_3nQFi"> Is this email not displaying correctly? Vi=
+ew it in your browser. </a> </td> </tr> </tbody></table> </td> </tr> </tbod=
+y></table> </td> </tr> </tbody></table> </td> </tr> <!-- CONTENT --> <tr> <=
+td class=3D"contentWrapper" style=3D""><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%" class=3D"section table-block section-hov=
+er-outline selected"><tbody><tr> <td bgcolor=3D"transparent"> <table style=
+=3D"table-layout: fixed !important;" class=3D"internal-content-table" align=
+=3D"center" width=3D"640" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=
+ <tbody><tr> <td class=3D"internal-content-td" bgcolor=3D"#ffffff" valign=
+=3D"top" style=3D" border-top-left-radius: 0px; border-top-right-radius: 0p=
+x; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; "> <tab=
+le class=3D"width-validator" align=3D"center" width=3D"100%" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0"> <tbody><tr> <td bgcolor=3D"transparent"=
+ style=3D"padding-right: 20px"></td> <td style=3D" padding-left: 0; padding=
+-top: 10px; padding-right: 0; padding-bottom: 10px; " width=3D"100%"> <tabl=
+e align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0"> <tbody><tr><td valign=3D"top" bgcolor=3D"transparent" cid=3D"315" =
+class=3D"sender-12-col break-on-mobile"><table width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block base-block-view"><=
+tbody><tr> <td align=3D"left" class=3D"internal-top-level-td" bgcolor=3D"tr=
+ansparent" style=3D"padding-top: 10px; padding-right: 0px; padding-bottom: =
+10px; padding-left: 0px; overflow: hidden; text-align: left; font-family: A=
+rial, Helvetica Neue, Helvetica, sans-serif; font-size: 14px; color: #73737=
+3; mso-line-height-rule: exactly; line-height: 150%"> <div style=3D"mso-lin=
+e-height-rule: exactly; line-height: 150%;"><p>Did=C5=BEiausia Lietuvoje mo=
+tyvacin=C4=97 konferencija moterims <a href=3D"https://stats.sender.net/lin=
+k_click/8CTH6Mgw26_3nQFi/a19389b365602b9a3dad78421d85a169" style=3D"color: =
+rgb(252, 136, 5);" data-redactor-style-cache=3D"color: rgb(252, 136, 5);" r=
+el=3D"a19389b365602b9a3dad78421d85a169">MOTERS VIZIJA</a> v=C4=97l sugr=C4=
+=AF=C5=BEta!<br><br>Kaip ir visada, konferencija vyks pa=C4=8Di=C4=85 i=C5=
+=A1kilmingiausi=C4=85 moterims dien=C4=85 - <strong>kovo 8-t=C4=85j=C4=85, =
+2020 metais.</strong> Veiksmo vieta - LITEXPO konferencij=C5=B3 centras, Vi=
+lnius.<br><br>Pagrindin=C4=97 konferencijos tema: <strong>"NESUSTABDOMA! Ka=
+ip pasiekti did=C5=BEiausius tikslus darbe ir gyvenime"</strong><br><br>Pir=
+maisiais metais dalyv=C4=97s i=C5=A1girdo pakertan=C4=8Dias kultin=C4=97s L=
+ietuvos aktor=C4=97s Ingeborgos Dapk=C5=ABnait=C4=97s, "Maxima LT" generali=
+n=C4=97s direktor=C4=97s Kristinos Meid=C4=97s, re=C5=BEisier=C4=97s Dalios=
+ Ibelhauptait=C4=97s, pasaulinio lygio motyvator=C4=97s Madi Sharma ir daug=
+elio kit=C5=B3 i=C5=A1skirtini=C5=B3 moter=C5=B3 mintis.<br><br>Antraisiais=
+ konferencijos metais mes pakviet=C4=97me charizmati=C5=A1k=C4=85j=C4=85 li=
+etuvi=C5=B3 kilm=C4=97s auksinio Holivudo aktor=C4=99 Ruta Lee, lietuvi=C5=
+=B3 primabalerin=C4=85 Egl=C4=99 =C5=A0pokait=C4=99, kurios kartu su =C5=BE=
+ymi=C4=85j=C4=85 lietuvi=C5=B3 =C5=BEurnaliste Daiva =C5=BDeimyte - Biliene=
+ pasidalino unikaliomis istorijomis.<br><br>Ir jau tre=C4=8Di=C4=85 kart=C4=
+=85 i=C5=A1 eil=C4=97s dalyvi=C5=B3 lauks tokia pat stipri ir magneti=C5=A1=
+ka i=C5=A1skirtini=C5=B3 moter=C5=B3 komanda, kuri=C5=B3 pirmoji oficialiai=
+ patvirtinta - Kalifornijoje gyvenanti, motyvacijos ir atkaklumo ikona, mot=
+eris patyrusi=C5=B3 vienus sud=C4=97tingiausi=C5=B3 gyvenimo i=C5=A1bandym=
+=C5=B3 - <a href=3D"https://stats.sender.net/link_click/8CTH6Mgw26_3nQFi/20=
+9f4e125ea4d9032ba741a834d2c580" style=3D"color: rgb(252, 136, 5);" data-red=
+actor-style-cache=3D"color: rgb(252, 136, 5);" rel=3D"209f4e125ea4d9032ba74=
+1a834d2c580">INGA LIZDENYT=C4=96.</a><br><br>Ji dar n=C4=97ra pasaulin=C4=
+=97 garsenyb=C4=97, bet jos istorija verta pa=C4=8Di=C5=B3 geriausi=C5=B3, =
+dramati=C5=A1kiausi=C5=B3 film=C5=B3 ir knyg=C5=B3. Bet svarbiausia - J=C5=
+=ABs=C5=B3 d=C4=97mesio.<strong><br><br>INGA LIZDENYT=C4=96 - TAI MOTER=C5=
+=B2 NICK VUJICIC.</strong><br><br>Dramati=C5=A1ko likimo moteris, kuri prar=
+ado galimyb=C4=99 vaik=C5=A1=C4=8Dioti ir liesti, i=C5=A1 naujo i=C5=A1moko=
+ gyventi, v=C4=97l =C4=AFsimyl=C4=97jo gyvenim=C4=85 ir b=C5=ABdami ne=C4=
+=AFgali pasiek=C4=97 did=C5=BEiausius savo tikslus.<br><br>Ji tikra kovotoj=
+a, o jos moto - <strong>NESTUSTABDOMA, TAI PASIRINKIMAS!</strong> - daugyb=
+=C4=99 kart=C5=B3 nuskamb=C4=97s <strong>MOTERS VIZIJOJE, 2020 m. kovo 8-t=
+=C4=85j=C4=85</strong> ir dr=C4=85sins t=C5=ABkstan=C4=8Dius moter=C5=B3 si=
+ekti savo tiksl=C5=B3 ir svajoni=C5=B3.<br><br>Inga m=C5=ABs=C5=B3 pirmoji =
+konferencijos prane=C5=A1=C4=97ja ir lyder=C4=97, kuri=C4=85 privalote pama=
+tyti.<br><br>Daugiau informacijos apie Ing=C4=85, jos istorij=C4=85 ir kita=
+s konferencijos =C5=BEvaig=C5=BEdes pirmiausiai rasite Moters Vizijos FB pu=
+slapyje, <a href=3D"https://stats.sender.net/link_click/8CTH6Mgw26_3nQFi/73=
+2b81b00bc6a036aa05c13e519f4a8f" style=3D"color: rgb(252, 136, 5);" rel=3D"7=
+32b81b00bc6a036aa05c13e519f4a8f">renginio apra=C5=A1yme</a>, o neu=C5=BEilg=
+o informacija bus skelbiama ir naujoje svetain=C4=97je.</p><p>=EF=BB=BF</p>=
+<p>=EF=BB=BFBilietus =C4=AFsigyti kvie=C4=8Diame Paysera tickets puslapyje:=
+=EF=BB=BF=EF=BB=BF=EF=BB=BF<br><br><a href=3D"https://stats.sender.net/link=
+_click/8CTH6Mgw26_3nQFi/13ad17efeb0c06cf0e5340467a4a0a04" style=3D"color: r=
+gb(252, 136, 5);" rel=3D"13ad17efeb0c06cf0e5340467a4a0a04">https://tickets.=
+paysera.com/lt/event/moters-vizija-2020-kovo-8</a><br><br>=EF=BB=BF=EF=BB=
+=BF<br></p><p><b>=EF=BB=BFBILIETAI</b><br><br>Tik dabar pirmieji bilietai -=
+ u=C5=BE ma=C5=BEiausi=C4=85 kain=C4=85.<br><br>Perkant vien=C4=85 biliet=
+=C4=85, bilieto kaina - 52 eurai.<br><br>Perkant 2 bilietus ir daugiau, bil=
+ieto kaina - 49 eurai.<br><br>Bilietai brangs kas dvi - tris savaites iki p=
+at konferencijos.<br><br>Galutin=C4=97 bilieto kaina prie dur=C5=B3 bus 99 =
+eurai.<br><br>=EF=BB=BF=EF=BB=BF</p><p>=EF=BB=BF=EF=BB=BF</p><p>=EF=BB=BFSu=
+ geriausiais link=C4=97jimais,</p><p>=EF=BB=BFMartynas =C5=A0aikus</p><p>=
+=EF=BB=BF"Money Club" ir "Moters Vizijos" =C4=AFk=C5=ABr=C4=97jas=EF=BB=BF=
+=EF=BB=BF=EF=BB=BF=EF=BB=BF=EF=BB=BF=EF=BB=BF</p></div> </td></tr></tbody><=
+/table><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" class=3D"table-block base-block-view"><tbody><tr> <td class=3D"internal-=
+top-level-td" align=3D"center" bgcolor=3D"transparent" style=3D"padding-top=
+: 10px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px;"> <div=
+> <a href=3D"https://stats.sender.net/link_click/8CTH6Mgw26_3nQFi/ad75cdefd=
+9948d30606c033e459c189f" rel=3D"ad75cdefd9948d30606c033e459c189f"> <img wid=
+th=3D"600" src=3D"https://cdn.sender.net/email_images/117/202327/kovo8.png"=
+ border=3D"0" alt=3D"Moters Vizija" height=3D"auto" style=3D"display: block=
+; box-sizing: border-box; max-width: 100%; border-radius: 0px;"> </a> </div=
+> </td></tr></tbody></table></td></tr> </tbody></table> </td> <td bgcolor=
+=3D"transparent" style=3D"padding-right: 20px"></td> </tr> </tbody></table>=
+ </td> </tr> </tbody></table> </td></tr></tbody></table></td> </tr> <!-- UN=
+SUBSCRIBE --> <tr> <td> <table order=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%"> <tbody><tr> <td align=3D"center"> <table width=3D"100%"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center"> <tbody>=
+<tr> <td style=3D"padding: 20px 0px 20px 0px;"> <!-- UNSUBSCRIBE COPY --> <=
+table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center" class=3D"responsive-table"> <tbody><tr> <td align=3D"center" va=
+lign=3D"middle" class=3D"browser-preview-unsubscribe-section-td"> <a class=
+=3D"browser-preview-unsubscribe-section-link" href=3D"https://stats.sender.=
+net/unsubscribe/8CTH6Mgw26_3nQFi" style=3D"color: #737373;font-size: 12px;f=
+ont-family: Arial, Helvetica Neue, Helvetica, sans-serif;"> If you want to =
+unsubscribe, click here. </a> </td> </tr> </tbody></table> </td> </tr> </tb=
+ody></table> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </td=
+> </tr> </tbody></table> </td> </tr></tbody></table></body></html>
+------=_Part_81434786_197663036.1574145647159--
+
+------=_Part_81434785_1972216872.1574145647159--

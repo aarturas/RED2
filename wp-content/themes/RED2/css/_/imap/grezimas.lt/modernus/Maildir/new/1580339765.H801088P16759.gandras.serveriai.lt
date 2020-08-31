@@ -1,0 +1,86 @@
+Return-path: <raymond@accramining.net>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Thu, 30 Jan 2020 01:16:05 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <raymond@accramining.net>)
+	id 1iwwZ2-0004MA-K8
+	for modernus@grezimas.lt; Thu, 30 Jan 2020 01:16:05 +0200
+Received: from [207.180.218.248] (helo=host.webathand.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92.3)
+	(envelope-from <raymond@accramining.net>)
+	id 1iwwZ2-0004M4-EY
+	for modernus@grezimas.lt; Thu, 30 Jan 2020 01:16:04 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=accramining.net; s=default; h=Content-Transfer-Encoding:Content-Type:
+	MIME-Version:Subject:To:Message-ID:From:Date:Sender:Reply-To:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=fGiBDCCANlwTCk9dM05CSUehLdfcZQNM1qaPNwv15lE=; b=NXnHwEqM2N9AI/N4dCiviWACy2
+	FCCQoNvJ0nvpISyQdjX4EQbO5+72mOZR0HywnybP75v5C9a78MQXdVR6kdYPsJJdaxB9U6Ha6sv7F
+	Xf1S/UCo632tQvDLmq8K+B/XH8eNRVbtJXshJqgREQEWkUqgqAUt1MVoft+m+yfFzYDExXIWpk5Cg
+	lEdp5xAAlBWrwuOhw4cDg+y81eFyi0S1jCnU8BO1mSlXUKsFso9MKe0JbQwrrVWCJHptVwkQRJOSG
+	yVdTJDtHii8ZZmlun782jXPwXyP02WQlWvJZ+NRJtxiuS2toFp6kaiU3ZMYuIMzAnctyXshmjKIEq
+	2Sb42BCQ==;
+Received: from [116.255.245.218] (port=63261 helo=accramining.net)
+	by host.webathand.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <raymond@accramining.net>)
+	id 1iwXjR-0006yo-K0
+	for modernus@grezimas.lt; Tue, 28 Jan 2020 20:45:09 +0000
+Date: Wed, 29 Jan 2020 4:45:07 +0800
+From: "=?utf-8?Q?Established_Rx-Market?=" <raymond@accramining.net>
+Organization: bmbvm
+X-Priority: 3 (Normal)
+Message-ID: <.20200129044507@accramining.net>
+To: modernus@grezimas.lt
+Subject: =?utf-8?Q?Press_for_premium_generic_products_here.?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - host.webathand.com
+X-AntiAbuse: Original Domain - grezimas.lt
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - accramining.net
+X-Get-Message-Sender-Via: host.webathand.com: authenticated_id: raymond@accramining.net
+X-Authenticated-Sender: host.webathand.com: raymond@accramining.net
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Spam-Checked: w3.org, qches.cn, 211.149.195.195
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Press for premium generic products here.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td bgcolor="#ECECEC">
+<p style="text-align: right;font-size:12px;font-family:arial, helvetica neue, helvetica, sans-serif;color:#171717;"><br>
+</p>
+</td></tr>
+<tr><td bgcolor="#CCAB88"> 
+<table width="550" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td bgcolor="#CCAB88">
+<p style="margin: 39px 7px;text-align: center;font-size:50px;font-family:arial, helvetica neue, helvetica, sans-serif;color:#171717;">
+Established Rx-Market
+</p>
+</td></tr>
+<tr><td bgcolor="#FFFFFF">
+<p style="margin: 28px 8px;text-align: center;font-size:19px;font-family:arial, helvetica neue, helvetica, sans-serif;color:#171717;">Looking to joy your  girl? It is really hard to be effective. This store will try to find the best way to fix all your problems! Next thing you need to do is to continue to this mart.</p>
+</td></tr>
+</table></td></tr>
+<tr><td bgcolor="#ECECEC">
+<table width="550" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td bgcolor="#FFFFFF">
+<p style="margin: 40px 7px;text-align: center;">
+<a href="http://qches.cn/wp-includes/store/" style="text-decoration:none;text-align: center;font-size:19px;font-family:arial, helvetica neue, helvetica, sans-serif;color:#FFFFFF;border-style:solid;border-color:#917A5B;border-width:15px 25px;display:inline-block;background:#917A5B;border-radius:2px;">Continue shopping</a>
+</p>
+</td></tr>
+<tr><td bgcolor="#644E2A">
+<p style="margin: 27px 16px;font-size:16px;font-family:arial, helvetica neue, helvetica, sans-serif;color:#C0C0C0;">
+View in web browser: http://qches.cn/wp-includes/store/
+</p>
+</td></tr></table>
+</td></tr></table></body>
+</html>

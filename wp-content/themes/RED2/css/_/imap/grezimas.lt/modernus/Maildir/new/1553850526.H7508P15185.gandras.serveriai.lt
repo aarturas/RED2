@@ -1,0 +1,126 @@
+Return-path: <info@svarista.lt>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Fri, 29 Mar 2019 11:08:46 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <info@svarista.lt>)
+	id 1h9nVF-0003wn-FS
+	for modernus@grezimas.lt; Fri, 29 Mar 2019 11:08:45 +0200
+Received: from [209.85.221.42] (helo=mail-wr1-f42.google.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.90_1)
+	(envelope-from <info@svarista.lt>)
+	id 1h9nVF-0003wi-As
+	for modernus@grezimas.lt; Fri, 29 Mar 2019 11:08:45 +0200
+Received: by mail-wr1-f42.google.com with SMTP id r4so1607919wrq.8
+        for <modernus@grezimas.lt>; Fri, 29 Mar 2019 02:08:45 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=svarista-lt.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=3ECkmTfeZ52BYCDa8keWrcgjUjm4gTvMedfyFA46PcE=;
+        b=dNp8KrwYCo1t4OfcD4gwHNwzcETMIlvO+sqvsjUtzwHAdAqNo5PbhXf01jTFeZWdTm
+         E0rGLN+JOKrbLUUalFRR69zOUh/a4dCpC1/fWk+aJsUO2Lws417vK8MWKP6+aqjze1Vt
+         RZCDU6CsV8SGGotnKQPE8C2+2udVcOtgMS9hIOzZgvOOOs5CH4w4GafEbeefFaGhDzlw
+         qPYcDmUaPc5LzxQe6YJFJ0sXG+mKmVOR5W56H1yWT3uOp/VxTbmq+AaDLLuow/N94Y0b
+         Orp6xCq76bvm341aMeNBQQl6IIUL5hKkBcdVBycioLu0+oDmihhHP7Amv2nX/LkcN5Bw
+         2fUA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=3ECkmTfeZ52BYCDa8keWrcgjUjm4gTvMedfyFA46PcE=;
+        b=RmVvQptUne2i0ndm14NZ8AFHkmwZXICNlPNH9/VAOAw4U8B26jmo4GW+IpxVxRnG/H
+         oimTcCKQaj+UtgYVEkbMh45//zjZ4uAxQqzCgHZyRVkOPqwIYU5hkNRrS9rYq+/sR3MJ
+         +lFvfqJZD3WOIzWWGHtP8Yl8Asrp7x03DcZvbycu/rasJFSLEe3/mV0a20NJ9qpYtg+m
+         FOlPT4p2bcbd14ZrTrEiJVKw+cQOgx1DUvXwgnWc3uMkPjSgBBLKm+/f1WhbodDqbErz
+         LIaBnbQfn+z0mCKAVDwlpWHogWdX44WxgouGVz2dYx/uNqDu9DSaKMkDtoGMroDSu/64
+         JcVw==
+X-Gm-Message-State: APjAAAX1kHZczKbiHFYxkM0GRUTmlRxOdImZxb+aX+zaKDYbIX4LiQSN
+	XXAh+WxaEl1/Odu3FZI1DXcaSakuKT9kxSJ/tYHrG9A5/tA=
+X-Google-Smtp-Source: APXvYqwx+nm7OZ5sOyqCb9vclywOOXx7cDoyt+3j7gJUqYKRjCcoOoQEIYZtQPFN0bTfqVodVZi+fjsdvrJLqUGbR68=
+X-Received: by 2002:a5d:474d:: with SMTP id o13mr30630065wrs.278.1553850524504;
+ Fri, 29 Mar 2019 02:08:44 -0700 (PDT)
+MIME-Version: 1.0
+From: Svarista UAB <info@svarista.lt>
+Date: Fri, 29 Mar 2019 11:07:11 +0200
+Message-ID: <CAJ+_AP4=vz9AKJjGz_6GK8g0LRkf=FaCAEsd9vgFixJMMVkXiw@mail.gmail.com>
+Subject: =?UTF-8?B?VUFCICLFoHZhcmlzdGEiIGtvbnRlaW5lcmnFsyBudW9tb3MgaXIgYXRsaWVrxbMgacWhdg==?=
+	=?UTF-8?B?ZcW+aW1vIHBhc2xhdWfFsyBwYXNpxatseW1hcw==?=
+To: modernus@grezimas.lt
+Content-Type: multipart/alternative; boundary="0000000000008c2cbd05853804d8"
+X-Spam-Checked: svarista.lt, 79.98.24.194, google.com
+
+--0000000000008c2cbd05853804d8
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Sveiki,
+
+Esame =C4=AFmon=C4=97 UAB =E2=80=9E=C5=A0varista=E2=80=9C ir mes norime sus=
+isiekti su J=C5=ABs=C5=B3 =C4=AFmon=C4=97s atstovu,
+kuriam gal=C4=97t=C5=B3 b=C5=ABti =C4=AFdomios m=C5=ABs=C5=B3 =C4=AFmon=C4=
+=97s teikiamos paslaugos.
+
+M=C5=ABs=C5=B3 teikiamos paslaugos:
+=E2=80=A2 Nuomojame konteinerius statybini=C5=B3 bei gamybini=C5=B3 =C5=A1i=
+uk=C5=A1li=C5=B3 i=C5=A1ve=C5=BEimui:
+o 8m3 =E2=80=93 Statybin=C4=97s atliekos (betonas, plytos, =C4=8Derp=C4=97s=
+, tinkas) =E2=80=93 70=E2=82=AC + pvm
+o 8m3 =E2=80=93 Mi=C5=A1rios atliekos =E2=80=93 160=E2=82=AC + pvm
+o 10m3 =E2=80=93 Mi=C5=A1rios atliekos =E2=80=93 180=E2=82=AC + pvm
+o I=C5=A1ra=C5=A1ome utilizavimo pa=C5=BEymas
+=E2=80=A2 J=C5=ABs=C5=B3 patogumui  ir sklandesniam darbui u=C5=BEtikrinti =
+teikiame GPAIS (
+Vieninga gamini=C5=B3, pakuo=C4=8Di=C5=B3 ir atliek=C5=B3 apskaitos informa=
+cin=C4=97 sistema)
+administravimo paslaug=C4=85.
+
+
+
+Pagarbiai,
+Darju=C5=A1 =C5=A0imulevi=C4=8D
+Direktorius
+
+--=20
+
+*www.svarista.lt <http://www.svarista.lt>*
+
++37068222252
+
+--0000000000008c2cbd05853804d8
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Sveiki,=C2=A0</div><div><br></div><div>Esame =C4=AFmo=
+n=C4=97 UAB =E2=80=9E=C5=A0varista=E2=80=9C ir mes norime susisiekti su J=
+=C5=ABs=C5=B3 =C4=AFmon=C4=97s atstovu, kuriam gal=C4=97t=C5=B3 b=C5=ABti =
+=C4=AFdomios m=C5=ABs=C5=B3 =C4=AFmon=C4=97s teikiamos paslaugos.</div><div=
+><br></div><div>M=C5=ABs=C5=B3 teikiamos paslaugos:=C2=A0</div><div>=E2=80=
+=A2<span style=3D"white-space:pre-wrap">	</span>Nuomojame konteinerius stat=
+ybini=C5=B3 bei gamybini=C5=B3 =C5=A1iuk=C5=A1li=C5=B3 i=C5=A1ve=C5=BEimui:=
+</div><div>o<span style=3D"white-space:pre-wrap">	</span>8m3 =E2=80=93 Stat=
+ybin=C4=97s atliekos (betonas, plytos, =C4=8Derp=C4=97s, tinkas) =E2=80=93 =
+70=E2=82=AC + pvm=C2=A0</div><div>o<span style=3D"white-space:pre-wrap">	</=
+span>8m3 =E2=80=93 Mi=C5=A1rios atliekos =E2=80=93 160=E2=82=AC + pvm</div>=
+<div>o<span style=3D"white-space:pre-wrap">	</span>10m3 =E2=80=93 Mi=C5=A1r=
+ios atliekos =E2=80=93 180=E2=82=AC + pvm</div><div>o<span style=3D"white-s=
+pace:pre-wrap">	</span>I=C5=A1ra=C5=A1ome utilizavimo pa=C5=BEymas</div><di=
+v>=E2=80=A2<span style=3D"white-space:pre-wrap">	</span>J=C5=ABs=C5=B3 pato=
+gumui=C2=A0 ir sklandesniam darbui u=C5=BEtikrinti teikiame GPAIS ( Viening=
+a gamini=C5=B3, pakuo=C4=8Di=C5=B3 ir atliek=C5=B3 apskaitos informacin=C4=
+=97 sistema)=C2=A0 administravimo paslaug=C4=85.</div><div><br></div><div><=
+br></div><div><br></div><div>Pagarbiai,=C2=A0</div><div>Darju=C5=A1 =C5=A0i=
+mulevi=C4=8D</div><div>Direktorius</div><div><br></div>-- <br><div dir=3D"l=
+tr" class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><div dir=
+=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr">=
+<div dir=3D"ltr"><div dir=3D"ltr"><div><p class=3D"MsoNormal"><u><a href=3D=
+"http://www.svarista.lt" target=3D"_blank">www.svarista.lt</a></u><br></p><=
+p class=3D"MsoNormal"><font face=3D"arial, helvetica, sans-serif" size=3D"2=
+" style=3D"color:rgb(30,29,36);display:inline-block;line-height:1.2"><a hre=
+f=3D"tel:+37068222252" style=3D"color:rgb(30,29,36);display:inline-block;li=
+ne-height:1.2" target=3D"_blank">+37068222252</a></font></p></div><div><img=
+ src=3D"https://docs.google.com/uc?export=3Ddownload&amp;id=3D1VSudk-iKRBRC=
+yqkFoN9tVHZnpSLxPvHD&amp;revid=3D0B_D4c09YSgs3Ukwxa2tEYi8rbVpUUGhRNFo3NmMvM=
+TZscFEwPQ" style=3D"font-family:arial,helvetica,sans-serif" width=3D"96" he=
+ight=3D"25"></div><div><br></div></div></div></div></div></div></div></div>=
+</div></div></div></div>
+
+--0000000000008c2cbd05853804d8--

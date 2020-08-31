@@ -1,0 +1,156 @@
+Return-path: <01020166c52dbfb5-d5a69043-4ffb-41bd-963f-bf37f1800c32-000000@mail.raganiuke.lt>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 30 Oct 2018 15:33:23 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <01020166c52dbfb5-d5a69043-4ffb-41bd-963f-bf37f1800c32-000000@mail.raganiuke.lt>)
+	id 1gHU94-0004zM-VG
+	for modernus@grezimas.lt; Tue, 30 Oct 2018 15:33:23 +0200
+Received: from [54.240.4.22] (helo=a4-22.smtp-out.eu-west-1.amazonses.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-SHA256:128)
+	(Exim 4.90_1)
+	(envelope-from <01020166c52dbfb5-d5a69043-4ffb-41bd-963f-bf37f1800c32-000000@mail.raganiuke.lt>)
+	id 1gHU94-0004z7-Oi
+	for modernus@grezimas.lt; Tue, 30 Oct 2018 15:33:22 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=tl2ikjinvh5b2aytofocuvvkgwbxyesa; d=raganiuke.lt; t=1540906401;
+	h=Date:To:From:Reply-To:Subject:Message-ID:List-Unsubscribe:MIME-Version:Content-Type:Content-Transfer-Encoding;
+	bh=XtoFa9daz2CT6sXlI2BiB6OI1kjBIo3d0iUIlyqKcxU=;
+	b=WYWxDJ5jJ5SXSHW8/W8F9+48AHgGtM61Q1fdRszA6ut8+2hl/EqHQ/8ScSkNH5cY
+	51SS8+bUaqEhSo+SwA+YEeAVw9ioVvyVFLfP18MCAsYoVod31gqXo5uaU0tRne1AeeH
+	nsp2O6JRgSGzfCv0OgWAL8pXEnOr2nc/LVwnxD4g=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=uku4taia5b5tsbglxyj6zym32efj7xqv; d=amazonses.com; t=1540906401;
+	h=Date:To:From:Reply-To:Subject:Message-ID:List-Unsubscribe:MIME-Version:Content-Type:Content-Transfer-Encoding:Feedback-ID;
+	bh=XtoFa9daz2CT6sXlI2BiB6OI1kjBIo3d0iUIlyqKcxU=;
+	b=gqaWqKdZEbq7DWGydpNzOEtUBQtqoYnqQ3k7qOBL5wbPn/ln1SU6fY8S3PRLGyEc
+	zgCgD0qJkacN0aDK5K8i8nIrR+YgP8hhV3EQPrvDk6XQmrNOiWuQpkWuetL8iKZ8KLs
+	ZC4siUXUU6DRILJB9ZrXQ9UQubJlQANwIXI+lbAQ=
+Date: Tue, 30 Oct 2018 13:33:21 +0000
+To: Modernus sprendimas UAB <modernus@grezimas.lt>
+From: =?UTF-8?Q?Raganiuk=C4=97s_teatras?= <kaledos@raganiuke.lt>
+Reply-To: =?UTF-8?Q?Raganiuk=C4=97s_teatras?= <kaledos@raganiuke.lt>
+Subject: =?UTF-8?Q?Kal=C4=97dos_su_Raganiuk=C4=97s_teatru_-_atvykite_=C4=AF_teatr?=
+ =?UTF-8?Q?=C4=85_ar_u=C5=BEsisakykite_rengin=C4=AF_vaikams?=
+Message-ID: <01020166c52dbfb5-d5a69043-4ffb-41bd-963f-bf37f1800c32-000000@eu-west-1.amazonses.com>
+X-Mailer: Sendy (https://sendy.co)
+List-Unsubscribe: <http://www.teatrosala.lt/sendy/unsubscribe/c7zJPT892HfINLBdBii8NMMsIbqITuVAehmo7PgpZn7W4/utKrwYJPZixoEB2H1h2RtA/1TIyAq4ODqjetGSOYVEdPA>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_b3edefc906b63c7d17b63f3121a62a37"
+Content-Transfer-Encoding: 8bit
+X-SES-Outgoing: 2018.10.30-54.240.4.22
+Feedback-ID: 1.eu-west-1.NMVr8+eMVtM/9TlU2p+F4NIvtUFOTrlDaCGuB1GS3Kw=:AmazonSES
+X-Spam-Checked: sendy.co, 45.79.163.110, teatrosala.lt, 5.199.161.17, google.com,
+	raganiuke.lt, 5.199.161.95, googlemail.com
+
+This is a multi-part message in MIME format.
+
+--b1_b3edefc906b63c7d17b63f3121a62a37
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Laba diena,
+
+Ar žinote, kad Kalėdų Senelis jau krauna dovanas į maišus, ir ruošiasi keliauti pas vaikus? Ar sutiksite jį šiemet? Būtinai!
+
+Raganiukės teatras kviečia jus per Kalėdas atvykti į kalėdinius spektaklius arba užsisakyti renginį jūsų įmonės darbuotojų vaikams.
+Mūsų rengiamą Kalėdinę šventę verta pamatyti! Išsamiau čia:
+http://www.teatrosala.lt/sendy/l/ovg8PQSQ5cvBcDsIU0PhDQ/DWWrCQqDCLOeNT3o0YgSNw/1TIyAq4ODqjetGSOYVEdPA
+
+Kalėdos Raganiukės teatre
+
+Raganiukės teatras šiemet švenčia 25-uosius kūrybos metus ir su pasididžiavimu pristato ypatingą Kalėdinę premjerą – muzikinę pasaką „Kalėdų Senis ir Besmegenis“. Originalus spektaklis padovanos neužmirštamų įspūdžių jūsų mažiesiems, o šventiškai nusiteikusio Kalėdų Senelio ir jo bičiulio Besmegenio nuotykiai privers leipti juoku.
+
+Šiemet per Kalėdas galite išvysti ir legendinį, vaikų ypač mėgstamą, interaktyvų spektaklį–žaidimą „Raudonkepurė pusnyse“. Šiame improvizacijų spektaklyje kartu su aktoriais vaidina ir vaikai – žiūrovai iš salės – tąkart tampantys tikromis teatro žvaigždėmis.
+
+Visų Kalėdinių spektaklių pabaigoje šmaikštuolis Kalėdų Senelis bendrauja su žiūrovais ir dalina dovanėles. Dovanėles galite parinkti patys, arba palinkti mūsų rūpesčiui.
+
+Nepraleiskite progos ir padovanokite savo ir įmonės darbuotojų vaikams stebuklingą progą susitikti su tikru Kalėdų Seneliu ir jo draugais.
+
+Tad kviečiame švęsti Kalėdas su Raganiukės teatru.
+Jūs galite atvykti į Raganiukės teatro spektaklį arba pasikviesti mus pas save, vykstame ir į kitus miestus. Dar liko laisvų datų, neįtrauktų į repertuarą, kurias galite išnaudoti individualiems užsakymams.
+
+Dėl datos ir laiko, kainos ir dovanėlių prašome skambinti tel.
+(+370) 670 97832
+
+
+Kalėdos jūsų įmonėje:
+http://www.teatrosala.lt/sendy/l/ovg8PQSQ5cvBcDsIU0PhDQ/DWWrCQqDCLOeNT3o0YgSNw/1TIyAq4ODqjetGSOYVEdPA
+
+Kalėdinių spektaklių repertuaras:
+http://www.teatrosala.lt/sendy/l/ovg8PQSQ5cvBcDsIU0PhDQ/Wus4bdGjjPMdle8GuIxtnw/1TIyAq4ODqjetGSOYVEdPA
+
+Skambtelkite mums – viską papasakosime ir pasitarsime, kaip kuo geriau nudžiuginti jūsų mažuosius.
+
+Linkėjimai.
+Saulė, koordinatorė
+Tel. (+370) 670 97832
+kaledos.raganiuke@gmail.com
+
+Raganiukės teatras
+S. Stanevičiaus g. 24, 07102 Vilnius
+
+Šis laiškas siunčiamas bendru jūsų įmonės el. paštu, nurodytu jūsų interneto svetainėje. Jeigu ateityje nepageidaujate gauti tokių laiškų, prašome spausti čia.
+
+
+--b1_b3edefc906b63c7d17b63f3121a62a37
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p><span style="font-size:14px;"><span style="font-family:tahoma;">Laba diena,<br />
+<br />
+Ar žinote, kad Kalėdų Senelis jau krauna dovanas į mai&scaron;us, ir ruo&scaron;iasi keliauti pas vaikus? Ar sutiksite jį &scaron;iemet? Būtinai!</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:tahoma;"><b>Raganiukės teatras kviečia jus per Kalėdas atvykti į kalėdinius spektaklius arba užsisakyti renginį jūsų įmonės darbuotojų vaikams</b>.<br />
+Mūsų rengiamą Kalėdinę &scaron;ventę verta pamatyti! I&scaron;samiau čia:<br />
+<a data-saferedirecturl="https://www.google.com/url?q=http://www.raganiuke.lt/kaledu-salis/kaledos-jusu-imoneje/&amp;source=gmail&amp;ust=1539802109712000&amp;usg=AFQjCNGgqfu9fv35EiZMcenJiLhD4x_aYQ" href="http://www.teatrosala.lt/sendy/l/ovg8PQSQ5cvBcDsIU0PhDQ/DWWrCQqDCLOeNT3o0YgSNw/1TIyAq4ODqjetGSOYVEdPA" target="_blank">http://www.raganiuke.lt/<wbr />kaledu-salis/kaledos-jusu-<wbr />imoneje/</a></span></span><br />
+&nbsp;</p>
+
+<p><span style="font-size:14px;"><span style="font-family:tahoma;"><img alt="Kalėdos Raganiukės teatre" src="http://www.teatrosala.lt/sendy/uploads/1539687753.jpg" style="width: 541px; height: 359px;" /></span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:tahoma;">Raganiukės teatras &scaron;iemet &scaron;venčia 25-uosius kūrybos metus ir su pasididžiavimu pristato ypatingą <b>Kalėdinę premjerą</b> &ndash; muzikinę pasaką &bdquo;<b>Kalėdų Senis ir Besmegenis</b>&ldquo;. Originalus spektaklis padovanos neužmir&scaron;tamų įspūdžių jūsų mažiesiems, o &scaron;venti&scaron;kai nusiteikusio Kalėdų Senelio ir jo bičiulio Besmegenio nuotykiai privers leipti juoku.</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:tahoma;">&Scaron;iemet per Kalėdas galite i&scaron;vysti ir legendinį, vaikų ypač mėgstamą, interaktyvų spektaklį&ndash;žaidimą &bdquo;<b>Raudonkepurė pusnyse</b>&ldquo;. &Scaron;iame improvizacijų spektaklyje kartu su aktoriais vaidina ir vaikai &ndash; žiūrovai i&scaron; salės &ndash; tąkart tampantys tikromis teatro žvaigždėmis.</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:tahoma;">Visų Kalėdinių spektaklių pabaigoje &scaron;maik&scaron;tuolis Kalėdų Senelis bendrauja su žiūrovais ir dalina <b>dovanėles</b>. Dovanėles galite parinkti patys, arba palinkti mūsų rūpesčiui.</span></span></p>
+
+<p style="text-align: center;"><span style="font-size:14px;"><span style="font-family:tahoma;">Nepraleiskite progos ir padovanokite savo ir įmonės darbuotojų vaikams stebuklingą progą susitikti su tikru Kalėdų Seneliu ir jo draugais.</span></span><br />
+&nbsp;</p>
+
+<p><span style="font-size:14px;"><span style="font-family:tahoma;">Tad kviečiame &scaron;vęsti Kalėdas su Raganiukės teatru.<br />
+Jūs galite <b>atvykti </b>į Raganiukės teatro spektaklį Vilniuje arba <b>pasikviesti </b>mus pas save, vykstame ir į kitus miestus. Dar liko laisvų datų, neįtrauktų į repertuarą, kurias galite i&scaron;naudoti individualiems užsakymams.</span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:tahoma;">Dėl datos ir laiko, kainos ir dovanėlių pra&scaron;ome skambinti tel. </span></span><br />
+<strong><span style="font-size:16px;"><span style="font-family:tahoma;">(+370) 670 97832</span></span></strong></p>
+
+<p><br />
+<span style="font-size:14px;"><span style="font-family:tahoma;">Kalėdos<b> jūsų įmonėje</b>:<br />
+<a data-saferedirecturl="https://www.google.com/url?q=http://www.raganiuke.lt/kaledu-salis/kaledos-jusu-imoneje/&amp;source=gmail&amp;ust=1539802109712000&amp;usg=AFQjCNGgqfu9fv35EiZMcenJiLhD4x_aYQ" href="http://www.teatrosala.lt/sendy/l/ovg8PQSQ5cvBcDsIU0PhDQ/DWWrCQqDCLOeNT3o0YgSNw/1TIyAq4ODqjetGSOYVEdPA" target="_blank">http://www.raganiuke.lt/<wbr />kaledu-salis/kaledos-jusu-<wbr />imoneje/</a></span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:tahoma;">Kalėdinių spektaklių <b>repertuaras</b>:<br />
+<a data-saferedirecturl="https://www.google.com/url?q=http://www.raganiuke.lt/repertuaras/gruodis/&amp;source=gmail&amp;ust=1539802109712000&amp;usg=AFQjCNGXClj9d2BDMEnvmyRugyJqZ7w-1g" href="http://www.teatrosala.lt/sendy/l/ovg8PQSQ5cvBcDsIU0PhDQ/Wus4bdGjjPMdle8GuIxtnw/1TIyAq4ODqjetGSOYVEdPA" target="_blank">http://www.raganiuke.lt/<wbr />repertuaras/gruodis/</a></span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:tahoma;">Skambtelkite mums &ndash; viską papasakosime ir pasitarsime, kaip kuo geriau nudžiuginti jūsų mažuosius.</span></span><br />
+&nbsp;</p>
+
+<p><span style="font-size:14px;"><span style="font-family:tahoma;">Linkėjimai.<br />
+Saulė, koordinatorė<br />
+Tel. (+370) 670 97832<br />
+<a href="mailto:kaledos.raganiuke@gmail.com" target="_blank">kaledos.raganiuke@gmail.com</a></span></span></p>
+
+<p><span style="font-size:14px;"><span style="font-family:tahoma;"><b>Raganiukės teatras</b><br />
+S. Stanevičiaus g. 24, 07102 Vilnius</span></span><br />
+<br />
+<span style="font-size:12px;"><span style="font-family:tahoma;">&Scaron;is lai&scaron;kas siunčiamas bendru jūsų įmonės el. pa&scaron;tu, nurodytu jūsų interneto svetainėje. Jeigu ateityje nepageidaujate gauti tokių lai&scaron;kų, pra&scaron;ome </span></span><code><a href="http://www.teatrosala.lt/sendy/unsubscribe/c7zJPT892HfINLBdBii8NMMsIbqITuVAehmo7PgpZn7W4/utKrwYJPZixoEB2H1h2RtA/1TIyAq4ODqjetGSOYVEdPA" ><span style="font-size:12px;"><span style="font-family:tahoma;">spausti čia</span></span></a></code><span style="font-size:12px;"><span style="font-family:tahoma;">.</span></span></p>
+</body>
+</html>
+<img src="http://www.teatrosala.lt/sendy/t/1TIyAq4ODqjetGSOYVEdPA/ovg8PQSQ5cvBcDsIU0PhDQ" alt="" style="width:1px;height:1px;"/>
+
+
+
+--b1_b3edefc906b63c7d17b63f3121a62a37--

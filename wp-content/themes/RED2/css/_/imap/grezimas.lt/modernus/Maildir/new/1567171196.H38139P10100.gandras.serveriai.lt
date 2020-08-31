@@ -1,0 +1,97 @@
+Return-path: <renema.info@gmail.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Fri, 30 Aug 2019 16:19:56 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92)
+	(envelope-from <renema.info@gmail.com>)
+	id 1i3gol-0002cl-UY
+	for modernus@grezimas.lt; Fri, 30 Aug 2019 16:19:55 +0300
+Received: from [209.85.166.67] (helo=mail-io1-f67.google.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <renema.info@gmail.com>)
+	id 1i3gol-0002cS-Nx
+	for modernus@grezimas.lt; Fri, 30 Aug 2019 16:19:55 +0300
+Received: by mail-io1-f67.google.com with SMTP id j4so13806707iog.11
+        for <modernus@grezimas.lt>; Fri, 30 Aug 2019 06:19:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=+j3lrYuRAGi6gLW0IMZmDG3eX7+3ndIFw/5VAS7nKAs=;
+        b=qUogVUic8acowfZQWjkIEydkWkgunfQmF1ClYKeVfhvgkqkKObJ52qkVJrOnM/WMHL
+         9/Q8DkpEZduyhvMmCjCgjMJiBqk1ZG6Uu6JLWzYvQ9TmcVGin2dETQheGqRbBSu9NnlT
+         MO748iPF5XOVCPzizv2UGZjnybrjkw9l4MFKRXUjoInb60RQ52IKXFSMm6lxJ7YEbxHD
+         l/zPOMR/q95Y7o6TER/iA3LOc3GZDgXPVFYuscR9tIEQOKfnY59iD7zNG9OybVAPCRHC
+         MnE+DYyhAqOKBHwg6dDEK+ZYla8yYoy4qFM+Ms2z033Rj3/zJ/P8iz1RCISpav0pfRQ5
+         ge6Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=+j3lrYuRAGi6gLW0IMZmDG3eX7+3ndIFw/5VAS7nKAs=;
+        b=VgeA6gTI77elfVhIkenHXF1s5B7AyCn0tC7j/dJXSzybx5Y3vkDcNdcxYcoMQa1Zdr
+         SQ7wrNIh71hf5chaU2B26DD7DpeX+uxcT1ywUn2LS6Lmq7tY3UP5RA/nutT3KDzFOMAr
+         1hrD6LrGqaPk3lSKXeSEiM0V91/X4u18g6O0keK0BdvGXP0eb5tMQNk2kbfoVjj8HLfv
+         7AMhRdtKLDikMcHdtzKr3xqRFDe7ZgtEIDTVMI/Mye7y5zFAn1Q1j79MuOtYlFo6MhX0
+         jVHHU4vUVA8m7TubAcHok4gYFrcMda4KoFkjPt8LCBP2dmTKYZeeDaEq60CjwD4S7rnR
+         ACLw==
+X-Gm-Message-State: APjAAAXK38xKRnQj9TM/DZvjEiTlMjc2AYXJy3cAW2J1RwkcMESB1hod
+	IGaw6objlgi+JVrrn6ZRdjx6kqJq4gaimwUmXv8=
+X-Google-Smtp-Source: APXvYqwR6SLGj0ag9UFiWR0sYhFg8/FvEMuX81zvHg8him9KQsC0xXdUum6ATpX9i2n3saz8zfrmBzvVTci8g04+Fk8=
+X-Received: by 2002:a6b:c895:: with SMTP id y143mr16736642iof.271.1567171193729;
+ Fri, 30 Aug 2019 06:19:53 -0700 (PDT)
+MIME-Version: 1.0
+From: MB Renema <renema.info@gmail.com>
+Date: Fri, 30 Aug 2019 16:19:42 +0300
+Message-ID: <CAG=QX1B837p+tZ7XQgzp86WPGbh2T7hmJx6kDnAuVfmcL8eXKw@mail.gmail.com>
+Subject: =?UTF-8?Q?D=C4=97l_BUAB_=22Bugasta=22?=
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary="0000000000004dfcc00591557a0c"
+Bcc: modernus@grezimas.lt
+
+--0000000000004dfcc00591557a0c
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Laba diena,
+
+2019-08-30 =C5=A1auktas BUAB "Bugasta" kreditori=C5=B3 susirinkimas paskelb=
+tas
+ne=C4=AFvykusiu, nes jame nedalyvavo kreditoriai, kuri=C5=B3 reikalavim=C5=
+=B3 suma sudaro
+daugiau nei pus=C4=99 vis=C5=B3 teismo patvirtint=C5=B3 kreditori=C5=B3 rei=
+kalavim=C5=B3 sumos.
+
+*Pakartotinas kreditori=C5=B3 susirinkimas vyks 2019-09-03, 10.00 val. *Bal=
+savimo
+ra=C5=A1tu biuleteniai, pateikti 2019-08-30 kreditori=C5=B3 susirinkimui ga=
+lioja ir
+pakartotino kreditori=C5=B3 susirinkimo metu. Jei jau pateik=C4=97te biulet=
+en=C4=AF,
+pakartotinai jo teikti nereikia.
+
+--=20
+MB "Renema"
+Vytauto g. 17, Klaip=C4=97da
+8-683-03224
+renema.info@gmail.com
+
+--0000000000004dfcc00591557a0c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Laba diena,<div><br></div><div>2019-08-30 =C5=A1auktas BUA=
+B &quot;Bugasta&quot; kreditori=C5=B3 susirinkimas paskelbtas ne=C4=AFvykus=
+iu, nes jame nedalyvavo kreditoriai, kuri=C5=B3 reikalavim=C5=B3 suma sudar=
+o daugiau nei pus=C4=99 vis=C5=B3 teismo patvirtint=C5=B3 kreditori=C5=B3 r=
+eikalavim=C5=B3 sumos.</div><div><br></div><div><b>Pakartotinas kreditori=
+=C5=B3 susirinkimas vyks 2019-09-03, 10.00 val.=C2=A0</b>Balsavimo ra=C5=A1=
+tu biuleteniai, pateikti 2019-08-30 kreditori=C5=B3 susirinkimui galioja ir=
+ pakartotino kreditori=C5=B3 susirinkimo metu. Jei jau pateik=C4=97te biule=
+ten=C4=AF, pakartotinai jo teikti nereikia.</div><div><br></div>-- <br><div=
+ dir=3D"ltr" class=3D"gmail_signature" data-smartmail=3D"gmail_signature"><=
+div dir=3D"ltr">MB &quot;Renema&quot;<div><span style=3D"font-size:12.8px">=
+Vytauto g. 17, Klaip=C4=97da=C2=A0</span><br></div><div><span style=3D"font=
+-size:12.8px">8-683-03224</span><br></div><div><a href=3D"mailto:renema.inf=
+o@gmail.com" target=3D"_blank">renema.info@gmail.com</a></div></div></div><=
+/div>
+
+--0000000000004dfcc00591557a0c--

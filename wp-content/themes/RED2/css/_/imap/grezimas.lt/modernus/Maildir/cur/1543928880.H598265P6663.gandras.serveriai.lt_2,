@@ -1,0 +1,88 @@
+Return-path: <tp2911220@gmail.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 04 Dec 2018 15:08:00 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <tp2911220@gmail.com>)
+	id 1gUAQi-0001jL-FZ
+	for modernus@grezimas.lt; Tue, 04 Dec 2018 15:08:00 +0200
+Received: from [198.211.119.116] (helo=stargrovemnrx.com)
+	by gandras.serveriai.lt with esmtp (Exim 4.90_1)
+	(envelope-from <tp2911220@gmail.com>)
+	id 1gUAQi-0001jG-9o
+	for modernus@grezimas.lt; Tue, 04 Dec 2018 15:08:00 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=gmail.com;
+ h=Content-Type:MIME-Version:Subject:To:From:Date:Reply-To; i=tp2911220@gmail.com;
+ bh=VHd9iuSjz4F7zkqAFZRijL0zVrM=;
+ b=C57RcY2t2inuoku2CJBBlkI8Ajcdd5+JKoGlempXLgFAYyLlfOWizw24jOmSj2MBXCiVR5KE5e9J
+   wH5G5sVodIBQms0TkGFIAIWhC2qP/tM5aABQNvFjflhHx+p9MHLe+7L5/WntzBx7/lIhgkmxxmdw
+   hXP1SlpvroKwDZmPy2I=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=gmail.com;
+ b=OVNofpk/Nz8QlJSK1+ptpSJi0WCoywWK8yDyf7O+XeQnKA/eabp1rlMPtXh62y8crxcFCJwZtsfN
+   QrgU7ScZHgt5Y0FbsvgvZ+kDdTuSwmREkyeE5oPOZ1ntSOIxSVrxpWEeV5dFJfMRDRpsvOemNJyz
+   7V1f+UzTylYAY8juJQk=;
+Content-Type: multipart/alternative; boundary="===============1303877894=="
+MIME-Version: 1.0
+Subject: RE: A need for Seed Capital
+To: modernus@grezimas.lt
+From: "Terry Pear" <tp2911220@gmail.com>
+Date: Tue, 04 Dec 2018 05:06:34 -0800
+Reply-To: tp2911220@gmail.com
+Message-Id: <E1gUAQi-0001jL-FZ@gandras.serveriai.lt>
+
+You will not see this in a MIME-aware mail reader.
+--===============1303877894==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Hi
+I am an investor looking to invest in entrepreneurial teams with
+big ideas
+and a need for Seed Capital to turn their business or ideas into
+great Companies.
+I have funds available for Investment and want them invested
+under you or your
+Company strict guidance. For more details, please reply to this
+very email so
+we can discuss further.
+ =
+
+Yours faithfully
+ =
+
+Terry Pear
+--===============1303877894==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><SPAN style=3D"FONT-SIZE: 10.5pt; FONT-FAMILY:=
+ Arial, sans-serif; BACKGROUND: white; WHITE-SPACE: normal; WORD-SPACING: 0=
+px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); FONT-STYL=
+E: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px;=
+ font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-st=
+roke-width: 0px; text-decoration-style: initial; text-decoration-color: ini=
+tial">Hi</SPAN><SPAN style=3D"FONT-SIZE: 10.5pt; FONT-FAMILY: Arial, sans-s=
+erif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WE=
+IGHT: 400; COLOR: rgb(34,34,34); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2;=
+ LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0=
+px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text=
+-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: =
+initial"><BR><SPAN style=3D"BACKGROUND: white">I am an investor looking to =
+invest in entrepreneurial teams with</SPAN><BR><SPAN style=3D"BACKGROUND: w=
+hite">big ideas</SPAN><BR><SPAN style=3D"BACKGROUND: white">and a need for =
+Seed Capital to turn their business or ideas into</SPAN><BR><SPAN style=3D"=
+BACKGROUND: white">great Companies.</SPAN><BR><SPAN style=3D"BACKGROUND: wh=
+ite">I have funds available for Investment and want them invested</SPAN><BR=
+><SPAN style=3D"BACKGROUND: white">under you or your</SPAN><BR><SPAN style=
+=3D"BACKGROUND: white">Company strict guidance. For more details, please re=
+ply to this</SPAN><BR><SPAN style=3D"BACKGROUND: white">very email so</SPAN=
+><BR><SPAN style=3D"BACKGROUND: white">we can discuss further.</SPAN><BR><S=
+PAN style=3D"BACKGROUND: white">&nbsp;</SPAN><BR><SPAN style=3D"BACKGROUND:=
+ white">Yours faithfully</SPAN><BR><SPAN style=3D"BACKGROUND: white">&nbsp;=
+</SPAN><BR><SPAN style=3D"BACKGROUND: white">Terry Pear</SPAN></SPAN></BODY=
+></HTML>
+--===============1303877894==--

@@ -1,0 +1,161 @@
+Return-path: <nekilnojamas@yahoo.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Fri, 28 Sep 2018 22:43:58 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <nekilnojamas@yahoo.com>)
+	id 1g5ygA-0000be-Ny
+	for modernus@grezimas.lt; Fri, 28 Sep 2018 22:43:58 +0300
+Received: from [77.238.178.202] (helo=sonic303-21.consmr.mail.ir2.yahoo.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.90_1)
+	(envelope-from <nekilnojamas@yahoo.com>)
+	id 1g5ygA-0000bY-Kh
+	for modernus@grezimas.lt; Fri, 28 Sep 2018 22:43:58 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1538163837; bh=8enLRGAxnc658nKckLyzbbPCef1VMVs8DDwkabft1/U=; h=Date:From:Subject:References:From:Subject; b=nvoMnC4J9xeW9z0OdlOPPRKaUyW406yHSogfs8YQ8YvayKdr+9f9HxNJe/QQTz/ZLXT8/sdYqEb8qUxMSMY5ZI8G/Okaz3+SgU3Ghu9B6jVarMhGl9U+ITp3kAB01uLiqXdwMIIsGdWhd89/gxhMl4YhTuhgyCIsDrwR55KhL4QRmUmJAZWVfMw5WSXE9eiwSNim5VhF963aqFgm48FnQwIHH+jnSEyMVDYPaaIrRkfAV3+Ci4cINd58tP8Nu/uIRSG1naJJgoVKEAWB7jJ2QFAU8RM3AdShKxzTx/Kg7STUMl0LC9mrxGmVHZy1j8Q/RAR8g8Y5czSvMZ5xSXo/KQ==
+X-YMail-OSG: 2QADCzAVM1l6fW5anNajk6i_FO7TK5cLrNGws.tHcnwMit70P1TFyiNc5BvaCGh
+ bXXN.TwRXdfnZXXx7CVMuGxE839ykQdVg_VkjIulw8dTX0f.SWkvIckOIXWrNRbl.64neb0YEl2C
+ S2ggK164veLnQJIzyf27gpRv6a_W7.Kqd7x1F5BR9pZ2vE2YUUXzZ6U0KQDF6q3eMB4cn_jSe_cK
+ .sJa_8kNNX7Mrv82sg6pRe4yk5ExQDk18qHQS5bwPRFgAJHwYy4ONz2SnMYa03R2fOk7NZi3gz7_
+ maCUvNqR2AhjNFbi28nySxNWh0dOoOxBRqkYnbO_rrAJLCkbg1DuI.tYwfmW8jsqGWgBvTfsyZvK
+ GeU7.kmuvey.Mv53c2azPCW4vXdFPhswANCoUy_wUGkyqCVaK.sPgdd9TwoK_g44MXa7FGzE1hic
+ 4m3k5fWfYqXBSCsizjE7VciolNrh8RMcEF5yMms2fFjSwo5RbtxwS77hQar2EEKkxNUXAzKMkwx7
+ Hmh3CKpkQ9QH70waqyqt_a5.nkb.TQhbxca6M3nooKAKkD53ZYHyf7sxRp8GocbYrTosihrLk_Ug
+ DbYUnvt.SNMnNsVnVrP2l4FbAHwtLGCcIxyhc9En4w0kLPXRFUxyo5Bjt5X8h9dV7D_T85Nx22cb
+ MVTpxiUyTANitmDbVstAztG4gMBSr1CN_p4s.XAV7CKGu1Mqr3e6jqxP.E_qUIRoDG8EkqOMy0ho
+ 1dNdD.DSWsYSe6pvZ73vyrF1ZhTIM7PWRhEer5lkw5a32.hIaCWsOzSxQt4YDE_sDal.9sjXN7B1
+ AqN3sPdKq0p5zi3bKnG5xkIV1PqtCkhI78EnbVbc0wZOTnXcOdfWmljGt00lFcWb7jU8QLS5QDd6
+ pZDDTA8TTb7rcOdQAe2izqy1xNIvpP0c7UxFmYPcSwAwupBEnPLaWpBk3Wzl4SfA5BT6rp8UEoRj
+ mJlzhlj7rSziLefdGsLhfnYiOXds4NzzCvo5PzQwbAfWTYG1wjQ--
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic303.consmr.mail.ir2.yahoo.com with HTTP; Fri, 28 Sep 2018 19:43:57 +0000
+Date: Fri, 28 Sep 2018 19:43:56 +0000 (UTC)
+From: Marius Linartas <nekilnojamas@yahoo.com>
+Message-ID: <1662033734.835488.1538163836790@mail.yahoo.com>
+Subject: INVESTICINIS PROJEKTAS DAUGIABUTIS
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_835487_297706509.1538163836789"
+References: <1662033734.835488.1538163836790.ref@mail.yahoo.com>
+X-Mailer: WebService/1.1.12512 YMailNorrin Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Content-Length: 6429
+
+------=_Part_835487_297706509.1538163836789
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+Sveiki
+
+Siunciu sklypo duomenis kuriame suprojektuotas daugiabutis su statybos leid=
+imu
+
+=C2=A0
+
+Sklypo plotas=C2=A00.2323 ha
+
+Suprojektuoto daugiabucio bendras plotas=C2=A01858 m2
+
+Energetinio naudingumo=C2=A0klase B
+
+Statybos lsduotas=C2=A02018 metais
+
+Naudingas plotas=C2=A01745 m2
+
+Sklypo vieta Linksmoji g.
+
+=C2=A0
+
+Sklypo kaina su statybos leidimu=C2=A0230.000 eur + pvm
+
+=C2=A0
+
+Pagarbiai
+
+Marius Linartas
+
+=C2=A0+370 6 46 44441
+
+NEKILNOJAMAS@YAHOO.COM
+
+
+
+------=_Part_835487_297706509.1538163836789
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div style=3D"font-family:Helvetica Neue, Helvetic=
+a, Arial, sans-serif;font-size:16px;"><div style=3D"font-family:Helvetica N=
+eue, Helvetica, Arial, sans-serif;font-size:16px;"><div style=3D"font-famil=
+y:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;"><div><br></=
+div><div><br></div><div class=3D"ydp7691115signature"><div style=3D"font-fa=
+mily:Helvetica, Arial, sans-serif;font-size:16px;"><span><p class=3D"ydpa76=
+1b2a8yiv0909923097ydp36f28533yiv1382445512ydpf30e17a2yiv4535028948ydp9730c3=
+63yiv2731697977m_7029050798667775090ydp70c4cd0ayiv6387511379ydpae46ff5fyiv6=
+141988005ydp6934f586MsoNormal" style=3D"font-family: Helvetica, Arial, sans=
+-serif; font-size: 16px;">Sveiki<b></b></p><p class=3D"ydpa761b2a8yiv090992=
+3097ydp36f28533yiv1382445512ydpf30e17a2yiv4535028948ydp9730c363yiv273169797=
+7m_7029050798667775090ydp70c4cd0ayiv6387511379ydpae46ff5fyiv6141988005ydp69=
+34f586MsoNormal" style=3D"font-family: Helvetica, Arial, sans-serif; font-s=
+ize: 16px;">Siunciu sklypo duomenis kuriame suprojektuotas daugiabutis su s=
+tatybos leidimu</p><p class=3D"ydpa761b2a8yiv0909923097ydp36f28533yiv138244=
+5512ydpf30e17a2yiv4535028948ydp9730c363yiv2731697977m_7029050798667775090yd=
+p70c4cd0ayiv6387511379ydpae46ff5fyiv6141988005ydp6934f586MsoNormal" style=
+=3D"font-family: Helvetica, Arial, sans-serif; font-size: 16px;">&nbsp;</p>=
+<p class=3D"ydpa761b2a8yiv0909923097ydp36f28533yiv1382445512ydpf30e17a2yiv4=
+535028948ydp9730c363yiv2731697977m_7029050798667775090ydp70c4cd0ayiv6387511=
+379ydpae46ff5fyiv6141988005ydp6934f586MsoNormal" style=3D"font-family: Helv=
+etica, Arial, sans-serif; font-size: 16px;">Sklypo plotas&nbsp;<b>0.2323 ha=
+</b></p><p class=3D"ydpa761b2a8yiv0909923097ydp36f28533yiv1382445512ydpf30e=
+17a2yiv4535028948ydp9730c363yiv2731697977m_7029050798667775090ydp70c4cd0ayi=
+v6387511379ydpae46ff5fyiv6141988005ydp6934f586MsoNormal" style=3D"font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 16px;">Suprojektuoto daugiabuc=
+io bendras plotas&nbsp;<b>1858 m2</b></p><p class=3D"ydpa761b2a8yiv09099230=
+97ydp36f28533yiv1382445512ydpf30e17a2yiv4535028948ydp9730c363yiv2731697977m=
+_7029050798667775090ydp70c4cd0ayiv6387511379ydpae46ff5fyiv6141988005ydp6934=
+f586MsoNormal" style=3D"font-family: Helvetica, Arial, sans-serif; font-siz=
+e: 16px;">Energetinio naudingumo&nbsp;<b>klase B</b></p><p class=3D"ydpa761=
+b2a8yiv0909923097ydp36f28533yiv1382445512ydpf30e17a2yiv4535028948ydp9730c36=
+3yiv2731697977m_7029050798667775090ydp70c4cd0ayiv6387511379ydpae46ff5fyiv61=
+41988005ydp6934f586MsoNormal" style=3D"font-family: Helvetica, Arial, sans-=
+serif; font-size: 16px;">Statybos lsduotas&nbsp;<b>2018 metais</b></p><p cl=
+ass=3D"ydpa761b2a8yiv0909923097ydp36f28533yiv1382445512ydpf30e17a2yiv453502=
+8948ydp9730c363yiv2731697977m_7029050798667775090ydp70c4cd0ayiv6387511379yd=
+pae46ff5fyiv6141988005ydp6934f586MsoNormal" style=3D"font-family: Helvetica=
+, Arial, sans-serif; font-size: 16px;">Naudingas plotas&nbsp;<b>1745 m2</b>=
+</p><p class=3D"ydpa761b2a8yiv0909923097ydp36f28533yiv1382445512ydpf30e17a2=
+yiv4535028948ydp9730c363yiv2731697977m_7029050798667775090ydp70c4cd0ayiv638=
+7511379ydpae46ff5fyiv6141988005ydp6934f586MsoNormal" style=3D"font-family: =
+Helvetica, Arial, sans-serif; font-size: 16px;">Sklypo vieta Linksmoji g.</=
+p><p class=3D"ydpa761b2a8yiv0909923097ydp36f28533yiv1382445512ydpf30e17a2yi=
+v4535028948ydp9730c363yiv2731697977m_7029050798667775090ydp70c4cd0ayiv63875=
+11379ydpae46ff5fyiv6141988005ydp6934f586MsoNormal" style=3D"font-family: He=
+lvetica, Arial, sans-serif; font-size: 16px;">&nbsp;</p><p class=3D"ydpa761=
+b2a8yiv0909923097ydp36f28533yiv1382445512ydpf30e17a2yiv4535028948ydp9730c36=
+3yiv2731697977m_7029050798667775090ydp70c4cd0ayiv6387511379ydpae46ff5fyiv61=
+41988005ydp6934f586MsoNormal" style=3D"font-family: Helvetica, Arial, sans-=
+serif; font-size: 16px;">Sklypo kaina su statybos leidimu&nbsp;<b>230.000 e=
+ur + pvm</b></p><p class=3D"ydpa761b2a8yiv0909923097ydp36f28533yiv138244551=
+2ydpf30e17a2yiv4535028948ydp9730c363yiv2731697977m_7029050798667775090ydp70=
+c4cd0ayiv6387511379ydpae46ff5fyiv6141988005ydp6934f586MsoNormal" style=3D"f=
+ont-family: Helvetica, Arial, sans-serif; font-size: 16px;">&nbsp;</p><p cl=
+ass=3D"ydpa761b2a8yiv0909923097ydp36f28533yiv1382445512ydpf30e17a2yiv453502=
+8948ydp9730c363yiv2731697977m_7029050798667775090ydp70c4cd0ayiv6387511379yd=
+pae46ff5fyiv6141988005ydp6934f586MsoNormal" style=3D"font-family: Helvetica=
+, Arial, sans-serif; font-size: 16px;">Pagarbiai</p><p class=3D"ydpa761b2a8=
+yiv0909923097ydp36f28533yiv1382445512ydpf30e17a2yiv4535028948ydp9730c363yiv=
+2731697977m_7029050798667775090ydp70c4cd0ayiv6387511379ydpae46ff5fyiv614198=
+8005ydp6934f586MsoNormal" style=3D"font-family: Helvetica, Arial, sans-seri=
+f; font-size: 16px;">Marius Linartas</p><p class=3D"ydpa761b2a8yiv090992309=
+7ydp36f28533yiv1382445512ydpf30e17a2yiv4535028948ydp9730c363yiv2731697977m_=
+7029050798667775090ydp70c4cd0ayiv6387511379ydpae46ff5fyiv6141988005ydp6934f=
+586MsoNormal" style=3D"font-family: Helvetica, Arial, sans-serif; font-size=
+: 16px;">&nbsp;+370 6 46 44441</p><p class=3D"ydpa761b2a8yiv0909923097ydp36=
+f28533yiv1382445512ydpf30e17a2yiv4535028948ydp9730c363yiv2731697977m_702905=
+0798667775090ydp70c4cd0ayiv6387511379ydpae46ff5fyiv6141988005ydp6934f586Mso=
+Normal" style=3D"font-family: Helvetica, Arial, sans-serif; font-size: 16px=
+;"><a shape=3D"rect" href=3D"mailto:NEKILNOJAMAS@YAHOO.COM" style=3D"color:=
+ rgb(25, 106, 212); text-decoration-line: underline;" rel=3D"nofollow" targ=
+et=3D"_blank">NEKILNOJAMAS@YAHOO.COM</a></p><div><br></div></span><br></div=
+></div></div></div></div></body></html>
+------=_Part_835487_297706509.1538163836789--

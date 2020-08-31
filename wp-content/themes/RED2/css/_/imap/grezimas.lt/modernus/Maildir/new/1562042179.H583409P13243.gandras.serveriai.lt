@@ -1,0 +1,80 @@
+Return-path: <inquiry@okihashi.co.jp>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 02 Jul 2019 07:36:19 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92)
+	(envelope-from <inquiry@okihashi.co.jp>)
+	id 1hiAWh-0003RR-Et
+	for modernus@grezimas.lt; Tue, 02 Jul 2019 07:36:19 +0300
+Received: from [112.78.112.202] (helo=www1862.sakura.ne.jp)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <inquiry@okihashi.co.jp>)
+	id 1hiAWg-0003Qk-SZ
+	for modernus@grezimas.lt; Tue, 02 Jul 2019 07:36:19 +0300
+Received: from fsav303.sakura.ne.jp (fsav303.sakura.ne.jp [153.120.85.134])
+	by www1862.sakura.ne.jp (8.15.2/8.15.2) with ESMTP id x624R3Ht077766;
+	Tue, 2 Jul 2019 13:27:04 +0900 (JST)
+	(envelope-from inquiry@okihashi.co.jp)
+Received: from www1862.sakura.ne.jp (112.78.112.202)
+ by fsav303.sakura.ne.jp (F-Secure/fsigk_smtp/530/fsav303.sakura.ne.jp);
+ Tue, 02 Jul 2019 13:27:03 +0900 (JST)
+X-Virus-Status: clean(F-Secure/fsigk_smtp/530/fsav303.sakura.ne.jp)
+Received: from www1862.sakura.ne.jp (localhost [127.0.0.1])
+	by www1862.sakura.ne.jp (8.15.2/8.15.2) with ESMTP id x624R1mw077729;
+	Tue, 2 Jul 2019 13:27:03 +0900 (JST)
+	(envelope-from inquiry@okihashi.co.jp)
+Received: (from okihashi@localhost)
+	by www1862.sakura.ne.jp (8.15.2/8.15.2/Submit) id x624R1iK077728;
+	Tue, 2 Jul 2019 13:27:01 +0900 (JST)
+	(envelope-from inquiry@okihashi.co.jp)
+Message-Id: <201907020427.x624R1iK077728@www1862.sakura.ne.jp>
+X-Authentication-Warning: www1862.sakura.ne.jp: okihashi set sender to inquiry@okihashi.co.jp using -f
+Subject: Google
+From: Google <inquiry@okihashi.co.jp>
+Reply-To: sergey.brin.m@gllc-prom-award.com
+To: winner@google.com
+MIME-Version: 1.0
+Date: Tue, 02 Jul 2019 13:27:01 +0900
+Content-Type: multipart/mixed; boundary="------_11765005205d1add15d0663_"
+Content-Transfer-Encoding: 7bit
+
+--------_11765005205d1add15d0663_
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: base64
+
+Ckdvb2dsZXBsZXgsCjE2MDAgQW1waGl0aGVhdHJlIFBhcmt3YXksCk1vdW50YWluIFZpZXcsCkNh
+bGlmb3JuaWEtQ0EgOTQwNDMsClVuaXRlZCBTdGF0ZXMgKFUuUy5BKS4KCkJBVENIIElEOiAxOTA5
+NS00MjAxOQpSRUZFUkVOQ0U6IFdXLzUxNjI0LzEzMDQvNDE2OAoKUkU6IE9GRklDSUFMIFdJTk5J
+TkcgTk9USUZJQ0FUSU9OIExFVFRFUjotCgpXZSB3aXNoIHRvIGNvbmdyYXR1bGF0ZSB5b3UgZm9y
+IGJlaW5nIFJBTkRPTUxZIHNlbGVjdGVkIGFzIG9uZSBvZiAgdGhlIGx1Y2t5IHdpbm5lcnMgaW4g
+dGhlIEUtbWFpbCBFbGVjdHJvbmljIE9ubGluZSBTd2VlcHN0YWtlcyBvcmdhbml6ZWQgYnkgR29v
+Z2xlIExMQy4KClRoaXMgUHJvbW8gaXMgYWltZWQgYW5kIHBvd2VyZWQgYnkgQWxwaGFiZXQgSW5j
+LiBhbmQgRm91bmRhdGlvbiBmb3IgdGhlIFByb21vdGlvbiBvZiBTb2Z0d2FyZSBQcm9kdWN0cyAo
+Ri5QLlMuUCkgdG8gYXBwcmVjaWF0ZSBhbGwgdXNlcnMgb2YgR29vZ2xlIFByb2R1Y3RzIGFuZCBT
+ZXJ2aWNlcy4KCllvdSBhcmUgZW50aXRsZWQgdG8gJDEsMzUwLDAwMC4wMCBVU0Qge09uZSBNaWxs
+aW9uIFRocmVlIEh1bmRyZWQgYW5kIEZpZnR5IFRob3VzYW5kIERvbGxhcnMgT25seX0gYXMgeW91
+ciBPZmZpY2lhbCBXaW5uaW5nIFByaXplLgoKUkVRVUlSRU1FTlRTOgpUbyBwcm9jZXNzIHlvdXIg
+cGF5bWVudCwgcGxlYXNlIGVuc3VyZSB5b3UgZmlsbCBhbmQgc2VuZCB2aWEgZS1tYWlsIGFsbCB0
+aGUgcmVxdWlyZWQgaW5mb3JtYXRpb24gYXMgc3RhdGVkIGJlbG93OgoKUEFZTUVOVCBDTEFJTVMg
+Rk9STQoxKQlOYW1lIChBcyBpdCB3b3VsZCBhcHBlYXIgb24geW91ciBXaW5uaW5nIERvY3VtZW50
+cyk6CjIpCUZ1bGwgQ29udGFjdCBBZGRyZXNzOgozKQlDb3VudHJ5L05hdGlvbmFsaXR5Ogo0KQlU
+ZWxlcGhvbmUvTW9iaWxlIE51bWJlcihzKToKNSkJT2NjdXBhdGlvbjoKNikJQWdlL0dlbmRlcjoK
+NykJQWx0ZXJuYXRpdmUgRS1tYWlsIEFkZHJlc3M6CjgpCUhhdmUgWW91IEV2ZXIgUmVjZWl2ZWQg
+U3VjaCBhbiBFLW1haWwgQmVmb3JlPwo5KQlIb3cgRG8gWW91IEZlZWwgQXMgQSBXaW5uZXI/CgpT
+ZW5kIGFsbCByZXF1aXJlZCBpbmZvcm1hdGlvbiB2aWEgZS1tYWlsIHRvIG91ciBDbGFpbXMgQWRt
+aW5pc3RyYXRvci9GLlAuQjotCgrilqDilqDilqDilqDilqDilqDilqDilqDilqDilqDilqDilqDi
+lqDilqDilqDilqDilqHilqHilqHilqHilqHilqHilqHilqEKTmFtZTogICBTZXJnZXkgTWlraGF5
+bG92aWNoIEJyaW4sCkNsYWltcyBBZG1pbmlzdHJhdG9yL0ZvcmVpZ24gUGF5bWVudCBCdXJlYXUv
+Q28tRm91bmRlci4KRW1haWw6ICAgYnJpbnNlcmdleS5tQGdtYWlsLmNvbQrilqDilqDilqDilqDi
+lqDilqDilqDilqDilqDilqDilqDilqDilqDilqDilqDilqDilqHilqHilqHilqHilqHilqHilqHi
+lqEKCllvdXIgV2lubmluZyBQcml6ZSBNb25leSB3aWxsIGJlIHJlbWl0dGVkIHRvIHlvdSB1cG9u
+IG1lZXRpbmcgdGhlIGFib3ZlIHJlcXVpcmVtZW50cy4gQWxsIHBheW1lbnQgd2lsbCBiZSBtYWRl
+IHRvIHlvdSB2aWEgKEVMRUNUUk9OSUMgU1dJRlQgVFJBTlNGRVIpIGZyb20gb3VyIGFjY3JlZGl0
+ZWQgcGF5aW5nIGJhbmsuCgpQbGVhc2Ugbm90ZSB0aGF0IEdvb2dsZSB2YWx1ZXMgeW91ciByaWdo
+dCB0byBwcml2YWN5IGFuZCB3aWxsIG5ldmVyIHZpb2xhdGUgdGhlIFByaXZhY3kgUG9saWN5ISBZ
+b3VyIGluZm9ybWF0aW9uIGlzIDEwMCUgc2VjdXJlZCBhbmQgd2lsbCBiZSB1c2VkIGV4Y2x1c2l2
+ZWx5IGZvciB0aGUgcHVycG9zZSBvZiB0aGlzIGF3YXJkLgoK4K6q4K6/4K6a4K+N4K6a4K+IIOCu
+muCvgeCuqOCvjeCupOCusOCusOCuvuCunOCuqeCvjQpTdW5kYXIgUGljaGFpLApDaGllZiBFeGVj
+dXRpdmUgT2ZmaWNlci4=
+
+--------_11765005205d1add15d0663_--

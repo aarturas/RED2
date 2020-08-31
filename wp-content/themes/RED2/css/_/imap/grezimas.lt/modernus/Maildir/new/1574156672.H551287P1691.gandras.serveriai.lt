@@ -1,0 +1,674 @@
+Return-path: <bounces+8D6P9zAel5_72yPw@vsmtp1.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 19 Nov 2019 11:44:32 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <bounces+8D6P9zAel5_72yPw@vsmtp1.com>)
+	id 1iX03k-0000R6-Cw
+	for modernus@grezimas.lt; Tue, 19 Nov 2019 11:44:32 +0200
+Received: from [85.206.163.8] (helo=m163-8.mwsmtp.com)
+	by gandras.serveriai.lt with esmtp (Exim 4.92.3)
+	(envelope-from <bounces+8D6P9zAel5_72yPw@vsmtp1.com>)
+	id 1iX03k-0000Qx-8D
+	for modernus@grezimas.lt; Tue, 19 Nov 2019 11:44:32 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=mwsmtp.com;
+ h=From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe:Date;
+ bh=c0n5ULuM248/7qqBQt+8zP2IX6Y=;
+ b=X9AKjlCK1YfzQt/oRnIDzy3W/zaa3AkwneWE0vfQ/Yi1zzTOotLDqxDXvgFRuiHfJEunwpRRSFHW
+   zWgOPJHXDFMEaIwnFYbTJAaFoDzPYrHlN0HmEEjVtGfzF310CDgVunq7uAZV4Y12GaTHu1ZlTtPM
+   spAKSWmyWf6E4ASUy9k=
+From: =?UTF-8?Q?Masa=C5=BEo_Klinika?= <info@masazoklinika.lt>
+To: modernus@grezimas.lt
+Message-ID: <8D6P9zAel5_72yPw-bounces+8D6P9zAel5_72yPw@vsmtp1.com>
+Subject: =?UTF-8?Q?=F0=9F=8E=84Kal=C4=97din=C4=97s_NUOLAIDOS=F0=9F=8E=84_ir_NA?=
+ =?UTF-8?Q?UJIENOS_jau_Masa=C5=BEo_Klinikoje!?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_82359198_693821939.1574156671198"
+Precedence: bulk
+Feedback-ID: 22266:205004:campaign:SenderNET
+X-Sender-ID: 8D6P9zAel5_72yPw
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <https://stats.sender.net/unsubscribe/8D6P9zAel5_72yPw>, <mailto:unsubscribe+8D6P9zAel5_72yPw@sendersrv.com?subject=8D6P9zAel5_72yPw>
+Date: Tue, 19 Nov 2019 12:02:48 +0200
+X-Spam-Checked: sender.net, 104.248.86.238, w3.org, cloudfront.net, masazoklinika.lt,
+	185.5.54.71, google.com, 172.217.16.142
+
+------=_Part_82359198_693821939.1574156671198
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_82359200_296774735.1574156671198"
+
+------=_Part_82359200_296774735.1574156671198
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_82359200_296774735.1574156671198
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3D"en" xmlns=3D"http://www.w3.org/1999/xhtml" xml=
+ns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com=
+:office:office"><head> <meta charset=3D"utf-8"> <!-- utf-8 works for most c=
+ases --> <meta name=3D"viewport" content=3D"width=3Ddevice-width"> <!-- For=
+cing initial-scale shouldn't be necessary --> <meta http-equiv=3D"X-UA-Comp=
+atible" content=3D"IE=3Dedge"> <!-- Use the latest (edge) version of IE ren=
+dering engine --> <meta name=3D"x-apple-disable-message-reformatting"> <!--=
+ Disable auto-scale in iOS 10 Mail entirely --> <title>=F0=9F=8E=84Kal=C4=
+=97din=C4=97s NUOLAIDOS=F0=9F=8E=84 ir NAUJIENOS jau Masa=C5=BEo Klinikoje!=
+</title> <!-- The title tag shows in email notifications, like Android 4.4.=
+ --> <!--[if mso]> <style> * { font-family: sans-serif !important; } </styl=
+e> <![endif]--> <style id=3D"senderDefaultStyles" type=3D"text/css"> /* CLI=
+ENT-SPECIFIC STYLES */ #outlook a { padding: 0; } /* Force Outlook to provi=
+de a "view in browser" message */ .ReadMsgBody { width: 100%; } .ExternalCl=
+ass { width: 100%; } /* Force Hotmail to display emails at full width */ .E=
+xternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .=
+ExternalClass td, .ExternalClass div { line-height: 150%; } * { line-height=
+: inherit; } .testInternalStyle { color: green; } /* Force Hotmail to displ=
+ay normal line spacing */ body, table, td, a { -webkit-text-size-adjust: 10=
+0%; -ms-text-size-adjust: 100%; } /* Prevent WebKit and Windows mobile chan=
+ging default text sizes */ table, td { mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt; } /* Remove spacing between tables in Outlook 2007 and up */ img =
+{ -ms-interpolation-mode: bicubic; } /* Allow smoother rendering of resized=
+ image in Internet Explorer */ /* RESET STYLES */ body { margin: 0; padding=
+: 0; width: 100% !important; height: 100% !important; } img { border: 0; he=
+ight: auto; line-height: 100%; outline: none; text-decoration: none; displa=
+y: block; max-width: 100% !important; } p { margin: 0 } table { border-coll=
+apse: collapse !important; border-spacing: 0 !important; } /* iOS BLUE LINK=
+S */ .appleBody a { color: #68440a; text-decoration: none; } .appleFooter a=
+ { color: #999999; text-decoration: none; } h1, h2, h3 { margin: 0; } h1 { =
+font-size: 36px; font-weight: normal; } h2 { font-size: 24px; font-weight: =
+normal; } h3 { font-size: 20px; font-weight: normal; } body { font-family: =
+Arial, Helvetica, sans-serif; padding: 0; margin: 0; } a { text-decoration:=
+ none; color: inherit; } .sender-1-col, .sender-1-col-1-responsive { width:=
+ 8.333333%; } .sender-2-col, .sender-2-col-2-responsive { width: 16.666667%=
+; } .sender-3-col, .sender-3-col-3-responsive, .sender-3-col-6-responsive {=
+ width: 25%; } .sender-4-col, .sender-4-col-4-responsive { width: 33.333333=
+%; } .sender-5-col, .sender-5-col-5-responsive { width: 41.666667%; } .send=
+er-6-col, .sender-6-col-6-responsive { width: 50%; } .sender-7-col, .sender=
+-7-col-7-responsive { width: 58.333333%; } .sender-8-col, .sender-8-col-8-r=
+esponsive { width: 66.666667%; } .sender-9-col, .sender-9-col-9-responsive =
+{ width: 75%; } .sender-10-col, .sender-10-col-10-responsive { width: 83.33=
+3333%; } .sender-11-col, .sender-11-col-11-responsive { width: 91.666667%; =
+} .sender-12-col, .sender-12-col-12-responsive { width: 100%; } .sender-3-c=
+ol-6-responsive-wrapper { display: block; width: 50%; float: left; overflow=
+: auto; } @media only screen and (max-width: 640px) { table.internal-conten=
+t-table { width: 100% !important; } img { max-width: 100% !important; max-h=
+eight: 100% !important; } .columnSpacing.break-on-mobile { display: none; }=
+ /* FULL-WIDTH TABLES */ table.responsive-table { width: 100% !important; }=
+ td.sender-1-col.break-on-mobile, td.sender-2-col.break-on-mobile, td.sende=
+r-3-col.break-on-mobile, td.sender-4-col.break-on-mobile, td.sender-5-col.b=
+reak-on-mobile, td.sender-6-col.break-on-mobile, td.sender-7-col.break-on-m=
+obile, td.sender-8-col.break-on-mobile, td.sender-9-col.break-on-mobile, td=
+.sender-10-col.break-on-mobile, td.sender-11-col.break-on-mobile, td.sender=
+-12-col.break-on-mobile { width: 100% !important; display: block !important=
+; overflow: auto !important; padding-left: 0px !important; padding-right: 0=
+px !important; } td.sender-3-col-6-responsive { width: 50%; padding-bottom:=
+ 20px; } tr.sender-3-col-6-responsive-wrapper { display: initial !important=
+; width: initial !important; float: initial !important; overflow: initial !=
+important; } table.hide-on-mobile, td.hide-on-mobile { display: none !impor=
+tant; } } </style> <!--[if gte mso 7]><xml> <o:OfficeDocumentSettings> <o:A=
+llowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings>=
+ </xml><![endif]--></head><body style=3D"background-color: rgb(242, 242, 24=
+2);"><img src=3D"https://d2ag3jdu89hmr4.cloudfront.net/email_open/8D6P9zAel=
+5_72yPw" width=3D"1" height=3D"1" border=3D"0" alt=3D"" style=3D"height:1px=
+ !important;width:1px !important;border-width:0 !important;margin-top:0 !im=
+portant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 =
+!important;padding-top:0 !important;padding-bottom:0 !important;padding-rig=
+ht:0 !important;padding-left:0 !important;outline-style:none;text-decoratio=
+n:none;display:block;"><!--[if gte mso 9]><v:background xmlns:v=3D"urn:sche=
+mas-microsoft-com:vml" fill=3D"t"> <v:fill type=3D"tile" color=3D"#f2f2f2">=
+</v:fill></v:background><![endif]--><table width=3D"100%" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"mso-padding-alt: 0;mso-marging-alt=
+: 0;"> <tbody><tr> <td class=3D"se-email-backgroun-holder"> <table width=3D=
+"100%" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"> <=
+tbody><tr> <td valign=3D"top"> <table class=3D"se-content-table" align=3D"c=
+enter" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"> <tbody><tr> <td>=
+ <table align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0"> <tbody><tr> <td align=3D"center"> <table width=3D"100%" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center"> <tbody><tr> =
+<td style=3D"padding: 20px 0px 20px 0px;"> <!-- UNSUBSCRIBE COPY --> <table=
+ width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"c=
+enter" class=3D"responsive-table"> <tbody><tr> <td align=3D"center" valign=
+=3D"middle" class=3D"browser-preview-unsubscribe-section-td"> <a class=3D"b=
+rowser-preview-unsubscribe-section-link" style=3D" color: #737373; font-siz=
+e: 12px; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;" href=
+=3D"https://d2ag3jdu89hmr4.cloudfront.net/browser_preview/8D6P9zAel5_72yPw"=
+> Is this email not displaying correctly? View it in your browser. </a> </t=
+d> </tr> </tbody></table> </td> </tr> </tbody></table> </td> </tr> </tbody>=
+</table> </td> </tr> <!-- CONTENT --> <tr> <td class=3D"contentWrapper" sty=
+le=3D""><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" class=3D"section table-block"><tbody><tr> <td bgcolor=3D"transparent"> =
+<table style=3D"table-layout: fixed !important;" class=3D"internal-content-=
+table" align=3D"center" width=3D"640" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0"> <tbody><tr> <td class=3D"internal-content-td" bgcolor=3D"#ffff=
+ff" valign=3D"top" style=3D" border-top-left-radius: 0px; border-top-right-=
+radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0p=
+x; "> <table class=3D"width-validator" align=3D"center" width=3D"100%" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <tbody><tr> <td bgcolor=3D"tr=
+ansparent" style=3D"padding-right: 20px"></td> <td style=3D" padding-left: =
+0; padding-top: 10px; padding-right: 0; padding-bottom: 10px; " width=3D"10=
+0%"> <table align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0"> <tbody><tr><td valign=3D"top" bgcolor=3D"transparent" ci=
+d=3D"326" class=3D"sender-12-col break-on-mobile"><table width=3D"100%" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block base-blo=
+ck-view"><tbody><tr> <td align=3D"left" class=3D"internal-top-level-td" bgc=
+olor=3D"transparent" style=3D"padding-top: 9px; padding-right: 0px; padding=
+-bottom: 7px; padding-left: 0px; overflow: hidden; text-align: left; font-f=
+amily: Arial, Helvetica Neue, Helvetica, sans-serif; font-size: 14px; color=
+: #bfbfbf; mso-line-height-rule: exactly; line-height: 150%"> <div style=3D=
+"mso-line-height-rule: exactly; line-height: 150%;"><div data-redactor-tag=
+=3D"br"><a href=3D"https://d2ag3jdu89hmr4.cloudfront.net/link_click/8D6P9zA=
+el5_72yPw/b2520e41b66b55c3dcbcfabfa9807699" draggable=3D"false" style=3D"co=
+lor: rgb(191, 191, 191);" data-redactor-style-cache=3D"color: rgb(191, 191,=
+ 191);" rel=3D"b2520e41b66b55c3dcbcfabfa9807699">AKCIJOS=C2=A0</a>=C2=A0=C2=
+=A0=C2=A0=C2=A0<a href=3D"https://d2ag3jdu89hmr4.cloudfront.net/link_click/=
+8D6P9zAel5_72yPw/5372caefb8ebc5454f844dfc031c43c7" draggable=3D"false" styl=
+e=3D"color: rgb(191, 191, 191);" data-redactor-style-cache=3D"color: rgb(19=
+1, 191, 191);" rel=3D"5372caefb8ebc5454f844dfc031c43c7">MASA=C5=BDAI=C2=A0=
+=C2=A0</a>=C2=A0=C2=A0=C2=A0=C2=A0<a href=3D"https://d2ag3jdu89hmr4.cloudfr=
+ont.net/link_click/8D6P9zAel5_72yPw/21cc9f02e1cb59da6985c2ff9260ddc1" dragg=
+able=3D"false" style=3D"color: rgb(191, 191, 191);" data-redactor-style-cac=
+he=3D"color: rgb(191, 191, 191);" rel=3D"21cc9f02e1cb59da6985c2ff9260ddc1">=
+GRO=C5=BDIS=C2=A0 =C2=A0 =C2=A0 =C2=A0</a>D<a href=3D"https://d2ag3jdu89hmr=
+4.cloudfront.net/link_click/8D6P9zAel5_72yPw/b6819e881df8b3487fa98bd0039684=
+68" style=3D"color: rgb(191, 191, 191);" data-redactor-style-cache=3D"color=
+: rgb(191, 191, 191);" rel=3D"b6819e881df8b3487fa98bd003968468">OVAN=C5=B2 =
+KUPONAI</a>=C2=A0 =C2=A0 =C2=A0=C2=A0<a href=3D"https://d2ag3jdu89hmr4.clou=
+dfront.net/link_click/8D6P9zAel5_72yPw/4daddf78aa213ee5df8f216ef1744448" st=
+yle=3D"color: rgb(191, 191, 191);" draggable=3D"false" data-redactor-style-=
+cache=3D"color: rgb(191, 191, 191);" rel=3D"4daddf78aa213ee5df8f216ef174444=
+8">KONTAKTAI</a>=EF=BB=BF=C2=A0=C2=A0 =C2=A0<a href=3D"https://d2ag3jdu89hm=
+r4.cloudfront.net/link_click/8D6P9zAel5_72yPw/1d83b2d133950137353fbd5c86596=
+063" style=3D"color: rgb(191, 191, 191);" rel=3D"1d83b2d133950137353fbd5c86=
+596063">NAUJIENOS</a><br></div></div> </td></tr></tbody></table></td></tr> =
+</tbody></table> </td> <td bgcolor=3D"transparent" style=3D"padding-right: =
+20px"></td> </tr> </tbody></table> </td> </tr> </tbody></table> </td></tr><=
+/tbody></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%" class=3D"section table-block"><tbody><tr> <td bgcolor=3D"transpa=
+rent"> <table style=3D"table-layout: fixed !important;" class=3D"internal-c=
+ontent-table" align=3D"center" width=3D"640" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0"> <tbody><tr> <td class=3D"internal-content-td" bgcolor=
+=3D"#ffffff" valign=3D"top" style=3D" border-top-left-radius: 0px; border-t=
+op-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-r=
+adius: 0px; "> <table class=3D"width-validator" align=3D"center" width=3D"1=
+00%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <tbody><tr> <td bgco=
+lor=3D"transparent" style=3D"padding-right: 20px"></td> <td style=3D" paddi=
+ng-left: 0; padding-top: 10px; padding-right: 0; padding-bottom: 10px; " wi=
+dth=3D"100%"> <table align=3D"center" width=3D"100%" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0"> <tbody><tr><td valign=3D"top" bgcolor=3D"transp=
+arent" cid=3D"339" class=3D"sender-12-col break-on-mobile"><table width=3D"=
+100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block=
+ base-block-view"><tbody><tr> <td class=3D"internal-top-level-td" align=3D"=
+center" bgcolor=3D"transparent" style=3D"padding-top: 10px; padding-right: =
+0px; padding-bottom: 10px; padding-left: 0px;"> <div> <a href=3D"https://d2=
+ag3jdu89hmr4.cloudfront.net/link_click/8D6P9zAel5_72yPw/8a1f886379b43e8b03c=
+ace1ba41b7744" rel=3D"8a1f886379b43e8b03cace1ba41b7744"> <img width=3D"600"=
+ src=3D"https://cdn.sender.net//email_images/22266/204893/Bepavadinimo.png"=
+ border=3D"0" alt=3D"Image description" height=3D"auto" style=3D"display: b=
+lock; box-sizing: border-box; max-width: 100%; border-radius: 0px;"> </a> <=
+/div> </td></tr></tbody></table></td></tr> </tbody></table> </td> <td bgcol=
+or=3D"transparent" style=3D"padding-right: 20px"></td> </tr> </tbody></tabl=
+e> </td> </tr> </tbody></table> </td></tr></tbody></table><table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"section tabl=
+e-block"><tbody><tr> <td bgcolor=3D"transparent"> <table style=3D"table-lay=
+out: fixed !important;" class=3D"internal-content-table" align=3D"center" w=
+idth=3D"640" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <tbody><tr> =
+<td class=3D"internal-content-td" background=3D"https://cdn.sender.net/emai=
+l_images/22266/204893/endoterapija.jpg" bgcolor=3D"ffffffffff" valign=3D"to=
+p" style=3D" background-origin: border-box; background-position: center; ba=
+ckground-size: cover; background-repeat: cover; background-image: url(https=
+://cdn.sender.net/email_images/22266/204893/endoterapija.jpg); border-top-l=
+eft-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0=
+px; border-bottom-right-radius: 0px; "> <!--[if gte mso 9]> <v:rect xmlns:v=
+=3D"urn:schemas-microsoft-com:vml" fill=3D"true" stroke=3D"false" style=3D"=
+width:640px; margin-top: 1"> <v:fill type=3D"frame" src=3D"https://cdn.send=
+er.net/email_images/22266/204893/endoterapija.jpg" color=3D"ffffffffff" /> =
+<v:textbox style=3D"mso-fit-shape-to-text:true;" inset=3D"0,0,0,0"> <![endi=
+f]--> <table class=3D"width-validator" align=3D"center" width=3D"100%" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <tbody><tr> <td bgcolor=3D"tr=
+ansparent" style=3D"padding-right: 29px"></td> <td style=3D" padding-left: =
+0; padding-top: 1px; padding-right: 0; padding-bottom: 1px; " width=3D"100%=
+"> <table align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0"> <tbody><tr><td valign=3D"middle" bgcolor=3D"transparent" c=
+id=3D"352" class=3D"sender-12-col break-on-mobile"><table width=3D"100%" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block base-bl=
+ock-view"><tbody><tr> <td align=3D"center" class=3D"internal-top-level-td" =
+bgcolor=3D"transparent" style=3D"padding-top: 46px; padding-right: 0px; pad=
+ding-bottom: 0px; padding-left: 0px; overflow: hidden; text-align: center; =
+font-family: Arial, Helvetica Neue, Helvetica, sans-serif; font-size: 40px;=
+ color: #ffffff; mso-line-height-rule: exactly; line-height: 180%"> <div st=
+yle=3D"mso-line-height-rule: exactly; line-height: 180%;" placeholder=3D"Cl=
+ick" to=3D"" edit=3D"" text...=3D""><h1 style=3D"font-size: 36;" data-redac=
+tor-style-cache=3D"font-size: 36;">ENDOSFEROS TERAPIJA</h1></div> </td></tr=
+></tbody></table><table width=3D"100%" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" class=3D"table-block base-block-view"><tbody><tr> <td align=3D=
+"center" class=3D"internal-top-level-td" bgcolor=3D"transparent" style=3D"p=
+adding-top: 17px; padding-right: 0px; padding-bottom: 2px; padding-left: 0p=
+x; overflow: hidden; text-align: center; font-family: Arial, Helvetica Neue=
+, Helvetica, sans-serif; font-size: 18px; color: #404040; mso-line-height-r=
+ule: exactly; line-height: 100%"> <div style=3D"mso-line-height-rule: exact=
+ly; line-height: 100%;"><p>=EF=BB=BFNAUJIENA Baltijos =C5=A1alyse - Endosfe=
+ros terapija!=C2=A0=EF=BB=BF<br><br>Revoliucinis metodas veido atjauninimui=
+, <a href=3D"https://d2ag3jdu89hmr4.cloudfront.net/link_click/8D6P9zAel5_72=
+yPw/251b91aa4750ad45c02506b221c735b4" style=3D"color: rgb(255, 255, 255);" =
+data-redactor-style-cache=3D"color: rgb(128, 149, 255);" rel=3D"251b91aa475=
+0ad45c02506b221c735b4"><strong>celiulito gydymui</strong></a> ir k=C5=ABno =
+korekcijai =E2=80=93 endosferos terapija!<br><br>=EF=BB=BF</p></div> </td><=
+/tr></tbody></table><table width=3D"100%" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"table-block base-block-view"><tbody><tr> <td align=
+=3D"center" class=3D"internal-top-level-td" bgcolor=3D"transparent" style=
+=3D"padding-top: 10px; padding-right: 0px; padding-bottom: 10px; padding-le=
+ft: 0px; overflow: hidden; text-align: center; font-family: Arial, Helvetic=
+a Neue, Helvetica, sans-serif; font-size: 16px; color: #ffffff; mso-line-he=
+ight-rule: exactly; line-height: 150%"> <div style=3D"mso-line-height-rule:=
+ exactly; line-height: 150%;"><p><strong>=EF=BB=BFPirmiems 20 pirk=C4=97j=
+=C5=B3 NET <a href=3D"https://d2ag3jdu89hmr4.cloudfront.net/link_click/8D6P=
+9zAel5_72yPw/1e6e5ae9fadebea914b7d21fae711b55" style=3D"color: rgb(43, 169,=
+ 229);" rel=3D"1e6e5ae9fadebea914b7d21fae711b55">15%</a> nuolaida! </strong=
+>Registracija nuo gruod=C5=BEio 9d.</p></div> </td></tr></tbody></table><ta=
+ble width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=
+=3D"table-block base-block-view ButtonGroupBlockView"><tbody><tr> <td bgcol=
+or=3D"transparent" class=3D"internal-top-level-td text-hover" style=3D" pad=
+ding-left: 0px; padding-top: 25px; padding-right: 4px; padding-bottom: 78px=
+"> <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" c=
+lass=3D"internal-content-table"> <tbody><tr> <td class=3D"left-spacing" wid=
+th=3D"50.64042138463076%" data-key=3D"leftSpacing"></td> <td width=3D"32.70=
+586260889093%" data-key=3D"0" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0"> <table class=3D"button-table" align=3D"left" width=3D"100%" bgcolor=3D=
+"#ffffff" cellpadding=3D"0" cellspacing=3D"0" style=3D" border-radius: 5px;=
+ border:2px solid #47c5f2; border-collapse: separate !important; "> <tbody>=
+<tr> <!--[if mso]> <td width=3D"18" height=3D"43"></td> <![endif]--> <td va=
+lign=3D"middle" align=3D"center" style=3D" vertical-align: middle; "> <a va=
+lign=3D"middle" align=3D"center" href=3D"https://d2ag3jdu89hmr4.cloudfront.=
+net/link_click/8D6P9zAel5_72yPw/2a661e413a0a894c906caea98c8266da" style=3D"=
+ /*box-sizing: border-box;*/ text-align: center; display: block; line-heigh=
+t: 13px; border-radius: 5px; border: 15px solid #ffffff; padding: 0px 18px;=
+ " rel=3D"2a661e413a0a894c906caea98c8266da"> <span class=3D"button-text" st=
+yle=3D"font-size:13px; font-family: Arial, Helvetica Neue, Helvetica, sans-=
+serif; color: #47c5f2; text-decoration: none; font-weight: normal; font-sty=
+le:normal;">SPAUSTI =C4=8CIA</span> </a> </td> <!--[if mso]> <td width=3D"1=
+8" height=3D"43"></td> <![endif]--> </tr> </tbody></table> </td> <td class=
+=3D"right-spacing" width=3D"16.65371600647829%" data-key=3D"rightSpacing"><=
+/td> </tr> </tbody></table> </td></tr></tbody></table></td></tr> </tbody></=
+table> </td> <td bgcolor=3D"transparent" style=3D"padding-right: 29px"></td=
+> </tr> </tbody></table> <!--[if gte mso 9]> </v:textbox> </v:rect> <![endi=
+f]--> </td> </tr> </tbody></table> </td></tr></tbody></table><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"section =
+table-block"><tbody><tr> <td bgcolor=3D"transparent"> <table style=3D"table=
+-layout: fixed !important;" class=3D"internal-content-table" align=3D"cente=
+r" width=3D"640" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <tbody><=
+tr> <td class=3D"internal-content-td" bgcolor=3D"#ffffff" valign=3D"top" st=
+yle=3D" border-top-left-radius: 0px; border-top-right-radius: 0px; border-b=
+ottom-left-radius: 0px; border-bottom-right-radius: 0px; "> <table class=3D=
+"width-validator" align=3D"center" width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0"> <tbody><tr> <td bgcolor=3D"transparent" style=3D"=
+padding-right: 30px"></td> <td style=3D" padding-left: 0; padding-top: 38px=
+; padding-right: 0; padding-bottom: 20px; " width=3D"100%"> <table align=3D=
+"center" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <=
+tbody><tr><td valign=3D"bottom" bgcolor=3D"#dedede" cid=3D"377" class=3D"se=
+nder-6-col break-on-mobile"><table width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"table-block base-block-view"><tbody><tr> =
+<td align=3D"center" class=3D"internal-top-level-td" bgcolor=3D"#dedede" st=
+yle=3D"padding-top: 41px; padding-right: 10px; padding-bottom: 0px; padding=
+-left: 4px; overflow: hidden; text-align: center; font-family: Arial, Helve=
+tica Neue, Helvetica, sans-serif; font-size: 24px; color: #ffffff; mso-line=
+-height-rule: exactly; line-height: 170%"> <div style=3D"mso-line-height-ru=
+le: exactly; line-height: 170%;" placeholder=3D"Click" to=3D"" edit=3D"" te=
+xt...=3D""><h2 style=3D"font-size: 25px;" data-redactor-style-cache=3D"font=
+-size: 25px;"><strong>PIRMIEMS 20 PIRK=C4=96J=C5=B2</strong></h2></div> </t=
+d></tr></tbody></table><table width=3D"100%" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" class=3D"table-block base-block-view"><tbody><tr> <td al=
+ign=3D"center" class=3D"internal-top-level-td" bgcolor=3D"#dedede" style=3D=
+"padding-top: 0px; padding-right: 10px; padding-bottom: 37px; padding-left:=
+ 10px; overflow: hidden; text-align: center; font-family: Arial, Helvetica =
+Neue, Helvetica, sans-serif; font-size: 18px; color: #2fa8e1; mso-line-heig=
+ht-rule: exactly; line-height: 100%"> <div style=3D"mso-line-height-rule: e=
+xactly; line-height: 100%;"><div data-redactor-tag=3D"br">15 % NUOLAIDA!=C2=
+=A0=EF=BB=BF=EF=BB=BF</div></div> </td></tr></tbody></table></td><td class=
+=3D"columnSpacing col-edit-holder break-on-mobile" style=3D"padding-right: =
+20px" bgcolor=3D"transparent"></td><td valign=3D"bottom" bgcolor=3D"transpa=
+rent" cid=3D"390" class=3D"sender-6-col break-on-mobile"><table width=3D"10=
+0%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block b=
+ase-block-view"><tbody><tr> <td align=3D"center" class=3D"internal-top-leve=
+l-td" bgcolor=3D"#2ba9e5" style=3D"padding-top: 41px; padding-right: 11px; =
+padding-bottom: 0px; padding-left: 9px; overflow: hidden; text-align: cente=
+r; font-family: Arial, Helvetica Neue, Helvetica, sans-serif; font-size: 27=
+px; color: #ffffff; mso-line-height-rule: exactly; line-height: 180%"> <div=
+ style=3D"mso-line-height-rule: exactly; line-height: 180%;" placeholder=3D=
+"Click" to=3D"" edit=3D"" text...=3D""><h2 style=3D"font-size: 27px;" data-=
+redactor-style-cache=3D"font-size: 27px;"><b>ENDOSFERA</b></h2></div> </td>=
+</tr></tbody></table><table width=3D"100%" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"table-block base-block-view"><tbody><tr> <td alig=
+n=3D"center" class=3D"internal-top-level-td" bgcolor=3D"#2ba9e5" style=3D"p=
+adding-top: 0px; padding-right: 10px; padding-bottom: 37px; padding-left: 1=
+0px; overflow: hidden; text-align: center; font-family: Arial, Helvetica Ne=
+ue, Helvetica, sans-serif; font-size: 18px; color: #ffffff; mso-line-height=
+-rule: exactly; line-height: 170%"> <div style=3D"mso-line-height-rule: exa=
+ctly; line-height: 170%;"><p>=EF=BB=BFNuolaidos kodas perkant internetu</p>=
+</div> </td></tr></tbody></table></td></tr> </tbody></table> </td> <td bgco=
+lor=3D"transparent" style=3D"padding-right: 30px"></td> </tr> </tbody></tab=
+le> </td> </tr> </tbody></table> </td></tr></tbody></table><table border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"section tab=
+le-block"><tbody><tr> <td bgcolor=3D"transparent"> <table style=3D"table-la=
+yout: fixed !important;" class=3D"internal-content-table" align=3D"center" =
+width=3D"640" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <tbody><tr>=
+ <td class=3D"internal-content-td" bgcolor=3D"#ffffff" valign=3D"top" style=
+=3D" border-top-left-radius: 0px; border-top-right-radius: 0px; border-bott=
+om-left-radius: 0px; border-bottom-right-radius: 0px; "> <table class=3D"wi=
+dth-validator" align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0"> <tbody><tr> <td bgcolor=3D"transparent" style=3D"padd=
+ing-right: 20px"></td> <td style=3D" padding-left: 0; padding-top: 10px; pa=
+dding-right: 0; padding-bottom: 10px; " width=3D"100%"> <table align=3D"cen=
+ter" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <tbod=
+y><tr><td valign=3D"top" bgcolor=3D"transparent" cid=3D"407" class=3D"sende=
+r-12-col break-on-mobile"><table width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"table-block base-block-view"><tbody><tr> <td=
+ align=3D"center" bgcolor=3D"transparent" style=3D"padding-top: 10px; paddi=
+ng-bottom: 10px;"> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" style=3D"border-collapse: initial !important;"> <tbody><tr> =
+<td style=3D" border-top-style: dashed; border-top-width: 1px; border-top-c=
+olor: #bfbfbf;"></td> </tr> </tbody></table> </td></tr></tbody></table><tab=
+le width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"table-block base-block-view"><tbody><tr> <td align=3D"center" class=3D"int=
+ernal-top-level-td" bgcolor=3D"transparent" style=3D"padding-top: 10px; pad=
+ding-right: 10px; padding-bottom: 18px; padding-left: 10px; overflow: hidde=
+n; text-align: center; font-family: cursive; font-size: 28px; color: #14663=
+d; mso-line-height-rule: exactly; line-height: 180%"> <div style=3D"mso-lin=
+e-height-rule: exactly; line-height: 180%;" placeholder=3D"Click" to=3D"" e=
+dit=3D"" text...=3D""><h3 style=3D"font-size: 20;" data-redactor-style-cach=
+e=3D"font-size: 20;">Masa=C5=BEo Klinikoje prasid=C4=97jo <strong>KAL=C4=96=
+DIN=C4=96S NUOLAIDOS</strong></h3></div> </td></tr></tbody></table></td></t=
+r> </tbody></table> </td> <td bgcolor=3D"transparent" style=3D"padding-righ=
+t: 20px"></td> </tr> </tbody></table> </td> </tr> </tbody></table> </td></t=
+r></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%" class=3D"section table-block"><tbody><tr> <td bgcolor=3D"tran=
+sparent"> <table style=3D"table-layout: fixed !important;" class=3D"interna=
+l-content-table" align=3D"center" width=3D"640" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0"> <tbody><tr> <td class=3D"internal-content-td" bgcolo=
+r=3D"#ffffff" valign=3D"top" style=3D" border-top-left-radius: 0px; border-=
+top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-=
+radius: 0px; "> <table class=3D"width-validator" align=3D"center" width=3D"=
+100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <tbody><tr> <td bgc=
+olor=3D"transparent" style=3D"padding-right: 30px"></td> <td style=3D" padd=
+ing-left: 0; padding-top: 12px; padding-right: 0; padding-bottom: 8px; " wi=
+dth=3D"100%"> <table align=3D"center" width=3D"100%" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0"> <tbody><tr><td valign=3D"top" bgcolor=3D"#14663=
+d" cid=3D"424" class=3D"sender-4-col break-on-mobile"><table width=3D"100%"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block base=
+-block-view"><tbody><tr> <td class=3D"internal-top-level-td" align=3D"cente=
+r" bgcolor=3D"#ffffff" style=3D"padding-top: 0px; padding-right: 0px; paddi=
+ng-bottom: 19px; padding-left: 0px;"> <div> <a href=3D"https://d2ag3jdu89hm=
+r4.cloudfront.net/link_click/8D6P9zAel5_72yPw/86f1c9b9fb99e7af98366cbc99a3a=
+803" rel=3D"86f1c9b9fb99e7af98366cbc99a3a803"> <img width=3D"176" src=3D"ht=
+tps://cdn.sender.net//email_images/22266/204893/12802164141070297031manilam=
+assagecosmomassageoutcallservicetaguigmalateortigas.jpg" border=3D"0" alt=
+=3D"Image description" height=3D"auto" style=3D"display: block; box-sizing:=
+ border-box; max-width: 100%; border-radius: 0px;"> </a> </div> </td></tr><=
+/tbody></table><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"table-block base-block-view"><tbody><tr> <td align=3D"c=
+enter" class=3D"internal-top-level-td" bgcolor=3D"#ffffff" style=3D"padding=
+-top: 0px; padding-right: 6px; padding-bottom: 0px; padding-left: 7px; over=
+flow: hidden; text-align: center; font-family: Arial, Helvetica Neue, Helve=
+tica, sans-serif; font-size: 12px; color: #bfbfbf; mso-line-height-rule: ex=
+actly; line-height: 120%"> <div style=3D"mso-line-height-rule: exactly; lin=
+e-height: 120%;"><p><strong>=EF=BB=BFGYDOMIEJI=C2=A0</strong></p><p><strong=
+>MASA=C5=BDAI</strong></p></div> </td></tr></tbody></table><table width=3D"=
+100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block=
+ base-block-view"><tbody><tr> <td align=3D"center" class=3D"internal-top-le=
+vel-td" bgcolor=3D"#ffffff" style=3D"padding-top: 3px; padding-right: 6px; =
+padding-bottom: 8px; padding-left: 6px; overflow: hidden; text-align: cente=
+r; font-family: Arial, Helvetica Neue, Helvetica, sans-serif; font-size: 15=
+px; color: #808080; mso-line-height-rule: exactly; line-height: 130%"> <div=
+ style=3D"mso-line-height-rule: exactly; line-height: 130%;"><p>=EF=BB=BFPa=
+dovanok tikr=C4=85 r=C5=ABpest=C4=AF ir ger=C4=85 savijaut=C4=85</p></div> =
+</td></tr></tbody></table><table width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"table-block base-block-view"><tbody><tr> <td=
+ align=3D"left" class=3D"internal-top-level-td" bgcolor=3D"#ffffff" style=
+=3D"padding-top: 3px; padding-right: 10px; padding-bottom: 15px; padding-le=
+ft: 10px; overflow: hidden; text-align: left; font-family: Arial, Helvetica=
+ Neue, Helvetica, sans-serif; font-size: 16px; color: #14663d; mso-line-hei=
+ght-rule: exactly; line-height: 100%"> <div style=3D"mso-line-height-rule: =
+exactly; line-height: 100%;"><div data-redactor-tag=3D"br"><strong><br>nuo=
+=C2=A0<strong><del>25.00=E2=82=AC</del></strong> <ins>12.50=E2=82=AC</ins><=
+/strong><br></div></div> </td></tr></tbody></table><table width=3D"100%" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block base-bl=
+ock-view ButtonGroupBlockView"><tbody><tr> <td bgcolor=3D"transparent" clas=
+s=3D"internal-top-level-td text-hover" style=3D" padding-left: 0px; padding=
+-top: 6px; padding-right: 0px; padding-bottom: 9px"> <table width=3D"100%" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"internal-content-=
+table"> <tbody><tr> <td class=3D"left-spacing" width=3D"0%" data-key=3D"lef=
+tSpacing"></td> <td width=3D"100%" data-key=3D"0" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0"> <table class=3D"button-table" align=3D"center" bg=
+color=3D"#14663d" cellpadding=3D"0" cellspacing=3D"0" style=3D" border-radi=
+us: 5px; border:0px solid transparent; border-collapse: separate !important=
+; "> <tbody><tr> <!--[if mso]> <td width=3D"10" height=3D"33"></td> <![endi=
+f]--> <td valign=3D"middle" align=3D"center" style=3D" vertical-align: midd=
+le; "> <a valign=3D"middle" align=3D"center" href=3D"https://d2ag3jdu89hmr4=
+.cloudfront.net/link_click/8D6P9zAel5_72yPw/e876d8a06856bf62b2d8ba189026e3a=
+c" style=3D" /*box-sizing: border-box;*/ text-align: center; display: block=
+; line-height: 13px; border-radius: 5px; border: 10px solid #14663d; paddin=
+g: 0px 10px; " rel=3D"e876d8a06856bf62b2d8ba189026e3ac"> <span class=3D"but=
+ton-text" style=3D"font-size:13px; font-family: Arial, Helvetica Neue, Helv=
+etica, sans-serif; color: #ffffff; text-decoration: none; font-weight: norm=
+al; font-style:normal;">=C5=BDI=C5=AAR=C4=96TI</span> </a> </td> <!--[if ms=
+o]> <td width=3D"10" height=3D"33"></td> <![endif]--> </tr> </tbody></table=
+> </td> <td class=3D"right-spacing" width=3D"0%" data-key=3D"rightSpacing">=
+</td> </tr> </tbody></table> </td></tr></tbody></table></td><td class=3D"co=
+lumnSpacing col-edit-holder break-on-mobile" style=3D"padding-right: 21px" =
+bgcolor=3D"transparent"></td><td valign=3D"top" bgcolor=3D"#14663d" cid=3D"=
+449" class=3D"sender-4-col break-on-mobile"><table width=3D"100%" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block base-block-vie=
+w"><tbody><tr> <td class=3D"internal-top-level-td" align=3D"center" bgcolor=
+=3D"#ffffff" style=3D"padding-top: 0px; padding-right: 0px; padding-bottom:=
+ 19px; padding-left: 0px;"> <div> <img width=3D"184" src=3D"https://cdn.sen=
+der.net//email_images/22266/204893/20191119110915.jpg" border=3D"0" alt=3D"=
+Image description" height=3D"auto" style=3D"display: block; box-sizing: bor=
+der-box; max-width: 100%; border-radius: 0px;"> </div> </td></tr></tbody></=
+table><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"table-block base-block-view"><tbody><tr> <td align=3D"center" cl=
+ass=3D"internal-top-level-td" bgcolor=3D"#ffffff" style=3D"padding-top: 0px=
+; padding-right: 6px; padding-bottom: 0px; padding-left: 7px; overflow: hid=
+den; text-align: center; font-family: Arial, Helvetica Neue, Helvetica, san=
+s-serif; font-size: 12px; color: #bfbfbf; mso-line-height-rule: exactly; li=
+ne-height: 120%"> <div style=3D"mso-line-height-rule: exactly; line-height:=
+ 120%;"><div data-redactor-tag=3D"br"><b>ATPALAIDUOJANTYS MASA=C5=BDAI</b><=
+br><strong></strong></div></div> </td></tr></tbody></table><table width=3D"=
+100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block=
+ base-block-view"><tbody><tr> <td align=3D"center" class=3D"internal-top-le=
+vel-td" bgcolor=3D"#ffffff" style=3D"padding-top: 3px; padding-right: 6px; =
+padding-bottom: 8px; padding-left: 6px; overflow: hidden; text-align: cente=
+r; font-family: Arial, Helvetica Neue, Helvetica, sans-serif; font-size: 15=
+px; color: #808080; mso-line-height-rule: exactly; line-height: 100%"> <div=
+ style=3D"mso-line-height-rule: exactly; line-height: 100%;"><div data-reda=
+ctor-tag=3D"br">Padovanok atsipalaidavimo ir poilsio akimirkas<br></div></d=
+iv> </td></tr></tbody></table><table width=3D"100%" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" class=3D"table-block base-block-view"><tbody><tr>=
+ <td align=3D"left" class=3D"internal-top-level-td" bgcolor=3D"#ffffff" sty=
+le=3D"padding-top: 3px; padding-right: 10px; padding-bottom: 15px; padding-=
+left: 10px; overflow: hidden; text-align: left; font-family: Arial, Helveti=
+ca Neue, Helvetica, sans-serif; font-size: 16px; color: #14663d; mso-line-h=
+eight-rule: exactly; line-height: 100%"> <div style=3D"mso-line-height-rule=
+: exactly; line-height: 100%;"><div data-redactor-tag=3D"br"><strong>nuo=C2=
+=A0<strong><del>26.00=E2=82=AC</del></strong> <ins>13.00=E2=82=AC</ins></st=
+rong><br></div></div> </td></tr></tbody></table><table width=3D"100%" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block base-block=
+-view ButtonGroupBlockView"><tbody><tr> <td bgcolor=3D"transparent" class=
+=3D"internal-top-level-td text-hover" style=3D" padding-left: 0px; padding-=
+top: 6px; padding-right: 0px; padding-bottom: 9px"> <table width=3D"100%" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"internal-content-t=
+able"> <tbody><tr> <td class=3D"left-spacing" width=3D"0%" data-key=3D"left=
+Spacing"></td> <td width=3D"100%" data-key=3D"0" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0"> <table class=3D"button-table" align=3D"center" bg=
+color=3D"#14663d" cellpadding=3D"0" cellspacing=3D"0" style=3D" border-radi=
+us: 5px; border:0px solid transparent; border-collapse: separate !important=
+; "> <tbody><tr> <!--[if mso]> <td width=3D"10" height=3D"33"></td> <![endi=
+f]--> <td valign=3D"middle" align=3D"center" style=3D" vertical-align: midd=
+le; "> <a valign=3D"middle" align=3D"center" href=3D"https://d2ag3jdu89hmr4=
+.cloudfront.net/link_click/8D6P9zAel5_72yPw/6b7abe4dc450023d83d27637f02b39e=
+8" style=3D" /*box-sizing: border-box;*/ text-align: center; display: block=
+; line-height: 13px; border-radius: 5px; border: 10px solid #14663d; paddin=
+g: 0px 10px; " rel=3D"6b7abe4dc450023d83d27637f02b39e8"> <span class=3D"but=
+ton-text" style=3D"font-size:13px; font-family: Arial, Helvetica Neue, Helv=
+etica, sans-serif; color: #ffffff; text-decoration: none; font-weight: norm=
+al; font-style:normal;">=C5=BDI=C5=AAR=C4=96TI</span> </a> </td> <!--[if ms=
+o]> <td width=3D"10" height=3D"33"></td> <![endif]--> </tr> </tbody></table=
+> </td> <td class=3D"right-spacing" width=3D"0%" data-key=3D"rightSpacing">=
+</td> </tr> </tbody></table> </td></tr></tbody></table></td><td class=3D"co=
+lumnSpacing col-edit-holder break-on-mobile" style=3D"padding-right: 21px" =
+bgcolor=3D"transparent"></td><td valign=3D"top" bgcolor=3D"#14663d" cid=3D"=
+474" class=3D"sender-4-col break-on-mobile"><table width=3D"100%" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block base-block-vie=
+w"><tbody><tr> <td class=3D"internal-top-level-td" align=3D"center" bgcolor=
+=3D"#ffffff" style=3D"padding-top: 0px; padding-right: 0px; padding-bottom:=
+ 16px; padding-left: 0px;"> <div> <img width=3D"178" src=3D"https://cdn.sen=
+der.net//email_images/22266/204893/20191119110927.jpg" border=3D"0" alt=3D"=
+Image description" height=3D"auto" style=3D"display: block; box-sizing: bor=
+der-box; max-width: 100%; border-radius: 0px;"> </div> </td></tr></tbody></=
+table><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"table-block base-block-view"><tbody><tr> <td align=3D"center" cl=
+ass=3D"internal-top-level-td" bgcolor=3D"#ffffff" style=3D"padding-top: 0px=
+; padding-right: 6px; padding-bottom: 0px; padding-left: 7px; overflow: hid=
+den; text-align: center; font-family: Arial, Helvetica Neue, Helvetica, san=
+s-serif; font-size: 12px; color: #bfbfbf; mso-line-height-rule: exactly; li=
+ne-height: 120%"> <div style=3D"mso-line-height-rule: exactly; line-height:=
+ 120%;"><div data-redactor-tag=3D"br"><strong>MASA=C5=BD=C5=B2 RINKINIAI DO=
+VANOMS</strong></div></div> </td></tr></tbody></table><table width=3D"100%"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block base=
+-block-view"><tbody><tr> <td align=3D"center" class=3D"internal-top-level-t=
+d" bgcolor=3D"#ffffff" style=3D"padding-top: 3px; padding-right: 6px; paddi=
+ng-bottom: 8px; padding-left: 6px; overflow: hidden; text-align: center; fo=
+nt-family: Arial, Helvetica Neue, Helvetica, sans-serif; font-size: 15px; c=
+olor: #808080; mso-line-height-rule: exactly; line-height: 120%"> <div styl=
+e=3D"mso-line-height-rule: exactly; line-height: 120%;"><div data-redactor-=
+tag=3D"br">Dovan=C5=B3 rinkiniai kurie nustebins ir pa=C4=8Dius i=C5=A1rank=
+iausius<br></div></div> </td></tr></tbody></table><table width=3D"100%" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block base-blo=
+ck-view"><tbody><tr> <td align=3D"left" class=3D"internal-top-level-td" bgc=
+olor=3D"#ffffff" style=3D"padding-top: 3px; padding-right: 10px; padding-bo=
+ttom: 15px; padding-left: 10px; overflow: hidden; text-align: left; font-fa=
+mily: Arial, Helvetica Neue, Helvetica, sans-serif; font-size: 16px; color:=
+ #14663d; mso-line-height-rule: exactly; line-height: 100%"> <div style=3D"=
+mso-line-height-rule: exactly; line-height: 100%;"><div data-redactor-tag=
+=3D"br"><strong>nuo=C2=A0=EF=BB=BF<strong><del>36.00=E2=82=AC</del></strong=
+> <ins>21.00=E2=82=AC</ins></strong><br></div></div> </td></tr></tbody></ta=
+ble><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"table-block base-block-view ButtonGroupBlockView"><tbody><tr> <td =
+bgcolor=3D"transparent" class=3D"internal-top-level-td text-hover" style=3D=
+" padding-left: 0px; padding-top: 6px; padding-right: 0px; padding-bottom: =
+9px"> <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"internal-content-table"> <tbody><tr> <td class=3D"left-spacing" =
+width=3D"0%" data-key=3D"leftSpacing"></td> <td width=3D"100%" data-key=3D"=
+0" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <table class=3D"button=
+-table" align=3D"center" bgcolor=3D"#14663d" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D" border-radius: 5px; border:0px solid transparent; border-c=
+ollapse: separate !important; "> <tbody><tr> <!--[if mso]> <td width=3D"10"=
+ height=3D"33"></td> <![endif]--> <td valign=3D"middle" align=3D"center" st=
+yle=3D" vertical-align: middle; "> <a valign=3D"middle" align=3D"center" hr=
+ef=3D"https://d2ag3jdu89hmr4.cloudfront.net/link_click/8D6P9zAel5_72yPw/fb1=
+633d794ceee423b4a5d4d113705ee" style=3D" /*box-sizing: border-box;*/ text-a=
+lign: center; display: block; line-height: 13px; border-radius: 5px; border=
+: 10px solid #14663d; padding: 0px 10px; " rel=3D"fb1633d794ceee423b4a5d4d1=
+13705ee"> <span class=3D"button-text" style=3D"font-size:13px; font-family:=
+ Arial, Helvetica Neue, Helvetica, sans-serif; color: #ffffff; text-decorat=
+ion: none; font-weight: normal; font-style:normal;">=C5=BDI=C5=AAR=C4=96TI<=
+/span> </a> </td> <!--[if mso]> <td width=3D"10" height=3D"33"></td> <![end=
+if]--> </tr> </tbody></table> </td> <td class=3D"right-spacing" width=3D"0%=
+" data-key=3D"rightSpacing"></td> </tr> </tbody></table> </td></tr></tbody>=
+</table></td></tr> </tbody></table> </td> <td bgcolor=3D"transparent" style=
+=3D"padding-right: 30px"></td> </tr> </tbody></table> </td> </tr> </tbody><=
+/table> </td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%" class=3D"section table-block"><tbody><tr> <td=
+ bgcolor=3D"transparent"> <table style=3D"table-layout: fixed !important;" =
+class=3D"internal-content-table" align=3D"center" width=3D"640" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0"> <tbody><tr> <td class=3D"internal-co=
+ntent-td" bgcolor=3D"#14663d" valign=3D"top" style=3D" border-top-left-radi=
+us: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; bord=
+er-bottom-right-radius: 0px; "> <table class=3D"width-validator" align=3D"c=
+enter" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <tb=
+ody><tr> <td bgcolor=3D"transparent" style=3D"padding-right: 22px"></td> <t=
+d style=3D" padding-left: 0; padding-top: 0px; padding-right: 0; padding-bo=
+ttom: 7px; " width=3D"100%"> <table align=3D"center" width=3D"100%" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <tbody><tr><td valign=3D"top" b=
+gcolor=3D"transparent" cid=3D"503" class=3D"sender-12-col break-on-mobile">=
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"table-block base-block-view"><tbody><tr> <td align=3D"center" bgcolor=
+=3D"transparent" style=3D"padding-top: 10px; padding-bottom: 10px;"> <table=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"b=
+order-collapse: initial !important;"> <tbody><tr> <td style=3D" border-top-=
+style: dashed; border-top-width: 1px; border-top-color: #bfbfbf;"></td> </t=
+r> </tbody></table> </td></tr></tbody></table><table width=3D"100%" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-block base-block-=
+view"><tbody><tr> <td align=3D"center" class=3D"internal-top-level-td" bgco=
+lor=3D"transparent" style=3D"padding-top: 50px; padding-right: 10px; paddin=
+g-bottom: 7px; padding-left: 10px; overflow: hidden; text-align: center; fo=
+nt-family: Arial, Helvetica Neue, Helvetica, sans-serif; font-size: 26px; c=
+olor: #ffffff; mso-line-height-rule: exactly; line-height: 180%"> <div styl=
+e=3D"mso-line-height-rule: exactly; line-height: 180%;" placeholder=3D"Clic=
+k" to=3D"" edit=3D"" text...=3D""><h2 style=3D"font-size: 24;" data-redacto=
+r-style-cache=3D"font-size: 24;">IR DAR DAUG KIT=C5=B2 PASLAUG=C5=B2 <a hre=
+f=3D"https://d2ag3jdu89hmr4.cloudfront.net/link_click/8D6P9zAel5_72yPw/5189=
+6dd2f4d9d37ee990e4abd49892b2" style=3D"color: rgb(255, 255, 255);" rel=3D"5=
+1896dd2f4d9d37ee990e4abd49892b2">GRO=C5=BDIUI</a>!</h2></div> </td></tr></t=
+body></table><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"table-block base-block-view"><tbody><tr> <td align=3D"lef=
+t" class=3D"internal-top-level-td" bgcolor=3D"transparent" style=3D"padding=
+-top: 1px; padding-right: 10px; padding-bottom: 49px; padding-left: 10px; o=
+verflow: hidden; text-align: left; font-family: Arial, Helvetica Neue, Helv=
+etica, sans-serif; font-size: 14px; color: #ffffff; mso-line-height-rule: e=
+xactly; line-height: 150%"> <div style=3D"mso-line-height-rule: exactly; li=
+ne-height: 150%;"><div data-redactor-tag=3D"br">* Norime informuoti, kad kl=
+inika =C5=A1ventiniu laikotarpiui nedirbs, tod=C4=97l apie dovanas pagalvok=
+ite i=C5=A1 anksto :)<br></div></div> </td></tr></tbody></table></td></tr> =
+</tbody></table> </td> <td bgcolor=3D"transparent" style=3D"padding-right: =
+22px"></td> </tr> </tbody></table> </td> </tr> </tbody></table> </td></tr><=
+/tbody></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%" class=3D"section table-block"><tbody><tr> <td bgcolor=3D"transpa=
+rent"> <table style=3D"table-layout: fixed !important;" class=3D"internal-c=
+ontent-table" align=3D"center" width=3D"640" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0"> <tbody><tr> <td class=3D"internal-content-td" bgcolor=
+=3D"#ffffff" valign=3D"top" style=3D" border-top-left-radius: 0px; border-t=
+op-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-r=
+adius: 0px; "> <table class=3D"width-validator" align=3D"center" width=3D"1=
+00%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> <tbody><tr> <td bgco=
+lor=3D"transparent" style=3D"padding-right: 20px"></td> <td style=3D" paddi=
+ng-left: 0; padding-top: 10px; padding-right: 0; padding-bottom: 10px; " wi=
+dth=3D"100%"> <table align=3D"center" width=3D"100%" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0"> <tbody><tr><td valign=3D"bottom" bgcolor=3D"tra=
+nsparent" cid=3D"524" class=3D"sender-12-col break-on-mobile"><table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-b=
+lock base-block-view"><tbody><tr> <td align=3D"left" class=3D"internal-top-=
+level-td" bgcolor=3D"transparent" style=3D"padding-top: 34px; padding-right=
+: 10px; padding-bottom: 4px; padding-left: 10px; overflow: hidden; text-ali=
+gn: left; font-family: Arial, Helvetica Neue, Helvetica, sans-serif; font-s=
+ize: 14px; color: #14663d; mso-line-height-rule: exactly; line-height: 170%=
+"> <div style=3D"mso-line-height-rule: exactly; line-height: 170%;"><div da=
+ta-redactor-tag=3D"br"><strong>UAB "Masa=C5=BEo Klinika"</strong><br>S. =C5=
+=BDukausko g. 21, Vilnius (=C5=A0alia Northway medicinos centro) / Tel.: <s=
+trong>+370 611 11 110</strong><br><a data-cke-saved-href=3D"mailto:info@tra=
+veler.com" href=3D"mailto:info@masazoklinika.lt" style=3D"color: rgb(20, 10=
+2, 61);" data-redactor-style-cache=3D"color: rgb(252, 136, 5);" draggable=
+=3D"false">info@masazoklinika.lt</a> / <a data-cke-saved-href=3D"#" href=3D=
+"https://d2ag3jdu89hmr4.cloudfront.net/link_click/8D6P9zAel5_72yPw/de7c36d7=
+4a2334eb03214e7f6f6dd13a" style=3D"color: rgb(20, 102, 61);" data-redactor-=
+style-cache=3D"color: rgb(252, 136, 5);" draggable=3D"false" rel=3D"de7c36d=
+74a2334eb03214e7f6f6dd13a">www.masazoklinika.lt</a>=EF=BB=BF<br></div></div=
+> </td></tr></tbody></table></td></tr> </tbody></table> </td> <td bgcolor=
+=3D"transparent" style=3D"padding-right: 20px"></td> </tr> </tbody></table>=
+ </td> </tr> </tbody></table> </td></tr></tbody></table></td> </tr> <!-- UN=
+SUBSCRIBE --> <tr> <td> <table order=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%"> <tbody><tr> <td align=3D"center"> <table width=3D"100%"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center"> <tbody>=
+<tr> <td style=3D"padding: 20px 0px 20px 0px;"> <!-- UNSUBSCRIBE COPY --> <=
+table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center" class=3D"responsive-table"> <tbody><tr> <td align=3D"center" va=
+lign=3D"middle" class=3D"browser-preview-unsubscribe-section-td"> <a class=
+=3D"browser-preview-unsubscribe-section-link" href=3D"https://d2ag3jdu89hmr=
+4.cloudfront.net/unsubscribe/8D6P9zAel5_72yPw" style=3D"color: #737373;font=
+-size: 12px;font-family: Arial, Helvetica Neue, Helvetica, sans-serif;"> If=
+ you want to unsubscribe, click here. </a> </td> </tr> </tbody></table> </t=
+d> </tr> </tbody></table> </td> </tr> </tbody></table> </td> </tr> </tbody>=
+</table> </td> </tr> </tbody></table> </td> </tr></tbody></table></body></h=
+tml>
+------=_Part_82359200_296774735.1574156671198--
+
+------=_Part_82359198_693821939.1574156671198--

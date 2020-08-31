@@ -1,0 +1,132 @@
+Return-path: <newsletter@sendersrv.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Fri, 18 Jan 2019 08:26:19 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <newsletter@sendersrv.com>)
+	id 1gkNbe-0005Mg-SZ
+	for modernus@grezimas.lt; Fri, 18 Jan 2019 08:26:18 +0200
+Received: from [185.3.229.125] (helo=mail1.sendersrv.com)
+	by gandras.serveriai.lt with esmtp (Exim 4.90_1)
+	(envelope-from <newsletter@sendersrv.com>)
+	id 1gkNbe-0005MY-R0
+	for modernus@grezimas.lt; Fri, 18 Jan 2019 08:26:18 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=smtp; d=sender.lt;
+ h=From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe:Date;
+ bh=ApqbEw+G9C9bPgYI17NNSIDzwXM=;
+ b=ITpbEcGMsolYEYVkunQV5tENH4gQPT2MxjboEYP6I0q6+GqQj6RSKm6hA7mRNP64q5I6XlK0ihAf
+   Pqqy/6V8LZFfvrZMVU/0FK6Dx4d6MykvnLEaILP334F3S0jbuSloCC3D2kE2x0efOwQPAK0H856e
+   tOS+ra0FnQsKlrgsbVg=
+From: =?UTF-8?Q?Ugn=C4=97_Docyt=C4=97_=7C_Moters_Vizija?= <info@motersvizija.lt>
+To: modernus@grezimas.lt
+Message-ID: <4f1e14afca836464cbcd147d1e74b667.1547792770413.newsletter@synergia.data.lt>
+Subject: =?UTF-8?Q?Did=C5=BEiausia_moter=C5=B3_konferencija_su_Ruta?=
+ =?UTF-8?Q?_Lee_ir_Egle_=C5=A0pokaite_(KOVO_8,_Vilnius)?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_137073393_781062950.1547792770412"
+Precedence: bulk
+Feedback-ID: 117:110300:campaign:SenderNET
+X-Sender-ID: 4f1e14afca836464cbcd147d1e74b667
+List-Unsubscribe: <http://dev.sender.lt/atsisakymas/4f1e14afca836464cbcd147d1e74b667>, <mailto:abuse@sender.lt?subject=4f1e14afca836464cbcd147d1e74b667&body=http://dev.sender.lt/atsisakymas/4f1e14afca836464cbcd147d1e74b667>
+Date: Fri, 18 Jan 2019 08:26:16 +0200
+X-Spam-Checked: sender.lt, 92.61.39.3, w3.org, motersvizija.lt, 194.135.87.5,
+	sender.net, serveriai.lt, google.com
+
+------=_Part_137073393_781062950.1547792770412
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_137073393_781062950.1547792770412
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><style>table, td {=
+=09border-collapse: collapse;=09}=09table.element {=09width: 100%;=09}=09#c=
+ontent td {=09text-align: left;=09}=09a img {=09border: 0;=09outline: 0;=09=
+}=09p {=09margin: 0 0 10px 0;=09padding: 0;=09}=09#content_wrapper, #conten=
+t_wrapper td { /* teksto fonas */=09background-color: #FFFFFF;=09padding: 0=
+;=09}=09hr {=09color: #FFFFFF;=09}=09#content td h1 {=09/* antraste */=09ma=
+rgin: 0;=09padding: 10px 0 10px 0;=09font-size: 18px;=09font-weight: bold;=
+=09color: #000000;=09}=09#content td h2 {=09/* antraste 2 */=09margin: 0;=
+=09padding: 8px 0 8px 0;=09font-size: 16px;=09font-weight: bold;=09color: #=
+000000;=09}=09#content td, td#footer {=09/* laisko tekstas */=09font-size: =
+13px;=09color: #000000;=09font-family: Arial, Helvetica, sans-serif;=09line=
+-height: 140%;=09padding: 10px;=09}=09#content a {=09/* laisko linkai */=09=
+color: #0000FF;=09font-weight: normal;=09}=09#footer a, a#browserPreview {=
+=09color: #0000FF;=09font-family: Arial, Helvetica, sans-serif;=09font-size=
+: 13px;=09}</style></head> <body bgcolor=3D"#FFFFFF" align=3D"left" style=
+=3D"background: #FFFFFF; margin:0; padding:0; width:100% !important;" id=3D=
+"blank"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" style=3D"border-collapse: collapse;"><tr><td align=3D"left" id=3D"wrapp=
+er" style=3D"border-collapse: collapse;"><table id=3D"content_wrapper" widt=
+h=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"10px" style=3D"bord=
+er-collapse: collapse; background-color: #FFFFFF; padding: 0; border: 0;"><=
+tr><td id=3D"content" valign=3D"top" width=3D"600" style=3D"border-collapse=
+: collapse; background-color: #FFFFFF; padding: 0;"><table style=3D"border-=
+collapse: collapse;"><tbody><tr><td style=3D"border-collapse: collapse; tex=
+t-align: left; background-color: #FFFFFF; padding: 10px; color: #000000; fo=
+nt-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 140%=
+;"><div id=3D"L1QibmTq" class=3D" "><p style=3D"margin: 0 0 10px 0; padding=
+: 0;">Sveiki,<br><br>Tik nor=C4=97jau maloniai priminti, jei nety=C4=8Dia p=
+raleidote, kad kovo 8 dien=C4=85 Vilniuje =C4=AFvyks=C2=A0<strong>did=C5=BE=
+iausia Lietuvoje motyvacin=C4=97 konferencija moterims</strong> <strong><a =
+data-cke-saved-href=3D"http://motersvizija.lt" href=3D"https://app.sender.n=
+et/nuoroda/5a6e9258d70d3a0d9eb9aee87ef3fa73/c3d51953d08571122eea824c8e891d7=
+7" style=3D"color: #0000FF; font-weight: normal;" rel=3D"5a6e9258d70d3a0d9e=
+b9aee87ef3fa73">"Moters vizija"</a>.</strong><br><br><a data-cke-saved-href=
+=3D"http://motersvizija.lt" href=3D"https://app.sender.net/nuoroda/0ec2cf53=
+2793dc2ee191972749bc0647/c3d51953d08571122eea824c8e891d77" style=3D"color: =
+#0000FF; font-weight: normal;" rel=3D"0ec2cf532793dc2ee191972749bc0647">Tik=
+ dabar galioja net 40% nuolaida bilietams &gt;&gt;</a><br><br>=C5=A0ioje ko=
+nferencijoje bus kalbama apie atkaklum=C4=85, s=C4=85moningum=C4=85, dr=C4=
+=85s=C4=85 siekti did=C5=BEiausi=C5=B3 tiksl=C5=B3, bet nepamir=C5=A1ti sav=
+o asmenin=C4=97s ramyb=C4=97s ir laim=C4=97s, asmenin=C4=AF efektyvum=C4=85=
+ ir streso valdym=C4=85. Dalyv=C4=97s gaus did=C5=BEiausi=C4=85 =C4=AFkv=C4=
+=97pim=C4=85 ir prakti=C5=A1kus patarimus, <strong>kaip surasti savo vidin=
+=C4=99 ramyb=C4=99 ir b=C5=ABti laimingai ir efektyviai savo darbe ir gyven=
+ime.</strong><br><br><strong>Savo dalyvavim=C4=85 ir prane=C5=A1imus "Moter=
+s vizijoje" jau patvirtino:</strong></p><ul><li>Holivudo =C5=BEvaig=C5=BEd=
+=C4=97, kultin=C4=97 lietuvi=C5=B3 kilm=C4=97s aktor=C4=97 <strong>Ruta Lee=
+</strong></li><li>=C5=BDinomiausia lietuvi=C5=B3 baleto primadona <strong>E=
+gl=C4=97 =C5=A0pokait=C4=97</strong></li><li>Lietuvos kino ir teatro aktor=
+=C4=97 <strong>Gra=C5=BEina Baik=C5=A1tyt=C4=97</strong></li><li>Olimpiet=
+=C4=97 <strong>Vaida =C5=BD=C5=ABsinait=C4=97</strong></li><li>Viena labiau=
+siai Lietuvai nusipelniusi=C5=B3 mediki=C5=B3 <strong>prof. dr. Jelena =C4=
+=8Celutkien=C4=97</strong></li><li>Jogos trener=C4=97 <strong>Milana Ja=C5=
+=A1inskyt=C4=97</strong></li><li>=C5=BDurnalist=C4=97 ir laid=C5=B3 ved=C4=
+=97ja <strong>Daiva =C5=BDeimyt=C4=97 - Bilien=C4=97</strong></li></ul><p s=
+tyle=3D"margin: 0 0 10px 0; padding: 0;">ir daugelis kit=C5=B3 verslo, kult=
+=C5=ABros ir mokslo sri=C4=8Di=C5=B3 nuostabi=C5=B3 asmenybi=C5=B3.<br><br>=
+<a data-cke-saved-href=3D"http://motersvizija.lt/" href=3D"https://app.send=
+er.net/nuoroda/1af735e4490188133a4005fccc3620b8/c3d51953d08571122eea824c8e8=
+91d77" style=3D"color: #0000FF; font-weight: normal;" rel=3D"1af735e4490188=
+133a4005fccc3620b8">Bilietai geriausiomis s=C4=85lygomis=C2=A0&gt;&gt;</a><=
+br><br>Nuo=C5=A1ird=C5=ABs link=C4=97jimai,<br>Ugn=C4=97 Docyt=C4=97<br>"Mo=
+ters vizija" koordinator=C4=97<br><br>P.S. Jeigu norite u=C5=BEsakyti 5 ar =
+daugiau biliet=C5=B3 - taikome papildom=C4=85 nuolaid=C4=85. Skambinkite mu=
+ms tel. 8-691 92163</p></div></td></tr></tbody></table></td></tr></table><t=
+able width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"10px" alig=
+n=3D"left" style=3D"border-collapse: collapse;"><tr><td id=3D"footer" align=
+=3D"center" style=3D"border-collapse: collapse; color: #000000; font-family=
+: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 140%; padding=
+: 10px;"><a href=3D"https://app.sender.net/recipients/unsubscribe/4f1e14afc=
+a836464cbcd147d1e74b667" style=3D"color: #0000FF; font-family: Arial, Helve=
+tica, sans-serif; font-size: 13px;">Jei nebenorite gauti naujienlai=C5=A1ki=
+=C5=B3, spauskite =C4=8Dia.</a></td></tr></table></td></tr></table><img src=
+=3D"https://app.sender.net/campaigns/register_open/4f1e14afca836464cbcd147d=
+1e74b667" width=3D"1" height=3D"1" border=3D"0" alt=3D"" style=3D"height:1p=
+x !important;width:1px !important;border-width:0 !important;margin-top:0 !i=
+mportant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0=
+ !important;padding-top:0 !important;padding-bottom:0 !important;padding-ri=
+ght:0 !important;padding-left:0 !important;outline-style:none;text-decorati=
+on:none;display:block;"></body><img src=3D"https://app.sender.net/campaigns=
+/register_open/4f1e14afca836464cbcd147d1e74b667" width=3D"1" height=3D"1" b=
+order=3D"0" alt=3D"" style=3D"height:1px !important;width:1px !important;bo=
+rder-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;=
+margin-right:0 !important;margin-left:0 !important;padding-top:0 !important=
+;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !imp=
+ortant;outline-style:none;text-decoration:none;display:block;"></html>
+------=_Part_137073393_781062950.1547792770412--

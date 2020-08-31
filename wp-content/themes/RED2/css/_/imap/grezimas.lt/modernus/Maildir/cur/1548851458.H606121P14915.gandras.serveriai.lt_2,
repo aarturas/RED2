@@ -1,0 +1,61 @@
+Return-path: <postmaster@financier-it.pw>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Wed, 30 Jan 2019 14:30:58 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <postmaster@financier-it.pw>)
+	id 1gop18-0003sP-Fu
+	for modernus@grezimas.lt; Wed, 30 Jan 2019 14:30:58 +0200
+Received: from [162.245.217.167] (helo=slot0.financier-it.pw)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.90_1)
+	(envelope-from <postmaster@financier-it.pw>)
+	id 1gop18-0003sB-8s
+	for modernus@grezimas.lt; Wed, 30 Jan 2019 14:30:58 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=financier-it.pw;
+ h=Reply-To:From:Subject:Date:MIME-Version:Content-Type:Content-Transfer-Encoding:Message-ID; i=postmaster@financier-it.pw;
+ bh=3+w/FbQNXPCaPb9MUjSf6gAG29Q=;
+ b=MzBhEsZ2Zw4y4IMFVsqCO5sgLWBQWp6G61bt6xZY3ZUwjMmlMcnUXrCC28gUW5dxWzTXnvBZa8Vw
+   juvfIzf20EbxrX1W++JDKsn6FK00Te2w0ns01JY1sV5a9mNtBhiJh9rewqO8J7qppPYCL0xy8DbB
+   9ss5l9r0K6fRuru4ha05dyitcjjwmOjBsyWor6KNDSAK8JjA8eGfKJb2T8Z0SKEYzAUUc09bx0M9
+   YyT0GNovY4rm636fbR68nlEnrHwqqvEscxg1MqBQoZPl11PWH91xgdKOWGH30wqjlZE1yA7yhEPC
+   0QsFTngt76k7Ep+UM65CfonemHus18xaiAeUHQ==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=financier-it.pw;
+ b=msNt6EHvs1YX6iw5GzxbNg0ZB4F3DgtP3b+nByHUlDbKUrGLzGp5UOQR3aQ7aAGeYZzRUuzMiKDj
+   cDfuzKnd9fOHJlS/o0z021QigU7GzDa7UZ77d7a26jzrqZeC8c0aqWIG+MvKsZWr7ZfnxcNzNNss
+   rT8CPCFlOKRIR2H1dAtcJWyFA6stUmRXZwwPMe7lwEypZM4BHbyAscbSYu2gp+LPRWr0mbozdlCJ
+   fB2x0HcFdeK6Jzo9Ex+tg5+i8W2wTJfNI7sTsuhoYdnD06aBXaBbvfI7WXnLauxF1hqRFfl0Gqt8
+   mbn7a4E2AegmQTkcGsd9JdD38vwfoD2dk0DwOw==;
+Reply-To: <fabio2016@tim.it>
+From: "Fabio Bucci"<postmaster@financier-it.pw>
+Subject: Investment Proposal!!!
+Date: Tue, 29 Jan 2019 14:54:32 -0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <0.0.0.723.1D4B8977A6E64FA.0@slot0.financier-it.pw>
+
+Hello,
+We've been trying to reach you several times without no success. My name is Mr Fabio Bucci. Actually, I got your contact information through your country chambers of commerce public records while searching for a reliable partner to explain our investment intentions.
+I am contacting you briefly based on the Investment of Fifty Million United States Dollars   (US$ 50,000,000:00) in your country, as I presently have a client who is interested in investing in your country, but he has never done business in your country before. I find it imperative to solicit for a partnership. Hence upon receipt of this letter, I implore you to kindly respond and let me know how possible it is to work with you in mutual partnership under the below conditions as follows:
+
+1. My client's fund is Ready.
+2. My client is willing to invest immediately.
+3. My client will pay you a commission of 10% of the investment fund for logistics and protocols which is Five Million United States Dollars to you.
+4. My client desires absolute confidentiality in the handling and management of this brief within 5 years.
+
+I must draw your attention to the fact that I have kept the information's here in this letter stated brief;
+as I do not know if you will receive this letter and or what your response will be, If you do have the interest and the capability to partner with me under the above stated conditions, I will appreciate your response sent back to me by email: info@financier-it.pw
+I will appreciate that you include a brief profile of yourself and your company for me to better appreciate your personality.
+
+I look forward to your response and our partnership.
+
+Kind Regards,
+
+Mr Fabio Bucci.
+fabio2016@tim.it
+info@financier-it.pw

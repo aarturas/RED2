@@ -1,0 +1,424 @@
+Return-path: <bounces+13155671-7587-modernus=grezimas.lt@sendgrid.net>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Fri, 18 Oct 2019 23:57:24 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <bounces+13155671-7587-modernus=grezimas.lt@sendgrid.net>)
+	id 1iLZJM-0008IE-BU
+	for modernus@grezimas.lt; Fri, 18 Oct 2019 23:57:24 +0300
+Received: from [50.31.49.41] (helo=o50314941.outbound-mail.sendgrid.net)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92.3)
+	(envelope-from <bounces+13155671-7587-modernus=grezimas.lt@sendgrid.net>)
+	id 1iLZJL-0008Hb-Vu
+	for modernus@grezimas.lt; Fri, 18 Oct 2019 23:57:24 +0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=sendgrid.net; 
+	h=content-type:from:mime-version:reply-to:to:subject:list-unsubscribe; 
+	s=smtpapi; bh=a9jJKdryNIfOgo1VUVl7EEbwpZA=; b=UVDK1Jq0Fmbqek+R8L
+	RG8EbzsdHRAUD3o2gAruQCQOqimzt+C+u9NxS42IO3ecb6Ps0/EjubnJ8ktnYVsN
+	BinCVAalyf812KkB6YJ8sL0MMKSRo6EpeRHmA/ohCLl6FXgxZMwfUzsN1hYzKQbj
+	xKwH/CQeC8MBUW5bQu0plzVoM=
+Received: by filter1638p1mdw1.sendgrid.net with SMTP id filter1638p1mdw1-17801-5DA98799-16
+        2019-10-18 09:36:25.729433817 +0000 UTC m=+34300.267345975
+Received: from MTMxNTU2NzE (ec2-35-174-203-189.compute-1.amazonaws.com [35.174.203.189])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with HTTP id luMn8rvKTs6jtUhFsUvz9w
+	Fri, 18 Oct 2019 09:36:25.661 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=4fedd8fcfc3fad69799a98a11c5e7b4886852b7bbd222c4ad42c73ae6cb8
+Date: Fri, 18 Oct 2019 09:36:41 +0000 (UTC)
+From: "Kavos Pirklys" <verslui@kavospirklys.lt>
+Mime-Version: 1.0
+Reply-To: info@kavospirklys.lt
+To: modernus@grezimas.lt
+Message-ID: <luMn8rvKTs6jtUhFsUvz9w@ismtpd0004p1iad1.sendgrid.net>
+Subject: =?UTF-8?B?QmVuZHJhZGFyYmlhdmltbyBwYXNpxatseW1hcw==?=
+List-Unsubscribe: <mailto:unsubscribe@sendgrid.net?subject=https://u13155671.ct.sendgrid.net/wf/unsubscribe*q*upn=YmytkhLeZzT628UeBJT0rDh1rFTVZ7R3As-2BkU7-2Fv6C3a14dsShNt9aXRMf-2BeFR6xY-2B8NXIlG5tMaoqiRBrPQat-2BnWCOvO8ULjm0bbGT0JzGY5PMjZ6T88rUmaaHt-2FtDqW9D5Zue4-2BqEZAW4Z5iANEDShsfHbSJdepHZspSP0vOx625XxF9iIvrmQZQ4w1HDWh3dR0UuKvkDr04gJiOxVSOi4bTzBKI7s3RHCU5iPzQM3q8Ujpzu9qAUVSrV79KuLm-2BekTARq-2FIfdUY7FTbjW5GW3wbmLgj6bzaM5DL-2FUFiOJBHTCB-2FuWtwdVuTtj-2FQ9tlx7YwVgGduMMNhrVSWnMtobMR0BUw4Zu4QahEuqClJHUSyUd-2FTwM1LznhnGtUPFr2faPPpA4E7ZMRlYA3e25qOw-2B3UwNM1chkrGPd0Ol8-2FYfL5caJAR6Xx6EXs2cGHCVvhiCStiYFoT1m7ZWYA-2BBb0-2BJMoB0yC0T8aN9N490wt6ODQHAZVuhZNolrb8mOoBfJudHoOk-2Bqx-2BwffcXgWMFraNWB1C7ZcLwd8twTfotB3Jb-2BtPMA3l8-2BaW67Mwc2M8ztmNxuZNvyuRsVKibi4P-2Flg-3D-3D>
+X-SG-EID: 16h7rUYBGDn70x3+zBZDaJaRkoL0AMYUOfLMkgS5w0AlVgU1xB0scTNAazuqXLY2WF7bWpHq5+hXyN
+ 07phHYR3xs0o9Q1p5rlpwRQqO8KllhVKt3UzEoAhY9Ny9w1248Rn7WCyoNtnaF6O68CTmSYV0j9fiS
+ kq+qTTPDrMk9JbkfUN2hKU17J+iGauumccOMRz0MMM1OBmCNMi84ur7Enwj6JYNcxR61WZ3r4R4zlB
+ o=
+X-SG-ID: mtyTPPLCA7Tot5V2M8OAQj9YIUwrGvZSfEpRgVw+NQs2VTFOH10xh6VhhZsM4vpKagJWGoO2fHyabZ
+ /iu41xBspDL3nECJPJS4LtBusIXQie3CRDxof3QFKuNzNacrv+9D8COokD9IifOPLvxnZciA//0GJ7
+ 8HH2hoRry8pUCHz8X0SzRI+pRGoadzUsCbicEPtuc3XdLzAqLcCNY/SDfKOB18LtNKygilcHHHncna
+ oRIpKGwAlc70h89/4XTCktRSv0Tu2vPmpslEif3Ecd8FaLpImOSVoSLSKdjCrBFUR8JIF41I01z1AI
+ +GRsP5qtiMj8PJ9oAx9XvgX4uBQkrdOqCW11hBRAjyq8YD6+HorNWAXRqXkO/1JJp68nl01w
+X-Spam-Checked: sendgrid.net, 167.89.123.54, kavospirklys.lt, 194.135.87.94,
+	w3.org, serveriai.lt
+
+--4fedd8fcfc3fad69799a98a11c5e7b4886852b7bbd222c4ad42c73ae6cb8
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+Laba diena,
+
+Nor=C4=97tume Jums prisistatyti. Mes- UAB =E2=80=9CKavos Pirklys=E2=80=9D k=
+avos dirbtuv=C4=97s, si=C5=ABlan=C4=8Dios auk=C5=A1=C4=8Diausios kokyb=C4=
+=97s =C5=A1vie=C5=BEiai skrudint=C4=85 r=C5=AB=C5=A1in=C4=99 kav=C4=85. Kav=
+os pupeles kruop=C5=A1=C4=8Diai atrenkame ir skrudiname=C2=A0Lietuvoje (Kla=
+ip=C4=97doje).=C2=A0Savo skrudykloje sand=C4=97liuojame tik i=C5=A1skirtin=
+=C4=97s kokyb=C4=97s Arabica kavos pupeles i=C5=A1 skirting=C5=B3 Piet=C5=
+=B3 ir Centrin=C4=97s Amerikos, Afrikos, Azijos kavos =C5=ABki=C5=B3.
+M=C5=ABs=C5=B3 kavos dirbtuv=C4=97s orientuojasi=C2=A0=C4=AF kokyb=C4=99 be=
+i auk=C5=A1=C4=8Diausio lygio klient=C5=B3 aptarnavim=C4=85. Kav=C4=85 tiek=
+iame fiziniams klientams, ofisams, kepykloms, parduotuv=C4=97ms bei kavin=
+=C4=97ms. tad nor=C4=97tume "Kavos Pirklys"=C2=A0=C5=A1vie=C5=BEiai skrudin=
+t=C4=85 kav=C4=85 pasi=C5=ABlyti ir Jums.
+Jei tik jau=C4=8Diate susidom=C4=97jim=C4=85- labai nor=C4=97tume i=C5=A1gi=
+rsti J=C5=ABs=C5=B3 reikalavimus ir poreikius, kad gal=C4=97tume pateikti r=
+eikiamos kavos pavyzd=C5=BEi=C5=B3, atlikti itin konkurencing=C5=B3 kain=C5=
+=B3 paskai=C4=8Diavimus specialiai Jums ir aptarti detales.
+
+*P.S.* Visa m=C5=ABs=C5=B3 kava skrudinama tik po u=C5=BEsakymo gavimo. Tai=
+p galime u=C5=BEtikrinti, jog Jus pasiekusi kava bus paskrudinta vos prie=
+=C5=A1 1-2 dienas!
+*P.S.S.* Jei tik jau=C4=8Diate poreik=C4=AF, galime tiekti b=C5=ABtent Jums=
+ parinkt=C4=85 kavos r=C5=AB=C5=A1=C4=AF ar mi=C5=A1in=C4=AF su J=C5=ABs=C5=
+=B3 prekiniu =C5=BEenklu bei unikalia=C2=A0Jums sukurta pakuote.
+Labai lauksime bet kokio J=C5=ABs=C5=B3 komentaro ir tikime=C2=A0s=C4=97kmi=
+ngo m=C5=ABs=C5=B3 =C4=AFmoni=C5=B3 bendradarbiavimo galimybe.
+
+* Atsipra=C5=A1ome, jei =C5=A1i informacija Jums n=C4=97ra aktuali ir, jeig=
+u nenorite gauti jokios su m=C5=ABs=C5=B3 pasi=C5=ABlymais susijusios infor=
+macijos, prane=C5=A1kite mums.
+--
+*Laikas gerai kavai!*
+Pagarbiai,
+*Arnas Gudelis*
++370=C2=A0636=C2=A005 253
+www.kavospirklys.lt
+
+Kavos Pirklys
+
+Baltijos pr. 43-65 , Klaip=C4=97da ,
+
+Unsubscribe (  https://u13155671.ct.sendgrid.net/wf/unsubscribe?upn=3DYmytk=
+hLeZzT628UeBJT0rDh1rFTVZ7R3As-2BkU7-2Fv6C3a14dsShNt9aXRMf-2BeFR6xY-2B8NXIlG=
+5tMaoqiRBrPQat-2BnWCOvO8ULjm0bbGT0JzGY5PMjZ6T88rUmaaHt-2FtDqW9D5Zue4-2BqEZA=
+W4Z5iANEDShsfHbSJdepHZspSP0vOx625XxF9iIvrmQZQ4w1HDWh3dR0UuKvkDr04gJiOxVSOi4=
+bTzBKI7s3RHCU5iPzQM3q8Ujpzu9qAUVSrV79KuLm-2BekTARq-2FIfdUY7FTbjW5GW3wbmLgj6=
+bzaM5DL-2FUFiOJBHTCB-2FuWtwdVuTtj-2FQ9tlx7YwVgGduMMNhrVSWnMtobMR0BUw4Zu4Qah=
+EuqClJHUSyUd-2FTwM1LznhnGtUPFr2faPPpA4E7ZMRlYA3e25qOw-2B3UwNM1chkrGPd0Ol8-2=
+FZ8LS46nL9Gh2OoicItr6bGw49PuvzEQZ8JALnF04TMNB1BPgtbxEaRXMgc8NxcjqWA6BZy21W5=
+i9-2FS-2FLWG-2B10KkprsFMDgO-2Bwn-2FYNy28-2F4GrvjrV7MPV0naYvAew4IIJzza8eYoTE=
+h3xqGVAA7XDsJoNRWAWUvDhqFRekgoLu7ow-3D-3D  )=
+
+--4fedd8fcfc3fad69799a98a11c5e7b4886852b7bbd222c4ad42c73ae6cb8
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html data-editor-version=3D"2" class=3D"=
+sg-campaigns" xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+      <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8">
+      <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D"text/css">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D"text/css">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D"wrapper" data-link-color=3D"#1188E6" data-body-style=
+=3D"font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;">
+        <div class=3D"webkit">
+          <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"=
+100%" class=3D"wrapper" bgcolor=3D"#FFFFFF">
+            <tbody><tr>
+              <td valign=3D"top" bgcolor=3D"#FFFFFF" width=3D"100%">
+                <table width=3D"100%" role=3D"content-container" class=3D"o=
+uter" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                  <tbody><tr>
+                    <td width=3D"100%">
+                      <table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">
+                        <tbody><tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D"600">
+  <![endif]-->
+                                    <table width=3D"100%" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0" style=3D"width:100%; max-width:600px;" alig=
+n=3D"center">
+                                      <tbody><tr>
+                                        <td role=3D"modules-container" styl=
+e=3D"padding:0px 0px 0px 0px; color:#000000; text-align:left;" bgcolor=3D"#=
+FFFFFF" width=3D"100%" align=3D"left"><table class=3D"module preheader preh=
+eader-hide" role=3D"module" data-type=3D"preheader" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;">
+    <tbody><tr>
+      <td role=3D"module-content">
+        <p></p>
+      </td>
+    </tr>
+  </tbody></table><table class=3D"module" role=3D"module" data-type=3D"text=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"=
+table-layout: fixed;" data-muid=3D"6c1db465-d4cb-4e83-97a2-ebc60fbce2f6">
+    <tbody>
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;" height=3D"100%" valign=3D"top" bgcolor=3D"" role=3D"module-cont=
+ent"><div><div style=3D"font-family: inherit; text-align: inherit"><span st=
+yle=3D"color: #333333; font-size: 13px; font-family: verdana,geneva,sans-se=
+rif">Laba diena,</span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><br></div>
+<div style=3D"font-family: inherit; text-align: inherit"><span style=3D"col=
+or: #333333; font-size: 13px; font-family: verdana,geneva,sans-serif">Nor=
+=C4=97tume Jums prisistatyti. Mes- UAB =E2=80=9CKavos Pirklys=E2=80=9D kavo=
+s dirbtuv=C4=97s, si=C5=ABlan=C4=8Dios auk=C5=A1=C4=8Diausios kokyb=C4=97s =
+=C5=A1vie=C5=BEiai skrudint=C4=85 r=C5=AB=C5=A1in=C4=99 kav=C4=85. Kavos pu=
+peles kruop=C5=A1=C4=8Diai atrenkame ir skrudiname&nbsp;Lietuvoje (Klaip=C4=
+=97doje).&nbsp;Savo skrudykloje sand=C4=97liuojame tik i=C5=A1skirtin=C4=97=
+s kokyb=C4=97s Arabica kavos pupeles i=C5=A1 skirting=C5=B3 Piet=C5=B3 ir C=
+entrin=C4=97s Amerikos, Afrikos, Azijos kavos =C5=ABki=C5=B3.&nbsp;</span><=
+/div>
+<div style=3D"font-family: inherit; text-align: inherit"><span style=3D"col=
+or: #333333; font-size: 13px; font-family: verdana,geneva,sans-serif">M=C5=
+=ABs=C5=B3 kavos dirbtuv=C4=97s orientuojasi&nbsp;=C4=AF kokyb=C4=99 bei au=
+k=C5=A1=C4=8Diausio lygio klient=C5=B3 aptarnavim=C4=85. Kav=C4=85 tiekiame=
+ fiziniams klientams, ofisams, kepykloms, parduotuv=C4=97ms bei kavin=C4=97=
+ms. tad nor=C4=97tume "Kavos Pirklys"&nbsp;=C5=A1vie=C5=BEiai skrudint=C4=
+=85 kav=C4=85 pasi=C5=ABlyti ir Jums.</span><br>
+<span style=3D"color: #333333; font-size: 13px; font-family: verdana,geneva=
+,sans-serif">Jei tik jau=C4=8Diate susidom=C4=97jim=C4=85- labai nor=C4=97t=
+ume i=C5=A1girsti J=C5=ABs=C5=B3 reikalavimus ir poreikius, kad gal=C4=97tu=
+me pateikti reikiamos kavos pavyzd=C5=BEi=C5=B3, atlikti itin konkurencing=
+=C5=B3 kain=C5=B3 paskai=C4=8Diavimus specialiai Jums ir aptarti detales.&n=
+bsp;</span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><br></div>
+<div style=3D"font-family: inherit; text-align: inherit"><span style=3D"col=
+or: #333333; font-size: 13px; font-family: verdana,geneva,sans-serif"><stro=
+ng>P.S.</strong></span><span style=3D"color: #333333; font-size: 13px; font=
+-family: verdana,geneva,sans-serif">&nbsp;Visa m=C5=ABs=C5=B3 kava skrudina=
+ma tik po u=C5=BEsakymo gavimo. Taip galime u=C5=BEtikrinti, jog Jus pasiek=
+usi kava bus paskrudinta vos prie=C5=A1 1-2 dienas!</span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><span style=3D"col=
+or: #333333; font-size: 13px; font-family: verdana,geneva,sans-serif"><stro=
+ng>P.S.S.</strong></span><span style=3D"color: #333333; font-size: 13px; fo=
+nt-family: verdana,geneva,sans-serif">&nbsp;Jei tik jau=C4=8Diate poreik=C4=
+=AF, galime tiekti b=C5=ABtent Jums parinkt=C4=85 kavos r=C5=AB=C5=A1=C4=AF=
+ ar mi=C5=A1in=C4=AF su J=C5=ABs=C5=B3 prekiniu =C5=BEenklu bei unikalia&nb=
+sp;Jums sukurta pakuote.</span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><span style=3D"col=
+or: #333333; font-size: 13px; font-family: verdana,geneva,sans-serif">Labai=
+ lauksime bet kokio J=C5=ABs=C5=B3 komentaro ir tikime&nbsp;s=C4=97kmingo m=
+=C5=ABs=C5=B3 =C4=AFmoni=C5=B3 bendradarbiavimo galimybe.</span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><br></div>
+<div style=3D"font-family: inherit; text-align: inherit"><span style=3D"col=
+or: #333333; font-size: 13px; font-family: verdana,geneva,sans-serif"><em>*=
+ Atsipra=C5=A1ome, jei =C5=A1i informacija Jums n=C4=97ra aktuali ir, jeigu=
+ nenorite gauti jokios su m=C5=ABs=C5=B3 pasi=C5=ABlymais susijusios inform=
+acijos, prane=C5=A1kite mums.</em></span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><span style=3D"col=
+or: #333333; font-size: 13px; font-family: verdana,geneva,sans-serif">--&nb=
+sp;</span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><span style=3D"col=
+or: #333333; font-size: 13px; font-family: verdana,geneva,sans-serif"><stro=
+ng>&nbsp; &nbsp;Laikas gerai kavai!</strong></span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><span style=3D"col=
+or: #333333; font-size: 13px; font-family: verdana,geneva,sans-serif">&nbsp=
+; &nbsp;Pagarbiai,</span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><span style=3D"col=
+or: #333333; font-size: 13px; font-family: verdana,geneva,sans-serif"><stro=
+ng>&nbsp; &nbsp;Arnas Gudelis</strong></span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><span style=3D"col=
+or: #333333; font-size: 13px; font-family: verdana,geneva,sans-serif">&nbsp=
+; &nbsp;+370&nbsp;636&nbsp;05 253&nbsp;</span></div>
+<div style=3D"font-family: inherit; text-align: inherit"><span style=3D"col=
+or: #333333; font-size: 13px; font-family: verdana,geneva,sans-serif">&nbsp=
+;&nbsp;&nbsp;www.kavospirklys.lt</span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table class=3D"wrapper" role=3D"module" data-type=3D"image" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-=
+layout: fixed;" data-muid=3D"efd0cde0-542a-4150-9d2c-c57ffdc7a169">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"left">
+          <img class=3D"max-width" border=3D"0" style=3D"display:block; col=
+or:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif;=
+ font-size:16px; max-width:40% !important; width:40%; height:auto !importan=
+t;" width=3D"240" alt=3D"" data-proportionally-constrained=3D"true" data-re=
+sponsive=3D"true" src=3D"http://cdn.mcauto-images-production.sendgrid.net/e=
+530be93b54c11f5/a21bcc39-c291-4a51-8125-63185226e664/6192x1952.jpg">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class=3D"wrapper" role=3D"module" data-type=3D"image" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-=
+layout: fixed;" data-muid=3D"01fab923-4b4c-47a7-b3b0-28721c9a015a">
+    <tbody>
+      <tr>
+        <td style=3D"font-size:6px; line-height:10px; padding:0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center">
+          <img class=3D"max-width" border=3D"0" style=3D"display:block; col=
+or:#000000; text-decoration:none; font-family:Helvetica, arial, sans-serif;=
+ font-size:16px; max-width:90% !important; width:90%; height:auto !importan=
+t;" width=3D"540" alt=3D"" data-proportionally-constrained=3D"true" data-re=
+sponsive=3D"true" src=3D"http://cdn.mcauto-images-production.sendgrid.net/e=
+530be93b54c11f5/d4102c2a-989e-4dac-8539-c23511b8a642/2349x1295.jpeg">
+        </td>
+      </tr>
+    </tbody>
+  </table><div data-role=3D"module-unsubscribe" class=3D"module" role=3D"mo=
+dule" data-type=3D"unsubscribe" style=3D"color:#444444; font-size:12px; lin=
+e-height:20px; padding:16px 16px 16px 16px; text-align:Center;" data-muid=
+=3D"4e838cf3-9892-4a6d-94d6-170e474d21e5">
+                                            <div class=3D"Unsubscribe--addr=
+essLine"><p class=3D"Unsubscribe--senderName" style=3D"font-size:12px; line=
+-height:20px;">Kavos Pirklys</p><p style=3D"font-size:12px; line-height:20p=
+x;"><span class=3D"Unsubscribe--senderAddress">Baltijos pr. 43-65</span>, <=
+span class=3D"Unsubscribe--senderCity">Klaip=C4=97da</span>, <span class=3D=
+"Unsubscribe--senderState"></span> <span class=3D"Unsubscribe--senderZip"><=
+/span></p></div>
+                                            <p style=3D"font-size:12px; lin=
+e-height:20px;"><a class=3D"Unsubscribe--unsubscribeLink" href=3D" https://=
+u13155671.ct.sendgrid.net/wf/unsubscribe?upn=3DYmytkhLeZzT628UeBJT0rDh1rFTV=
+Z7R3As-2BkU7-2Fv6C3a14dsShNt9aXRMf-2BeFR6xY-2B8NXIlG5tMaoqiRBrPQat-2BnWCOvO=
+8ULjm0bbGT0JzGY5PMjZ6T88rUmaaHt-2FtDqW9D5Zue4-2BqEZAW4Z5iANEDShsfHbSJdepHZs=
+pSP0vOx625XxF9iIvrmQZQ4w1HDWh3dR0UuKvkDr04gJiOxVSOi4bTzBKI7s3RHCU5iPzQM3q8U=
+jpzu9qAUVSrV79KuLm-2BekTARq-2FIfdUY7FTbjW5GW3wbmLgj6bzaM5DL-2FUFiOJBHTCB-2F=
+uWtwdVuTtj-2FQ9tlx7YwVgGduMMNhrVSWnMtobMR0BUw4Zu4QahEuqClJHUSyUd-2FTwM1Lznh=
+nGtUPFr2faPPpA4E7ZMRlYA3e25qOw-2B3UwNM1chkrGPd0Ol8-2FbNc1QYttwogDFeudCemPdJ=
+Mo1RN8vyXiZB7VRugB1M-2BViGsoi-2Bp0JaZZU1jeBXLex-2FFLrQAxkYFLSYitaiXk5bs1cpw=
+5-2BpPAAwGJ-2B-2BCQxfD7R6sySd4rV4UOCpC10TEY-2BeWwPHNhRi-2BT542eGE4HhZtd3Lez=
+-2BJJHnnsgIyke5pIQ-3D-3D " target=3D"_blank" style=3D"">Unsubscribe</a></p>
+                                          </div></td>
+                                      </tr>
+                                    </tbody></table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </tbody></table>
+                    </td>
+                  </tr>
+                </tbody></table>
+              </td>
+            </tr>
+          </tbody></table>
+        </div>
+      </center>
+=20=20=20=20
+=20=20
+
+<img src=3D"https://u13155671.ct.sendgrid.net/wf/open?upn=3DYmytkhLeZzT628U=
+eBJT0rDh1rFTVZ7R3As-2BkU7-2Fv6C3a14dsShNt9aXRMf-2BeFR6xY-2B8NXIlG5tMaoqiRBr=
+PQat-2BnWCOvO8ULjm0bbGT0JzGY5PMjZ6T88rUmaaHt-2FtDqW9D5Zue4-2BqEZAW4Z5iANEDS=
+hsfHbSJdepHZspSP0vOx625XxF9iIvrmQZQ4w1HDWh3dR0UuKvkDr04gJiOxVSOi4bTzBKI7s3R=
+HCU5iPzQM3q8Ujpzu9qAUVSrV79KuLm-2BekTARq-2FIfdUY7FTbjW5GW3wbmLgj6bzaM5DL-2F=
+UFiOJBHTCB-2FuWtwdVuTtj-2FQ9tlx7YwVgGduMMNhrVSWnMtobMR0BUw4Zu4QahEuqClJHUSy=
+Ud-2FTwM1LznhnGtUPFr2faPPpA4E7ZMRlYA3e25qOw-2B3UwNM1chkrGPd0Ol8-2FaNaPMR2sm=
+iirUfRp9NgZFiPzqykN-2F0GghCDpkkVDsYx-2FG7CXFW8-2FhbfVwf7ERvY-2B9byovlUGcY2U=
+jI678JnMXr543XKMue7xk1WWOVP5EEN9HR8-2BXRxhqpOb-2BBWFgGHXDAx0ZwMakuHdoQIkvcq=
+4mM1fLuvCRU6q6OU94Xa0ptoQAPeEFZl1cxJJVtzn7nOFQ-3D" alt=3D"" width=3D"1" hei=
+ght=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important;=
+border-width:0 !important;margin-top:0 !important;margin-bottom:0 !importan=
+t;margin-right:0 !important;margin-left:0 !important;padding-top:0 !importa=
+nt;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !i=
+mportant;"/>
+</body></html>
+
+--4fedd8fcfc3fad69799a98a11c5e7b4886852b7bbd222c4ad42c73ae6cb8--

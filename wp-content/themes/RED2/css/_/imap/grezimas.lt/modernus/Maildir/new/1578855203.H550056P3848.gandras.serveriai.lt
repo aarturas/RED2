@@ -1,0 +1,65 @@
+Return-path: <office@redsolesshoes.info>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Sun, 12 Jan 2020 20:53:23 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <office@redsolesshoes.info>)
+	id 1iqiMV-0000zv-CN
+	for modernus@grezimas.lt; Sun, 12 Jan 2020 20:53:23 +0200
+Received: from [23.236.172.226] (helo=server1.redsolesshoes.info)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92.3)
+	(envelope-from <office@redsolesshoes.info>)
+	id 1iqiMV-0000zi-6h
+	for modernus@grezimas.lt; Sun, 12 Jan 2020 20:53:23 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=redsolesshoes.info; s=default; h=Message-ID:Reply-To:Subject:To:From:Date:
+	Content-Transfer-Encoding:Content-Type:MIME-Version:Sender:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=BH+TSjcvaufjIhsxZliS+IXTcoqI+Q2ZEgdAACzADyg=; b=1MJzQ7TBwrGlCUfxU5/5GR0Wz5
+	FYZWdecp3+H+MxOtW8DoeYrSxWo9kG0Dx+iVAqZ5ILPSINXCcwVaLjW0CMjPfM3ClaM5f5Ucp36E5
+	bfpuG2pw45aU6cnAiJ0/krnjfWy41FPQF9aU7vtaTfmZ70w6IzaOSbH4ciO/tDkcjXTIujIieF11n
+	ZS4Yuhpp6Q67utODdrvfYqte41aYqm/Z3E/8+NYx2MQ4OuQQMZ+BD90gzB/vOV6fxk6Drtlz5VweW
+	k0/Cdl61Uozc9pTK1vx3myxvEL3Hq+lUiu4ZkCeDM93WcuxbOrYLc5G1xfIzApktLXWBsirhOTzsJ
+	A6mXwsOw==;
+Received: from [::1] (port=51366 helo=server1.redsolesshoes.info)
+	by server1.redsolesshoes.info with esmtpa (Exim 4.92)
+	(envelope-from <office@redsolesshoes.info>)
+	id 1iqiM2-0007mN-TB; Sun, 12 Jan 2020 18:52:54 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+Date: Sun, 12 Jan 2020 18:52:54 +0000
+From: Mr Peter Owen <office@redsolesshoes.info>
+To: undisclosed-recipients:;
+Subject: <<Happy New Year>>
+Reply-To: makatiemeka101@yahoo.com
+Mail-Reply-To: makatiemeka101@yahoo.com
+Message-ID: <3faa2f28b61ae7bc538ae2bb3d2aade9@redsolesshoes.info>
+X-Sender: office@redsolesshoes.info
+User-Agent: Roundcube Webmail/1.3.8
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.redsolesshoes.info
+X-AntiAbuse: Original Domain - grezimas.lt
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - redsolesshoes.info
+X-Get-Message-Sender-Via: server1.redsolesshoes.info: authenticated_id: office@redsolesshoes.info
+X-Authenticated-Sender: server1.redsolesshoes.info: office@redsolesshoes.info
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+
+
+-- 
+Good Day,
+Hope you are doing great Today.I have a proposed business deal that will 
+benefit both parties. This is legitimate,legal and your personality will 
+not be compromised.Please Reply to me only if you are interested and 
+consider your self capable for details.
+
+Sincerely,
+
+Peter OWEN

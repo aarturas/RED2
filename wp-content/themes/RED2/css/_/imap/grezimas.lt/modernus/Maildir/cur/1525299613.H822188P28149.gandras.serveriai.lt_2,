@@ -1,0 +1,59 @@
+Return-path: <SRS0+d7ddcf3df525eb41=HV=chase.finance.eu=info@chase.finance.eu>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Thu, 03 May 2018 01:20:13 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <SRS0+d7ddcf3df525eb41=HV=chase.finance.eu=info@chase.finance.eu>)
+	id 1fE06f-0007Jj-MI
+	for modernus@grezimas.lt; Thu, 03 May 2018 01:20:13 +0300
+Received: from [81.95.105.140] (helo=antirelay10.smtp.cz)
+	by gandras.serveriai.lt with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.90_1)
+	(envelope-from <SRS0+d7ddcf3df525eb41=HV=chase.finance.eu=info@chase.finance.eu>)
+	id 1fE06f-0007JO-Ji
+	for modernus@grezimas.lt; Thu, 03 May 2018 01:20:13 +0300
+Received: from iw07.smtp.cz (iw07.smtp.cz [81.95.97.121])
+	by antirelay.smtp.cz (Postfix) with ESMTPS id 2332096624;
+	Thu,  3 May 2018 00:20:12 +0200 (CEST)
+Received: from chase.finance.eu [188.28.163.174] ([127.0.0.1])
+        by iw07.smtp.cz (IceWarp 11.4.7.0 (2017-02-14) UBUNTU1404 x64) with ASMTP (SSL) id 201805030020060321;
+        Thu, 03 May 2018 00:20:06 +0200
+Date: Wed, 02 May 2018 23:20:01 +0100
+From: "Chase Finance" <info@chase.finance.eu>
+Subject: 
+Message-ID: <027c0d3497aeaffff74392ada2f467eb@chase.finance.eu>
+X-Mailer: IceWarp Mailer 11.4.7.0 (2017-02-14) UBUNTU1404 x64-Desktop
+X-Priority: 3
+Reply-To: <info@chasefinance.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_aa45f25b7ab4bfddf162cffeef31dc55"
+
+
+--b1_aa45f25b7ab4bfddf162cffeef31dc55
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Chase Financial Services atv=C4=97r=C4=97 ir yra galimyb=C4=97 visiems, kur=
+iems reikalinga finansin=C4=97 pagalba. Mes teikiame paskolas rimtiems asme=
+nims ir =C4=AFmon=C4=97ms, kuri=C5=B3 pal=C5=ABkan=C5=B3 norma yra 2 proc. =
+Susisiekite su mumis, jei norite gauti daugiau informacijos.
+
+
+--b1_aa45f25b7ab4bfddf162cffeef31dc55
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<head><title></title></head>
+<body><div class=3D"iw_mail" dir=3D"ltr">
+<br><br><div class=3D"signature">Chase Financial Services atv&#279;r&#279; =
+ir yra galimyb&#279; visiems, kuriems reikalinga finansin&#279; pagalba. Me=
+s teikiame paskolas rimtiems asmenims ir &#303;mon&#279;ms, kuri&#371; pal&=
+#363;kan&#371; norma yra 2 proc. Susisiekite su mumis, jei norite gauti dau=
+giau informacijos.</div>
+</div></body>
+
+
+--b1_aa45f25b7ab4bfddf162cffeef31dc55--
+

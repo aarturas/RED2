@@ -1,0 +1,141 @@
+Return-path: <newsletter@sendersrv.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Fri, 16 Nov 2018 08:51:45 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <newsletter@sendersrv.com>)
+	id 1gNXyj-0002wm-6H
+	for modernus@grezimas.lt; Fri, 16 Nov 2018 08:51:45 +0200
+Received: from [185.3.229.126] (helo=mail2.sendersrv.com)
+	by gandras.serveriai.lt with esmtp (Exim 4.90_1)
+	(envelope-from <newsletter@sendersrv.com>)
+	id 1gNXyj-0002wG-4a
+	for modernus@grezimas.lt; Fri, 16 Nov 2018 08:51:45 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=smtp; d=sender.lt;
+ h=From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe:Date;
+ bh=ImQAZ3OWkPj18RCDmeIySnFQCaQ=;
+ b=uV94I4b28G5JIjA9jmQDCZtcwa14g+VRyin4zhP60xTAF5aqpJ/EBsVyw0movCBj0KYvS//MSMcq
+   wMVHKcstlqka7diHmxgeM5xp3fQhbG27LQ2xdcS28tR1sqf5+LNhIMEa7QXX/BMNHn1mb8nUxDI+
+   FwFGE+SvfP+++uipkQk=
+From: =?UTF-8?Q?Ugn=C4=97_=7C_Money_Club?= <info@moneyclub.lt>
+To: modernus@grezimas.lt
+Message-ID: <64a89c643230ef9a427e629eb6af818b.1542351103756.newsletter@synergia.data.lt>
+Subject: =?UTF-8?Q?Ko_gero_i=C5=A1samiausi_mokymai_apie_tai_KAIP_?=
+ =?UTF-8?Q?PADARYTI_=C4=AETAK=C4=84_=C5=BDMON=C4=96MS_versle_ir_gyvenime?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_7315016_197591932.1542351103756"
+Precedence: bulk
+Feedback-ID: 117:99313:campaign:SenderNET
+X-Sender-ID: 64a89c643230ef9a427e629eb6af818b
+List-Unsubscribe: <http://dev.sender.lt/atsisakymas/64a89c643230ef9a427e629eb6af818b>, <mailto:abuse@sender.lt?subject=64a89c643230ef9a427e629eb6af818b&body=http://dev.sender.lt/atsisakymas/64a89c643230ef9a427e629eb6af818b>
+Date: Fri, 16 Nov 2018 08:51:45 +0200
+X-Spam-Checked: sender.lt, 92.61.39.3, w3.org, webseminarai.lt, 185.81.166.166,
+	sender.net, google.com
+
+------=_Part_7315016_197591932.1542351103756
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_7315016_197591932.1542351103756
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><style>table, td {=
+=09border-collapse: collapse;=09}=09table.element {=09width: 100%;=09}=09#c=
+ontent td {=09text-align: left;=09}=09a img {=09border: 0;=09outline: 0;=09=
+}=09p {=09margin: 0 0 10px 0;=09padding: 0;=09}=09#content_wrapper, #conten=
+t_wrapper td { /* teksto fonas */=09background-color: #FFFFFF;=09padding: 0=
+;=09}=09hr {=09color: #FFFFFF;=09}=09#content td h1 {=09/* antraste */=09ma=
+rgin: 0;=09padding: 10px 0 10px 0;=09font-size: 18px;=09font-weight: bold;=
+=09color: #000000;=09}=09#content td h2 {=09/* antraste 2 */=09margin: 0;=
+=09padding: 8px 0 8px 0;=09font-size: 16px;=09font-weight: bold;=09color: #=
+000000;=09}=09#content td, td#footer {=09/* laisko tekstas */=09font-size: =
+13px;=09color: #000000;=09font-family: Arial, Helvetica, sans-serif;=09line=
+-height: 140%;=09padding: 10px;=09}=09#content a {=09/* laisko linkai */=09=
+color: #0000FF;=09font-weight: normal;=09}=09#footer a, a#browserPreview {=
+=09color: #0000FF;=09font-family: Arial, Helvetica, sans-serif;=09font-size=
+: 13px;=09}</style></head> <body bgcolor=3D"#FFFFFF" align=3D"left" style=
+=3D"background: #FFFFFF; margin:0; padding:0; width:100% !important;" id=3D=
+"blank"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" style=3D"border-collapse: collapse;"><tr><td align=3D"left" id=3D"wrapp=
+er" style=3D"border-collapse: collapse;"><table id=3D"content_wrapper" widt=
+h=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"10px" style=3D"bord=
+er-collapse: collapse; background-color: #FFFFFF; padding: 0; border: 0;"><=
+tr><td id=3D"content" valign=3D"top" width=3D"600" style=3D"border-collapse=
+: collapse; background-color: #FFFFFF; padding: 0;"><table class=3D"element=
+" style=3D"border-collapse: collapse; width: 100%;"><tbody><tr><td style=3D=
+"border-collapse: collapse; text-align: left; background-color: #FFFFFF; pa=
+dding: 10px; color: #000000; font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 13px; line-height: 140%;"><div id=3D"D3IPwx8g" class=3D" "><h1 styl=
+e=3D"color: #000000; font-size: 18px; font-weight: bold; margin: 0; padding=
+: 10px 0 10px 0; text-align: center;"><a data-cke-saved-href=3D"https://web=
+seminarai.lt/produktas/owen-fitzpatrick-menas-daryti-itaka-vadovavimas-pard=
+avimai-marketingas/?w=3D182" href=3D"https://app.sender.net/nuoroda/8d151d2=
+bd50e405eeb79adff85b58012/c3d51953d08571122eea824c8e891d77" style=3D"color:=
+ #0000FF; font-weight: normal;" rel=3D"8d151d2bd50e405eeb79adff85b58012">Ko=
+ gero i=C5=A1samiausi mokymai apie tai <br>KAIP PADARYTI =C4=AETAK=C4=84 =
+=C5=BDMON=C4=96MS</a></h1></div></td></tr></tbody></table><table class=3D"e=
+lement" style=3D"border-collapse: collapse; width: 100%;"><tbody><tr><td st=
+yle=3D"border-collapse: collapse; text-align: left; background-color: #FFFF=
+FF; padding: 10px; color: #000000; font-family: Arial, Helvetica, sans-seri=
+f; font-size: 13px; line-height: 140%;"><div id=3D"Mm4TJEKB" class=3D" "><d=
+iv style=3D"text-align: center;">Did=C5=BEioji akcija! TIK DABAR - 14.99 Eu=
+r u=C5=BE i=C5=A1samiausius mokymus KAIP DARYTI =C4=AETAK=C4=84 =C5=BDMON=
+=C4=96MS versle ir gyvenime (=C4=AFprastin=C4=97 kaina 199 Eur). 90 dien=C5=
+=B3 100% pinig=C5=B3 gr=C4=85=C5=BEinimo garantija.<br><br>D=C5=BEiaugiam=
+=C4=97s, kad tobul=C4=97jate kartu su mumis.<br><br>=E2=80=8B=E2=80=8B=E2=
+=80=8B=E2=80=8B=E2=80=8B=E2=80=8B=E2=80=8B"Pardavim=C5=B3 Asai" komanda</di=
+v></div></td></tr></tbody></table><table class=3D"element" style=3D"border-=
+collapse: collapse; width: 100%;"><tbody><tr><td style=3D"border-collapse: =
+collapse; text-align: left; background-color: #FFFFFF; padding: 10px; color=
+: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line=
+-height: 140%;"><div style=3D"width: 580px; height: 284px;" class=3D" has-i=
+mage "><a href=3D"https://app.sender.net/nuoroda/dddc41e2db04cef02e0c583641=
+a57392/c3d51953d08571122eea824c8e891d77" target=3D"_blank" style=3D"color: =
+#0000FF; font-weight: normal;" rel=3D"dddc41e2db04cef02e0c583641a57392"><im=
+g src=3D"http://forumone.sender.lt/email_images/109248/b7c6a2e330123504ccb4=
+455ec0b3404b_thb.png" alt=3D"undefinedhttps://webseminarai.lt/produktas/owe=
+n-fitzpatrick-menas-daryti-itaka-vadovavimas-pardavimai-marketingas/?w=3D18=
+2" width=3D"580" height=3D"284" style=3D"border: 0; outline: 0;"></a></div>=
+</td></tr></tbody></table><table style=3D"border-collapse: collapse;"><tbod=
+y><tr><td style=3D"border-collapse: collapse; text-align: left; background-=
+color: #FFFFFF; padding: 10px; color: #000000; font-family: Arial, Helvetic=
+a, sans-serif; font-size: 13px; line-height: 140%;"><div id=3D"FBi96dZA" cl=
+ass=3D" ">=C5=A0iandien daug svarbiau kalb=C4=97ti =C4=AFtakos, o ne angl=
+=C5=B3 ar kin=C5=B3, kalba. Kiekvieno i=C5=A1 m=C5=ABs=C5=B3 s=C4=85mon=C4=
+=99 paveikti visai nesunku, tai bus =C4=AFrodyta ir seminare. Tereikia past=
+eb=C4=97ti s=C4=97kming=C5=B3 ir nes=C4=97kming=C5=B3 =C5=BEmoni=C5=B3 elge=
+sio skirtumus ir pritaikyti juos praktikoje.<br><br>S=C4=97km=C4=97 gyvenim=
+e priklauso nuo to, kaip sekasi gauti atsakym=C4=85 =E2=80=9ETaip=E2=80=9C =
+ir paveikti kitus. Nesvarbu, kas esi gyvenime =E2=80=93 t=C4=97vas, draugas=
+, mylimasis, verslininkas, mokytojas ir pana=C5=A1iai. Seminaro metu b=C5=
+=ABsite =E2=80=9Eapginkluoti=E2=80=9C =C4=AFg=C5=ABd=C5=BEiais ir technikom=
+is, paremtomis elementaria psichologoja ir kalbos priemon=C4=97mis, pad=C4=
+=97sian=C4=8Diomis motyvuoti darbuotojus, =C4=AFtikinti klientus, palengvin=
+ti bendravim=C4=85 su =C5=BEmon=C4=97mis.</div></td></tr></tbody></table></=
+td></tr></table><img src=3D"https://app.sender.net/campaigns/register_open/=
+64a89c643230ef9a427e629eb6af818b" width=3D"1" height=3D"1" border=3D"0" alt=
+=3D"" style=3D"height:1px !important;width:1px !important;border-width:0 !i=
+mportant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 =
+!important;margin-left:0 !important;padding-top:0 !important;padding-bottom=
+:0 !important;padding-right:0 !important;padding-left:0 !important;outline-=
+style:none;text-decoration:none;display:block;"></td></tr></table><table wi=
+dth=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"10px" align=3D"le=
+ft" style=3D"border-collapse: collapse;"><tr><td id=3D"footer" align=3D"cen=
+ter" style=3D"border-collapse: collapse; color: #000000; font-family: Arial=
+, Helvetica, sans-serif; font-size: 13px; line-height: 140%; padding: 10px;=
+"><a href=3D"https://app.sender.net/recipients/unsubscribe/64a89c643230ef9a=
+427e629eb6af818b" style=3D"color: #0000FF; font-family: Arial, Helvetica, s=
+ans-serif; font-size: 13px;">Jei nebenorite gauti naujienlai=C5=A1ki=C5=B3,=
+ spauskite =C4=8Dia.</a></td></tr></table><img src=3D"https://app.sender.ne=
+t/campaigns/register_open/64a89c643230ef9a427e629eb6af818b" width=3D"1" hei=
+ght=3D"1" border=3D"0" alt=3D"" style=3D"height:1px !important;width:1px !i=
+mportant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 =
+!important;margin-right:0 !important;margin-left:0 !important;padding-top:0=
+ !important;padding-bottom:0 !important;padding-right:0 !important;padding-=
+left:0 !important;outline-style:none;text-decoration:none;display:block;"><=
+/body></html>
+------=_Part_7315016_197591932.1542351103756--

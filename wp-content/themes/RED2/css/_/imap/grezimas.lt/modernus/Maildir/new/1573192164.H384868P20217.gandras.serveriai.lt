@@ -1,0 +1,61 @@
+Return-path: <oliviaanushma@gmail.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Fri, 08 Nov 2019 07:49:24 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <oliviaanushma@gmail.com>)
+	id 1iSx98-0005Fw-Ox
+	for modernus@grezimas.lt; Fri, 08 Nov 2019 07:49:22 +0200
+Received: from [66.163.184.45] (helo=sonic317-34.consmr.mail.ne1.yahoo.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92.3)
+	(envelope-from <oliviaanushma@gmail.com>)
+	id 1iSx98-0005Fp-Hp
+	for modernus@grezimas.lt; Fri, 08 Nov 2019 07:49:22 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1573192160; bh=lc+yDM8VfM77yQbntlHxt6nuPb0V1kJNtbImuuipfqY=; h=Date:From:Subject:References:From:Subject; b=ShXgWOyWKWlNkphQGEob6KBUthc9Zeks16dwOz9PvuuzMo8QSpzlSkSrQtvqzpXSmQjBDi3P7jndm1oJlGlyp6NSmx6NPwaBviUgithWyQw3BXcsRYhfbPS2Drgqpx9IYDyN8wRSP1nX2eXKuZTF1Hfr2vqyKg0yt9mte3hHIxZuTEk60Yegh3sqVhkE1VjRWgGuZ2VjTV47OrslFvDhX51erTMnpgYWJBUjawXdhNMsQPIVa0pXL933YASp9XE7lUNIdLus6E3oqWFz7dVjqtouybhbpgyIZvmIeNmpUxMi9sjweHya8e/m9iadM66W0qr9Kb1KyrxtAo6qRdWjnQ==
+X-YMail-OSG: IxQUVCAVM1kDgjExJkcszSvRMZU7jYbVQnK85uAx23AMQSRuqpdGLZKjAnbfGHy
+ _BQkZQc6gKfwlF4bL4fAPSaMDzR6CvZc0rvJEkCxkjiZZMvOyC1x5IGuI8mHi9WQzJ3RJxpxmrYj
+ jAq2X6nxD_0bT2WrBxyIp.jdxgO7g.aNLyoEg9moTbzAsc0gQqJ3JGf2uy5qyHRBRc2oWJWfEDwg
+ ckVo3FqeQ_Jcy4sh8NN4lHQIlxeXqcbNZDm0BJLDCp4htlQvfX23BDpbY6_F63EkGvsTKSDEIQr6
+ fRVkenpfA7KgenWMcQ6KaYnb7OSPO_93GoNDEE4.upMG0FC7wYwT5SD1Khei5CH5ty2wtbQCxOgn
+ refq0V4Jhy5bJ5oSXprrV7pYElBxt1bnOjdmhui8e2YRhM_9r_ennK7mbKnwhTaO0ae8rjAR.l8g
+ GFYMLdxCRqM3JEL4zsL5rba621mdQkcPrIBi3_R..dIejX0W4s0GqLefVYkaNm83CgCkhyEoW0Vq
+ NxMyDcYpc2MDpgYot0PIK7H8RDa6H1Vn4mjiDYdhNgX8q39TT.YBTQH9FaAVs6SPuntcsLGBCDab
+ YrfJ_AuJHKs.cEQxxM5bGuWD8zpdN5MEnDh5h1KUkSbfKnHAHRQM2YSfN.U6rjkHOCZDkazuJgF2
+ _qasHHw7AaxPnxarwWY8QfAcqq8azcv_wYcehF7QwdDKSpPQMN5CuEyo.JjMGsLA1hsRoILyXobJ
+ xAvUYGb821HAUYXx4xjcuqwHwiBmTeQmbJy2dta48UfTELBfIDuT36oo4tNeGlcDtPuNpq1PZyAm
+ L_PYeF6BD32hgVMVnU6gu3ka0zD3bUwUO.MQBC_0Wfmp3aQx3GIrOWR2xBUvSIGiCQ4YWXZdNiUt
+ .MYCSpb9erVTWZDiY6TwXJp5x9VdSzPT.23u1ggo8I6ACvKXcEEcJO95kKSikZFtgA3bFWnbaOSy
+ BogiQ4L4p9kfcWa4fxtMvAzRELrNjz_n9CnnDKdC8VUmYruFrKIwiJMLAcd.2ip_cSM70yrQC0sw
+ zkBQU8eXJAy.qLbBTZfxf1LzURhb6sBd3iOJflQfiKikwnHfymjQvh7ANca7kxE9MgNPvsXi7D5O
+ HQE.sXgnHlZHsY0dkZEWei7Or0uZJZ_FALKZFscTnpG1okOGaTXcHDiplseaYSc.hP7EhvmBS6qJ
+ 4uZESiZR1ZtcHtLuQNgGEkZoYmYd2GE_Hc80bt7N.xynSB0gL7jASLOVyN6qrMDIET54vKY8Q1fK
+ cziDHH5K__umd5q06VxPk7WkM1aBFMBzZtExJMyWIO_LIWrSxVUZ2s_r.JRr5MlTQNw0rUZZmlZ4
+ 6Wcn3.9BXRZ.EawBJJgaCzIPjPmn9
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic317.consmr.mail.ne1.yahoo.com with HTTP; Fri, 8 Nov 2019 05:49:20 +0000
+Date: Fri, 8 Nov 2019 05:49:18 +0000 (UTC)
+From: "oliviaanushma@gmail.com" <oliviaanushma@gmail.com>
+Message-ID: <2036002939.1255227.1573192158927@mail.yahoo.com>
+Subject: Re;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1255226_1336540219.1573192158925"
+References: <2036002939.1255227.1573192158927.ref@mail.yahoo.com>
+X-Mailer: WebService/1.1.14680 YMailNorrin Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Content-Length: 908
+
+------=_Part_1255226_1336540219.1573192158925
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Sveiki,
+I'll love us to be goodfriends/Partners?Can we to talk ?.=C2=A0=C2=A0You ca=
+n write me:oliviaanushma@gmail.com
+Olivia.
+=C2=A0
+
+------=_Part_1255226_1336540219.1573192158925
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div class="yahoo-style-wrap" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;"><div dir="ltr" data-setdir="false"><div><div>Sveiki,</div><div><br></div><div>I'll love us to be good</div><div>friends/Partners?</div><div>Can we to talk ?.&nbsp;&nbsp;</div><div>You can write me:</div><div>oliviaanushma@gmail.com</div><div><br></div><div>Olivia.</div><div><br></div><div>&nbsp;</div></div><br></div></div></body></html>
+------=_Part_1255226_1336540219.1573192158925--

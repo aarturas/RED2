@@ -1,0 +1,76 @@
+Return-path: <2x5066.25954245.1774467443@info.lastmail.net.pl>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Thu, 25 Jul 2019 09:03:23 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92)
+	(envelope-from <2x5066.25954245.1774467443@info.lastmail.net.pl>)
+	id 1hqWqY-0006Qo-4T
+	for modernus@grezimas.lt; Thu, 25 Jul 2019 09:03:22 +0300
+Received: from [185.243.30.50] (helo=smtp03.lastmail.net.pl)
+	by gandras.serveriai.lt with esmtp (Exim 4.92)
+	(envelope-from <2x5066.25954245.1774467443@info.lastmail.net.pl>)
+	id 1hqWqY-0006Qi-2a
+	for modernus@grezimas.lt; Thu, 25 Jul 2019 09:03:22 +0300
+Received: from smtp03.lastmail.net.pl (smtp03.lastmail.net.pl [185.243.30.50])
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=lastmail.net.pl;
+	s=default; t=1564034600; bh=ynEbgbP6odIKAn7jYldNLF3MG7k=;
+	h=From:To:Reply-To:Date:Subject:List-Unsubscribe;
+	b=BfRfdr+C70Yq4tlWALCShKD58B1usmskzoo1HQKMUkH01yMtsyNygcAfXP7cG65iV
+	 gYPSdzf0BjWhN9ohAi2MKwVRKoY1uGp849s1CVBqAlkub0MQ1blPk3oGj3enJ5WQyO
+	 v4ywZb58hAnRsTG/rsVRDtYySOOEqsklJrJ2aQFg=
+From: "Tom" <tom_plr@os.pl> 
+To: "modernus@grezimas.lt" <modernus@grezimas.lt>
+Reply-To: tom_plr@os.pl
+Date: Thu, 25 Jul 2019 08:03:20 +0200
+Subject: From Tom
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_9e32d8fe041f40b987db4ed246b83d96"
+Precedence: bulk
+List-Unsubscribe: <http://info.lastmail.net.pl/app/panel/Redirect.aspx?link_id=C47AE253-6EDE-4445-B2F3-0BEBBC60D605&mail_id=D07402FD-3CE4-4B26-9EF6-87F89B974BA0&d=2AE28A62-A9B9-4E11-BA20-D9E12C7630A2&cntct_id=DmQVeUZ9Jl0MCigWGm5AMRN6FG8ReTdoJ1ljD1pgHXZENmd0&site=aHR0cCUzYSUyZiUyZmluZm8ubGFzdG1haWwubmV0LnBsJTJmYXBwJTJmcGFuZWwlMmZSZWdpc3Rlck91dFBhZ2UuYXNweCUzZm1haWxfaWQlM2QlMjMlMjNtYWlsX2lkJTIzJTIzJTI2YW1wJTNiZCUzZDJBRTI4QTYyLUE5QjktNEUxMS1CQTIwLUQ5RTEyQzc2MzBBMg%3d%3d>
+Feedback-ID: :25954245:5066:net.pl
+X-Sid: 20190725.080320.3886@lastmail.net.pl
+Message-ID: <2x5066.25954245.1774467443@info.lastmail.net.pl>
+X-Spam-Checked: lastmail.net.pl, 185.70.36.58
+
+--_=aspNetEmail=_9e32d8fe041f40b987db4ed246b83d96
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=
+=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=
+=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=0A=0D=
+=0A=0D=0A=0D=0A=0D=0A=0D=0A<br>http://info=2Elastmail=2Enet=2Epl/app/pane=
+l/RegisterOutPage=2Easpx?mail_id=3DD07402FD-3CE4-4B26-9EF6-87F89B974BA0=26=
+d=3D2AE28A62-A9B9-4E11-BA20-D9E12C7630A2=0D=0A
+
+--_=aspNetEmail=_9e32d8fe041f40b987db4ed246b83d96
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br=
+>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A=
+<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br=
+>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A<br>=0A=
+<a href=3D=22http://info=2Elastmail=2Enet=2Epl/app/panel/Redirect=2Easpx?=
+link_id=3DD607C37D-4460-4B88-928B-1ED237322ED3=26mail_id=3DD07402FD-3CE4-=
+4B26-9EF6-87F89B974BA0=26d=3D2AE28A62-A9B9-4E11-BA20-D9E12C7630A2=26cntct=
+_id=3DDmQVeUZ9Jl0MCigWGm5AMRN6FG8ReTdoJ1ljD1pgHXZENmd0=26site=3DaHR0cCUzY=
+SUyZiUyZmluZm8ubGFzdG1haWwubmV0LnBsJTJmYXBwJTJmcGFuZWwlMmZSZWdpc3Rlck91dF=
+BhZ2UuYXNweCUzZm1haWxfaWQlM2QlMjMlMjNtYWlsX2lkJTIzJTIzJTI2YW1wJTNiZCUzZDJ=
+BRTI4QTYyLUE5QjktNEUxMS1CQTIwLUQ5RTEyQzc2MzBBMg=253d=253d=22>If you do no=
+t want to receive any messages from the sender - click=2E</a><img alt=3D=22=
+image=22 src=3D=22http://system=2Elastmail=2Enet=2Epl/open/index=2Ephp?mc=
+cid=3DD07402FD-3CE4-4B26-9EF6-87F89B974BA0=26did=3D2AE28A62-A9B9-4E11-BA2=
+0-D9E12C7630A2=26mid=3DVDlAKgArER9hKRlBJCoZE1BjVSI=253d=26cid=3DC2MdekZ3U=
+Fk=253d=26cntct_id=3DDmQVeUZ9Jl0MCigWGm5AMRN6FG8ReTdoJ1ljD1pgHXZENmd0=26d=
+iv=3D0=22 width=3D=221=22 height=3D=222=22/><div style=3D=22width:1px;hei=
+ght:2px;background:url(=27http://system=2Elastmail=2Enet=2Epl/open/index=2E=
+php?mccid=3DD07402FD-3CE4-4B26-9EF6-87F89B974BA0=26did=3D2AE28A62-A9B9-4E=
+11-BA20-D9E12C7630A2=26mid=3DVDlAKgArER9hKRlBJCoZE1BjVSI=253d=26cid=3DC2M=
+dekZ3UFk=253d=26cntct_id=3DDmQVeUZ9Jl0MCigWGm5AMRN6FG8ReTdoJ1ljD1pgHXZENm=
+d0=26div=3D1=27)=22></div></body>=0D=0A
+
+--_=aspNetEmail=_9e32d8fe041f40b987db4ed246b83d96--
+

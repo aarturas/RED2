@@ -1,0 +1,519 @@
+Return-path: <gita.statnicke@ktu.edu>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Fri, 18 Oct 2019 09:04:11 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <gita.statnicke@ktu.edu>)
+	id 1iLLMv-0003Mf-Tx
+	for modernus@grezimas.lt; Fri, 18 Oct 2019 09:04:10 +0300
+Received: from [40.107.0.118] (helo=EUR02-AM5-obe.outbound.protection.outlook.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.92.3)
+	(envelope-from <gita.statnicke@ktu.edu>)
+	id 1iLLMv-0003MY-MB
+	for modernus@grezimas.lt; Fri, 18 Oct 2019 09:04:09 +0300
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=NCZes5ziuXe/3nSujXti5CSbBB5ELMIJg2wcjY2GdMIWqtXFfZho2wbd0wrvip8e85TxbTLjIbOpPqcOaF6VjMaJhzwCdQa7FopnXf2Vuk/kx/dWbJqg9cmxt1L7ErmTT7R1qm8TwdXxNLjYXc+vc7blpujOjc3KKBvaqiRYHUdaHCtxqu2VcqV8i04m1SHH7sL5H6oZ6BlrpesSSJZj/VYLEgw+YysvLanWDBdJai3iNeRFScISOM9+5LtJcC5wEYUfsstetyolU5ieG0Q5NQ8oeHHuIUP4DpTTAj8DBiJHyFB4HI+D0K1QUnw64wBtxKYadJfICwPHjsVZQHOW4g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=BkSMsMJgmChNAU2EaiB9XinVzA9cBq9xHbRZVVGyqGM=;
+ b=gDFCOtdB25rVGL5rVZE/7RH05BaMoTtyZKxq2D1NShDuZS/rGTLUqkIM6loiZF1RcrblLrRbGNjhFR0Ubf0RhvrqlYttSJ4/Bh3+WWR+yvmu7e6yPXTYATSrLBrYfGXCq1HKY2eebuSgEc441UpcQuNUuN8drDQUJb0kO4rn0HSRl2caNlS8XC+bX/yKNDgyRLnjjdBOAb6iRS8MQptNBMOHz3jq075TrPf+vL8SGsWMHPGp2ljTejkHzBq5lRDprN9mwIiANLVGzkIO7G+EuZMZzNMI89+QIwrqGsVvjxf5uvq2X2p2Wt1CtRaXUJfpO8Aj5VCfdghGYjdPmz4qkA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=ktu.edu; dmarc=pass action=none header.from=ktu.edu; dkim=pass
+ header.d=ktu.edu; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ktu.edu; s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=BkSMsMJgmChNAU2EaiB9XinVzA9cBq9xHbRZVVGyqGM=;
+ b=c1P2Xa+W98ujk0WOdQ80M7RtwqB/EtGxakJ5DFN7gw7xGO2/VbrsozPF2ztT6S/jk9AyYi/YWDz5JrfkLt+Fg6aAcLmDb79WrqegnLwuOMLPS/lWGkzU4iJZ89C+sqX9MnL7LPqrZrC3JyTc8E9PGlC/KUPB6lMmZqyow+fsE0Q=
+Received: from HE1PR0201MB2234.eurprd02.prod.outlook.com (10.168.31.11) by
+ HE1PR0201MB2441.eurprd02.prod.outlook.com (10.168.147.21) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.2347.21; Fri, 18 Oct 2019 06:04:05 +0000
+Received: from HE1PR0201MB2234.eurprd02.prod.outlook.com
+ ([fe80::ddaa:6090:19ac:53ce]) by HE1PR0201MB2234.eurprd02.prod.outlook.com
+ ([fe80::ddaa:6090:19ac:53ce%6]) with mapi id 15.20.2347.024; Fri, 18 Oct 2019
+ 06:04:05 +0000
+From: =?windows-1257?Q?Statnick=EB_Gita?= <gita.statnicke@ktu.edu>
+To: =?windows-1257?Q?Statnick=EB_Gita?= <gita.statnicke@ktu.edu>
+Subject: Kvietimas
+Thread-Topic: Kvietimas
+Thread-Index: AQHVhXhDy9heq68k/keBPrGiHQ1X/g==
+Date: Fri, 18 Oct 2019 06:04:02 +0000
+Message-ID:
+ <HE1PR0201MB22343F4F3D2FA3777355FFE3876C0@HE1PR0201MB2234.eurprd02.prod.outlook.com>
+Accept-Language: lt-LT, en-US
+Content-Language: lt-LT
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=gita.statnicke@ktu.edu; 
+x-originating-ip: [90.142.178.85]
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: f20b449f-e0af-44a1-2800-08d75390fb3f
+x-ms-traffictypediagnostic: HE1PR0201MB2441:
+x-ms-exchange-purlcount: 2
+x-ms-exchange-transport-forked: True
+x-microsoft-antispam-prvs:
+ <HE1PR0201MB24414FE12C6E86F528B2F5F1876C0@HE1PR0201MB2441.eurprd02.prod.outlook.com>
+x-ms-oob-tlc-oobclassifiers: OLM:1728;
+x-forefront-prvs: 01949FE337
+x-forefront-antispam-report:
+ SFV:NSPM;SFS:(10019020)(346002)(39850400004)(136003)(376002)(396003)(366004)(199004)(189003)(221733001)(5660300002)(2171002)(71200400001)(71190400001)(606006)(6862004)(6436002)(21615005)(16799955002)(186003)(26005)(75432002)(14454004)(52536014)(236005)(8676002)(81166006)(81156014)(66066001)(8936002)(55016002)(54896002)(6306002)(9686003)(316002)(89122003)(88732003)(76576003)(786003)(478600001)(99286004)(2906002)(7416002)(7276002)(7336002)(7406005)(7366002)(966005)(19627405001)(347745004)(7696005)(86362001)(3480700005)(6200100001)(66446008)(66476007)(476003)(102836004)(76116006)(66946007)(64756008)(66556008)(3846002)(6116002)(6506007)(6666004)(45776006)(486006)(74316002)(33656002)(7736002)(7116003)(105004)(25786009)(88552002)(256004);DIR:OUT;SFP:1102;SCL:1;SRVR:HE1PR0201MB2441;H:HE1PR0201MB2234.eurprd02.prod.outlook.com;FPR:;SPF:None;LANG:lt;PTR:InfoNoRecords;A:1;MX:1;
+received-spf: None (protection.outlook.com: ktu.edu does not designate
+ permitted sender hosts)
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ jrOQscaDBEjJo2+wLFzoHvchHrpOd3LRbdTaIf9FeGSCI9p6kBBtG/wogySlVq1p2B224C5y/RUuAxskXIH8tSD5DOgqq3MRkKgnqQzuFEtwoplvYnRAOMaI8kdgbar0BlGSCi0w2p16Tk6sxykpzeYA17VcWlL5KOwgxzZEWYYhOyK2z89Za26BUxAwbmUAJaELZCbm3Sst0mrCyl32rRTGsIbZk6sglBrW7FEyUNv2IhoMEmxY9BSCUpK2Vr535Zx00FQSOZfDiXvFXDb97Oy1bS7zHMag6lAH6zhTCUipHd+I8fnOV76zrN9zcV+i/53k6orlXQeSpcZBH2Gx98slPsaj7njVUFwvW0PZdYYDkxuOuiSr5v0taGXmySk3We0tJacaOUu0+sCStmps5bi7jBc9BsT1hstNEKLu73WA+iUT1bucxECndTL7KTCyuLdctlX0d6jHL8rwBqc9XQ==
+Content-Type: multipart/alternative;
+	boundary="_000_HE1PR0201MB22343F4F3D2FA3777355FFE3876C0HE1PR0201MB2234_"
+MIME-Version: 1.0
+X-OriginatorOrg: ktu.edu
+X-MS-Exchange-CrossTenant-Network-Message-Id: f20b449f-e0af-44a1-2800-08d75390fb3f
+X-MS-Exchange-CrossTenant-originalarrivaltime: 18 Oct 2019 06:04:02.9530
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 3415f2f7-f5a8-4092-b52a-003aaf844853
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: AwcIYW7cGTC/6Deeg8oJIefsCctzNsoLKQQPdm6cDB/PKqBRw3A2VMJ+hEFm3Xz0
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: HE1PR0201MB2441
+X-Spam-Checked: surveymonkey.com, 64.191.16.50, verslosavaite.lt, 79.98.25.34,
+	mimecast.com, 217.114.85.70, serveriai.lt
+
+--_000_HE1PR0201MB22343F4F3D2FA3777355FFE3876C0HE1PR0201MB2234_
+Content-Type: text/plain; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+Laba diena,
+
+
+
+esu KTU Vadybos mokslo krypties doktorant=FBros student=EB G.Statnick=EB, =
+=F0iuo metu atlieku mokslin=E1 tyrim=E0 =84Skirting=F8 kart=F8 darbuotoj=F8=
+ =E1sitraukimas =E1 darb=E0 Lietuvoje=93.
+
+Maloniai kvie=E8iu Jus ir J=FBs=F8 organizacijos darbuotojus dalyvauti =F0i=
+ame moksliniame tyrime, kurio tikslas =96 i=F0siai=F0kinti darbo aplinkos v=
+eiksnius, lemian=E8ius skirtingoms kartoms priklausan=E8i=F8 darbuotoj=F8 =
+=E1sitraukim=E0 =E1 darb=E0 Lietuvos =E1mon=EBse / organizacijose.
+
+
+
+J=FBs turite unikali=E0 galimyb=E6 atstovauti savo kartai, i=F0sakyti savo =
+nuomon=E6 bei prisid=EBti prie kart=F8 i=F0tyrimo Lietuvoje.
+
+J=FBs=F8 nuomon=EB labai svarbi, nes tik su J=FBs=F8 pagalba bus galima i=
+=F0siai=F0kinti real=F8 skirting=F8 kart=F8 =E1sitraukimo darbe lyg=E1 Liet=
+uvoje.
+
+
+
+Tyrimas anoniminis, surinktiems duomenims taikoma duomen=F8 apsauga.
+
+
+
+Labai pra=F0au skirti 20 minu=E8i=F8 ir u=FEpildyti tyrimo anket=E0:
+
+https://www.surveymonkey.com/r/SKDI_LT<https://www.surveymonkey.com/r/SKDI_=
+LT?fbclid=3DIwAR3wn4NgrUwU4XH96nazu5cTWiYS84YoDDnTJQr_8jneSvJoR0MKRhxVG0Y>
+
+
+
+Kas penkiasde=F0imtas kiekvienos kartos atstovas gaus nemokam=E0 asmeninio =
+=E1sitraukimo =E1 darb=E0 analiz=E6. Jei nor=EBtum=EBte gauti savo asmenini=
+o =E1sitraukimo =E1 darb=E0 analiz=E6, anketos pabaigoje =E1ra=F0ykite savo=
+ el.pa=F0t=E0.
+
+Apibendrinti tyrimo metu gauti rezultatai bus panaudojami Kauno technologij=
+os universiteto Ekonomikos ir verslo fakulteto doktorant=EBs G. Statnick=EB=
+s disertacijoje =84Darbo aplinkos veiksni=F8 poveikis skirting=F8 kart=F8 d=
+arbuotoj=F8 asmeniniam =E1sitraukimui, =E1sitraukimui =E1 darb=E0 ir organi=
+zaciniam =E1sitraukimui=93. Mokslinio darbo vadov=EB =96 Prof. dr. Asta Sav=
+anevi=E8ien=EB.
+
+
+
+Tyrime kvie=E8iami dalyvauti visi 18-85 met=F8 am=FEiaus Lietuvos gyventoja=
+i, turintys darbin=EBs patirties, tod=EBl, jei galite, labai pra=F0au pasid=
+alinti =F0iuo lai=F0ku su kolegomis, draugais, =F0eimos nariais.
+
+
+
+Daugiau apie kartas ir =F0=E1 tyrim=E0:
+
+http://www.verslosavaite.lt/index.php/Skirtingu-kartu-darbuotojai-po-vienu-=
+stogu-ka-deretu-zinoti-ju-vadovams.html
+
+
+
+I=F0 anksto d=EBkoju u=FE J=FBs=F8 dalyvavim=E0 tyrime.
+
+Gita Statnick=EB
+
+Vadybos mokslo krypties doktorant=FBros student=EB
+
+Kauno technologijos universitetas
+
+Ekonomikos ir vadybos fakultetas
+
+gita.statnicke@gmail.com<mailto:gita.statnicke@gmail.com>, gita.statnicke@k=
+tu.edu<mailto:gita.statnicke@ktu.edu>
+
++370 611 15715
+
+
+
+=D0is lai=F0kas n=EBra reklaminio pob=FBd=FEio naujienlai=F0kis, tai yra vi=
+enkartinis kvietimas dalyvauti moksliniame tyrime.
+
+Jei J=FBs=F8 nedomina galimyb=EB dalyvauti =F0iame tyrime ar gavote =F0=E1 =
+lai=F0k=E0 per klaid=E0, labai atsipra=F0au u=FE sutrukdym=E0 ir linkiu s=
+=EBkmingos tolimesn=EBs J=FBs=F8 veiklos.
+
+Jei J=FBs sudalyvavote tyrime, labai d=EBkoju prisid=EBjus prie mokslo rezu=
+ltat=F8. Jei Jus domint=F8 galutin=EBs i=F0 tyrimo rezultat=F8 gautos bendr=
+os rekomendacijos, kaip didinti skirting=F8 kart=F8 =E1sitraukim=E0 =E1 dar=
+b=E0 organizacijoje, maloniai kvie=E8iu para=F0yti el.lai=F0k=E0.
+
+
+
+
+--_000_HE1PR0201MB22343F4F3D2FA3777355FFE3876C0HE1PR0201MB2234_
+Content-Type: text/html; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0);">
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;background:white">
+<span style=3D"color:#1D2129;border:none windowtext 1.0pt;mso-border-alt:no=
+ne windowtext 0cm;=0A=
+padding:0cm">Laba diena,</span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;background:white">
+<span style=3D"color:black"><o:p>&nbsp;</o:p></span></p>
+<p style=3D"margin: 0cm 0cm 8pt; font-size: 11pt; font-family: Calibri, san=
+s-serif;margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New Roma=
+n&quot;, serif;margin-bottom:0cm;margin-bottom:.0001pt;text-align:=0A=
+justify;mso-hyphenate:auto;text-autospace:ideograph-numeric ideograph-other=
+;=0A=
+mso-vertical-align-alt:auto">
+<span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,ser=
+if;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#1D2129;border:no=
+ne windowtext 1.0pt;=0A=
+mso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:LT">esu=
+ KTU Vadybos mokslo krypties
+ doktorant=FBros student=EB G.Statnick=EB, =F0iuo metu atlieku mokslin=E1 t=
+yrim=E0&nbsp;</span><span style=3D"font-size:12.0pt;font-family:&quot;Times=
+ New Roman&quot;,serif;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#1D2129;mso-farea=
+st-language:=0A=
+LT">=84Skirting=F8 kart=F8 darbuotoj=F8 =E1sitraukimas
+ =E1 darb=E0 Lietuvoje=93.</span><span style=3D"font-size:12.0pt;font-famil=
+y:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;mso-fareast-language:LT"></span></p>
+<p style=3D"margin: 0cm 0cm 8pt; font-size: 11pt; font-family: Calibri, san=
+s-serif;margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New Roma=
+n&quot;, serif;margin-bottom:0cm;margin-bottom:.0001pt;text-align:=0A=
+justify;mso-hyphenate:auto;text-autospace:ideograph-numeric ideograph-other=
+;=0A=
+mso-vertical-align-alt:auto">
+<b><span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,=
+serif;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#1D2129;border:no=
+ne windowtext 1.0pt;=0A=
+mso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:LT">Mal=
+oniai kvie=E8iu Jus ir J=FBs=F8
+ organizacijos darbuotojus dalyvauti =F0iame moksliniame tyrime,</span></b>=
+<span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,ser=
+if;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#1D2129;border:no=
+ne windowtext 1.0pt;=0A=
+mso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:LT">&nb=
+sp;kurio
+ tikslas =96 </span><span style=3D"font-size:12.0pt;font-family:&quot;Times=
+ New Roman&quot;,serif;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-fareast=
+-language:=0A=
+LT">i=F0siai=F0kinti darbo aplinkos veiksnius, lemian=E8ius skirtingoms kar=
+toms priklausan=E8i=F8 darbuotoj=F8
+ =E1sitraukim=E0 =E1 darb=E0 Lietuvos =E1mon=EBse / organizacijose.</span><=
+span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,seri=
+f;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;mso-fareast-language:LT"></span></p>
+<p style=3D"margin: 0cm 0cm 8pt; font-size: 11pt; font-family: Calibri, san=
+s-serif;margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New Roma=
+n&quot;, serif;margin-bottom:0cm;margin-bottom:.0001pt;text-align:=0A=
+justify;mso-hyphenate:auto;text-autospace:ideograph-numeric ideograph-other=
+;=0A=
+mso-vertical-align-alt:auto">
+<b><span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,=
+serif;=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#1D2129;border:no=
+ne windowtext 1.0pt;=0A=
+mso-border-alt:none windowtext 0cm;padding:0cm;mso-fareast-language:LT">&nb=
+sp;</span></b><span style=3D"font-size:12.0pt;font-family:&quot;Times New R=
+oman&quot;,serif;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;mso-fareast-language:LT"></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;text-align:justify;back=
+ground:white">
+<b><span style=3D"color:#1D2129;border:none windowtext 1.0pt;mso-border-alt=
+:none windowtext 0cm;=0A=
+padding:0cm">J=FBs turite unikali=E0 galimyb=E6 atstovauti savo kartai,</sp=
+an></b><span style=3D"color:#1D2129;border:none windowtext 1.0pt;mso-border=
+-alt:none windowtext 0cm;=0A=
+padding:0cm">&nbsp;i=F0sakyti
+ savo nuomon=E6 bei&nbsp;<b>prisid=EBti prie kart=F8 i=F0tyrimo Lietuvoje</=
+b>. </span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;text-align:justify;back=
+ground:white">
+<b><span style=3D"color:black;border:none windowtext 1.0pt;mso-border-alt:n=
+one windowtext 0cm;=0A=
+padding:0cm">J=FBs=F8 nuomon=EB labai svarbi, nes tik su J=FBs=F8 pagalba b=
+us galima i=F0siai=F0kinti real=F8 skirting=F8 kart=F8 =E1sitraukimo darbe =
+lyg=E1 Lietuvoje.</span></b><span style=3D"color:black"></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;text-align:justify;back=
+ground:white">
+<span style=3D"color:#1D2129;border:none windowtext 1.0pt;mso-border-alt:no=
+ne windowtext 0cm;=0A=
+padding:0cm"><o:p>&nbsp;</o:p></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;text-align:justify;back=
+ground:white">
+<span style=3D"color:#1D2129;border:none windowtext 1.0pt;mso-border-alt:no=
+ne windowtext 0cm;=0A=
+padding:0cm">Tyrimas anoniminis, surinktiems duomenims taikoma duomen=F8 ap=
+sauga.</span><span style=3D"color:black"></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;text-align:justify;back=
+ground:white">
+<span style=3D"color:black"><o:p>&nbsp;</o:p></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;text-align:justify;back=
+ground:white">
+<span style=3D"color:#1D2129;border:none windowtext 1.0pt;mso-border-alt:no=
+ne windowtext 0cm;=0A=
+padding:0cm">Labai pra=F0au skirti&nbsp;</span><span lang=3D"EN-US" style=
+=3D"color:=0A=
+#1D2129;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;=0A=
+padding:0cm;mso-ansi-language:EN-US">20
+ minu</span><span style=3D"color:#1D2129;=0A=
+border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm=
+">=E8i=F8 ir u=FEpildyti tyrimo anket=E0:</span><span style=3D"color:black"=
+></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;text-align:justify;back=
+ground:white">
+<span style=3D"color:black;mso-color-alt:windowtext"><a href=3D"https://www=
+.surveymonkey.com/r/SKDI_LT?fbclid=3DIwAR3wn4NgrUwU4XH96nazu5cTWiYS84YoDDnT=
+JQr_8jneSvJoR0MKRhxVG0Y" target=3D"_blank"><span style=3D"color:#385898;bor=
+der:none windowtext 1.0pt;=0A=
+mso-border-alt:none windowtext 0cm;padding:0cm">https://www.surveymonkey.co=
+m/r/SKDI_LT</span></a></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;text-align:justify;back=
+ground:white">
+<span style=3D"color:black"><o:p>&nbsp;</o:p></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin-top:0cm;margin-right:0cm;margin-bottom:12.0pt;mar=
+gin-left:=0A=
+0cm;text-align:justify;background:white">
+<span style=3D"color:#1D2129;border:=0A=
+none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm">Kas p=
+enkiasde=F0imtas kiekvienos kartos atstovas gaus nemokam=E0 asmeninio =E1si=
+traukimo =E1 darb=E0 analiz=E6. Jei nor=EBtum=EBte gauti savo asmeninio =E1=
+sitraukimo =E1 darb=E0
+ analiz=E6, anketos pabaigoje =E1ra=F0ykite savo el.pa=F0t=E0. </span><span=
+ style=3D"color:black"></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin-bottom:4.5pt;text-align:justify;background:white"=
+>
+<span style=3D"color:black">Apibendrinti tyrimo metu gauti rezultatai bus p=
+anaudojami Kauno technologijos universiteto Ekonomikos ir verslo fakulteto =
+doktorant=EBs G. Statnick=EBs disertacijoje =84Darbo aplinkos veiksni=F8 po=
+veikis skirting=F8 kart=F8 darbuotoj=F8 asmeniniam
+ =E1sitraukimui, =E1sitraukimui =E1 darb=E0 ir organizaciniam =E1sitraukimu=
+i=93. Mokslinio darbo vadov=EB =96 Prof. dr. Asta Savanevi=E8ien=EB.</span>=
+</p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;text-align:justify;back=
+ground:white">
+<span style=3D"color:black;border:none windowtext 1.0pt;mso-border-alt:none=
+ windowtext 0cm;=0A=
+padding:0cm"><o:p>&nbsp;</o:p></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;text-align:justify;back=
+ground:white">
+<span style=3D"color:black;border:none windowtext 1.0pt;mso-border-alt:none=
+ windowtext 0cm;=0A=
+padding:0cm">Tyrime kvie=E8iami dalyvauti&nbsp;<b>visi&nbsp;</b></span><b><=
+span lang=3D"EN-US" style=3D"color:black;border:none windowtext 1.0pt;mso-b=
+order-alt:none windowtext 0cm;=0A=
+padding:0cm;mso-ansi-language:EN-US">18-85
+ met=F8 am=FEiaus&nbsp;</span><span style=3D"color:black;border:none window=
+text 1.0pt;mso-border-alt:none windowtext 0cm;=0A=
+padding:0cm">Lietuvos gyventojai, turintys darbin=EBs patirties</span></b><=
+span style=3D"color:black;border:none windowtext 1.0pt;mso-border-alt:none =
+windowtext 0cm;=0A=
+padding:0cm">,
+ tod=EBl, jei galite, labai pra=F0au pasidalinti =F0iuo lai=F0ku su kolegom=
+is, draugais, =F0eimos nariais.&nbsp;</span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;background:white">
+<span style=3D"color:#1D2129;border:none windowtext 1.0pt;mso-border-alt:no=
+ne windowtext 0cm;=0A=
+padding:0cm"><o:p>&nbsp;</o:p></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;background:white">
+<span style=3D"color:#1D2129;border:none windowtext 1.0pt;mso-border-alt:no=
+ne windowtext 0cm;=0A=
+padding:0cm">Daugiau apie kartas ir =F0=E1 tyrim=E0:</span><span style=3D"c=
+olor:black"></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;background:white">
+<span style=3D"color:black;mso-color-alt:windowtext"><a href=3D"http://www.=
+verslosavaite.lt/index.php/Skirtingu-kartu-darbuotojai-po-vienu-stogu-ka-de=
+retu-zinoti-ju-vadovams.html" target=3D"_blank"><span style=3D"font-size:11=
+.0pt;border:none windowtext 1.0pt;=0A=
+mso-border-alt:none windowtext 0cm;padding:0cm">http://www.verslosavaite.lt=
+/index.php/Skirtingu-kartu-darbuotojai-po-vienu-stogu-ka-deretu-zinoti-ju-v=
+adovams.html</span></a></span><span style=3D"font-size:11.0pt;color:black">=
+</span></p>
+<p style=3D"margin: 0cm 0cm 8pt; font-size: 11pt; font-family: Calibri, san=
+s-serif;margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New Roma=
+n&quot;, serif;background:white">
+<span style=3D"mso-bidi-font-family:=0A=
+Calibri;color:black"><o:p>&nbsp;</o:p></span></p>
+<p style=3D"margin: 0cm 0cm 8pt; font-size: 11pt; font-family: Calibri, san=
+s-serif;margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New Roma=
+n&quot;, serif;background:white">
+<span style=3D"font-family:&quot;Times New Roman&quot;,serif;=0A=
+color:#1D2129;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0=
+cm;=0A=
+padding:0cm">I=F0 anksto d=EBkoju u=FE J=FBs=F8 dalyvavim=E0 tyrime.</span>=
+<span style=3D"font-family:&quot;Times New Roman&quot;,serif;color:black"><=
+/span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;background:white">
+<span style=3D"font-size:11.0pt;color:#1D2129;border:none windowtext 1.0pt;=
+mso-border-alt:=0A=
+none windowtext 0cm;padding:0cm">Gita Statnick=EB</span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;background:white">
+<span style=3D"font-size:11.0pt;color:#1D2129;border:none windowtext 1.0pt;=
+mso-border-alt:=0A=
+none windowtext 0cm;padding:0cm">Vadybos mokslo krypties doktorant=FBros st=
+udent=EB</span><span style=3D"font-size:11.0pt;color:black"></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;line-height:11.75pt;bac=
+kground:white">
+<span style=3D"font-size:11.0pt;color:black;border:none windowtext 1.0pt;ms=
+o-border-alt:=0A=
+none windowtext 0cm;padding:0cm">Kauno technologijos universitetas</span><s=
+pan style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;co=
+lor:black"></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;line-height:11.75pt;bac=
+kground:white">
+<span style=3D"font-size:11.0pt;color:#222222;border:none windowtext 1.0pt;=
+mso-border-alt:=0A=
+none windowtext 0cm;padding:0cm">Ekonomikos ir vadybos fakultetas</span><sp=
+an style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;col=
+or:black"></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:11.=
+75pt;=0A=
+background:white">
+<span style=3D"color:black;mso-color-alt:windowtext"><a href=3D"mailto:gita=
+.statnicke@gmail.com"><span style=3D"font-size:11.0pt;=0A=
+border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding:0cm=
+">gita.statnicke</span><span lang=3D"EN-US" style=3D"font-size:11.0pt;borde=
+r:none windowtext 1.0pt;mso-border-alt:=0A=
+none windowtext 0cm;padding:0cm;mso-ansi-language:EN-US">@gmail.com</span><=
+/a></span><span lang=3D"EN-US" style=3D"font-size:11.0pt;color:black;border=
+:none windowtext 1.0pt;=0A=
+mso-border-alt:none windowtext 0cm;padding:0cm;mso-ansi-language:EN-US">,
+</span><span style=3D"color:black;mso-color-alt:windowtext"><a href=3D"mail=
+to:gita.statnicke@ktu.edu"><span style=3D"font-size:11.0pt;border:none wind=
+owtext 1.0pt;=0A=
+mso-border-alt:none windowtext 0cm;padding:0cm">gita.statnicke@ktu.edu</spa=
+n></a></span><span style=3D"font-size:11.0pt;color:black;border:none window=
+text 1.0pt;mso-border-alt:=0A=
+none windowtext 0cm;padding:0cm"></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;line-height:11.75pt;bac=
+kground:white">
+<span style=3D"font-size:11.0pt;color:black;border:none windowtext 1.0pt;ms=
+o-border-alt:=0A=
+none windowtext 0cm;padding:0cm">&#43;370 611 15715</span><span style=3D"fo=
+nt-size:=0A=
+11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black"></span></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:11.=
+75pt;=0A=
+background:white">
+<span style=3D"color:black;border:none windowtext 1.0pt;=0A=
+mso-border-alt:none windowtext 0cm;padding:0cm"><o:p>&nbsp;</o:p></span></p=
+>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin-bottom:0cm;margin-bottom:.0001pt;line-height:11.7=
+5pt;=0A=
+background:white">
+<i><span style=3D"font-size:11.0pt;color:#7030A0;border:none windowtext 1.0=
+pt;=0A=
+mso-border-alt:none windowtext 0cm;padding:0cm">=D0is lai=F0kas n=EBra rekl=
+aminio pob=FBd=FEio naujienlai=F0kis, tai yra
+<b>vienkartinis kvietimas</b> dalyvauti moksliniame tyrime.</span></i></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;line-height:11.75pt;bac=
+kground:white">
+<i><span style=3D"font-size:11.0pt;color:red;border:none windowtext 1.0pt;m=
+so-border-alt:=0A=
+none windowtext 0cm;padding:0cm">Jei J=FBs=F8 nedomina galimyb=EB dalyvauti=
+ =F0iame tyrime ar gavote =F0=E1 lai=F0k=E0 per klaid=E0, labai atsipra=F0a=
+u u=FE sutrukdym=E0 ir linkiu s=EBkmingos tolimesn=EBs
+ J=FBs=F8 veiklos.</span></i></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;line-height:11.75pt;bac=
+kground:white">
+<i><span style=3D"font-size:11.0pt;color:#538135;mso-themecolor:accent6;mso=
+-themeshade:=0A=
+191;border:none windowtext 1.0pt;mso-border-alt:none windowtext 0cm;padding=
+:=0A=
+0cm">Jei J=FBs sudalyvavote tyrime, labai d=EBkoju prisid=EBjus prie mokslo=
+ rezultat=F8. Jei Jus domint=F8
+ galutin=EBs i=F0 tyrimo rezultat=F8 gautos bendros rekomendacijos, kaip di=
+dinti skirting=F8 kart=F8 =E1sitraukim=E0 =E1 darb=E0 organizacijoje, malon=
+iai kvie=E8iu para=F0yti el.lai=F0k=E0.
+</span></i></p>
+<p style=3D"margin: 5pt 0cm; font-size: 12pt; font-family: &quot;Times New =
+Roman&quot;, serif;margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:11.=
+75pt;=0A=
+background:white">
+<span style=3D"color:#222222;border:none windowtext 1.0pt;=0A=
+mso-border-alt:none windowtext 0cm;padding:0cm;background:white"><o:p>&nbsp=
+;</o:p></span></p>
+<br>
+</div>
+<div id=3D"Signature">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt; background-color:=
+rgb(255,255,255); font-family:Calibri,Arial,Helvetica,sans-serif">
+<p style=3D"margin-top: 0px; margin-bottom: 0px;color:rgb(0,0,0)"></p>
+</div>
+</div>
+</body>
+</html>
+
+--_000_HE1PR0201MB22343F4F3D2FA3777355FFE3876C0HE1PR0201MB2234_--

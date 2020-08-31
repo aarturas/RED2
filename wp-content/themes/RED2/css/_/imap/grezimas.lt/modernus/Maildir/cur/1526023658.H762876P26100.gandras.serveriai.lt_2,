@@ -1,0 +1,77 @@
+Return-path: <danija@prekybauab.eu>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Fri, 11 May 2018 10:27:38 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <danija@prekybauab.eu>)
+	id 1fH2So-0006mo-KZ
+	for modernus@grezimas.lt; Fri, 11 May 2018 10:27:38 +0300
+Received: from [45.125.66.109] (helo=hermita.eu)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.90_1)
+	(envelope-from <danija@prekybauab.eu>)
+	id 1fH2Sn-0006mb-Mu
+	for modernus@grezimas.lt; Fri, 11 May 2018 10:27:38 +0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=prekybauab.eu; s=x; h=Content-Type:MIME-Version:Date:Message-ID:Subject:To:
+	From:Reply-To:Sender:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=E6iWBkMmDI0fTJqI+25rewrcmovM4NH9cTfjZnCFcOk=; b=Ve/MKEEI1yA68vWjdWY6VNMIh4
+	4NEDL0tFQ/3mT9VCf4aXCc+xhMjIxBoQNOesO8tFl83vSGr3039/5jwQmu2K8oOmp6It8/n7TlqIk
+	Q66vZxEZJiK2jnOT88a5rpX1/O6RwoGjdvr5zVYIc+Oo3M//HLVD8txGIe3TaEyYMkff4d09Wer7q
+	xzj/jMYo5qX93c8ijVKPKri4tCaqY5lchtKZkhpfzJlYi744OiIGaW1/8kxkyGZ7u+WXQFtqQtprc
+	shGzfgQnfPNjxRQPshFsf9I1eESk46vXR9+NLCst1ARz24tS5evHNAlvk5Us2tO76ymA3zONHrG/T
+	iUAFz9vQ==;
+Received: from 78-62-9-183.static.zebra.lt ([78.62.9.183] helo=[192.168.0.103])
+	by hermita.eu with esmtpsa (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.89)
+	(envelope-from <danija@prekybauab.eu>)
+	id 1fH2S0-0008Sv-JS
+	for modernus@grezimas.lt; Fri, 11 May 2018 10:26:48 +0300
+Reply-To: <versluikontaktai@gmail.com>
+From:"Pardavimai" <danija@prekybauab.eu>
+To: "modernus" <modernus@grezimas.lt> 
+Subject:=?utf-8?B?IERhbmlqb3MgxK9tb27El3MgdmllbmFtZSBmYWlsZSAtIHB1c2UgbWxuLiA1MDAgMDAwIMSvbW9uacWz?=
+Message-ID: <c5b02cb4e6029742a9f6914f9a104b3a@workstation>
+Date: Fri, 11 May 2018 10:27:23 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_6D981082.0498FE40"
+X-Priority: 1
+X-Mailer: Microsoft Office Outlook 12.0
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0001_6D981082.0498FE40
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Laba diena,=0D=0AParduodame Danijos =C4=AFmoni=C5=B3 katalog=C4=85, =
+pateikiama finansiniai duomenys, kontaktai ir kiti reikalingi =
+duomenys.=0D=0ABaz=C4=97je duomenis galite filtruoti pagal veiklas, =
+miestus ir kitus kriterijus.=0D=0ABaz=C4=97 pateikiama excel =
+faile, pilnoje baz=C4=97je yra puse milijono =C4=AFmoni=C5=B3.=0D=0AAr=
+ Jums atsi=C5=B3sti pavyzd=C4=AF su pasi=C5=ABlymu?
+
+------=_NextPart_000_0001_6D981082.0498FE40
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">=0D=0A<H=
+TML><HEAD>=0D=0A<META content=3D"text/html; charset=3Dutf-8" =
+http-equiv=3DContent-Type>=0D=0A<META name=3DGENERATOR content=3D"MSHT=
+ML 11.00.9600.19003"></HEAD>=0D=0A<BODY>=0D=0A<P>Laba diena,</P>=0D=0A=
+<P>Parduodame Danijos =C4=AFmoni=C5=B3 katalog=C4=85,&nbsp;pateikiama =
+finansiniai duomenys, kontaktai ir kiti reikalingi duomenys.</P>=0D=0A=
+<P>Baz=C4=97je duomenis galite filtruoti pagal veiklas, miestus =
+ir kitus kriterijus.</P>=0D=0A<P>Baz=C4=97 pateikiama excel =
+faile, pilnoje baz=C4=97je yra puse milijono =C4=AFmoni=C5=B3.</P>=0D=0A=
+<P><STRONG>Ar Jums atsi=C5=B3sti pavyzd=C4=AF su pasi=C5=ABlymu?</STRO=
+NG></P></BODY></HTML>
+
+------=_NextPart_000_0001_6D981082.0498FE40--
+
+

@@ -92,7 +92,7 @@
          while ($query->have_posts()) {
             $query->the_post();
             $post_id = get_the_ID();
-            ?>
+         ?>
 
          <!-- ----------- Dabar visi WP trijų žmonių info atvaizduojama per čia pateiktą kodą: --------------- -->
 
@@ -113,18 +113,18 @@
 
                <?php
 
-                     $term_list = wp_get_post_terms($post_id, 'skills', array('fields' => 'all')); // gauname termu lista, kaip objektus
-                     foreach ($term_list as $term)  //einame per visą listą
-                     {
-                        ?> <a href="
+                  $term_list = wp_get_post_terms($post_id, 'skills', array('fields' => 'all')); // gauname termu lista, kaip objektus
+                  foreach ($term_list as $term)  //einame per visą listą
+                  {
+                  ?> <a href="
                         <?= get_term_link($term->term_taxonomy_id, 'skills') ?>">
                   <!-- skaiciuojame kiekvieno termo linka, turedami jo id -->
                   <?= $term->name ?>
                   <!-- paimame termo varda -->
                </a> <?php
-                              }
+                        }
 
-                              ?>
+                           ?>
 
             </div><!-- papildomas div'as -->
          </div> <!-- col-lg-3 col-sm-12 col-md-6 box -->

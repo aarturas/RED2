@@ -8,16 +8,13 @@
       </div>
    </footer>
 
-<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+   <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+
+   <?php wp_footer(); ?>
 
 
 
+   </body>
 
-
-
-<?php wp_footer(); ?>
-
-
-
-</body>
-</html>
+   </html>

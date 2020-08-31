@@ -1,0 +1,109 @@
+Return-path: <audrone.bubuliene@capital.lt>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 15 Jan 2019 08:00:52 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <audrone.bubuliene@capital.lt>)
+	id 1gjHmO-0004bC-Hs
+	for modernus@grezimas.lt; Tue, 15 Jan 2019 08:00:52 +0200
+Received: from [209.85.167.53] (helo=mail-lf1-f53.google.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.90_1)
+	(envelope-from <audrone.bubuliene@capital.lt>)
+	id 1gjHmO-0004b6-Ds
+	for modernus@grezimas.lt; Tue, 15 Jan 2019 08:00:52 +0200
+Received: by mail-lf1-f53.google.com with SMTP id p6so1124718lfc.1
+        for <modernus@grezimas.lt>; Mon, 14 Jan 2019 22:00:51 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=capital.lt; s=google;
+        h=message-id:from:to:mime-version:date:subject
+         :content-transfer-encoding;
+        bh=u3PUrTLDbJcPFW+l2H/JdhKqtjaO4fS4ogP+Yv9vl3A=;
+        b=HFdTONS/z3ngwuOPHoSd6ZNLRQfho3YNT66L+JtajiKLLeqWLq5xjizicGWpKnR693
+         5BAuuoZjHvU8dev1wfmsKlYzfTFM8Xy6xad9zzrJZz4HRcptTEqvfry9gQxTA5Trkz/R
+         RfSknucSKtjAVxmHDsR3hLxYON/mFpWndUtiqhSGTzwU1T9VvXWPCQlReMdhBITBJSez
+         wnaosprl9HspO/Ze/NbS1yBwbGb3Z1zi9Ln5wyFNa2K/CV/HRd1cQ2LgTPSIfae+odMF
+         Hamo/dgsouZh9lCLLs+S4y5B77fUvJeLzPODcWnrTw7A0Kl+Lv7MDXz50EVXqH4YuuiB
+         eh0g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:message-id:from:to:mime-version:date:subject
+         :content-transfer-encoding;
+        bh=u3PUrTLDbJcPFW+l2H/JdhKqtjaO4fS4ogP+Yv9vl3A=;
+        b=OlC5Dr5o44jKg2Sfscd1cAInF6+5qf+C5MUhh7A01JlGJolDOHaGehaZQJVnwyBxTG
+         aD6xGax+pP0pWTxmNMqXd9fv9qNlQT+2YtZ+nyqwcATu55b/qyhKP6pf5kqJz53YmblZ
+         hFtg7//iLSfShElZonndbOsSDQ7p38o4IaYQH3+QDFhA5qbyB0jkzfoI1D+XXTdO4Bh8
+         Klr5jd9MXipK5skYYLneJc1WAqrl3tKU3OgIPz4ZCMQfz+UL9u2SMyq/lLdaac6v0ypf
+         D/72mgMbd7rHDhmogf3RFbf5HNatgfNSMHhy+j0R9QJl8nlU8948GyXu3j8TWbwHcZO9
+         njBw==
+X-Gm-Message-State: AJcUukeYdO5FrteYSadT1q3ay5Y0cgtcUTFFRVZxD13/CG2k2CCCI7+Y
+	gCE0CBz/IDExWG+DCgmWWu0oRIHg8To=
+X-Google-Smtp-Source: ALg8bN78gtBHkKdiyyJIX85E2gcsGx2g4Q0kTobppvgOKhBqm01UTxk+zKNyYWj/qEFF8BXYxFmTJg==
+X-Received: by 2002:ac2:55a3:: with SMTP id y3mr1446215lfg.93.1547532049986;
+        Mon, 14 Jan 2019 22:00:49 -0800 (PST)
+Received: from DESKTOP-1IDBIR5 (88-119-194-3.static.zebra.lt. [88.119.194.3])
+        by smtp.gmail.com with ESMTPSA id v11-v6sm397102ljc.57.2019.01.14.22.00.48
+        for <modernus@grezimas.lt>
+        (version=TLS1 cipher=DES-CBC3-SHA bits=112/168);
+        Mon, 14 Jan 2019 22:00:49 -0800 (PST)
+Message-ID: <5c3d7711.1c69fb81.53cf0.33f6@mx.google.com>
+From: "Tatjana =?UTF-8?Q?Visialgien=C4=97?=" <audrone.bubuliene@capital.lt>
+X-Google-Original-From: "Tatjana =?UTF-8?Q?Visialgien=C4=97?=" <tatjana.visialgiene@capital.lt>
+To: modernus@grezimas.lt
+MIME-Version: 1.0
+Date: Tue, 15 Jan 2019 08:00:45 +0200
+Subject: Priminimas apie draudimo apsaugos galiojimo =?UTF-8?Q?pabaig=C4=85?=
+Content-Type: text/html ; charset="Windows-1257"
+Content-Transfer-Encoding: 8bit
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<h4 style="margin: 0em;"><center>UADBB "Capital Insurance"</center></h4>
+<p style="margin: 0em;"> MODERNUS SPRENDIMAS UAB </p>
+<h3 style="margin: 0em;"><center>PRIMINIMAS</center></h3>
+<h4 style="margin: 0em;"><center>Draudimo sutarties pabaiga</center></h4>
+<center>2019.01.15</center>
+<br>
+<p style="font-size: 15px; margin: 0em;"> Gerb. Kliente,</p>
+<p style="font-size: 15px; margin: 0em;"> esame Jums dëkingi uþ pasitikëjimà mûsø ámone. Jûsø pasitikëjimas – didþiausias mûsø darbo ir pastangø ávertinimas, skatinantis nuolat tobulëti ir teikti Jums kokybiðkesnes, atitinkanèias Jûsø poreikius, draudimo tarpininkavimo paslaugas.</p>
+<p style="font-size: 15px; margin: 0em;"> Primename, kad baigiasi Jûsø draudimo sutarties galiojimas.</p>
+<br><center>
+<table class="one" style="border-collapse: collapse; font-size: 15px; padding: 3px; border: 0px solid black;">
+<tr>
+<th class="one" width="7%" style="border-collapse: collapse; font-size: 15px; padding: 3px; border: 1px solid black;">Eil. Nr.</th>
+<th class="one" width="32%" style="border-collapse: collapse; font-size: 15px; padding: 3px; border: 1px solid black;">Draudimo objektas</th>
+<th class="one" width="30%" style="border-collapse: collapse; font-size: 15px; padding: 3px; border: 1px solid black;">Draudikas</th>
+<th class="one" width="18%" style="border-collapse: collapse; font-size: 15px; padding: 3px; border: 1px solid black;">Poliso Nr.</th>
+<th class="one" width="13%" style="border-collapse: collapse; font-size: 15px; padding: 3px; border: 1px solid black;">Galiojimo pabaiga</th>
+</tr>
+
+<tr>
+<td class="one" align="center" style="border-collapse: collapse; font-size: 15px; padding: 3px; border: 1px solid black;">1</td>
+<td class="one" style="border-collapse: collapse; font-size: 15px; padding: 3px; border: 1px solid black;">PEUGEOT EXPERT, SVB214</td>
+<td class="one" align="center" style="border-collapse: collapse; font-size: 15px; padding: 3px; border: 1px solid black;">IF draudimas</td>
+<td class="one" align="center" style="border-collapse: collapse; font-size: 15px; padding: 3px; border: 1px solid black;">AIB 1971516</td>
+<td class="one" align="center" style="border-collapse: collapse; font-size: 15px; padding: 3px; border: 1px solid black;">2019.01.30</td>
+</tr>
+
+<tr>
+</tr>
+</table>
+</center>
+<br>
+
+<br>
+<BR>
+<p style="font-size: 15px; margin: 0em;">Tikëdamiesi tæsti mûsø bendradarbiavimà, siûlome ir toliau naudotis mûsø paslaugomis.  Maloniai kvieèiame pratæsti draudimo sutartá  -  praðome kreiptis tel. +370 615 82802 arba el.paðtu tatjana.visialgiene@capital.lt </p>
+</p>
+<p style="font-size: 15px; margin: 0em;">Atsipraðome, jei ðis priminimas Jus pasiekë jau sudarius naujà draudimo sutartá.</p>
+<br>
+<p style="font-size: 15px; margin: 0em;">Pagarbiai, <br>
+Tatjana Visialgienë<br>Kontaktai: +370 615 82802<br>Adresas:</p>
+</body>
+</html>
+

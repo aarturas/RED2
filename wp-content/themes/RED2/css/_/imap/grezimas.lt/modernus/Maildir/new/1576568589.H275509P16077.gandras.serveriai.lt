@@ -1,0 +1,74 @@
+Return-path: <b2b@cyberbiznes.eu>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 17 Dec 2019 09:43:09 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <b2b@cyberbiznes.eu>)
+	id 1ih7Vc-0004BB-Tc
+	for modernus@grezimas.lt; Tue, 17 Dec 2019 09:43:09 +0200
+Received: from [81.18.223.135] (helo=atto.cyberbiznes.eu)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92.3)
+	(envelope-from <b2b@cyberbiznes.eu>)
+	id 1ih7Vc-0004B3-Qb
+	for modernus@grezimas.lt; Tue, 17 Dec 2019 09:43:08 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by atto.cyberbiznes.eu (Postfix) with ESMTP id 0C8722604D1
+	for <modernus@grezimas.lt>; Tue, 17 Dec 2019 08:43:08 +0100 (CET)
+Received: from atto.cyberbiznes.eu ([127.0.0.1])
+	by localhost (atto.cyberbiznes.eu [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id lrjBKzEZsztP for <modernus@grezimas.lt>;
+	Tue, 17 Dec 2019 08:43:07 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by atto.cyberbiznes.eu (Postfix) with ESMTP id A96D22604CE
+	for <modernus@grezimas.lt>; Tue, 17 Dec 2019 08:43:07 +0100 (CET)
+X-Virus-Scanned: amavisd-new at atto.cyberbiznes.eu
+Received: from atto.cyberbiznes.eu ([127.0.0.1])
+	by localhost (atto.cyberbiznes.eu [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id l7FA7i7a4Atw for <modernus@grezimas.lt>;
+	Tue, 17 Dec 2019 08:43:07 +0100 (CET)
+Received: from www.cyberbiznes.com (info.cyberbiznes.pl [92.244.36.130])
+	by atto.cyberbiznes.eu (Postfix) with ESMTPSA id 8E0C12604D9
+	for <modernus@grezimas.lt>; Tue, 17 Dec 2019 08:43:07 +0100 (CET)
+Date: Tue, 17 Dec 2019 08:43:07 +0100
+To: "modernus@grezimas.lt" <modernus@grezimas.lt>
+From: Krzysztof Antoniewicz <b2b@cyberbiznes.eu>
+Reply-To: Informacja Gospodarcza <b2b@cyberbiznes.pl>
+Subject: Lenkijos gamintojas.
+Message-ID: <3f3UHVfGVfNdBu6G7H69AeYQ43wIP54Kx5NNDjk8@www.cyberbiznes.com>
+X-Mailer: PHPMailer 6.0.7 (https://github.com/PHPMailer/PHPMailer)
+Disposition-Notification-To: <b2b@cyberbiznes.pl>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_3f3UHVfGVfNdBu6G7H69AeYQ43wIP54Kx5NNDjk8"
+Content-Transfer-Encoding: 7bit
+X-Spam-Checked: cyberbiznes.com, 92.244.36.133, github.com, 140.82.118.3,
+	cyberbiznes.biz, google.com, 172.217.16.174, cyberbiznes.pl
+
+This is a multi-part message in MIME format.
+--b1_3f3UHVfGVfNdBu6G7H69AeYQ43wIP54Kx5NNDjk8
+Content-Type: text/plain; charset=us-ascii
+
+List jest tylko w formacie html
+
+--b1_3f3UHVfGVfNdBu6G7H69AeYQ43wIP54Kx5NNDjk8
+Content-Type: text/html; charset=iso-8859-2
+Content-Transfer-Encoding: quoted-printable
+
+Laba diena <br />
+ <br />
+Ar esate suinteresuoti bendradarbiauti su Lenkijos tiek?ju (gamintoju)? <=
+br />
+ <br />
+Kokios prek?s jus domina? <br />
+ <br />
+Pra=B9ome atsi?sti detali=B1 informacij=B1. <br />
+ <br />
+Pagarbiai<br />
+ <br />
+Krzysztof Antoniewicz</br></br></br><a href=3Dmailto:krzys@cyberbiznes.pl=
+?subject=3DRE:%20Lenkijos%20gamintojas.&body=3DUnsunscribe><br>Unsubscrib=
+e</a>
+
+
+--b1_3f3UHVfGVfNdBu6G7H69AeYQ43wIP54Kx5NNDjk8--
+

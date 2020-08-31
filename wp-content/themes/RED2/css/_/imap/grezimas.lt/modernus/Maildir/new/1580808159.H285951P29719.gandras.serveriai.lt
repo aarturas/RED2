@@ -1,0 +1,1273 @@
+Return-path: <info@countline-mokymai.lt>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 04 Feb 2020 11:22:39 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <info@countline-mokymai.lt>)
+	id 1iyuPm-0007jD-Sp
+	for modernus@grezimas.lt; Tue, 04 Feb 2020 11:22:38 +0200
+Received: from [85.255.108.13] (helo=countline-mokymai.lt)
+	by gandras.serveriai.lt with esmtp (Exim 4.92.3)
+	(envelope-from <info@countline-mokymai.lt>)
+	id 1iyuPm-0007j8-RM
+	for modernus@grezimas.lt; Tue, 04 Feb 2020 11:22:38 +0200
+Received: from countline.lt (dkreforma.lt [92.61.36.101])
+	by countline-mokymai.lt (Postfix) with ESMTP id 6E0B93F64A0
+	for <modernus@grezimas.lt>; Tue,  4 Feb 2020 11:43:14 +0200 (EET)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=countline-mokymai.lt;
+	s=mail; t=1580809394;
+	bh=MPDz8qVX984qH1XuXZBiJYejH+iCdg1QQoRJMlVjuB8=;
+	h=Date:To:From:Subject:List-Help:List-Unsubscribe:List-Subscribe:
+	 List-Owner:From;
+	b=Nf7Hn5nb5eUqyS87o6X8N+NJfVT63BBKduWu2Sb77kRYRVVcFMib01Ohx58Q82z7M
+	 wViIgZO7ljwkQOur8GmejDaR+7oamquA31ZXOjF34ShC89jrWv/EOW+GVTq1wodUa8
+	 N5pOJPWeau5/BKzFNUg6R1FYF2gakqt4lMBH61t8=
+Date: Tue, 4 Feb 2020 11:22:38 +0200
+To: modernus@grezimas.lt
+From: Countline <info@countline-mokymai.lt>
+Subject: =?UTF-8?Q?Teritorij=C5=B3_planavimo,_=C5=BEem=C4=97s_ir_statybos_teisinio?=
+ =?UTF-8?Q?_reglamentavimo_naujov=C4=97s?=
+Message-ID: <20c50cb66e76e5cdf50adbc24a1d0404@countline.lt>
+X-phpList-version: 3.4.1
+X-MessageID: 631
+X-ListMember: modernus@grezimas.lt
+Precedence: bulk
+List-Help: <https://old.countline.lt/listsn/?p=preferences&uid=840d38a027e48ed67b756815f96b84c5>
+List-Unsubscribe: <https://old.countline.lt/listsn/?p=unsubscribe&uid=840d38a027e48ed67b756815f96b84c5&jo=1>
+List-Subscribe: <https://old.countline.lt/listsn/?p=subscribe>
+List-Owner: <mailto:info@countline-mokymai.lt>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_20c50cb66e76e5cdf50adbc24a1d0404"
+X-Spam-Checked: countline.lt, 92.61.36.101
+
+This is a multi-part message in MIME format.
+
+--b1_20c50cb66e76e5cdf50adbc24a1d0404
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+kovo 25 d. Vilniuje su advokatu dr. E. Klimu ir lektoriumi M. Lideika
+
+ =C2=BB Tel.: 8 5 263 9922;* *=C2=BB info@countline.lt <mailto:info@countli=
+ne.lt>
+
+ *Teritorij=C5=B3 planavimo, =C5=BEem=C4=97s ir statybos teisinio reglament=
+avimo
+naujov=C4=97s*
+<http://old.countline.lt/listsn/lt.php?tid=3DvYIRT02EUZS0hW0c3O8vgJNu/wGTUU=
+Zdnk7h7Adnrb//svP4zh4VeINoZOdt+e3t>
+
+ Teritorij=C5=B3 planavimu yra siekiama suderinti =C5=BEmog=C5=B3 supan=
+=C4=8Di=C4=85 gamt=C4=85 ir
+socialin=C4=99 aplink=C4=85. Asmen=C5=B3 veikla, kei=C4=8Dianti esam=C4=
+=85 =C5=BEem=C4=97s naudojimo
+b=C5=ABd=C4=85, reguliuojama =C4=AFstatymais, kurie =C4=AFtvirtinta statyb=
+=C5=B3 ir =C5=BEem=C4=97s
+naudojimo s=C4=85lygas, mi=C5=A1k=C5=B3 tvarkym=C4=85, nauding=C5=B3j=C5=
+=B3 i=C5=A1kasen=C5=B3
+eksploatavim=C4=85 ir pan. Statyb=C4=85 reglamentuojantys teisiniai ir tech=
+niniai
+normatyviniai dokumentai pagal ES reikalavimus nuolat pildomi ir kei=C4=
+=8Diami.
+
+ =E2=80=A2 *2020-01-01 =C4=AFsigaliojo **Teritorij=C5=B3 planavimo =C4=
+=AFstatymo
+<http://old.countline.lt/listsn/lt.php?tid=3DhXHlf+tqta20Xm6lrpkYJ5Nu/wGTUb=
+Zdnk7h7Adnrb//svP4zh5FeINoZOdt+e3t>
+** pakeitimai.*
+
+ =E2=80=A2 *2020-01-01 =C4=AFsigaliojo **Statybos =C4=AFstatymo pakeitimas*
+<http://old.countline.lt/listsn/lt.php?tid=3DUvfbqWilRhGbMqk2o+cZ65Nu/wGTUR=
+Zdnk7h7Adnrb//svP4zh6leINoZOdt+e3t>
+, dar vienas =C4=AFstatymo pakeitimas
+<http://old.countline.lt/listsn/lt.php?tid=3D7zg19hEsJuyKsg6vBv6145Nu/wGTUZ=
+Zdnk7h7Adnrb//svP4zh7leINoZOdt+e3t>
+=C4=AFsigalios 2020-05-01.
+
+ =E2=80=A2 *2019-12-20 =C4=AFsigaliojo **=C5=BDem=C4=97s =C4=AFstatymo pake=
+itimas*
+<http://old.countline.lt/listsn/lt.php?tid=3DbUdCUvRt28GKYee7CS8YuZNu/wGTUc=
+Zdnk7h7Adnrb//svP4zh6VeINoZOdt+e3t>
+, dar vienas =C4=AFstatymo pakeitimas
+<http://old.countline.lt/listsn/lt.php?tid=3DigLgCHKH5ZCbAX4Sg+A29ZNu/wGTUc=
+Zdnk7h7Adnrb//svP4zh4leINoZOdt+e3t>
+=C4=AFsigalios 2022-01-01.
+
+ =E2=80=A2 *2020-01-06 =C4=AFsigaliojo* Planavimo s=C4=85lyg=C5=B3, prisiju=
+ngimo s=C4=85lyg=C5=B3,
+speciali=C5=B3j=C5=B3 reikalavim=C5=B3 ir statyb=C4=85 leid=C5=BEian=C4=
+=8Di=C5=B3 dokument=C5=B3 i=C5=A1davimo
+tvarkos ir teis=C4=97tumo tikrinimo apra=C5=A1o pakeitimai
+<http://old.countline.lt/listsn/lt.php?tid=3DAk8mIvVjhQudBB5+p1LSIJNu/wGTUY=
+Zdnk7h7Adnrb//svP4zh41eINoZOdt+e3t>
+.
+
+ =E2=80=A2 *Nuo 2019-12-16 =C4=AFsigaliojo* pakeisti Prane=C5=A1imo apie st=
+atybos
+prad=C5=BEi=C4=85, rangovo (-=C5=B3) ir pagrindini=C5=B3 statybos sri=C4=
+=8Di=C5=B3 vadov=C5=B3
+pasamdym=C4=85 ar paskyrim=C4=85 rekvizitai
+<http://old.countline.lt/listsn/lt.php?tid=3DpeVTM+b9emqySJyJ81He0pNu/wGTUd=
+Zdnk7h7Adnrb//svP4zh7FeINoZOdt+e3t>
+.
+
+ =E2=80=A2 *Registruoti teis=C4=97s akt=C5=B3 projektai*, susij=C4=99 su Sa=
+vivaldybi=C5=B3
+infrastrukt=C5=ABros pl=C4=97tros
+<http://old.countline.lt/listsn/lt.php?tid=3D2dvVe742vVGfQ2SSJKI2AZNu/wGTUa=
+Zdnk7h7Adnrb//svP4zh6leINoZOdt+e3t>
+, Teritorij=C5=B3 planavimo, Statybos =C4=AFstatym=C5=B3
+<http://old.countline.lt/listsn/lt.php?tid=3DfPR9ocO32U6xVN6i9MB2W5Nu/wGTUW=
+Zdnk7h7Adnrb//svP4zh7leINoZOdt+e3t>
+, Saugom=C5=B3 teritorij=C5=B3
+<http://old.countline.lt/listsn/lt.php?tid=3DOnbVYfnwL8u7ppQxgBg64JNu/wGTUR=
+Zdnk7h7Adnrb//svP4zh4leINoZOdt+e3t>
+=C4=AFstatymo pakeitimais, naujos redakcijos Teritorij=C5=B3 planavimo doku=
+ment=C5=B3
+registro
+<http://old.countline.lt/listsn/lt.php?tid=3Dpz77icW5JvGiyXGF2mrDBZNu/wGTUQ=
+Zdnk7h7Adnrb//svP4zh6leINoZOdt+e3t>
+nuostatais ir Teritorij=C5=B3 planavimo duomen=C5=B3 banko
+<http://old.countline.lt/listsn/lt.php?tid=3Dpz77icW5JvGiyXGF2mrDBZNu/wGTUQ=
+Zdnk7h7Adnrb//svP4zh6leINoZOdt+e3t>
+nuostatais.
+
+ *Seminaro metu aptarsime* teis=C4=97s akt=C5=B3 reikalavimus, naujausius
+pakeitimus ir planuojamus priimti projektus, kurie aktual=C5=ABs J=C5=ABs=
+=C5=B3 verslui
+ir veiklai.
+
+ *SEMINARO PROGRAMA >>>*
+<http://old.countline.lt/listsn/lt.php?tid=3DvYIRT02EUZS0hW0c3O8vgJNu/wGTUU=
+Zdnk7h7Adnrb//svP4zh4VeINoZOdt+e3t>
+
+ *Specialus pasi=C5=ABlymas! *
+
+ Dalyvaujant daugiau negu vienam atstovui i=C5=A1 tos pa=C4=8Dios =C4=AFmon=
+=C4=97s, antram
+ir kitiems dalyviams kaina* 100 =E2=82=AC *.
+<http://old.countline.lt/listsn/lt.php?tid=3DvYIRT02EUZS0hW0c3O8vgJNu/wGTUU=
+Zdnk7h7Adnrb//svP4zh4VeINoZOdt+e3t>
+
+ *SEMINAR=C4=84 VEDA:*
+
+ *SEMINARAS VYKS:*
+
+ *KAINA:*
+
+ advokatas dr.=20
+
+ *Evaldas Klimas*
+
+ Pla=C4=8Diau...=0A<http://old.countline.lt/listsn/lt.php?tid=3DhLCD0P1V2f6=
+8+jK1Uy24FZNu/wGTUdZdnk7h7Adnrb//svP4zh51eINoZOdt+e3t>
+
+ lektorius=20
+
+ *Mantas Lideika*
+
+ Pla=C4=8Diau...=0A<http://old.countline.lt/listsn/lt.php?tid=3DrZNNDZjLK7u=
+MN1IzcPR6lZNu/wGTURZdnk7h7Adnrb//svP4zh7VeINoZOdt+e3t>
+
+ kovo 25 d. Vilniuje
+
+ 120 =E2=82=AC=20
+
+ *DAUGIAU INFO =C2=BB
+<http://old.countline.lt/listsn/lt.php?tid=3DvYIRT02EUZS0hW0c3O8vgJNu/wGTUU=
+Zdnk7h7Adnrb//svP4zh4VeINoZOdt+e3t>
+*
+
+ *REGISTRUOTIS =C2=BB
+<http://old.countline.lt/listsn/lt.php?tid=3DvYIRT02EUZS0hW0c3O8vgJNu/wGTUU=
+Zdnk7h7Adnrb//svP4zh4VeINoZOdt+e3t>
+*
+
+ *Darbo teis=C4=97 statybos =C4=AFmon=C4=97se 2020 m.*
+<http://old.countline.lt/listsn/lt.php?tid=3DqLK32eyoIrezy6H+m1haWZNu/wGTUU=
+Zdnk7h7Adnrb//svP4zh4leINoZOdt+e3t>
+
+ *Nuolatos kei=C4=8Diami ir pildomi teis=C4=97s aktai =C4=AFne=C5=A1a daug =
+naujovi=C5=B3
+teisiniuose darbdavi=C5=B3 ir darbuotoj=C5=B3 santykiuose statyb=C5=B3 srit=
+yje:*
+
+ =E2=80=A2 Nuo 2020-07-01 =C4=AFsigalioja DK pakeitimai, 2020 m. sausio m=
+=C4=97n. Seime
+taip pat registruotas didelis projektas d=C4=97l daugelio DK nuostat=C5=
+=B3
+pakeitim=C5=B3.
+<http://old.countline.lt/listsn/lt.php?tid=3DMR+iHty77s6kM+WqgXXI7ZNu/wGTUV=
+Zdnk7h7Adnrb//svP4zh51eINoZOdt+e3t>
+
+ =E2=80=A2 2020-01-01 =C4=AFsigaliojo U=C5=BEsienie=C4=8Di=C5=B3 teisin=
+=C4=97s pad=C4=97ties =C4=AFstatymo
+pakeitimai, nuo 2019 m. spalio 14 d. prad=C4=97jo veikti MIGRIS sistema
+<http://old.countline.lt/listsn/lt.php?tid=3DFOgi0PIXp1uHxbuR71LVJ5Nu/wGTUa=
+Zdnk7h7Adnrb//svP4zh71eINoZOdt+e3t>
+.
+
+ =E2=80=A2 Nuo 2020-07-01 =C4=AFsigaliojan=C4=8Dios darbuotoj=C5=B3 kvotos
+<http://old.countline.lt/listsn/lt.php?tid=3DfXKBwzzYYpa6GpnnLb+NgZNu/wGTUc=
+Zdnk7h7Adnrb//svP4zh7VeINoZOdt+e3t>
+ir j=C5=B3 =C4=AFtaka statyb=C5=B3 verslui: i=C5=A1naudojus kvot=C4=85, bus=
+ galima =C4=AFsive=C5=BEti
+tre=C4=8Di=C5=B3j=C5=B3 =C5=A1ali=C5=B3 pilie=C4=8Dius tik atlikus darbo ri=
+nkos test=C4=85.
+
+ =E2=80=A2 Darbuotoj=C5=B3 saugos ir sveikatos =C4=AFstatymo pakeitimai
+<http://old.countline.lt/listsn/lt.php?tid=3D02rVVPbLqiOYRYnOV415GpNu/wGTUa=
+Zdnk7h7Adnrb//svP4zh7leINoZOdt+e3t>
+=C4=AFsigalios 2020 m. gegu=C5=BE=C4=97s 1 d.: kei=C4=8Diasi darbuotoj=
+=C5=B3 instruktavimo
+tvarka, darbdavys tur=C4=97s ne tik nustatyti mokymo ir =C5=BEini=C5=B3 dar=
+buotoj=C5=B3
+saugos ir sveikatos klausimais tikrinimo tvark=C4=85, bet ir =C5=BEinoti ap=
+ie
+instruktavim=C4=85.
+
+ =E2=80=A2 2020 m. sausio 15 d. pakeistos Valstybin=C4=97s darbo inspekcijo=
+s =C5=ABkio
+subjekt=C5=B3 veiklos patikrinim=C5=B3 taisykl=C4=97s
+<http://old.countline.lt/listsn/lt.php?tid=3DvnDhXV6ve0CJr9A0PpVve5Nu/wGTUa=
+Zdnk7h7Adnrb//svP4zh4FeINoZOdt+e3t>
+, pagal kurias VDI i=C5=A1 anksto nebeprane=C5=A1 apie neplaninius patikrin=
+imus
+arba apie planinius patikrinimus, susijusius su statybviete.
+
+ =E2=80=A2 Su verslo liudijimu bus galima atlikti ma=C5=BEiau darb=C5=B3
+
+ =E2=80=A2 Kaip pritraukti ir i=C5=A1laikyti darbuotojus
+
+ =E2=80=A2 Sprendim=C5=B3 ai=C5=A1kinant direktyv=C4=85 96/71/EB d=C4=97l d=
+arbuotoj=C5=B3
+komandiravimo paslaug=C5=B3 teikimo sistemoje ap=C5=BEvalga ir LAT aktual=
+=C5=ABs su
+darbo teise susij=C4=99 i=C5=A1ai=C5=A1kinimai.=20
+
+ =C5=BDiniomis dalinasi lektor=C4=97 *Aist=C4=97 Ma=C5=BEeikien=C4=97*, *Eg=
+l=C4=97 Makselyt=C4=97* ir
+advokat=C4=97 *Emil=C4=97 Kazlauskait=C4=97*.
+
+ *SEMINARO PROGRAMA >>>*
+<http://old.countline.lt/listsn/lt.php?tid=3DqLK32eyoIrezy6H+m1haWZNu/wGTUU=
+Zdnk7h7Adnrb//svP4zh4leINoZOdt+e3t>
+
+ *Specialus pasi=C5=ABlymas! *
+
+ Dalyvaujant daugiau negu vienam atstovui i=C5=A1 tos pa=C4=8Dios =C4=AFmon=
+=C4=97s, antram
+ir kitiems dalyviams kaina* 110 =E2=82=AC + PVM*.
+<http://old.countline.lt/listsn/lt.php?tid=3DqLK32eyoIrezy6H+m1haWZNu/wGTUU=
+Zdnk7h7Adnrb//svP4zh4leINoZOdt+e3t>
+
+ *SEMINAR=C4=84 VEDA:*
+
+ *SEMINARAS VYKS:*
+
+ *KAINA:*
+
+ advokat=C4=97=20
+
+ *Emil=C4=97 Kazlauskait=C4=97*
+
+ Pla=C4=8Diau...=0A<http://old.countline.lt/listsn/lt.php?tid=3D1oDxHHGWjQG=
+oCaJSxl8apJNu/wGTUUZdnk7h7Adnrb//svP4zh51eINoZOdt+e3t>
+
+ lektor=C4=97=20
+
+ *Egl=C4=97 Makselyt=C4=97*
+
+ Pla=C4=8Diau...=0A<http://old.countline.lt/listsn/lt.php?tid=3DB9JlmX9T1my=
+1UtyAEQQHAJNu/wGTUUZdnk7h7Adnrb//svP4zh61eINoZOdt+e3t>
+
+ lektor=C4=97=20
+
+ *Aist=C4=97 Ma=C5=BEeikien=C4=97*
+
+ Pla=C4=8Diau...=0A<http://old.countline.lt/listsn/lt.php?tid=3D4aoDnMwfRf2=
+hANVHowLcIpNu/wGTUYZdnk7h7Adnrb//svP4zh4FeINoZOdt+e3t>
+
+ kovo 9 d. Vilniuje
+
+ 130 =E2=82=AC + PVM
+
+ *DAUGIAU INFO =C2=BB
+<http://old.countline.lt/listsn/lt.php?tid=3DqLK32eyoIrezy6H+m1haWZNu/wGTUU=
+Zdnk7h7Adnrb//svP4zh4leINoZOdt+e3t>
+*
+
+ *REGISTRUOTIS =C2=BB
+<http://old.countline.lt/listsn/lt.php?tid=3DqLK32eyoIrezy6H+m1haWZNu/wGTUU=
+Zdnk7h7Adnrb//svP4zh4leINoZOdt+e3t>
+*
+
+ *Verslo galimyb=C4=97s Kazachstane: statyb=C5=B3 sektorius*
+<http://old.countline.lt/listsn/lt.php?tid=3D/V+of2OTSxyV3gM6Tvut7JNu/wGTUY=
+Zdnk7h7Adnrb//svP4zh5leINoZOdt+e3t>
+
+ *Verslo id=C4=97jos vietoje =C4=AFprasto rytinio naujien=C5=B3 skaitymo!*
+
+ Kazachstano rink=C4=85 ir =C4=AFstatymus i=C5=A1manantys verslininkas *And=
+rius Burba*,
+teis=C4=97s ekspertas *Askaras Makhmetovas* bei Kazachstano Respublikos
+ambasados Lietuvoje patar=C4=97jas *Serzhanas Kydyrbaevas* dalinsis
+informacija, patirtimi ir patarimais apie verslo galimybes Kazachstane.
+
+ *Verslo pusry=C4=8Di=C5=B3 metu:*
+
+ =E2=80=A2 i=C5=A1girsite apie Kazachstano statyb=C5=B3 sektoriaus potencia=
+l=C4=85;
+
+ =E2=80=A2 su=C5=BEinosite apie valstyb=C4=97s param=C4=85 Lietuvos =C4=
+=AFmon=C4=97ms Kazachstane bei
+galimybes naudotis mokes=C4=8Di=C5=B3 ir muit=C5=B3 lengvatomis;
+
+ =E2=80=A2 diskutuosime apie Lietuvos verslo dalyvavim=C4=85 Kazachstano st=
+atyb=C5=B3
+sektoriuje;
+
+ =E2=80=A2 pa=C5=A1nekovai pasidalins praktiniais patarimais, kaip =C5=
+=BEengti pirmuosius
+=C5=BEingsnius Kazachstano statyb=C5=B3 versle;
+
+ =E2=80=A2 diskutuosime apie Lietuvos statyb=C5=B3 verslo prana=C5=A1umus b=
+ei i=C5=A1=C5=A1=C5=ABkius
+Kazachstano statyb=C5=B3 sektoriuje;
+
+ =E2=80=A2 pa=C5=A1nekovai pasidalins potenciali=C5=B3 verslo partneri=
+=C5=B3 kontaktais.
+
+ *SEMINARO PROGRAMA >>>*
+<http://old.countline.lt/listsn/lt.php?tid=3D/V+of2OTSxyV3gM6Tvut7JNu/wGTUY=
+Zdnk7h7Adnrb//svP4zh5leINoZOdt+e3t>
+
+ *SEMINAR=C4=84 VEDA:*
+
+ *SEMINARAS VYKS:*
+
+ *KAINA:*
+
+ lektorius
+
+ *Andrius Burba *
+
+ Pla=C4=8Diau...=0A<http://old.countline.lt/listsn/lt.php?tid=3Dn7X9aUy+wRC=
+APMQorgkYbJNu/wGTUeZdnk7h7Adnrb//svP4zh5leINoZOdt+e3t>
+
+ lektorius
+
+ *Askar Makhmetov *
+
+ Pla=C4=8Diau...=0A<http://old.countline.lt/listsn/lt.php?tid=3DAYueTE/3GiO=
+DCeN0X2oWF5Nu/wGTUQZdnk7h7Adnrb//svP4zh5VeINoZOdt+e3t>
+
+ Kazachstano Respublikos ambasados Lietuvoje patar=C4=97jas
+
+ *Serzhanas Kydyrbaevas *
+
+ vasario 28 d. Vilniuje
+
+ spalio 28 d. Vilniuje
+
+ 100 =E2=82=AC + PVM
+
+ *DAUGIAU INFO =C2=BB
+<http://old.countline.lt/listsn/lt.php?tid=3D/V+of2OTSxyV3gM6Tvut7JNu/wGTUY=
+Zdnk7h7Adnrb//svP4zh5leINoZOdt+e3t>
+*
+
+ *REGISTRUOTIS =C2=BB
+<http://old.countline.lt/listsn/lt.php?tid=3D/V+of2OTSxyV3gM6Tvut7JNu/wGTUY=
+Zdnk7h7Adnrb//svP4zh5leINoZOdt+e3t>
+*
+
+ WWW.COUNTLINE.LT <www.countline.lt/>
+ Tel.: 85 263 9922
+
+
+
+--
+
+=C5=A0is lai=C5=A1kas i=C5=A1si=C5=B3stas adresu modernus@grezimas.lt.
+
+Vadovaudamiesi ES Bendrojo duomen=C5=B3 apsaugos reglamento nuostatomis, no=
+rime
+Jus informuoti, kad atnaujinome m=C5=ABs=C5=B3 Privatumo politik=C4=85, su =
+kuria galite
+susipa=C5=BEinti paspaud=C4=99 =C5=A1i=C4=85 nuorod=C4=85:=0Ahttp://old.cou=
+ntline.lt/listsn/lt.php?tid=3D3kN1Ajkc5p+FbhPJxb1yC5Nu/wGTUSZdnk7h7Adnrb//s=
+vP4zh61eINoZOdt+e3t
+
+Nor=C4=97dami keisti prenumeratos nustatymus spauskite naujienlai=C5=A1ki=
+=C5=B3 valdymo
+nuorod=C4=85.=0A<http://old.countline.lt/listsn/lt.php?tid=3Dn5xRB7qv9Ea4S0=
+kUD0f2LpNu/wGTUbZdnk7h7Adnrb//svP4zh51eINoZOdt+e3t>
+
+Jei ateityje nepageidaujate gauti joki=C5=B3 Countline naujien=C5=B3 spausk=
+ite =C4=8Dia
+<http://old.countline.lt/listsn/lt.php?tid=3DrtAo8xm2kBioMLUuZBNHi5Nu/wGTUS=
+Zdnk7h7Adnrb//svP4zh4FeINoZOdt+e3t>
+ir b=C5=ABsite pa=C5=A1alintas i=C5=A1 gav=C4=97j=C5=B3 s=C4=85ra=C5=A1=
+=C5=B3.
+
+=20
+
+
+--b1_20c50cb66e76e5cdf50adbc24a1d0404
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+=09<title></title>
+=09<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+=09<style type=3D"text/css">body {
+  max-width:651;
+}
+=09</style>
+</head>
+<body bgcolor=3D"#F2F2F2" style=3D"max-width:651">
+<p><b><!-- START LIQUID WRAPPER --> <!--[if mso]>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"padding:0p=
+x;margin:0px;width:100%;">
+    <tr><td colspan=3D"3" style=3D"padding:0px;margin:0px;font-size:20px;he=
+ight:20px;" height=3D"20">&nbsp;</td></tr>
+    <tr>
+        <td style=3D"padding:0px;margin:0px;">&nbsp;</td>
+        <td style=3D"padding:0px;margin:0px;" width=3D"651">
+<![endif]--> <meta name=3D"generator" content=3D"Namo WebEditor v6.0(Trial)=
+">
+<title></title>
+<meta name=3D" generator" content=3D"Namo WebEditor v6.0(Trial)">
+<style type=3D"text/css">a:link {text-decoration: none;}
+</style>
+<div style=3D"font-size:1px; color:rgb(51,51,51); line-height:1px; display:=
+none;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">kovo 25 d. Vi=
+lniuje su advokatu dr. E. Klimu ir lektoriumi M. Lideika</div>
+
+<table bgcolor=3D"#EBEBEB" width=3D"100%">
+=09<tbody>
+=09=09<tr bgcolor=3D"#EBEBEB">
+=09=09=09<td bgcolor=3D"#EBEBEB" height=3D"65" valignoi9=3D"top" width=3D"5=
+0%">
+=09=09=09<p align=3D"left" style=3D"line-height:100%;"><span style=3D"line-=
+height:100%;">&nbsp;&nbsp;&nbsp;</span><font color=3D"#333333"><span style=
+=3D"font-size:13pt;"><img src=3D"https://old.countline.lt/images/image/coun=
+tline-naujas-logo.png" style=3D"border-width: 0px; border-style: solid; wid=
+th: 130px; height: 25px;" /></span></font></p>
+=09=09=09</td>
+=09=09=09<td bgcolor=3D"#EBEBEB" height=3D"65" width=3D"50%">
+=09=09=09<p align=3D"right" style=3D"line-height:100%;"><font color=3D"#005=
+566" face=3D"Arial"><span style=3D"font-size:9pt; line-height:100%;">&raquo=
+; Tel.: 8 5 263 9922</span><span style=3D"font-size:10pt; line-height:100%;=
+">;<b> </b></span><span style=3D"font-size:9pt; line-height:100%;">&raquo; =
+</span></font><span style=3D"font-size:10pt; line-height:100%;"><a href=3D"=
+mailto:info@countline.lt"><font color=3D"#005566" face=3D"Arial">info@count=
+line.lt</font></a><font color=3D"#005566" face=3D"Arial">&nbsp;</font><font=
+ color=3D"#005566" face=3D"Arial">&nbsp;&nbsp;</font></span></p>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<table bgcolor=3D"white" width=3D"100%">
+=09<tbody>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"61" style=3D"border-=
+right-width:1; border-right-color:rgb(204,204,204); border-right-style:none=
+; cellpadding=3D0;" valign=3D"middle" width=3D"100%">
+=09=09=09<p align=3D"center" style=3D"line-height:100%;"><a href=3D"http://=
+old.countline.lt/listsn/lt.php?tid=3DcBlaXVkLBggNVB0AUwAFG1EIDFAcBgEJURsFVg=
+NUVgddAwpfWQlLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcH=
+AdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><span style=3D"font-size:18pt; line=
+-height:100%;"><font color=3D"#005566" face=3D"Calibri"><b>Teritorij=C5=
+=B3 planavimo, =C5=BEem=C4=97s ir statybos teisinio reglamentavimo naujov=
+=C4=97s</b></font></span></a></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"60" style=3D"padding=
+:20px; border-right-width:1; border-right-color:rgb(204,204,204); border-ri=
+ght-style:none; cellpadding=3D10;" valign=3D"middle" width=3D"100%">
+=09=09=09<p style=3D"text-align: justify"><span style=3D"font-size:11pt;"><=
+font color=3D"#005566" face=3D"Calibri">Teritorij=C5=B3 planavimu yra sieki=
+ama suderinti =C5=BEmog=C5=B3 supan=C4=8Di=C4=85 gamt=C4=85 ir socialin=
+=C4=99 aplink=C4=85. Asmen=C5=B3 veikla, kei=C4=8Dianti esam=C4=85 =C5=
+=BEem=C4=97s naudojimo b=C5=ABd=C4=85, reguliuojama =C4=AFstatymais, kurie =
+=C4=AFtvirtinta statyb=C5=B3 ir =C5=BEem=C4=97s naudojimo s=C4=85lygas, mi&=
+scaron;k=C5=B3 tvarkym=C4=85, nauding=C5=B3j=C5=B3 i&scaron;kasen=C5=B3 eks=
+ploatavim=C4=85 ir pan. Statyb=C4=85 reglamentuojantys teisiniai ir technin=
+iai normatyviniai dokumentai pagal ES reikalavimus nuolat pildomi ir kei=
+=C4=8Diami.</font></span></p>
+
+=09=09=09<p style=3D"text-align: justify"><span style=3D"font-size:11pt;"><=
+font color=3D"#005566" face=3D"Calibri">&bull; <b>2020-01-01 =C4=AFsigalioj=
+o </b></font><b><a href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBkA=
+DFYIUgwOVB1RVQ5QG1EMVAAcBgEEARsFV1MCUwEBXAkBUw5LAAoEVVJRCAAbXAoAVRxQAwQAGwp=
+XBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><=
+font color=3D"#005566" face=3D"Calibri"><u>Teritorij=C5=B3 planavimo =C4=
+=AFstatymo</u></font></a></b><font color=3D"#005566" face=3D"Calibri"><b> p=
+akeitimai.</b><br />
+=09=09=09&bull; <b>2020-01-01 =C4=AFsigaliojo </b></font><a href=3D"http://=
+old.countline.lt/listsn/lt.php?tid=3DcBkNCwcOU1tYCx0CD1kEG1EPBFUcXVcCVhtSCw=
+EBU1ddUgkABFtLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcH=
+AdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font color=3D"#005566" face=3D"Cal=
+ibri"><u><b>Statybos =C4=AFstatymo pakeitimas</b></u></font></a><font color=
+=3D"#005566" face=3D"Calibri">, dar vienas </font><a href=3D"http://old.cou=
+ntline.lt/listsn/lt.php?tid=3DcBldX1IBBAxfBB0FBgpSG1EPUAccXFRTVhsDV1NRAlJeA=
+FoMBApLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEb=
+BwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font color=3D"#005566" face=3D"Calibri"><=
+u>=C4=AFstatymo pakeitimas</u></font></a><font color=3D"#005566" face=3D"Ca=
+libri"> =C4=AFsigalios 2020-05-01.<br />
+=09=09=09&bull; <b>2019-12-20 =C4=AFsigaliojo </b></font><a href=3D"http://=
+old.countline.lt/listsn/lt.php?tid=3DcBkOXVUOAwsMAB1SAw5VG1FbVlUcXFQHVRtWBV=
+BVAl0KAwkBAwBLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcH=
+AdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font color=3D"#005566" face=3D"Cal=
+ibri"><u><b>=C5=BDem=C4=97s =C4=AFstatymo pakeitimas</b></u></font></a><fon=
+t color=3D"#005566" face=3D"Calibri">, dar vienas </font><a href=3D"http://=
+old.countline.lt/listsn/lt.php?tid=3DcBkAWFELUgkJCh0DBQAGG1EMDFQcXVcBVRsEVw=
+MFClddVQsPBwxLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcH=
+AdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font color=3D"#005566" face=3D"Cal=
+ibri"><u>=C4=AFstatymo pakeitimas</u></font></a><font color=3D"#005566" fac=
+e=3D"Calibri"> =C4=AFsigalios 2022-01-01.<br />
+=09=09=09&bull; <b>2020-01-06 =C4=AFsigaliojo</b> Planavimo s=C4=85lyg=
+=C5=B3, prisijungimo s=C4=85lyg=C5=B3, speciali=C5=B3j=C5=B3 reikalavim=
+=C5=B3 ir statyb=C4=85 leid=C5=BEian=C4=8Di=C5=B3 dokument=C5=B3 i&scaron;d=
+avimo tvarkos ir teis=C4=97tumo tikrinimo apra&scaron;o </font><a href=3D"h=
+ttp://old.countline.lt/listsn/lt.php?tid=3DcBkIC1VfBQ8LAB1SAg4CG1EMBQYcXVEB=
+UBsCVwVSU1MNV1wLUwlLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQ=
+DClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font color=3D"#005566" face=
+=3D"Calibri"><u>pakeitimai</u></font></a><font color=3D"#005566" face=3D"Ca=
+libri">.<br />
+=09=09=09&bull; <b>Nuo 2019-12-16 =C4=AFsigaliojo</b> pakeisti </font><a hr=
+ef=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBlZDAQMAgoKAR1RAV5VG1FYA=
+wUcBgcFXBsKUQoOVFcNVFxcBQtLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBW=
+SFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><u><font color=3D"#005=
+566" face=3D"Calibri">Prane&scaron;imo apie statybos prad=C5=BEi=C4=85, ran=
+govo (-=C5=B3) ir pagrindini=C5=B3 statybos sri=C4=8Di=C5=B3 vadov=C5=B3 pa=
+samdym=C4=85 ar paskyrim=C4=85 rekvizitai</font></u></a><font color=3D"#005=
+566" face=3D"Calibri">.<br />
+=09=09=09&bull; <b>Registruoti teis=C4=97s akt=C5=B3 projektai</b>, susij=
+=C4=99 su </font><a href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBl=
+cAAVbUwwOUB1WUgsHG1FdAFUcXVMFVxsFBgsFAFBZVwsPUQhLAAoEVVJRCAAbXAoAVRxQAwQAGw=
+pXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" >=
+<font color=3D"#005566" face=3D"Calibri"><u>Savivaldybi=C5=B3 infrastrukt=
+=C5=ABros pl=C4=97tros</u></font></a><font color=3D"#005566" face=3D"Calibr=
+i">, </font><a href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBkPWgcN=
+AF1YAx1XBFoGG1EAAQEcBgQEUBtXV1MFVFBbVQ8PVFtLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlI=
+fAQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font=
+ color=3D"#005566" face=3D"Calibri"><u>Teritorij=C5=B3 planavimo, Statybos =
+=C4=AFstatym=C5=B3</u></font></a><font color=3D"#005566" face=3D"Calibri">,=
+ </font><a href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBkLWFYPUwwP=
+Ax1SDl4BG1FfVgYcBldQUhsKBgEGClQJXQtYBAlLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQk=
+AWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font col=
+or=3D"#005566" face=3D"Calibri"><u>Saugom=C5=B3 teritorij=C5=B3</u></font><=
+/a><font color=3D"#005566" face=3D"Calibri"> =C4=AFstatymo pakeitimais, nau=
+jos redakcijos </font><a href=3D"http://old.countline.lt/listsn/lt.php?tid=
+=3DcBlZDlJcUVsBCx1XAloIG1EPU1UcBQdSXRsEAwoCVgUOBFsKUQxLAAoEVVJRCAAbXAoAVRxQ=
+AwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlx=
+UUg" ><font color=3D"#005566" face=3D"Calibri"><u>Teritorij=C5=B3 planavimo=
+ dokument=C5=B3 registro</u></font></a><font color=3D"#005566" face=3D"Cali=
+bri"> nuostatais ir </font><a href=3D"http://old.countline.lt/listsn/lt.php=
+?tid=3DcBlZDlJcUVsBCx1XAloIG1EPU1UcBQdSXRsEAwoCVgUOBFsKUQxLAAoEVVJRCAAbXAoA=
+VRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlY=
+NUlxUUg" ><font color=3D"#005566" face=3D"Calibri"><u>Teritorij=C5=B3 plana=
+vimo duomen=C5=B3 banko</u></font></a><font color=3D"#005566" face=3D"Calib=
+ri"> nuostatais.</font></span></p>
+
+=09=09=09<p style=3D"text-align: justify"><span style=3D"font-size:11pt;"><=
+font color=3D"#005566" face=3D"Calibri"><b>Seminaro metu aptarsime</b> teis=
+=C4=97s akt=C5=B3 reikalavimus, naujausius pakeitimus ir planuojamus priimt=
+i projektus, kurie aktual=C5=ABs J=C5=ABs=C5=B3 verslui ir veiklai.</font><=
+/span></p>
+
+=09=09=09<p style=3D"text-align: justify"><a href=3D"http://old.countline.l=
+t/listsn/lt.php?tid=3DcBlaXVkLBggNVB0AUwAFG1EIDFAcBgEJURsFVgNUVgddAwpfWQlLA=
+AoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9c=
+C1MAFFcNUg4PVlYNUlxUUg" ><span style=3D"font-size:11pt;"><font color=3D"#2d=
+c84d" face=3D"Calibri"><b>SEMINARO PROGRAMA &gt;&gt;&gt;</b></font></span><=
+/a></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"16" style=3D"border-=
+right-width:1; border-right-color:rgb(204,204,204); border-right-style:none=
+;" valign=3D"middle" width=3D"100%">
+=09=09=09<hr color=3D"#005566" size=3D"1" /></td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"20" style=3D"padding=
+:5px; border-right-width:1; border-right-color:rgb(204,204,204); border-rig=
+ht-style:none; cellpadding=3D10;" valign=3D"middle" width=3D"100%">
+=09=09=09<p align=3D"center"><a href=3D"http://old.countline.lt/listsn/lt.p=
+hp?tid=3DcBlaXVkLBggNVB0AUwAFG1EIDFAcBgEJURsFVgNUVgddAwpfWQlLAAoEVVJRCAAbXA=
+oAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PV=
+lYNUlxUUg" ><span style=3D"font-size:11pt;"><font color=3D"#EF4A81" face=3D=
+"Calibri"><b>Specialus pasi=C5=ABlymas! </b></font><br />
+=09=09=09<font color=3D"#005566" face=3D"Calibri">Dalyvaujant daugiau negu =
+vienam atstovui i&scaron; tos pa=C4=8Dios =C4=AFmon=C4=97s, antram ir kitie=
+ms dalyviams kaina</font><b><font color=3D"#005566" face=3D"Calibri"> </fon=
+t><font color=3D"#EF4A81" face=3D"Calibri">100 &euro; </font></b><font colo=
+r=3D"#005566" face=3D"Calibri">.</font></span></a></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"10" style=3D"border-=
+right-width:1; border-right-color:rgb(204,204,204); border-right-style:none=
+;" valign=3D"middle" width=3D"100%">
+=09=09=09<hr color=3D"#005566" size=3D"1" /></td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" height=3D"23" style=3D"border-right-width:1;=
+ border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D"m=
+iddle" width=3D"34%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><b><font color=
+=3D"#2dc84d" face=3D"Calibri">SEMINAR=C4=84 VEDA:</font></b></span></p>
+=09=09=09</td>
+=09=09=09<td bgcolor=3D"white" height=3D"23" style=3D"border-right-width:1;=
+ border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D"m=
+iddle" width=3D"33%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><b><font color=
+=3D"#2dc84d" face=3D"Calibri">SEMINARAS VYKS:</font></b></span></p>
+=09=09=09</td>
+=09=09=09<td bgcolor=3D"white" height=3D"23" style=3D"border-right-width:1;=
+ border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D"m=
+iddle" width=3D"33%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><b><font color=
+=3D"#2dc84d" face=3D"Calibri">KAINA:</font></b></span></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" height=3D"57" style=3D"border-right-width:1;=
+ border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D"t=
+op" width=3D"34%">
+=09=09=09<p align=3D"center"><span style=3D"font-family:Arial,sans-serif; f=
+ont-size:11pt; color:black;"><font color=3D"#005566" face=3D"Calibri">advok=
+atas dr. </font></span><br />
+=09=09=09<b><span style=3D"font-family:Arial,sans-serif; font-size:11pt; co=
+lor:black;"><font color=3D"#005566" face=3D"Calibri">Evaldas Klimas</font><=
+/span></b><br />
+=09=09=09<a href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBkADQMJDwp=
+dAh1SUw0EG1EAUwEcBlZXBRsAAFACB1cKAVoBUAxLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQ=
+kAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><span st=
+yle=3D"font-family:Arial,sans-serif; font-size:11pt;"><u><font color=3D"#00=
+5566" face=3D"Calibri">Pla=C4=8Diau...</font></u></span></a></p>
+
+=09=09=09<p align=3D"center"><span style=3D"font-family:Arial,sans-serif; f=
+ont-size:11pt; color:black;"><font color=3D"#005566" face=3D"Calibri">lekto=
+rius </font></span><br />
+=09=09=09<b><span style=3D"font-family:Arial,sans-serif; font-size:11pt; co=
+lor:black;"><font color=3D"#005566" face=3D"Calibri">Mantas Lideika</font><=
+/span></b><br />
+=09=09=09<a href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBlZXVgKA10=
+JVh0ND1tTG1FbVwYcXFYCUxsGAAEEBVReUQ9YWAxLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQ=
+kAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><span st=
+yle=3D"font-family:Arial,sans-serif; font-size:11pt;"><u><font color=3D"#00=
+5566" face=3D"Calibri">Pla=C4=8Diau...</font></u></span></a></p>
+=09=09=09</td>
+=09=09=09<td bgcolor=3D"white" height=3D"57" style=3D"border-right-width:1;=
+ border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D"t=
+op" width=3D"33%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><font color=3D=
+"#005566" face=3D"Calibri">kovo 25&nbsp;d. Vilniuje</font></span></p>
+=09=09=09</td>
+=09=09=09<td bgcolor=3D"white" height=3D"57" style=3D"border-right-width:1;=
+ border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D"t=
+op" width=3D"33%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><font color=3D=
+"#005566" face=3D"Calibri">120 &euro; </font></span></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"26" style=3D"border-=
+right-width:1; border-right-color:rgb(204,204,204); border-right-style:none=
+;" valign=3D"middle" width=3D"100%">
+=09=09=09<hr color=3D"#005566" size=3D"1" /></td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"2" style=3D"border-r=
+ight-width:1; border-right-color:rgb(204,204,204); border-right-style:none;=
+" valign=3D"middle" width=3D"100%">&nbsp;</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"43" style=3D"border-=
+right-width:1; border-right-color:rgb(204,204,204); border-right-style:none=
+;" valign=3D"middle" width=3D"100%">
+=09=09=09<table bgcolor=3D"white" width=3D"100%">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr style=3D"border-bottom-width:2; border-bottom-color:rgb(=
+2,77,46); border-bottom-style:none;">
+=09=09=09=09=09=09<td bgcolor=3D"white" height=3D"33" style=3D"border-right=
+-width:1; border-right-color:rgb(204,204,204); border-right-style:none;" va=
+lign=3D"middle" width=3D"5%">&nbsp;</td>
+=09=09=09=09=09=09<td bgcolor=3D"#005566" height=3D"33" style=3D"border-rig=
+ht-width:1; border-color:white; border-right-style:none;" valign=3D"middle"=
+ width=3D"40%">
+=09=09=09=09=09=09<p align=3D"center"><b><span style=3D"font-size:11pt;"><a=
+ href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBlaXVkLBggNVB0AUwAFG1=
+EIDFAcBgEJURsFVgNUVgddAwpfWQlLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYX=
+VBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font color=3D"whit=
+e" face=3D"Calibri">DAUGIAU INFO &raquo;</font></a></span></b></p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09<td bgcolor=3D"white" height=3D"33" style=3D"border-right=
+-width:1; border-right-color:rgb(204,204,204); border-right-style:none;" va=
+lign=3D"middle" width=3D"10%">&nbsp;</td>
+=09=09=09=09=09=09<td bgcolor=3D"#2dc84d" height=3D"33" style=3D"border-rig=
+ht-width:1; border-color:white; border-right-style:none;" valign=3D"middle"=
+ width=3D"40%">
+=09=09=09=09=09=09<p align=3D"center"><b><span style=3D"font-size:11pt;"><a=
+ href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBlaXVkLBggNVB0AUwAFG1=
+EIDFAcBgEJURsFVgNUVgddAwpfWQlLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYX=
+VBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font color=3D"whit=
+e" face=3D"Calibri">REGISTRUOTIS &raquo;</font></a></span></b></p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09<td bgcolor=3D"white" height=3D"33" style=3D"border-right=
+-width:1; border-right-color:rgb(204,204,204); border-right-style:none;" va=
+lign=3D"middle" width=3D"5%">&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+=09<tbody>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"22" style=3D"border-=
+right-width:1; border-right-color:rgb(204,204,204); border-right-style:none=
+;" valign=3D"middle" width=3D"100%">&nbsp;</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<table bgcolor=3D"#EBEBEB" width=3D"100%">
+=09<tbody>
+=09=09<tr bgcolor=3D"#EBEBEB" style=3D"border-bottom-width:2; border-bottom=
+-color:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"#EBEBEB" colspan=3D"3" height=3D"61" style=3D"borde=
+r-right-width:1; border-right-color:rgb(204,204,204); border-right-style:no=
+ne; cellpadding=3D0;" valign=3D"middle" width=3D"100%">
+=09=09=09<p align=3D"center" style=3D"line-height:100%;"><a href=3D"http://=
+old.countline.lt/listsn/lt.php?tid=3DcBlZAQMLVQ5dCx1RVFkJG1ELV1McBgZSBhtSA1=
+RSCwYNXQ1YVABLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcH=
+AdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><span style=3D"font-size:18pt; line=
+-height:100%;"><font color=3D"#005566" face=3D"Calibri"><b>Darbo teis=C4=
+=97 statybos =C4=AFmon=C4=97se 2020 m.</b></font></span></a></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"#EBEBEB" style=3D"border-bottom-width:2; border-bottom=
+-color:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"#EBEBEB" colspan=3D"3" height=3D"60" style=3D"paddi=
+ng:20px; border-right-width:1; border-right-color:rgb(204,204,204); border-=
+right-style:none; cellpadding=3D10;" valign=3D"middle" width=3D"100%">
+=09=09=09<p style=3D"text-align: justify"><span style=3D"font-size:11pt;"><=
+font color=3D"#005566" face=3D"Calibri"><b>Nuolatos kei=C4=8Diami ir pildom=
+i teis=C4=97s aktai =C4=AFne&scaron;a daug naujovi=C5=B3 teisiniuose darbda=
+vi=C5=B3 ir darbuotoj=C5=B3 santykiuose statyb=C5=B3 srityje:</b></font></s=
+pan></p>
+
+=09=09=09<p style=3D"text-align: justify"><span style=3D"font-size:11pt;"><=
+font color=3D"#005566" face=3D"Calibri">&bull; Nuo 2020-07-01 =C4=AFsigalio=
+ja DK pakeitimai, 2020 m. sausio m=C4=97n. Seime taip pat registruotas dide=
+lis </font><a href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBkLCFBfV=
+gsIVx1QVFpTG1FcVgEcBQECVxtWB1NWClUPUFsBBF1LAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIf=
+AQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font =
+color=3D"#005566" face=3D"Calibri"><u>projektas d=C4=97l daugelio DK nuosta=
+t=C5=B3 pakeitim=C5=B3.</u></font></a><br />
+=09=09=09<font color=3D"#005566" face=3D"Calibri">&bull; 2020-01-01 =C4=
+=AFsigaliojo U=C5=BEsienie=C4=8Di=C5=B3 teisin=C4=97s pad=C4=97ties =C4=
+=AFstatymo pakeitimai, nuo 2019 m. spalio 14 d. prad=C4=97jo veikti </font>=
+<a href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBkJDQQBBQtdAh1SBQkG=
+G1EOAAYcXAJSURtRUAsGVwINV1wMUw5LAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwB=
+YXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font color=3D"#0=
+05566" face=3D"Calibri"><u>MIGRIS sistema</u></font></a><font color=3D"#005=
+566" face=3D"Calibri">.<br />
+=09=09=09&bull; Nuo </font><a href=3D"http://old.countline.lt/listsn/lt.php=
+?tid=3DcBkPXVYLDwhaAR0HVFwJG1ELDFIcBlQABRsKC1cAAABaAwBdWQhLAAoEVVJRCAAbXAoA=
+VRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlY=
+NUlxUUg" ><font color=3D"#005566" face=3D"Calibri"><u>2020-07-01 =C4=AFsiga=
+liojan=C4=8Dios darbuotoj=C5=B3 kvotos</u></font></a><font color=3D"#005566=
+" face=3D"Calibri"><u> </u>ir j=C5=B3 =C4=AFtaka statyb=C5=B3 verslui: i&sc=
+aron;naudojus kvot=C4=85, bus galima =C4=AFsive=C5=BEti tre=C4=8Di=C5=B3j=
+=C5=B3 &scaron;ali=C5=B3 pilie=C4=8Dius tik atlikus darbo rinkos test=C4=
+=85.<br />
+=09=09=09&bull; </font><a href=3D"http://old.countline.lt/listsn/lt.php?tid=
+=3DcBlcCldYUwwMBh1SAVtTG1FYB1ccXQ0FURsLC1FSB1MAAQ8AUFhLAAoEVVJRCAAbXAoAVRxQ=
+AwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlx=
+UUg" ><font color=3D"#005566" face=3D"Calibri"><u>Darbuotoj=C5=B3 saugos ir=
+ sveikatos =C4=AFstatymo pakeitimai</u></font></a><font color=3D"#005566" f=
+ace=3D"Calibri"><u> </u>=C4=AFsigalios 2020 m. gegu=C5=BE=C4=97s 1 d.: kei=
+=C4=8Diasi darbuotoj=C5=B3 instruktavimo tvarka, darbdavys tur=C4=97s ne ti=
+k nustatyti mokymo ir =C5=BEini=C5=B3 darbuotoj=C5=B3 saugos ir sveikatos k=
+lausimais tikrinimo tvark=C4=85, bet ir =C5=BEinoti apie instruktavim=C4=
+=85.<br />
+=09=09=09&bull; 2020 m. sausio 15 d. pakeistos </font><a href=3D"http://old=
+.countline.lt/listsn/lt.php?tid=3DcBlaXFYJUggMVh0BUllXG1FbAVQcXAxQAhtXAgEDA=
+QEBUA5fVltLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQ=
+AAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font color=3D"#005566" face=3D"Calibr=
+i"><u>Valstybin=C4=97s darbo inspekcijos =C5=ABkio subjekt=C5=B3 veiklos pa=
+tikrinim=C5=B3 taisykl=C4=97s</u></font></a><font color=3D"#005566" face=3D=
+"Calibri">, pagal kurias VDI i&scaron; anksto nebeprane&scaron; apie neplan=
+inius patikrinimus arba apie planinius patikrinimus, susijusius su statybvi=
+ete.<br />
+=09=09=09&bull; Su verslo liudijimu bus galima atlikti ma=C5=BEiau darb=
+=C5=B3<br />
+=09=09=09&bull; Kaip pritraukti ir i&scaron;laikyti darbuotojus<br />
+=09=09=09&bull; Sprendim=C5=B3 ai&scaron;kinant direktyv=C4=85 96/71/EB d=
+=C4=97l darbuotoj=C5=B3 komandiravimo paslaug=C5=B3 teikimo sistemoje ap=
+=C5=BEvalga ir LAT aktual=C5=ABs su darbo teise susij=C4=99 i&scaron;ai&sca=
+ron;kinimai. </font></span></p>
+
+=09=09=09<p style=3D"text-align: justify"><span style=3D"font-size:11pt;"><=
+font color=3D"#005566" face=3D"Calibri">=C5=BDiniomis dalinasi lektor=C4=
+=97 <b>Aist=C4=97 Ma=C5=BEeikien=C4=97</b>, <b>Egl=C4=97 Makselyt=C4=97</b>=
+ ir advokat=C4=97 <b>Emil=C4=97 Kazlauskait=C4=97</b>.</font></span></p>
+
+=09=09=09<p style=3D"text-align: justify"><a href=3D"http://old.countline.l=
+t/listsn/lt.php?tid=3DcBlZAQMLVQ5dCx1RVFkJG1ELV1McBgZSBhtSA1RSCwYNXQ1YVABLA=
+AoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9c=
+C1MAFFcNUg4PVlYNUlxUUg" ><span style=3D"font-size:11pt;"><font color=3D"#2d=
+c84d" face=3D"Calibri"><b>SEMINARO PROGRAMA &gt;&gt;&gt;</b></font></span><=
+/a></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"#EBEBEB" style=3D"border-bottom-width:2; border-bottom=
+-color:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"#EBEBEB" colspan=3D"3" height=3D"16" style=3D"borde=
+r-right-width:1; border-right-color:rgb(204,204,204); border-right-style:no=
+ne;" valign=3D"middle" width=3D"100%">
+=09=09=09<hr color=3D"#005566" size=3D"1" /></td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"#EBEBEB" style=3D"border-bottom-width:2; border-bottom=
+-color:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"#EBEBEB" colspan=3D"3" height=3D"20" style=3D"paddi=
+ng:5px; border-right-width:1; border-right-color:rgb(204,204,204); border-r=
+ight-style:none; cellpadding=3D10;" valign=3D"middle" width=3D"100%">
+=09=09=09<p align=3D"center"><a href=3D"http://old.countline.lt/listsn/lt.p=
+hp?tid=3DcBlZAQMLVQ5dCx1RVFkJG1ELV1McBgZSBhtSA1RSCwYNXQ1YVABLAAoEVVJRCAAbXA=
+oAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PV=
+lYNUlxUUg" ><span style=3D"font-size:11pt;"><font color=3D"#EF4A81" face=3D=
+"Calibri"><b>Specialus pasi=C5=ABlymas! </b></font><br />
+=09=09=09<font color=3D"#005566" face=3D"Calibri">Dalyvaujant daugiau negu =
+vienam atstovui i&scaron; tos pa=C4=8Dios =C4=AFmon=C4=97s, antram ir kitie=
+ms dalyviams kaina</font><b><font color=3D"#005566" face=3D"Calibri"> </fon=
+t><font color=3D"#EF4A81" face=3D"Calibri">110 &euro; + PVM</font></b><font=
+ color=3D"#005566" face=3D"Calibri">.</font></span></a></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"#EBEBEB" style=3D"border-bottom-width:2; border-bottom=
+-color:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"#EBEBEB" colspan=3D"3" height=3D"10" style=3D"borde=
+r-right-width:1; border-right-color:rgb(204,204,204); border-right-style:no=
+ne;" valign=3D"middle" width=3D"100%">
+=09=09=09<hr color=3D"#005566" size=3D"1" /></td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"#EBEBEB" style=3D"border-bottom-width:2; border-bottom=
+-color:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"#EBEBEB" height=3D"23" style=3D"border-right-width:=
+1; border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D=
+"middle" width=3D"34%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><b><font color=
+=3D"#2dc84d" face=3D"Calibri">SEMINAR=C4=84 VEDA:</font></b></span></p>
+=09=09=09</td>
+=09=09=09<td bgcolor=3D"#EBEBEB" height=3D"23" style=3D"border-right-width:=
+1; border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D=
+"middle" width=3D"33%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><b><font color=
+=3D"#2dc84d" face=3D"Calibri">SEMINARAS VYKS:</font></b></span></p>
+=09=09=09</td>
+=09=09=09<td bgcolor=3D"#EBEBEB" height=3D"23" style=3D"border-right-width:=
+1; border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D=
+"middle" width=3D"33%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><b><font color=
+=3D"#2dc84d" face=3D"Calibri">KAINA:</font></b></span></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"#EBEBEB" style=3D"border-bottom-width:2; border-bottom=
+-color:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"#EBEBEB" height=3D"57" style=3D"border-right-width:=
+1; border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D=
+"top" width=3D"34%">
+=09=09=09<p align=3D"center"><span style=3D"font-family:Arial,sans-serif; f=
+ont-size:11pt; color:black;"><font color=3D"#005566" face=3D"Calibri">advok=
+at=C4=97 </font></span><br />
+=09=09=09<b><span style=3D"font-family:Arial,sans-serif; font-size:11pt; co=
+lor:black;"><font color=3D"#005566" face=3D"Calibri">Emil=C4=97 Kazlauskait=
+=C4=97</font></span></b><br />
+=09=09=09<a href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBlcD1kJUQg=
+IUR0DBgEHG1FdBVUcBQ0BXRtSAAcFUVINAwlYAA1LAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQ=
+kAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><span st=
+yle=3D"font-family:Arial,sans-serif; font-size:11pt;"><u><font color=3D"#00=
+5566" face=3D"Calibri">Pla=C4=8Diau...</font></u></span></a></p>
+
+=09=09=09<p align=3D"center"><span style=3D"font-family:Arial,sans-serif; f=
+ont-size:11pt; color:black;"><font color=3D"#005566" face=3D"Calibri">lekto=
+r=C4=97 </font></span><br />
+=09=09=09<b><span style=3D"font-family:Arial,sans-serif; font-size:11pt; co=
+lor:black;"><font color=3D"#005566" face=3D"Calibri">Egl=C4=97 Makselyt=
+=C4=97</font></span></b><br />
+=09=09=09<a href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBkIDgULAQw=
+ACx0DUQ0CG1EPAwccBgAEVhtXUQoHA1UIUQgOUQlLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQ=
+kAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><span st=
+yle=3D"font-family:Arial,sans-serif; font-size:11pt;"><u><font color=3D"#00=
+5566" face=3D"Calibri">Pla=C4=8Diau...</font></u></span></a></p>
+
+=09=09=09<p align=3D"center"><span style=3D"font-family:Arial,sans-serif; f=
+ont-size:11pt; color:black;"><font color=3D"#005566" face=3D"Calibri">lekto=
+r=C4=97 </font></span><br />
+=09=09=09<b><span style=3D"font-family:Arial,sans-serif; font-size:11pt; co=
+lor:black;"><font color=3D"#005566" face=3D"Calibri">Aist=C4=97 Ma=C5=BEeik=
+ien=C4=97</font></span></b><br />
+=09=09=09<a href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBldCABYBwo=
+AUR1XVAlXG1EMUwAcBQQBVBtXBwYAU1cIV1xaUwtLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQ=
+kAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><span st=
+yle=3D"font-family:Arial,sans-serif; font-size:11pt;"><u><font color=3D"#00=
+5566" face=3D"Calibri">Pla=C4=8Diau...</font></u></span></a></p>
+=09=09=09</td>
+=09=09=09<td bgcolor=3D"#EBEBEB" height=3D"57" style=3D"border-right-width:=
+1; border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D=
+"top" width=3D"33%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><font color=3D=
+"#005566" face=3D"Calibri">kovo 9 d. Vilniuje</font></span></p>
+=09=09=09</td>
+=09=09=09<td bgcolor=3D"#EBEBEB" height=3D"57" style=3D"border-right-width:=
+1; border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D=
+"top" width=3D"33%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><font color=3D=
+"#005566" face=3D"Calibri">130 &euro; + PVM</font></span></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"#EBEBEB" style=3D"border-bottom-width:2; border-bottom=
+-color:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"#EBEBEB" colspan=3D"3" height=3D"26" style=3D"borde=
+r-right-width:1; border-right-color:rgb(204,204,204); border-right-style:no=
+ne;" valign=3D"middle" width=3D"100%">
+=09=09=09<hr color=3D"#005566" size=3D"1" /></td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"#EBEBEB" style=3D"border-bottom-width:2; border-bottom=
+-color:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"#EBEBEB" colspan=3D"3" height=3D"2" style=3D"border=
+-right-width:1; border-right-color:rgb(204,204,204); border-right-style:non=
+e;" valign=3D"middle" width=3D"100%">&nbsp;</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"#EBEBEB" style=3D"border-bottom-width:2; border-bottom=
+-color:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"#EBEBEB" colspan=3D"3" height=3D"43" style=3D"borde=
+r-right-width:1; border-right-color:rgb(204,204,204); border-right-style:no=
+ne;" valign=3D"middle" width=3D"100%">
+=09=09=09<table bgcolor=3D"#EBEBEB" width=3D"100%">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr style=3D"border-bottom-width:2; border-bottom-color:rgb(=
+2,77,46); border-bottom-style:none;">
+=09=09=09=09=09=09<td bgcolor=3D"#EBEBEB" height=3D"33" style=3D"border-rig=
+ht-width:1; border-right-color:rgb(204,204,204); border-right-style:none;" =
+valign=3D"middle" width=3D"5%">&nbsp;</td>
+=09=09=09=09=09=09<td bgcolor=3D"#005566" height=3D"33" style=3D"border-rig=
+ht-width:1; border-color:white; border-right-style:none;" valign=3D"middle"=
+ width=3D"40%">
+=09=09=09=09=09=09<p align=3D"center"><b><span style=3D"font-size:11pt;"><a=
+ href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBlZAQMLVQ5dCx1RVFkJG1=
+ELV1McBgZSBhtSA1RSCwYNXQ1YVABLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYX=
+VBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font color=3D"whit=
+e" face=3D"Calibri">DAUGIAU INFO &raquo;</font></a></span></b></p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09<td bgcolor=3D"#EBEBEB" height=3D"33" style=3D"border-rig=
+ht-width:1; border-right-color:rgb(204,204,204); border-right-style:none;" =
+valign=3D"middle" width=3D"10%">&nbsp;</td>
+=09=09=09=09=09=09<td bgcolor=3D"#2dc84d" height=3D"33" style=3D"border-rig=
+ht-width:1; border-color:white; border-right-style:none;" valign=3D"middle"=
+ width=3D"40%">
+=09=09=09=09=09=09<p align=3D"center"><b><span style=3D"font-size:11pt;"><a=
+ href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBlZAQMLVQ5dCx1RVFkJG1=
+ELV1McBgZSBhtSA1RSCwYNXQ1YVABLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYX=
+VBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font color=3D"whit=
+e" face=3D"Calibri">REGISTRUOTIS &raquo;</font></a></span></b></p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09<td bgcolor=3D"#EBEBEB" height=3D"33" style=3D"border-rig=
+ht-width:1; border-right-color:rgb(204,204,204); border-right-style:none;" =
+valign=3D"middle" width=3D"5%">&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+=09<tbody>
+=09=09<tr bgcolor=3D"#EBEBEB" style=3D"border-bottom-width:2; border-bottom=
+-color:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"#EBEBEB" colspan=3D"3" height=3D"22" style=3D"borde=
+r-right-width:1; border-right-color:rgb(204,204,204); border-right-style:no=
+ne;" valign=3D"middle" width=3D"100%">&nbsp;</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<table bgcolor=3D"white" width=3D"100%">
+=09<tbody>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"61" style=3D"border-=
+right-width:1; border-right-color:rgb(204,204,204); border-right-style:none=
+; cellpadding=3D0;" valign=3D"middle" width=3D"100%">
+=09=09=09<p align=3D"center" style=3D"line-height:100%;"><a href=3D"http://=
+old.countline.lt/listsn/lt.php?tid=3DcBleXVRfVgEOVB0CBAECG1FbBAccXQBVARsDAQ=
+FWBgFeB1ldBFpLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcH=
+AdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><span style=3D"font-size:18pt; line=
+-height:100%;"><font color=3D"#005566" face=3D"Calibri"><b>Verslo galimyb=
+=C4=97s Kazachstane: statyb=C5=B3 sektorius</b></font></span></a></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"60" style=3D"padding=
+:20px; border-right-width:1; border-right-color:rgb(204,204,204); border-ri=
+ght-style:none; cellpadding=3D10;" valign=3D"middle" width=3D"100%">
+=09=09=09<p style=3D"text-align: justify"><span style=3D"font-size:11pt;"><=
+font color=3D"#005566" face=3D"Calibri"><b>Verslo id=C4=97jos vietoje =
+=C4=AFprasto rytinio naujien=C5=B3 skaitymo!</b></font></span></p>
+
+=09=09=09<p style=3D"text-align: justify"><span style=3D"font-size:11pt;"><=
+font color=3D"#005566" face=3D"Calibri">Kazachstano rink=C4=85 ir =C4=AFsta=
+tymus i&scaron;manantys verslininkas <b>Andrius Burba</b>, teis=C4=97s eksp=
+ertas <b>Askaras Makhmetovas</b> bei Kazachstano Respublikos ambasados Liet=
+uvoje patar=C4=97jas <b>Serzhanas Kydyrbaevas</b> dalinsis informacija, pat=
+irtimi ir patarimais apie verslo galimybes Kazachstane.</font></span></p>
+
+=09=09=09<p style=3D"text-align: justify"><span style=3D"font-size:11pt;"><=
+font color=3D"#005566" face=3D"Calibri"><b>Verslo pusry=C4=8Di=C5=B3 metu:<=
+/b><br />
+=09=09=09&bull; i&scaron;girsite apie Kazachstano statyb=C5=B3 sektoriaus p=
+otencial=C4=85;<br />
+=09=09=09&bull; su=C5=BEinosite apie valstyb=C4=97s param=C4=85 Lietuvos =
+=C4=AFmon=C4=97ms Kazachstane bei galimybes naudotis mokes=C4=8Di=C5=B3 ir =
+muit=C5=B3 lengvatomis;<br />
+=09=09=09&bull; diskutuosime apie Lietuvos verslo dalyvavim=C4=85 Kazachsta=
+no statyb=C5=B3 sektoriuje;<br />
+=09=09=09&bull; pa&scaron;nekovai pasidalins praktiniais patarimais, kaip =
+=C5=BEengti pirmuosius =C5=BEingsnius Kazachstano statyb=C5=B3 versle;<br /=
+>
+=09=09=09&bull; diskutuosime apie Lietuvos statyb=C5=B3 verslo prana&scaron=
+;umus bei i&scaron;&scaron;=C5=ABkius Kazachstano statyb=C5=B3 sektoriuje;<=
+br />
+=09=09=09&bull; pa&scaron;nekovai pasidalins potenciali=C5=B3 verslo partne=
+ri=C5=B3 kontaktais.</font></span></p>
+
+=09=09=09<p style=3D"text-align: justify"><a href=3D"http://old.countline.l=
+t/listsn/lt.php?tid=3DcBleXVRfVgEOVB0CBAECG1FbBAccXQBVARsDAQFWBgFeB1ldBFpLA=
+AoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9c=
+C1MAFFcNUg4PVlYNUlxUUg" ><span style=3D"font-size:11pt;"><font color=3D"#2d=
+c84d" face=3D"Calibri"><b>SEMINARO PROGRAMA &gt;&gt;&gt;</b></font></span><=
+/a></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"10" style=3D"border-=
+right-width:1; border-right-color:rgb(204,204,204); border-right-style:none=
+;" valign=3D"middle" width=3D"100%">
+=09=09=09<hr color=3D"#005566" size=3D"1" /></td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" height=3D"23" style=3D"border-right-width:1;=
+ border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D"m=
+iddle" width=3D"34%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><b><font color=
+=3D"#2dc84d" face=3D"Calibri">SEMINAR=C4=84 VEDA:</font></b></span></p>
+=09=09=09</td>
+=09=09=09<td bgcolor=3D"white" height=3D"23" style=3D"border-right-width:1;=
+ border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D"m=
+iddle" width=3D"33%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><b><font color=
+=3D"#2dc84d" face=3D"Calibri">SEMINARAS VYKS:</font></b></span></p>
+=09=09=09</td>
+=09=09=09<td bgcolor=3D"white" height=3D"23" style=3D"border-right-width:1;=
+ border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D"m=
+iddle" width=3D"33%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><b><font color=
+=3D"#2dc84d" face=3D"Calibri">KAINA:</font></b></span></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" height=3D"57" style=3D"border-right-width:1;=
+ border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D"t=
+op" width=3D"34%">
+=09=09=09<p align=3D"center"><span style=3D"font-family:Arial,sans-serif; f=
+ont-size:11pt; color:black;"><font color=3D"#005566" face=3D"Calibri">lekto=
+rius</font></span><br />
+=09=09=09<b><span style=3D"font-family:Arial,sans-serif; font-size:11pt; co=
+lor:black;"><font color=3D"#005566" face=3D"Calibri">Andrius Burba </font><=
+/span></b><br />
+=09=09=09<span style=3D"font-family:Arial,sans-serif; font-size:11pt;"><a h=
+ref=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBkBXwMMUV0PCx0AVFpUG1EI=
+BFQcXAUCBxtQBgAPUwEIXAkBV1pLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVB=
+WSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><u><font color=3D"#00=
+5566" face=3D"Calibri">Pla=C4=8Diau...</font></u></a></span></p>
+
+=09=09=09<p align=3D"center"><span style=3D"font-family:Arial,sans-serif; f=
+ont-size:11pt; color:black;"><font color=3D"#005566" face=3D"Calibri">lekto=
+rius</font></span><br />
+=09=09=09<b><span style=3D"font-family:Arial,sans-serif; font-size:11pt; co=
+lor:black;"><font color=3D"#005566" face=3D"Calibri">Askar Makhmetov </font=
+></span></b><br />
+=09=09=09<span style=3D"font-family:Arial,sans-serif; font-size:11pt;"><a h=
+ref=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBkICFlbDlwNUR0AUV4GG1FY=
+B1ccXAYBXRtWAQUDBwIOBAkPUA5LAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVB=
+WSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><u><font color=3D"#00=
+5566" face=3D"Calibri">Pla=C4=8Diau...</font></u></a></span></p>
+
+=09=09=09<p align=3D"center"><span style=3D"font-family:Arial,sans-serif; f=
+ont-size:11pt; color:black;"><font color=3D"#005566" face=3D"Calibri">Kazac=
+hstano Respublikos ambasados Lietuvoje patar=C4=97jas</font></span><br />
+=09=09=09<b><span style=3D"font-family:Arial,sans-serif; font-size:11pt; co=
+lor:black;"><font color=3D"#005566" face=3D"Calibri">Serzhanas Kydyrbaevas =
+</font></span></b></p>
+=09=09=09</td>
+=09=09=09<td bgcolor=3D"white" height=3D"57" style=3D"border-right-width:1;=
+ border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D"t=
+op" width=3D"33%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><font color=3D=
+"#005566" face=3D"Calibri">vasario 28 d. Vilniuje<br />
+=09=09=09spalio 28 d. Vilniuje</font></span></p>
+=09=09=09</td>
+=09=09=09<td bgcolor=3D"white" height=3D"57" style=3D"border-right-width:1;=
+ border-right-color:rgb(204,204,204); border-right-style:none;" valign=3D"t=
+op" width=3D"33%">
+=09=09=09<p align=3D"center"><span style=3D"font-size:11pt;"><font color=3D=
+"#005566" face=3D"Calibri">100 &euro; + PVM</font></span></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"26" style=3D"border-=
+right-width:1; border-right-color:rgb(204,204,204); border-right-style:none=
+;" valign=3D"middle" width=3D"100%">
+=09=09=09<hr color=3D"#005566" size=3D"1" /></td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"2" style=3D"border-r=
+ight-width:1; border-right-color:rgb(204,204,204); border-right-style:none;=
+" valign=3D"middle" width=3D"100%">&nbsp;</td>
+=09=09</tr>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"43" style=3D"border-=
+right-width:1; border-right-color:rgb(204,204,204); border-right-style:none=
+;" valign=3D"middle" width=3D"100%">
+=09=09=09<table bgcolor=3D"white" width=3D"100%">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr style=3D"border-bottom-width:2; border-bottom-color:rgb(=
+2,77,46); border-bottom-style:none;">
+=09=09=09=09=09=09<td bgcolor=3D"white" height=3D"33" style=3D"border-right=
+-width:1; border-right-color:rgb(204,204,204); border-right-style:none;" va=
+lign=3D"middle" width=3D"5%">&nbsp;</td>
+=09=09=09=09=09=09<td bgcolor=3D"#005566" height=3D"33" style=3D"border-rig=
+ht-width:1; border-color:white; border-right-style:none;" valign=3D"middle"=
+ width=3D"40%">
+=09=09=09=09=09=09<p align=3D"center"><b><span style=3D"font-size:11pt;"><a=
+ href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBleXVRfVgEOVB0CBAECG1=
+FbBAccXQBVARsDAQFWBgFeB1ldBFpLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYX=
+VBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font color=3D"whit=
+e" face=3D"Calibri">DAUGIAU INFO &raquo;</font></a></span></b></p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09<td bgcolor=3D"white" height=3D"33" style=3D"border-right=
+-width:1; border-right-color:rgb(204,204,204); border-right-style:none;" va=
+lign=3D"middle" width=3D"10%">&nbsp;</td>
+=09=09=09=09=09=09<td bgcolor=3D"#2dc84d" height=3D"33" style=3D"border-rig=
+ht-width:1; border-color:white; border-right-style:none;" valign=3D"middle"=
+ width=3D"40%">
+=09=09=09=09=09=09<p align=3D"center"><b><span style=3D"font-size:11pt;"><a=
+ href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBleXVRfVgEOVB0CBAECG1=
+FbBAccXQBVARsDAQFWBgFeB1ldBFpLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYX=
+VBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" ><font color=3D"whit=
+e" face=3D"Calibri">REGISTRUOTIS &raquo;</font></a></span></b></p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09<td bgcolor=3D"white" height=3D"33" style=3D"border-right=
+-width:1; border-right-color:rgb(204,204,204); border-right-style:none;" va=
+lign=3D"middle" width=3D"5%">&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+=09<tbody>
+=09=09<tr bgcolor=3D"white" style=3D"border-bottom-width:2; border-bottom-c=
+olor:rgb(2,77,46); border-bottom-style:none;">
+=09=09=09<td bgcolor=3D"white" colspan=3D"3" height=3D"22" style=3D"border-=
+right-width:1; border-right-color:rgb(204,204,204); border-right-style:none=
+;" valign=3D"middle" width=3D"100%">&nbsp;</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<table bgcolor=3D"#EBEBEB" width=3D"100%">
+=09<tbody>
+=09=09<tr align=3D"right" bgcolor=3D"#EBEBEB" valign=3D"middle">
+=09=09=09<td align=3D"center" bgcolor=3D"#EBEBEB" height=3D"54" valign=3D"m=
+iddle" valignoi9=3D"top" width=3D"100%">
+=09=09=09<p align=3D"center" style=3D"line-height:150%;"><u><a href=3D"www.=
+countline.lt/"><span style=3D"font-size:12pt;"><font color=3D"#005566" face=
+=3D"Calibri">WWW.COUNTLINE.LT</font></span></a></u><span style=3D"font-size=
+:12pt;"><font color=3D"#005566" face=3D"Calibri">&nbsp; Tel.: 85 263 9922</=
+font></span></p>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+ <!--[if mso]>
+        </td>
+        <td style=3D"padding:0px;margin:0px;">&nbsp;</td>
+    </tr>
+    <tr><td colspan=3D"3" style=3D"padding:0px;margin:0px;font-size:20px;he=
+ight:20px;" height=3D"20">&nbsp;</td></tr>
+</table>
+<![endif]--> <!-- END LIQUID WRAPPER --></b></p>
+<br />--
+
+   <div class=3D"footer" style=3D"text-align:left; font-size: 75%;">
+<p>=C5=A0is lai=C5=A1kas i=C5=A1si=C5=B3stas adresu modernus@grezimas.lt.</=
+p>
+<p>Vadovaudamiesi ES Bendrojo duomen=C5=B3 apsaugos reglamento nuostatomis,=
+ norime Jus informuoti, kad atnaujinome m=C5=ABs=C5=B3 Privatumo politik=
+=C4=85, su kuria galite susipa=C5=BEinti paspaud=C4=99 =C5=A1i=C4=85 nuorod=
+=C4=85: <a href=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBlcXFUKAAwJ=
+AB0HDglSG1EPDAIcXAAHARsCAVEOUVFaAQ8LUVtLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQk=
+AWwlWDwBYXVBWSFFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" >ada.count=
+line.lt</a></p>
+<p>Nor=C4=97dami keisti prenumeratos nustatymus spauskite <a href=3D"http:/=
+/old.countline.lt/listsn/lt.php?tid=3DcBkBX1haAggJBR1WVllXG1ENAVIcBg0FBhsHC=
+wMDAgIMUl4PU1xLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWSFFeUwQDClNc=
+HAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" >naujienlai=C5=A1ki=C5=B3 valdymo n=
+uorod=C4=85.</a><br/>
+Jei ateityje nepageidaujate gauti joki=C5=B3 Countline naujien=C5=B3 <a hre=
+f=3D"http://old.countline.lt/listsn/lt.php?tid=3DcBlZXAUJBQFfAR0FDloHG1EJBF=
+wcBQ0CVBtRBwBSBFAJVgwOWVtLAAoEVVJRCAAbXAoAVRxQAwQAGwpXBlIfAQkAWwlWDwBYXVBWS=
+FFeUwQDClNcHAdQAAEbBwcFDx9cC1MAFFcNUg4PVlYNUlxUUg" >spauskite =C4=8Dia</a> =
+ir b=C5=ABsite pa=C5=A1alintas i=C5=A1 gav=C4=97j=C5=B3 s=C4=85ra=C5=A1=
+=C5=B3.</p></div>
+
+  =0A<img src=3D"http://old.countline.lt/listsn/ut.php?u=3D840d38a027e48ed6=
+7b756815f96b84c5&amp;m=3D631" width=3D"1" height=3D"1" border=3D"0" alt=3D"=
+" /></body>
+</html>
+
+
+--b1_20c50cb66e76e5cdf50adbc24a1d0404--
+

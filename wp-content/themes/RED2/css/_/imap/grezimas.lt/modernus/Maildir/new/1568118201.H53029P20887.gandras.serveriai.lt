@@ -1,0 +1,107 @@
+Return-path: <bm032769@gmail.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 10 Sep 2019 15:23:21 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.2)
+	(envelope-from <bm032769@gmail.com>)
+	id 1i7fB2-0005Ql-Q6
+	for modernus@grezimas.lt; Tue, 10 Sep 2019 15:23:20 +0300
+Received: from [209.85.210.65] (helo=mail-ot1-f65.google.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92.2)
+	(envelope-from <bm032769@gmail.com>)
+	id 1i7fB2-0005QZ-JV
+	for modernus@grezimas.lt; Tue, 10 Sep 2019 15:23:20 +0300
+Received: by mail-ot1-f65.google.com with SMTP id c10so18224485otd.9
+        for <modernus@grezimas.lt>; Tue, 10 Sep 2019 05:23:20 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to
+         :content-transfer-encoding;
+        bh=SNXjYVACTqVVOz2EJ5ca+S+02nRUubOReHedz+Ndbmw=;
+        b=iL0GvZvlhRhKlHRktxLJd2PLaDU9w/W1kK2DrSJrYUPfOHpcoJ+JHswvfUUpsEQ/Tx
+         +ZfTJXSM4K70ChwS+bppAfRUIH9jECgmt1dExvl5TsO9ywCUAofUfsSqAfCoXmyA0P1f
+         f5rcoglwhrhILuE56jCNLd/8AtNGjomn4WiFjJipZ4xIcFCBwae2gRU6C3QYLoAo7xMJ
+         nsYvRFRlCxSi+2y4M68bUQknVKSCp9M/PLgcSdOLaRQujlk7k2j7mfI9V3JYLcFpyXl5
+         yGJ/2+nkt9yTMzEGeVNbnoIci8IWQmLUBI/3UmNqpIcthRsyNwRh0W7RzV/5YjufodH8
+         AekQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :content-transfer-encoding;
+        bh=SNXjYVACTqVVOz2EJ5ca+S+02nRUubOReHedz+Ndbmw=;
+        b=sHLHRHeQWwgfd2ozX8Ag0FL1M7Lv5puBqopBp+QEwzseMloNOHhQfP7F+R2P1Bfa8x
+         QxRCgSHHm2KJQkfJvRquWhZJ+mrjLZBdKjsWPUOR92JWaVGNH24JafGFtE6zKumobstz
+         NNUDi2ZvFbLsTguGcYbNZd2NPwOzMbviO/fRMN887QmlLD8Um7Nu0xoNk0E5sx3flshc
+         5GVjBR++zdURzJLoIb6/9heCDCj1pAeeSYINVIGwLjE3Jjs2WQ+z60T6V+yoNoWEr+fs
+         gIproprJEWsIcFrIXLNDBL8Z4NkeTVPkXgTICAOTFxAw3AXllLDPO6VV58TEVOumPvDF
+         fWOA==
+X-Gm-Message-State: APjAAAWMMAp2bEQ1fZvnAQBpwJw1E2KxZZw7T9x81aTMBSGlg1+yJvY5
+	gVKlBEsSIkpHy3C8M5IzlGMEcI9wwawmjv0dMSE=
+X-Google-Smtp-Source: APXvYqyJe7x4GCDfSR+l6fPhX42/QyappzKXWY2BL/GkLiF8abPjfWwmK+xSgM7mZJmqYPBFvRNx/i+uPFSOOkHMq3U=
+X-Received: by 2002:a9d:3675:: with SMTP id w108mr26569328otb.75.1568118198621;
+ Tue, 10 Sep 2019 05:23:18 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a05:6830:1316:0:0:0:0 with HTTP; Tue, 10 Sep 2019 05:23:18
+ -0700 (PDT)
+From: Dani SERGE <bm032769@gmail.com>
+Date: Tue, 10 Sep 2019 12:23:18 +0000
+Message-ID: <CAGX7Ae39md3EXx3z5U7440+wz7ijR-5si4+Yp_Wcp8uCtauC-A@mail.gmail.com>
+Subject: 1 Message YOUR ATTENTION.
+To: undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Bcc: modernus@grezimas.lt
+
+Hello Dear,
+Greeting To You! I know that this mail might be a surprise to you. But
+please bring your attention to read this message with sympathetic
+mind. My name is Dani SERGE the only child of ( Mr. KOFFI SERGE) from
+Republic of Cote d'Ivoire. My father was the formal Minister of
+Importation and Exportation of Petroleum and Mineral Resources. It's
+very sad to say that my father was among the Ministers killed by the
+agents of the former government of President Laurent Gbagbo during the
+political crisis / war because of his support and sympathy for
+opposition party (Rassemblement Des R=C3=A9publicains) de C=C3=B4tes d'Ivoi=
+re
+(RDR). While my mother died after my birth and since then, My father
+has been the only person to have participated in my life. He was a
+good father and he took me so special. I'm still younger and tender
+age and I really do not know what to do. This is because I have
+suffered a lot of set backs as a result of political crisis in my
+country.
+However, I would like to know more about you and discuss investment
+issue with you because before the death of my father, he called me
+secretly on his hospital bed where he was admitted, and told me that
+he has a fixed deposit account of the sum of $5.5 Million (Five
+Million Five Hundred Thousand United State Dollar) which he deposited
+in the investments bank with my name as the next of kin. Presently,
+this fund is still intact with the bank and the last time I
+communicate with the bank director, he informed me of the maturity
+date of my late father's fixed deposit, the bank director advise me to
+issue an authorisation to somebody to receive this fund on my behalf
+since I'm still young and tender age, or otherwise, they get the fund
+confiscated.
+So please I'm in a sincere desire of your humble assistant both for
+the transfer of this money to your bank account for an investments and
+to bring me into your country to continue my education. This is my
+reason for contacting you. Because after the death and burial of my
+father, his wicked brothers (My Wicked Uncles) sold all my father's
+properties and share the money among themselves living nothing for my
+future and education. They also planned to kill me in other for them
+to have access to claim this money my late father deposited in the
+bank, so I ran away with the deposit certificate document of the fund
+for the safety and future of my life. Now I'm living in one of the
+Church Mission without a father, mother or guardians at my tender age.
+Many thanks if you can be able to assist or help me to solve this
+problem I found myself, I would be happy to compensate you with 30%
+after you have helped me transfer this money successfully into your
+bank account. I will give you more details only if you will be
+interested to assist me. Please your suggestions and ideas will be
+highly appreciated.
+If you are interested to assist me, kindly reply me urgently through
+my private e-mail address here ((( da.2.sg2000@gmail.com ))) for more
+explanations and information's.
+I'm waiting for your consideration response.
+Thanks and best regards.
+Yours Sincerely,
+Dani SERGE.

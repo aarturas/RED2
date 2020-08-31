@@ -1,0 +1,684 @@
+Return-path: <didmenavilnius9@mokivezi.lt>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Mon, 21 Oct 2019 14:21:18 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <didmenavilnius9@mokivezi.lt>)
+	id 1iMVkT-0000c0-N3
+	for modernus@grezimas.lt; Mon, 21 Oct 2019 14:21:17 +0300
+Received: from [40.107.0.48] (helo=EUR02-AM5-obe.outbound.protection.outlook.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92.3)
+	(envelope-from <didmenavilnius9@mokivezi.lt>)
+	id 1iMVjz-0000W7-BO
+	for modernus@grezimas.lt; Mon, 21 Oct 2019 14:21:17 +0300
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=OZ1g5QVoj4dq66ZO003BQr5mgEdPKl1WhdlXaabR6t+I7rOXrR0WKX3SZGCafZMfSLmgtpkuVBguLZH37pjDW7XI/Cs6pKW4MK/l34aLvmzt2KNJ/lFD5Pd8hnTdXaDX54Af8xWri0Pwa/poUYi2J3a1mwrBP51OC1MB2ZD+nB7T50E1eZl87xAxTqgopz+XtTlH9/EafXjr6U+zuuQpgwZZ0iEwTXWxBVgJ/WPvp8A0k6qnujVXDBGRAMxfwjSGIKYIupCLakcHhJV/KIPYBvSxK0XzaclOhJq6WxDJfvO8exvkD3lNgupEznAIjTSERhhQLtV1+zEw0U1ehLYPGg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=uWM9m0dkudTEgJwi7RAoF20s4sYfw/IQB2BzcpGK/Oc=;
+ b=KLcHoqriqwiI3TtUElNnOkHM+q/dnZwxw9D6QkEQ/fNY1N+9mU0d15P9dnSlqpcFPbRFmUrdoCqfjrWQP+kQqeFz23A+MTeaj0GYaiRtFyebgpxxKccwR0Zuwabpa1Cr5dj7VdHTEUvaVmBjwl7REhMHoHw6HTc4FriicYeQqUEI97XFm8Y498DfqLZeOBhMU78Q1CUUeILGz+93GPBKSg3bq9wY3LynOhFc+rGao8WWhquGjHdLv853l/sCWwNltMeizTUKNQeq/M3dAJFn41XBOBkrxhi84hOlJdmzWwmTmCpIySGEUdM2U3WFp/nQMPL21q6FBsxK+eayBegbUw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=mokivezi.lt; dmarc=pass action=none header.from=mokivezi.lt;
+ dkim=pass header.d=mokivezi.lt; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=mokivezilt.onmicrosoft.com; s=selector2-mokivezilt-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=uWM9m0dkudTEgJwi7RAoF20s4sYfw/IQB2BzcpGK/Oc=;
+ b=nIq834Q4/EEWxF3Ss9+w6z4PRUX0UniwPwO3iUVIrgEzcXHfQAuktnFYMiRkBcM4s3tKgIax6jbRkGRYgHfMWzU2weS6H4v3u0ctoKkDBqRXqqkz5bxqvnGEXSQtLhnc67OkVJTYtUSrGWDz1JPRciwaxFw1yR7ozBIekfzKnDQ=
+Received: from DB6PR0102MB2712.eurprd01.prod.exchangelabs.com (10.170.210.21)
+ by DB6PR0102MB2679.eurprd01.prod.exchangelabs.com (10.170.210.12) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2367.20; Mon, 21 Oct
+ 2019 11:20:45 +0000
+Received: from DB6PR0102MB2712.eurprd01.prod.exchangelabs.com
+ ([fe80::d4f1:dd16:f182:f352]) by
+ DB6PR0102MB2712.eurprd01.prod.exchangelabs.com
+ ([fe80::d4f1:dd16:f182:f352%7]) with mapi id 15.20.2347.029; Mon, 21 Oct 2019
+ 11:20:45 +0000
+From: =?windows-1257?Q?Osvaldas_=D0aniauskas?= <didmenavilnius9@mokivezi.lt>
+Subject: =?windows-1257?Q?Moki-Ve=FEi_didmenin=EBs_prekybos_pasi=FBlymas?=
+Thread-Topic:
+ =?windows-1257?Q?Moki-Ve=FEi_didmenin=EBs_prekybos_pasi=FBlymas?=
+Thread-Index: AdWIAWdGjzUJA5sfSUmpqjUZbhDDbQ==
+Date: Mon, 21 Oct 2019 11:20:44 +0000
+Message-ID:
+ <DB6PR0102MB2712A804CD7F361C757B5ED4E9690@DB6PR0102MB2712.eurprd01.prod.exchangelabs.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=didmenavilnius9@mokivezi.lt; 
+x-originating-ip: [88.119.193.20]
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: a6df50cd-706f-473d-0c9b-08d75618b757
+x-ms-traffictypediagnostic: DB6PR0102MB2679:
+x-ms-exchange-purlcount: 1
+x-microsoft-antispam-prvs:
+ <DB6PR0102MB2679A48CF9A9ED8263F7C7ACE9690@DB6PR0102MB2679.eurprd01.prod.exchangelabs.com>
+x-ms-oob-tlc-oobclassifiers: OLM:1728;
+x-forefront-prvs: 0197AFBD92
+x-forefront-antispam-report:
+ SFV:NSPM;SFS:(10009020)(136003)(366004)(396003)(346002)(376002)(39840400004)(199004)(189003)(186003)(7736002)(26005)(65686005)(7696005)(81166006)(66066001)(861006)(6506007)(99286004)(99936001)(81156014)(71200400001)(71190400001)(86362001)(76116006)(102836004)(1671002)(486006)(606006)(45776006)(476003)(881003)(74316002)(316002)(66946007)(7416002)(66446008)(64756008)(7406005)(7366002)(66556008)(66576008)(66476007)(5660300002)(109986005)(6306002)(54896002)(14454004)(9686003)(3846002)(55016002)(790700001)(6116002)(478600001)(33656002)(224303003)(236005)(2906002)(256004)(52536014)(8936002)(25786009)(6436002)(733005);DIR:OUT;SFP:1101;SCL:1;SRVR:DB6PR0102MB2679;H:DB6PR0102MB2712.eurprd01.prod.exchangelabs.com;FPR:;SPF:None;LANG:lt;PTR:InfoNoRecords;A:1;MX:1;
+received-spf: None (protection.outlook.com: mokivezi.lt does not designate
+ permitted sender hosts)
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ jM0v70fvFQHvEBDd+ASpo5tw0MNsVsozCeG5oFvXzaxRkIsmNBONIo01GNTIWW2WUxIUBWUaCdkQHEwlFT6X/WvMuWVIZyq8vhAP5PZxFGr2mXEy44D6wqVsuKlEI5z7/0QOIeULvlkYNOTEJgNgKoP+Fn3kkQXrnGQO1dTA0Ebem6edkGQGEArEggIJ2VPojRta31X97rfIfPnN4VFOnWOvic+XyWCiXHcBX8Y8m+tn6+vktbp6QsI5vhshiHmtP3Xtgrl8NfIJcEXHtWbEXleMsuiNADLE17cvF2xFFs86Az/9Zw2F30HArLHrvvqPUTdTwlzF1JjrHXhRVPQ7DO8dN4SSXvjuf0885TkZW3dv45t5OPf33x9BQ6DxnuISfX5Wd0rloBUx5HzZyV6hrOzYHWUqSpL1FM099PjApXG9I3ZFwCnWtr1zlELkOHYTBF2JTs8KR0nEWy/NWdAw2GS6vEpPoNQLJ7HzwHgOZM0=
+x-ms-exchange-transport-forked: True
+Content-Type: multipart/related;
+	boundary="_005_DB6PR0102MB2712A804CD7F361C757B5ED4E9690DB6PR0102MB2712_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+X-OriginatorOrg: mokivezi.lt
+X-MS-Exchange-CrossTenant-Network-Message-Id: a6df50cd-706f-473d-0c9b-08d75618b757
+X-MS-Exchange-CrossTenant-originalarrivaltime: 21 Oct 2019 11:20:44.9614
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: ae037c3b-72ca-40e1-bd49-9ea153a32438
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: DCUoasKMABc0vfj6GwXPylg13VU2HhE6m6C+5keTdRXHoMxOsbfWqgcli20lnKrqpHpWCfkQcbzgGD0dSSOe+VZIvYq9OD3OY7FebjLiSJg=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DB6PR0102MB2679
+X-Spam-Checked: mokivezi.lt, 109.235.68.156, microsoft.com, 40.76.4.15,
+	w3.org, outlook.com, 40.97.148.226
+
+--_005_DB6PR0102MB2712A804CD7F361C757B5ED4E9690DB6PR0102MB2712_
+Content-Type: multipart/alternative;
+	boundary="_000_DB6PR0102MB2712A804CD7F361C757B5ED4E9690DB6PR0102MB2712_"
+
+--_000_DB6PR0102MB2712A804CD7F361C757B5ED4E9690DB6PR0102MB2712_
+Content-Type: text/plain; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+Laba diena,
+
+Esu Moki Ve=FEi didmenin=EBs prekybos skyriaus pardavim=F8 vadybininkas Osv=
+aldas. Nor=EBjau pasiteirauti, galb=FBt J=FBs=F8 =E1mon=E6 domint=F8 didmen=
+in=EBs prekybos sutartis? Jei taip, tuomet nor=EB=E8iau pasi=FBlyti toki=E0=
+ sudaryti ir pasinaudoti jos naudomis. Turime ilgamet=E6 patirt=E1 dirbant =
+su didmeniniais klientais. Orientuojam=EBs =E1 did=FEiausios vert=EBs suk=
+=FBrim=E0 klientui.
+
+J=FBs=F8 =E1mon=EB gal=EBs pasinaudoti papildomomis naudomis tapusi didmeno=
+s klientu:
+
+  *   Profesionalus aptarnavimas =96 asmeninis vadybininkas;
+  *   Didmenos kasos =96 taupant J=FBs=F8 laik=E0 (nuolaidos taikomos kasoj=
+e);
+  *   Pateikus u=FEklaus=E0 elektroniniu pa=F0tu gauti spec. kainas J=FBs=
+=F8 u=FEklausiamoms prek=EBms;
+  *   Konkurencingos kainos;
+  *   Kredito limitas su atid=EBjimu (pagal J=FBs=F8 poreik=E1).
+
+Jei sutarties sudarymas su m=FBs=F8 =E1mone Jus domin=E0, pra=F0au atsakyti=
+ =E1 =F0=E1 elektronin=E1 lai=F0k=E0, kokios sutarties pageidautum=EBte : s=
+u mok=EBjimo atid=EBjimu ar standartin=EBs papildom=F8 nuolaid=F8 sutarties=
+.
+
+Kilus klausimams maloniai lauksiu J=FBs=F8 skambu=E8i=F8 ar lai=F0k=F8 rekv=
+izituose nurodytais kontaktais.
+A=E8i=FB
+
+
+
+
+
+Osvaldas =D0aniauskas
+
+[cid:image001.png@01D3B208.F096E620]
+Didmenin=EBs prekybos pardavim=F8 vadybininkas
+
+
+
+
+UAB =84Makve=FEa=93
+Pergal=EBs g.36, LT11202, Vilnius
+[img_01]
+didmenavilnius9@mokivezi.lt<mailto:didmenavilnius9@mokivezi.lt>
+M. +370 698 20650
+www.mokivezi.lt<http://www.mokivezi.lt/>
+
+
+
+
+
+--_000_DB6PR0102MB2712A804CD7F361C757B5ED4E9690DB6PR0102MB2712_
+Content-Type: text/html; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:m=3D"http://schema=
+s.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html=
+40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Arial",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:3.0cm 1.0cm 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:430316842;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-17295598 69664769 69664771 69664773 69664769 696647=
+71 69664773 69664769 69664771 69664773;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"LT" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif">Laba diena,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif">Esu Moki Ve=FEi didmenin=EBs prekybos skyriaus p=
+ardavim=F8 vadybininkas Osvaldas. Nor=EBjau pasiteirauti, galb=FBt J=FBs=F8=
+ =E1mon=E6 domint=F8 didmenin=EBs prekybos sutartis? Jei taip, tuomet
+ nor=EB=E8iau pasi=FBlyti toki=E0 sudaryti ir pasinaudoti jos naudomis. Tur=
+ime ilgamet=E6 patirt=E1 dirbant su didmeniniais klientais. Orientuojam=EBs=
+ =E1 did=FEiausios vert=EBs suk=FBrim=E0 klientui.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif">J=FBs=F8 =E1mon=EB gal=EBs pasinaudoti papildomo=
+mis naudomis tapusi didmenos klientu:<o:p></o:p></span></p>
+<ul style=3D"margin-top:0cm" type=3D"disc">
+<li class=3D"MsoListParagraph" style=3D"margin-left:0cm;mso-list:l0 level1 =
+lfo1"><span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quo=
+t;,serif">Profesionalus aptarnavimas =96 asmeninis vadybininkas;<o:p></o:p>=
+</span></li><li class=3D"MsoListParagraph" style=3D"margin-left:0cm;mso-lis=
+t:l0 level1 lfo1"><span style=3D"font-size:12.0pt;font-family:&quot;Times N=
+ew Roman&quot;,serif">Didmenos kasos =96 taupant J=FBs=F8 laik=E0 (nuolaido=
+s taikomos kasoje);<o:p></o:p></span></li><li class=3D"MsoListParagraph" st=
+yle=3D"margin-left:0cm;mso-list:l0 level1 lfo1"><span style=3D"font-size:12=
+.0pt;font-family:&quot;Times New Roman&quot;,serif">Pateikus u=FEklaus=E0 e=
+lektroniniu pa=F0tu gauti spec. kainas J=FBs=F8 u=FEklausiamoms prek=EBms;<=
+o:p></o:p></span></li><li class=3D"MsoListParagraph" style=3D"margin-left:0=
+cm;mso-list:l0 level1 lfo1"><span style=3D"font-size:12.0pt;font-family:&qu=
+ot;Times New Roman&quot;,serif">Konkurencingos kainos;<o:p></o:p></span></l=
+i><li class=3D"MsoListParagraph" style=3D"margin-left:0cm;mso-list:l0 level=
+1 lfo1"><span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&q=
+uot;,serif">Kredito limitas su atid=EBjimu (pagal J=FBs=F8 poreik=E1).<o:p>=
+</o:p></span></li></ul>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif">Jei sutarties sudarymas su m=FBs=F8 =E1mone Jus =
+domin=E0, pra=F0au atsakyti =E1 =F0=E1 elektronin=E1 lai=F0k=E0, kokios sut=
+arties pageidautum=EBte : su mok=EBjimo atid=EBjimu ar standartin=EBs papil=
+dom=F8
+ nuolaid=F8 sutarties.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif">Kilus klausimams maloniai lauksiu J=FBs=F8 skamb=
+u=E8i=F8 ar lai=F0k=F8 rekvizituose nurodytais kontaktais.<o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif">A=E8i=FB<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif"><o:p>&nbsp;</o:p></span></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left" style=3D"border-collapse:collapse;margin-left:6.75pt;=
+margin-right:6.75pt;margin-bottom:1.25pt">
+<tbody>
+<tr style=3D"height:13.55pt">
+<td width=3D"217" valign=3D"top" style=3D"width:162.65pt;background:#FFCC03=
+;padding:0cm 5.4pt 0cm 5.4pt;height:13.55pt">
+<p class=3D"MsoNormal" style=3D"mso-element:frame;mso-element-frame-hspace:=
+9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-ele=
+ment-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#1F497D;mso-fareast-language:LT"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width=3D"57" valign=3D"top" style=3D"width:42.9pt;background:#FFCC03;pa=
+dding:0cm 5.4pt 0cm 5.4pt;height:13.55pt">
+<p class=3D"MsoNormal" style=3D"mso-element:frame;mso-element-frame-hspace:=
+9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-ele=
+ment-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#1F497D;mso-fareast-language:LT"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width=3D"329" valign=3D"top" style=3D"width:246.8pt;padding:0cm 5.4pt 0=
+cm 5.4pt;height:13.55pt">
+<p class=3D"MsoNormal" style=3D"mso-element:frame;mso-element-frame-hspace:=
+9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-ele=
+ment-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#1F497D;mso-fareast-language:LT"><o:p>&nbsp;</o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:11.7pt">
+<td width=3D"217" valign=3D"top" style=3D"width:162.65pt;background:#FFCC03=
+;padding:0cm 5.4pt 0cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal" style=3D"mso-element:frame;mso-element-frame-hspace:=
+9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-ele=
+ment-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#404041;mso-fareast-language:LT">Osvaldas =D0aniauskas<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"57" valign=3D"top" style=3D"width:42.9pt;background:#FFCC03;pa=
+dding:0cm 5.4pt 0cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal" style=3D"mso-element:frame;mso-element-frame-hspace:=
+9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-ele=
+ment-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:#404041;mso-f=
+areast-language:LT"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width=3D"329" rowspan=3D"2" valign=3D"top" style=3D"width:246.8pt;paddi=
+ng:0cm 5.4pt 0cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal" style=3D"margin-left:8.6pt;mso-element:frame;mso-ele=
+ment-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical=
+:paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:#404041;mso-f=
+areast-language:EN-GB"><img width=3D"174" height=3D"29" style=3D"width:1.81=
+25in;height:.302in" id=3D"Picture_x0020_1" src=3D"cid:image001.png@01D5881A=
+.B9220780" alt=3D"cid:image001.png@01D3B208.F096E620"></span><span style=3D=
+"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#404041;ms=
+o-fareast-language:LT"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:11.7pt">
+<td width=3D"217" valign=3D"top" style=3D"width:162.65pt;background:#FFCC03=
+;padding:0cm 5.4pt 0cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal" style=3D"mso-element:frame;mso-element-frame-hspace:=
+9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-ele=
+ment-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#404041;mso-fareast-language:LT">Didmenin=EBs prekybos pardavim=F8 vady=
+bininkas<o:p></o:p></span></p>
+</td>
+<td width=3D"57" valign=3D"top" style=3D"width:42.9pt;background:#FFCC03;pa=
+dding:0cm 5.4pt 0cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal" style=3D"mso-element:frame;mso-element-frame-hspace:=
+9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-ele=
+ment-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#404041;mso-fareast-language:LT"><o:p>&nbsp;</o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:11.7pt">
+<td width=3D"217" valign=3D"top" style=3D"width:162.65pt;background:#FFCC03=
+;padding:0cm 5.4pt 0cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal" style=3D"margin-left:8.2pt;mso-element:frame;mso-ele=
+ment-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical=
+:paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#404041;mso-fareast-language:LT"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width=3D"57" valign=3D"top" style=3D"width:42.9pt;background:#FFCC03;pa=
+dding:0cm 5.4pt 0cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal" style=3D"mso-element:frame;mso-element-frame-hspace:=
+9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-ele=
+ment-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#404041;mso-fareast-language:LT"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width=3D"329" valign=3D"top" style=3D"width:246.8pt;padding:0cm 5.4pt 0=
+cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal" style=3D"mso-element:frame;mso-element-frame-hspace:=
+9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-ele=
+ment-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#404041;mso-fareast-language:LT"><o:p>&nbsp;</o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:11.7pt">
+<td width=3D"217" valign=3D"bottom" style=3D"width:162.65pt;background:#FFC=
+C03;padding:0cm 5.4pt 0cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal" style=3D"mso-element:frame;mso-element-frame-hspace:=
+9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-ele=
+ment-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#404041;mso-fareast-language:LT">UAB =84Makve=FEa=93<o:p></o:p></span><=
+/p>
+</td>
+<td width=3D"57" valign=3D"top" style=3D"width:42.9pt;background:#FFCC03;pa=
+dding:0cm 5.4pt 0cm 5.4pt;height:11.7pt">
+</td>
+<td width=3D"329" valign=3D"top" style=3D"width:246.8pt;padding:0cm 5.4pt 0=
+cm 5.4pt;height:11.7pt">
+</td>
+</tr>
+<tr style=3D"height:11.7pt">
+<td width=3D"217" valign=3D"bottom" style=3D"width:162.65pt;background:#FFC=
+C03;padding:0cm 5.4pt 0cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal" style=3D"mso-element:frame;mso-element-frame-hspace:=
+9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-ele=
+ment-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#404041;mso-fareast-language:LT">Pergal=EBs g.36, LT11202, Vilnius</spa=
+n><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;=
+color:#404041;mso-fareast-language:LT"><o:p></o:p></span></p>
+</td>
+<td width=3D"57" rowspan=3D"2" style=3D"width:42.9pt;background:#FFCC03;pad=
+ding:0cm 0cm 0cm 0cm;height:11.7pt">
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:#404041;mso-fareast-language:EN-GB"><img width=3D"47" height=3D"3=
+2" style=3D"width:.4895in;height:.3333in" id=3D"Picture_x0020_9" src=3D"cid=
+:image002.png@01D5881A.B9220780" alt=3D"img_01"></span><span style=3D"font-=
+size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#404041;mso-fare=
+ast-language:LT"><o:p></o:p></span></p>
+</td>
+<td width=3D"329" valign=3D"top" style=3D"width:246.8pt;padding:0cm 5.4pt 0=
+cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;color:#2F5496;mso-fa=
+reast-language:LT"><a href=3D"mailto:didmenavilnius9@mokivezi.lt"><span sty=
+le=3D"color:#2F5496">didmenavilnius9@mokivezi.lt</span></a><o:p></o:p></spa=
+n></p>
+</td>
+</tr>
+<tr style=3D"height:11.7pt">
+<td width=3D"217" valign=3D"bottom" style=3D"width:162.65pt;background:#FFC=
+C03;padding:0cm 5.4pt 0cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal" style=3D"mso-element:frame;mso-element-frame-hspace:=
+9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-ele=
+ment-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#404041;mso-fareast-language:LT">M. &#43;370 698 20650<o:p></o:p></span=
+></p>
+</td>
+<td width=3D"329" valign=3D"top" style=3D"width:246.8pt;padding:0cm 5.4pt 0=
+cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal" style=3D"mso-element:frame;mso-element-frame-hspace:=
+9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:paragraph;mso-ele=
+ment-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#2F5496;mso-fareast-language:LT"><a href=3D"http://www.mokivezi.lt/"><s=
+pan style=3D"color:#2F5496">www.mokivezi.lt</span></a><o:p></o:p></span></p=
+>
+</td>
+</tr>
+<tr style=3D"height:11.7pt">
+<td width=3D"217" valign=3D"top" style=3D"width:162.65pt;background:#FFCC03=
+;padding:0cm 5.4pt 0cm 5.4pt;height:11.7pt">
+</td>
+<td width=3D"57" valign=3D"top" style=3D"width:42.9pt;background:#FFCC03;pa=
+dding:0cm 5.4pt 0cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal" style=3D"margin-left:15.65pt;mso-element:frame;mso-e=
+lement-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertic=
+al:paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:#1F497D;mso-fareast-language:LT"><o:p>&nbsp;</o:p></span></p>
+</td>
+<td width=3D"329" valign=3D"top" style=3D"width:246.8pt;padding:0cm 5.4pt 0=
+cm 5.4pt;height:11.7pt">
+<p class=3D"MsoNormal" style=3D"margin-left:15.65pt;mso-element:frame;mso-e=
+lement-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertic=
+al:paragraph;mso-element-anchor-horizontal:column;mso-height-rule:exactly">
+<span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;co=
+lor:blue;mso-fareast-language:LT"><o:p>&nbsp;</o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:LT"><o:p>&nbsp;<=
+/o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_DB6PR0102MB2712A804CD7F361C757B5ED4E9690DB6PR0102MB2712_--
+
+--_005_DB6PR0102MB2712A804CD7F361C757B5ED4E9690DB6PR0102MB2712_
+Content-Type: image/png; name="image001.png"
+Content-Description: image001.png
+Content-Disposition: inline; filename="image001.png"; size=5252;
+	creation-date="Mon, 21 Oct 2019 11:20:44 GMT";
+	modification-date="Mon, 21 Oct 2019 11:20:44 GMT"
+Content-ID: <image001.png@01D5881A.B9220780>
+Content-Transfer-Encoding: base64
+
+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
+SUVORK5CYII=
+
+--_005_DB6PR0102MB2712A804CD7F361C757B5ED4E9690DB6PR0102MB2712_
+Content-Type: image/png; name="image002.png"
+Content-Description: image002.png
+Content-Disposition: inline; filename="image002.png"; size=1016;
+	creation-date="Mon, 21 Oct 2019 11:20:44 GMT";
+	modification-date="Mon, 21 Oct 2019 11:20:44 GMT"
+Content-ID: <image002.png@01D5881A.B9220780>
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAAC8AAAAgCAYAAACCcSF5AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA5pJREFUeNrUWGtIFUEUvnu7vSyLyHujNwYR9CQiKNCiCAIDe/woioKC
+KJHAHvT4ERFlURGRkQSCQVRmRoFaYT80elD9iC5WFpUWFZXcW0L29nX7jpyVddmdmZ27CB747rjr
++c6cmTlz9swYiUQi0FslRD/xePw2mklAGtAXaAG+AHXAPaAiEom8kBmLxWIn0eQCjcy9A1SCW6fA
+XYGmH3Ad+j9l+jTpBv3AeZXpp0EcgeGbEufzHP71EMhX5JLjxdxXo8j5oIdVygRuoBPCWI8rPJe5
+VcBoie5gHsQb6OYChptiUCPUsoDHMJqpwV0M1IKboaBLgygESqE/0C/nSSLALRhdqMEdDlR74K7k
+VRvgl/MkNBuVMDpFg9u5MT1wFwBn/XSeJAUogxMpmoP3wl0N3U1Ozl8CsoExwDAgHaDUVQa0S4xO
+Bnby37sB2szLgSseuf8UBnAMA0gzHzpTpWEYovw7FU0JME1g9DcNGKktpssFmoAdwGFJRBSgn61K
+qRKKz9FkcK4Whc/6ZLjQbQOO8qp1CPQ3mKGmFPMw2sxGvwrU1vnBhX4Fmn0C3SHA0m5hw7mUOpkI
+vAauwlCLLQxy0JwRbSqyqckdaX5RoUslyisOJycpDofDG4OsPApNFLgI7Oc4jeL9CBvpHPBL4MCa
+JLizLbPfiqZIpmuGzWkuzOyZ4IQtBP5I4jc1Ce4423ONQHe81fksF6Vsh3cNktytyw3bnt8JdIfq
+fqTaA/rihdsmUzCddytVKxzepQvs/U2C22R7niDQbbY6v4V3t1Xo8LHdljH6c952k+9JcN/anhfJ
+dEO8mT7D+ExZquR8nCowSiVBqSa31jJQSpWbBbpPu5y3ZIMSQZlAG+qQwGADbFxIgvvR8rxHEmI1
+yhsWndPuvsZ1vJuUu3AHeeFCfxl/a9yk1dyjQQXHZ6C5L4nXAJ877dzpnNulXDpsAAcp5CR+lWOV
+4l1hA9J5Ln+jfACmmZ7Fn3vaB30knV+m2wUumKgkpv2zimsQQ5F7nKtK4aUBcKDb1QdkLUNHfnAd
+H+ByNk+TG1LQL8RAn/l1kiLJgcH3PcClDLPLz2PgXnRe0gPcD8ASzoiBgIelchI6LGyDsVM9wK1l
+xz/5cQCvB+ZpOk7c+Ypc2pwFwBwnx73OfD0bK3L4evrJbeF0mS+7HzWdr+YaPMzvOvii9SXwCKgC
+HsBYQjEsdLh3gSd0wQTdbyozYvTmK+7/AgwAK0J/OnnklmEAAAAASUVORK5CYII=
+
+--_005_DB6PR0102MB2712A804CD7F361C757B5ED4E9690DB6PR0102MB2712_--

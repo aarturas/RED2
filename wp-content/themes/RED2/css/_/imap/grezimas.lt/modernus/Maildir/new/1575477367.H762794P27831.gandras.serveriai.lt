@@ -1,0 +1,401 @@
+Return-path: <t86002048@yahoo.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Wed, 04 Dec 2019 18:36:07 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <t86002048@yahoo.com>)
+	id 1icXdH-0007El-Jj
+	for modernus@grezimas.lt; Wed, 04 Dec 2019 18:36:07 +0200
+Received: from [77.238.178.201] (helo=sonic303-20.consmr.mail.ir2.yahoo.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92.3)
+	(envelope-from <t86002048@yahoo.com>)
+	id 1icXdH-0007Ef-A3
+	for modernus@grezimas.lt; Wed, 04 Dec 2019 18:36:07 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1575477365; bh=OkGJsP6wX1nzBEoP3QrnQhFf2bLeBmYQbvye5UZu0pQ=; h=Date:From:Subject:References:From:Subject; b=dj1DgALH1M+dKQDYVj+Ikg/HhLCwHQepvtz7oB6XtZ9HLQPfKx8nZlXH7BYUzTXcjpZen0I8BndkA0XzyE+b33lPDmRV3DXRNKi5yduqn8UvLeNisHay4unyiYQPAjJGP4BHT9s17/uyIjjqRiuG8qn+EOUKl75/+I6wCFsrFg0KbZ+3SfRPL1FWJjAha2dZ359p8qGO0KJXNmkkWK5lGHKqFhtPwIFzYSqAln7zf1lp/JYUVZsuN/wwOHUxC78DtMq6X/qUbDubZGEYN/HPMZfbVGk0CsoH1QyYUalTQYaaXFyrl8EUy9JkTnTKbJmQLZiS1BnNXxmRbmPpM+fePw==
+X-YMail-OSG: 7PYyF2kVM1kdsjpLVEU.WDFWU88ih9EiqiQevp9ZcTQ5CbWob3NrPXwuVsLxc98
+ 9nZ5oGEIlkPUeXxQRyd3iUBg1fp0AZLbt24zlnpbG.9tExfzPKN5lYL0AyY.mqqQAHh7kNNzd_He
+ MtTzdgwy5N_NHdDi3tqszggMFYyOsF2P6Llkyj4ScgyqTeuI.xVXAqTd_Ttxus2vta5ZQHDz3bwu
+ 9G_JwiD0ttfDVs3GherD7QVhlvdH6oVEF9zBR6Q_olpUjTMk.pCBkGXcC9GZ0OVNlxAA2NNf55yN
+ RppCDMLbY5kLnbLBAIqGsllZP7YWD0MsvtBuodzf4jfvlpdDSNUA7bjBL8IfvLHXPcSDgeDEJj6g
+ v6bJ69dQ0xv2x7VQ5Dpu8Uvpromcl692.sSnHN3JRT1sszHzy0KBQbJaFIv3ELfY4V1eowYPs5NQ
+ a9OabgQ3EGKfrtkkhSQPB.5BpXwDFDsILkOYouiPLKjNKP9sJBappfQytCWxKeiJDSNqxD4X7Rtx
+ W1mI.gesRFQzQJThiK8X34ptKb9E8Vz4gTPAdi7XWFiQQQQc8PMx1WwXq9tfkzXbMrR5Xbh7GN9G
+ SwINRkLziXQSImdQj2cHjDl.hUYkAIi83jhjtg3nOkBK_gZNrVjCYLmnuG7wS9fs8_ro_53ICLmV
+ pmXY3lhzjIE0BRiNhKFxrQdq7F90lmieB8_AWJuWeKCWEySJh47JxVRxzlcZUYQFa7lzZbTJm.ib
+ Jcr8eB9oDiZkqT3NAVin.qcgHFPV9k97DeJ2bzwIWo8F8kY9UXPLidTviPQJGyAfh.EjlWHQ2.1b
+ 9gtdadl7Jqe4Q4ZgjtKhepIhq2ZDhlyEijFgHiMtMxOYcCMxMjkbWjVAF_SA6cIuKjXe9KxMPvlZ
+ m9xXww_NqQThnXkzSZyufajlxfXbz8rLwucUwtSTdpP3BgA2uAiRpc2DIGyXJneVMgnksP.lBP9y
+ hpxuSLtN2_qz4vAYz3zTjlB8mF3tu5BRMhU1bwyAUTFvUFcq442Qv53gQk5XvL3HIXpYsXNs6nMf
+ rWWII8K5OcCvZ6qoSVaA22ubQHOUTSd8YypqyEAmB.vV1N.vuRhS50GvUKR6yA4r0vaaMzZXdO2Y
+ BX2I2UMdTYEz8A.YRhF3.faCm0WhFW89ho1EpBzQuIdBXug6RWhRDrP_ilYBiEB4lYSIa8scqMta
+ SA8ToSL.sLYVvzO3MVux0XfqPH9DTVtem2tRgvp2RrBOGDlcR7_RGWhCo_sci6fYfQBcTyGRTCq9
+ EvHM1dNtQz.9hb61r4sUUrJ4nYBilrBeGxbCb8txlV7PADtpsmenH4cDkCQqwxzrH8g6d1izv
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic303.consmr.mail.ir2.yahoo.com with HTTP; Wed, 4 Dec 2019 16:36:05 +0000
+Date: Wed, 4 Dec 2019 16:36:02 +0000 (UTC)
+From: Jonas Aleksandravicius <t86002048@yahoo.com>
+Message-ID: <447677775.5912223.1575477362541@mail.yahoo.com>
+Subject: 
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_5912222_1051171946.1575477362537"
+References: <447677775.5912223.1575477362541.ref@mail.yahoo.com>
+X-Mailer: WebService/1.1.14728 YMailNorrin Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Content-Length: 16283
+
+------=_Part_5912222_1051171946.1575477362537
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+| =20
+D=C4=97l privalomojo DSS kompetencijos tobulinimo=20
+  | =20
+=C2=A0
+=20
+=C5=BDemiau nurodytoms kainoms 2019 12 01 =E2=80=93 2020 01 05 taikomos 20 =
+% =C5=A1ventin=C4=97s nuolaidos.
+  |
+
+
+Aktualu:
+
+=C2=A0
+
+1.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C4=AFmoni=C5=B3 vadovams, vykdantiems darb=
+uotoj=C5=B3saugos ir sveikatos (DSS) tarnybos funkcijas,=20
+
+2.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C4=AFmoni=C5=B3 DSS specialistams,
+
+3.=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0darbdavio=C4=AFgaliotiems=C2=A0 asmenims, k=
+uriems pavestaatlikti DSS tarnybos funkcijas.
+
+=C2=A0
+
+PagalLR SADM nustytus reikalavimus auk=C5=A1=C4=8Diau pamin=C4=97ti asmenys=
+, jei pa=C5=BEym=C4=97jimus *)=C2=A0=C4=AFsigijo 2014-15 m. ir anks=C4=8Dia=
+u, turi tobulinti savokompetencij=C4=85.
+
+Norspamin=C4=97ti pa=C5=BEym=C4=97jimai yra neterminuoti, ta=C4=8Diau per k=
+iekvienus pra=C4=97jusius(paskutiniuosius)=C2=A0 5 metus reikia tur=C4=97ti=
+surinkus ne ma=C5=BEiau 50 val. kompetencijos tobulinimo kurs=C5=B3 ar semi=
+=C2=ADnar=C5=B3, kad gal=C4=97tum=C4=97te toliau vykdyti=C4=AFmon=C4=97je D=
+SS tarnybos funkcijas. Tur=C4=97ti tai patvirtinan=C4=8Dius pa=C5=BEym=C4=
+=97jimus.
+
+Jeineturite surink=C4=99 reikiamo skai=C4=8Diaus valand=C5=B3, si=C5=ABlome=
+ Jums =C4=AFsigyti kompetencijostobulinim=C4=85si patvirtinan=C4=8Dius pa=
+=C5=BEym=C4=97jimus. 19 val. =E2=80=93 30 =E2=82=AC, 35 val. =E2=80=93 55 =
+=E2=82=AC,=C2=A0 51 val. =E2=80=93 75 =E2=82=AC.
+
+Ko=C2=ADmpetencijostobulinimo seminarus vykdome nuotoliniu (neakivaizdiniu)=
+ b=C5=ABdu, baigiamojo =C5=BEini=C5=B3tikrinimo nenumatyta.UAB =E2=80=9EDar=
+bosaugos konsultacijos=E2=80=9C yra profesinio mokymoteik=C4=97ja, registru=
+ota Valstybin=C4=97j=C4=97 darbo inspekcijoje.=20
+
+=C2=A0
+
+Taippat si=C5=ABlome =C4=AFsigyti =C4=AFmoni=C5=B3 vadov=C5=B3 ir atsaking=
+=C5=B3 u=C5=BE =C4=AFmon=C4=97s prie=C5=A1gaisrin=C4=99 b=C5=ABkl=C4=99pa=
+=C5=BEym=C4=97jim=C4=85 (25 =E2=82=AC). =C5=A0ie mokymai ir atestavimas nuo=
+ 2017 08 17 taip pat gali b=C5=ABtivykdomi nuotoliniu (neakivaizdiniu) b=C5=
+=ABdu, atestavimuose jau nebedalyvaujaprie=C5=A1gaisrin=C4=97s prie=C5=BEi=
+=C5=ABros inspekcija.
+
+=C2=A0
+
+*) =C2=A0iki 2014 01 01 - kodas 1111,nuo 2014 01 01 - kodas 3106.
+
+=C2=A0
+
+UAB =E2=80=9EDarbosaugos konsultacijos=E2=80=9C =C2=A0mokym=C5=B3 vadovas=
+=C2=A0 Tomas Matekonis(8600 20480);=20
+
+matekonis.darbosauga@gmail.com=C2=A0=C2=A0=20
+
+=C2=A0
+
+| =20
+(nauja redakcija)
+=20
+PATVIRTINTA
+=20
+Lietuvos Respublikos socialin=C4=97s apsaugos ir darbo ministro=20
+=20
+2019 m. kovo 20 d. =C4=AFsakymu Nr. A1-158
+=20
+=C2=A0
+=20
+MOKYMO IR =C5=BDINI=C5=B2 DARBUOTOJ=C5=B2 SAUGOS IR SVEIKATOS
+=20
+=C2=A0KLAUSIMAIS TIKRINIMO BENDRIEJI NUOSTATAI
+=20
+I SKYRIUS
+=20
+.......................................................................
+=20
+II SKYRIUS
+=20
+DARBDAVIAMS ATSTOVAUJAN=C4=8CI=C5=B2 ASMEN=C5=B2, DARBDAVI=C5=B2 =C4=AEGALI=
+OT=C5=B2 ASMEN=C5=B2 IR ASMEN=C5=B2, SIEKIAN=C4=8CI=C5=B2 TAPTI =C2=A0DARBU=
+OTOJ=C5=B2 SAUGOS IR SVEIKATOS SPECIALISTAIS, MOKYMAS IR KOMPETENCIJOS TOBU=
+LINIMAS
+=20
+...........................................................................=
+.................................
+=20
+7. Darbdaviui atstovaujantis asmuo, atliekantis darbuotoj=C5=B3 saugos ir s=
+veikatos tarnybos funkcijas, darbdavio =C4=AFgaliotas asmuo, kuriam pavesta=
+ atlikti darbuotoj=C5=B3 saugos ir sveikatos tarnybos funkcijas, darbuotoj=
+=C5=B3 saugos ir sveikatos specialistas kompetencij=C4=85 tobulina valstyb=
+=C4=97s institucij=C5=B3 ir =C4=AFstaig=C5=B3, =C5=A1vietimo teik=C4=97j=C5=
+=B3 rengiamuose kursuose, seminaruose ar praktiniuose mokymuose darbuotoj=
+=C5=B3 saugos ir sveikatos klausimais. Darbdavi=C5=B3 =C4=AFgaliotus asmeni=
+s, kuriems pavesta atlikti darbuotoj=C5=B3 saugos ir sveikatos tarnybos fun=
+kcijas, darbuotoj=C5=B3 saugos ir sveikatos specialistus tobulinti kompeten=
+cijos siun=C4=8Dia darbdavys. Kompetencijos tobulinimo trukm=C4=97 per 5 me=
+tus turi b=C5=ABti ne trumpesn=C4=97 kaip 50=C2=A0valand=C5=B3. Informacija=
+ apie kompetencijos tobulinim=C4=85 nurodoma valstyb=C4=97s institucij=C5=
+=B3 ir =C4=AFstaig=C5=B3, =C5=A1vietimo teik=C4=97j=C5=B3 i=C5=A1duotuose k=
+urs=C5=B3, seminar=C5=B3 ar praktini=C5=B3 mokym=C5=B3 darbuotoj=C5=B3 saug=
+os ir sveikatos klausimais baigimo pa=C5=BEym=C4=97jimuose.
+  |
+
+
+=C2=A0
+
+Atsipra=C5=A1omejei =C5=A1iame lai=C5=A1ke esanti informacija Jums n=C4=97r=
+a aktuali.
+
+
+------=_Part_5912222_1051171946.1575477362537
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div class=3D"yahoo-style-wrap" style=3D"font-fami=
+ly:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;"><div dir=
+=3D"ltr" data-setdir=3D"false"><div><table class=3D"ydpecd36a41MsoNormalTab=
+le" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collap=
+se:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+ <tbody><tr>
+  <td width=3D"414" valign=3D"top" style=3D"width:310.2pt;padding:0cm 5.4pt=
+ 0cm 5.4pt">
+  <p class=3D"ydpecd36a41MsoNormal" align=3D"center" style=3D"text-align:ce=
+nter"><span lang=3D"LT">D=C4=97l
+  privalomojo DSS kompetencijos tobulinimo </span></p>
+  </td>
+  <td width=3D"262" valign=3D"top" style=3D"width:196.7pt;padding:0cm 5.4pt=
+ 0cm 5.4pt">
+  <p class=3D"ydpecd36a41MsoNormal"><span lang=3D"LT" style=3D"font-size:11=
+.0pt">&nbsp;</span></p>
+  <p class=3D"ydpecd36a41MsoNormal"><span lang=3D"LT" style=3D"font-size:11=
+.0pt;color:red">=C5=BDemiau
+  nurodytoms kainoms 2019 12 01 =E2=80=93 2020 01 05 taikomos 20 </span><sp=
+an lang=3D"LT" style=3D"font-size:11.0pt;font-family:&quot;Arial Narrow&quo=
+t;,&quot;sans-serif&quot;;color:red">%
+  =C5=A1ventin=C4=97s</span><span lang=3D"LT" style=3D"font-size:11.0pt;col=
+or:red"> nuolaidos.</span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"text-align:justify;text-indent:1=
+4.2pt"><span lang=3D"LT">Aktualu:
+</span></p>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"text-align:justify;text-indent:1=
+4.2pt"><span lang=3D"LT" style=3D"font-size:4.0pt">&nbsp;</span></p>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"margin-left: 32.2pt; text-align:=
+ justify;"><!--[if !supportLists]--><span lang=3D"LT"><span>1.<span style=
+=3D"font-style: normal; font-weight: normal; font-stretch: normal; font-siz=
+e: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span lang=3D"LT">=C4=AFmoni=C5=B3 vadov=
+ams, vykdantiems darbuotoj=C5=B3
+saugos ir sveikatos (DSS) tarnybos funkcijas, </span></p>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"margin-left: 32.2pt; text-align:=
+ justify;"><!--[if !supportLists]--><span lang=3D"LT"><span>2.<span style=
+=3D"font-style: normal; font-weight: normal; font-stretch: normal; font-siz=
+e: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span lang=3D"LT">=C4=AFmoni=C5=B3 DSS s=
+pecialistams,</span></p>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"margin-left: 32.2pt; text-align:=
+ justify;"><!--[if !supportLists]--><span lang=3D"LT"><span>3.<span style=
+=3D"font-style: normal; font-weight: normal; font-stretch: normal; font-siz=
+e: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span lang=3D"LT">darbdavio
+=C4=AFgaliotiems<span>&nbsp; </span>asmenims, kuriems pavesta
+atlikti DSS tarnybos funkcijas.</span><span lang=3D"LT"></span></p>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"margin-left:14.2pt;text-align:ju=
+stify"><span lang=3D"LT">&nbsp;</span></p>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"text-align:justify;text-indent:1=
+4.2pt"><span lang=3D"LT">Pagal
+LR SADM nustytus reikalavimus auk=C5=A1=C4=8Diau pamin=C4=97ti asmenys, jei=
+ pa=C5=BEym=C4=97jimus </span><span lang=3D"LT" style=3D"font-family:&quot;=
+Arial Narrow&quot;,&quot;sans-serif&quot;">*</span><span lang=3D"LT">)
+<span>&nbsp;</span>=C4=AFsigijo <span style=3D"background:yellow;mso-highli=
+ght:yellow">2014-15 m. ir anks=C4=8Diau</span>, turi tobulinti savo
+kompetencij=C4=85.</span></p>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"text-align:justify;text-indent:1=
+4.2pt"><span lang=3D"LT">Nors
+pamin=C4=97ti pa=C5=BEym=C4=97jimai yra neterminuoti, ta=C4=8Diau per kiekv=
+ienus pra=C4=97jusius
+(paskutiniuosius)<span>&nbsp; </span>5 metus reikia tur=C4=97ti
+surinkus ne ma=C5=BEiau 50 val. kompetencijos tobulinimo kurs=C5=B3 ar semi=
+=C2=AD</span><span lang=3D"LT">nar=C5=B3, kad gal=C4=97tum=C4=97te toliau v=
+ykdyti
+=C4=AFmon=C4=97je DSS tarnybos funkcijas. Tur=C4=97ti tai patvirtinan=C4=8D=
+ius pa=C5=BEym=C4=97jimus.</span><span lang=3D"LT"></span></p>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"text-align:justify;text-indent:1=
+4.2pt"><span lang=3D"LT">Jei
+neturite surink=C4=99 reikiamo skai=C4=8Diaus valand=C5=B3, si=C5=ABlome Ju=
+ms =C4=AFsigyti kompetencijos
+tobulinim=C4=85si patvirtinan=C4=8Dius pa=C5=BEym=C4=97jimus. 19 val. =E2=
+=80=93 30 =E2=82=AC, 35 val. =E2=80=93 55 =E2=82=AC,<span>&nbsp; </span>51 =
+val. =E2=80=93 75 =E2=82=AC.</span></p>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"text-align:justify;text-indent:1=
+4.2pt"><span lang=3D"LT">Ko=C2=ADmpetencijos
+tobulinimo seminarus vykdome nuotoliniu (neakivaizdiniu) b=C5=ABdu, baigiam=
+ojo =C5=BEini=C5=B3
+tikrinimo nenumatyta.UAB =E2=80=9EDarbosaugos konsultacijos=E2=80=9C yra pr=
+ofesinio mokymo
+teik=C4=97ja, registruota Valstybin=C4=97j=C4=97 darbo inspekcijoje. </span=
+></p>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"text-align:justify;text-indent:1=
+4.2pt"><span lang=3D"LT" style=3D"font-size:6.0pt">&nbsp;</span></p>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"text-align:justify;text-indent:1=
+4.2pt"><span lang=3D"LT">Taip
+pat si=C5=ABlome =C4=AFsigyti =C4=AFmoni=C5=B3 vadov=C5=B3 ir atsaking=C5=
+=B3 u=C5=BE =C4=AFmon=C4=97s prie=C5=A1gaisrin=C4=99 b=C5=ABkl=C4=99
+pa=C5=BEym=C4=97jim=C4=85 (25 =E2=82=AC). =C5=A0ie mokymai ir atestavimas n=
+uo 2017 08 17 taip pat gali b=C5=ABti
+vykdomi nuotoliniu (neakivaizdiniu) b=C5=ABdu, atestavimuose jau nebedalyva=
+uja
+prie=C5=A1gaisrin=C4=97s prie=C5=BEi=C5=ABros inspekcija.</span></p>
+
+<p class=3D"ydpecd36a41MsoNormal"><span lang=3D"LT" style=3D"font-size:8.0p=
+t;font-family:&quot;Arial Narrow&quot;,&quot;sans-serif&quot;">&nbsp;</span=
+></p>
+
+<p class=3D"ydpecd36a41MsoNormal"><span lang=3D"LT" style=3D"font-family:&q=
+uot;Arial Narrow&quot;,&quot;sans-serif&quot;">*</span><span lang=3D"LT">) =
+<span>&nbsp;</span>iki 2014 01 01 - kodas 1111,
+nuo 2014 01 01 - kodas 3106.</span></p>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"text-indent:14.2pt"><span lang=
+=3D"LT" style=3D"font-size:10.0pt">&nbsp;</span></p>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"text-indent:14.2pt"><span lang=
+=3D"LT">UAB =E2=80=9EDarbosaugos konsultacijos=E2=80=9C <span>&nbsp;</span>=
+</span><span lang=3D"LT">mokym=C5=B3 vadovas<span>&nbsp; </span>Tomas Matek=
+onis
+(8600 20480); </span></p>
+
+<p class=3D"ydpecd36a41MsoNormal" style=3D"text-indent:14.2pt"><span lang=
+=3D"LT"><a href=3D"mailto:matekonis.darbosauga@gmail.com" rel=3D"nofollow" =
+target=3D"_blank">matekonis.darbosauga@gmail.com</a><span>&nbsp;&nbsp; </sp=
+an><span style=3D"color:#17365D"></span></span></p>
+
+<p class=3D"ydpecd36a41MsoNormal"><span lang=3D"LT">&nbsp;</span></p>
+
+<table class=3D"ydpecd36a41MsoNormalTable" border=3D"1" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"border-collapse:collapse;border:none;mso-border-a=
+lt:solid windowtext .5pt; mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0=
+cm 5.4pt;mso-border-insideh: .5pt solid windowtext;mso-border-insidev:.5pt =
+solid windowtext">
+ <tbody><tr>
+  <td width=3D"676" valign=3D"top" style=3D"width:506.9pt;border:solid wind=
+owtext 1.0pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5=
+.4pt">
+  <p class=3D"ydpecd36a41MsoNormal"><i><span lang=3D"LT">(nauja
+  redakcija)</span></i></p>
+  <p class=3D"ydpecd36a41MsoNormal" style=3D"margin-left:11.0cm;line-height=
+:150%"><span lang=3D"LT" style=3D"mso-bidi-font-size:12.0pt;line-height:150=
+%">PATVIRTINTA</span></p>
+  <p class=3D"ydpecd36a41MsoNormal" style=3D"margin-left: 233.9pt;"><span l=
+ang=3D"LT">Lietuvos Respublikos socialin=C4=97s
+  apsaugos ir darbo ministro </span></p>
+  <p class=3D"ydpecd36a41MsoNormal" style=3D"margin-left: 233.9pt;"><span l=
+ang=3D"LT">2019 m. kovo 20 d. =C4=AFsakymu Nr.
+  A1-158</span></p>
+  <p class=3D"ydpecd36a41MsoNormal" style=3D"margin-left: 233.9pt;"><span l=
+ang=3D"LT" style=3D"font-size:8.0pt">&nbsp;</span></p>
+  <p class=3D"ydpecd36a41MsoNormal" align=3D"center" style=3D"text-align:ce=
+nter"><b><span lang=3D"LT">MOKYMO IR =C5=BDINI=C5=B2 DARBUOTOJ=C5=B2 SAUGOS=
+ IR SVEIKATOS</span></b></p>
+  <p class=3D"ydpecd36a41MsoNormal" align=3D"center" style=3D"text-align:ce=
+nter"><b><span lang=3D"LT"><span>&nbsp;</span>KLAUSIMAIS TIKRINIMO BENDRIEJ=
+I
+  NUOSTATAI</span></b></p>
+  <p class=3D"ydpecd36a41MsoNormal" align=3D"center" style=3D"text-align:ce=
+nter"><b><span lang=3D"LT">I SKYRIUS</span></b></p>
+  <p class=3D"ydpecd36a41MsoNormal" align=3D"center" style=3D"text-align:ce=
+nter;text-indent:35.45pt"><span lang=3D"LT">...............................=
+........................................</span></p>
+  <p class=3D"ydpecd36a41MsoNormal" align=3D"center" style=3D"text-align:ce=
+nter"><b><span lang=3D"LT">II SKYRIUS</span></b></p>
+  <p class=3D"ydpecd36a41MsoNormal" align=3D"center" style=3D"text-align:ce=
+nter"><b><span lang=3D"LT">DARBDAVIAMS ATSTOVAUJAN=C4=8CI=C5=B2 ASMEN=C5=B2=
+, DARBDAVI=C5=B2 =C4=AEGALIOT=C5=B2 ASMEN=C5=B2 IR
+  ASMEN=C5=B2, SIEKIAN=C4=8CI=C5=B2 TAPTI <span>&nbsp;</span>DARBUOTOJ=C5=
+=B2
+  SAUGOS IR SVEIKATOS SPECIALISTAIS, MOKYMAS IR <span style=3D"background:y=
+ellow;  mso-highlight:yellow">KOMPETENCIJOS TOBULINIMAS</span></span></b></=
+p>
+  <p class=3D"ydpecd36a41MsoNormal" style=3D"text-indent:35.45pt"><span lan=
+g=3D"LT">..................................................................=
+..........................................</span></p>
+  <p class=3D"ydpecd36a41MsoNormal" style=3D"text-align:justify;text-indent=
+:35.45pt;tab-stops:  49.65pt 2.0cm"><span lang=3D"LT" style=3D"color:black"=
+>7. <span style=3D"background:  yellow;mso-highlight:yellow">Darbdaviui ats=
+tovaujantis asmuo</span>,
+  atliekantis darbuotoj=C5=B3 saugos ir sveikatos tarnybos funkcijas, <span=
+ style=3D"background:yellow;mso-highlight:yellow">darbdavio =C4=AFgaliotas =
+asmuo</span>,
+  kuriam pavesta atlikti darbuotoj=C5=B3 saugos ir sveikatos tarnybos funkc=
+ijas, <span style=3D"background:yellow;mso-highlight:yellow">darbuotoj=C5=
+=B3 saugos ir sveikatos
+  specialistas</span> kompetencij=C4=85 tobulina valstyb=C4=97s institucij=
+=C5=B3 ir =C4=AFstaig=C5=B3,
+  =C5=A1vietimo teik=C4=97j=C5=B3 rengiamuose kursuose, seminaruose ar prak=
+tiniuose mokymuose
+  darbuotoj=C5=B3 saugos ir sveikatos klausimais. Darbdavi=C5=B3 =C4=AFgali=
+otus asmenis,
+  kuriems pavesta atlikti darbuotoj=C5=B3 saugos ir sveikatos tarnybos funk=
+cijas,
+  darbuotoj=C5=B3 saugos ir sveikatos specialistus tobulinti kompetencijos =
+siun=C4=8Dia
+  darbdavys. <span style=3D"background:yellow;mso-highlight:yellow">Kompete=
+ncijos
+  tobulinimo trukm=C4=97 per 5 metus turi b=C5=ABti ne trumpesn=C4=97 kaip =
+50&nbsp;valand=C5=B3.
+  Informacija apie kompetencijos tobulinim=C4=85 nurodoma valstyb=C4=97s in=
+stitucij=C5=B3 ir
+  =C4=AFstaig=C5=B3, =C5=A1vietimo teik=C4=97j=C5=B3 i=C5=A1duotuose kurs=
+=C5=B3, seminar=C5=B3 ar praktini=C5=B3 mokym=C5=B3
+  darbuotoj=C5=B3 saugos ir sveikatos klausimais baigimo pa=C5=BEym=C4=97ji=
+muose.</span></span><span lang=3D"LT"></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class=3D"ydpecd36a41MsoNormal"><span lang=3D"LT">&nbsp;</span></p>
+
+<p class=3D"ydpecd36a41MsoNormal"><span lang=3D"LT" style=3D"font-size:9.0p=
+t;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;mso-bidi-font-fa=
+mily:&quot;Times New Roman&quot;;color:white;background:#333333">Atsipra=C5=
+=A1ome
+jei =C5=A1iame lai=C5=A1ke esanti informacija Jums n=C4=97ra aktuali.</span=
+><span lang=3D"LT"></span></p></div><br></div></div></body></html>
+------=_Part_5912222_1051171946.1575477362537--

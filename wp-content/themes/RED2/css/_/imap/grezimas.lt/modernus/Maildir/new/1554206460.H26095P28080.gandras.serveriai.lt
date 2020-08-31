@@ -1,0 +1,165 @@
+Return-path: <newsletter@sendersrv.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 02 Apr 2019 15:01:00 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <newsletter@sendersrv.com>)
+	id 1hBI67-0007Ii-QO
+	for modernus@grezimas.lt; Tue, 02 Apr 2019 15:00:59 +0300
+Received: from [185.3.229.125] (helo=mail1.sendersrv.com)
+	by gandras.serveriai.lt with esmtp (Exim 4.90_1)
+	(envelope-from <newsletter@sendersrv.com>)
+	id 1hBI67-0007Id-Oi
+	for modernus@grezimas.lt; Tue, 02 Apr 2019 15:00:59 +0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=smtp; d=sender.lt;
+ h=From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe:Date;
+ bh=iRlqrvSnzCFuFfZD49qijmANT2k=;
+ b=ais1xDbajPXT4jsYIPp8V9zjaNbKNkrTa8IlhZMu8Eff/NnNrY4zJTG4Buok4+k1uNabd7ODvqYf
+   pwUS49zn+uCiaxHaP3HXAJlPwoffajG6T4ZyqNk5c3adghdkFzWT/DG5Fg5t/c2tvZJrB9OnQtfU
+   9luQt3SMr94fMJP9q9M=
+From: =?UTF-8?Q?Diana_Ko=C5=BEenevskyt=C4=97?= <Diana.Kozenevskyte@officeday.lt>
+To: modernus@grezimas.lt
+Message-ID: <276c53831236e0a7e227b4cc25f28fbf.1554206408454.newsletter@synergia.data.lt>
+Subject: Kvietimas!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_41230264_1093969118.1554206408453"
+Precedence: bulk
+Feedback-ID: 6148:125955:campaign:SenderNET
+X-Sender-ID: 276c53831236e0a7e227b4cc25f28fbf
+List-Unsubscribe: <http://dev.sender.lt/atsisakymas/276c53831236e0a7e227b4cc25f28fbf>, <mailto:abuse@sender.lt?subject=276c53831236e0a7e227b4cc25f28fbf&body=http://dev.sender.lt/atsisakymas/276c53831236e0a7e227b4cc25f28fbf>
+Date: Tue, 2 Apr 2019 15:00:59 +0300
+X-Spam-Checked: sender.lt, 92.61.39.3, sender.net, 104.248.86.238, vivasend.com,
+	google.com, zoho.eu, 185.20.209.52
+
+------=_Part_41230264_1093969118.1554206408453
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_41230264_1093969118.1554206408453
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html lang=3D"en"><!--<![endif]--><head> <title>Kvietimas!</=
+title> <!--[if !mso]> <!--> <meta http-equiv=3D"X-UA-Compatible" content=3D=
+"IE=3Dedge"> <!--<![endif]--> <meta http-equiv=3D"Content-Type" content=3D"=
+text/html; charset=3DUTF-8"> <meta name=3D"viewport" content=3D"width=3Ddev=
+ice-width"> <style id=3D"senderDefaultStyles" type=3D"text/css"> /* CLIENT-=
+SPECIFIC STYLES */ #outlook a { padding: 0; } /* Force Outlook to provide a=
+ "view in browser" message */ .ReadMsgBody { width: 100%; } .ExternalClass =
+{ width: 100%; } /* Force Hotmail to display emails at full width */ .Exter=
+nalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .Exte=
+rnalClass td, .ExternalClass div { line-height: 150%; } * { line-height: in=
+herit; } /* Force Hotmail to display normal line spacing */ body, table, td=
+, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; } /* Prev=
+ent WebKit and Windows mobile changing default text sizes */ table, td { ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; } /* Remove spacing between tab=
+les in Outlook 2007 and up */ img { -ms-interpolation-mode: bicubic; } /* A=
+llow smoother rendering of resized image in Internet Explorer */ /* RESET S=
+TYLES */ body { margin: 0; padding: 0; width: 100% !important; height: 100%=
+ !important; } img { border: 0; height: auto; line-height: 100%; outline: n=
+one; text-decoration: none; display: block; max-width: 100%; } p { margin: =
+0 } table { border-collapse: collapse !important; border-spacing: 0 !import=
+ant; } /* iOS BLUE LINKS */ .appleBody a { color: #68440a; text-decoration:=
+ none; } .appleFooter a { color: #999999; text-decoration: none; } h1, h2, =
+h3 { margin: 0; } h1 { font-size: 36px; font-weight: normal; } h2 { font-si=
+ze: 24px; font-weight: normal; } h3 { font-size: 20px; font-weight: normal;=
+ } body { font-family: Arial, Helvetica, sans-serif; padding: 0; margin: 0;=
+ } a { text-decoration: none; color: inherit; } .sender-1-col, .sender-1-co=
+l-1-responsive { width: 8.333333%; } .sender-2-col, .sender-2-col-2-respons=
+ive { width: 16.666667%; } .sender-3-col, .sender-3-col-3-responsive, .send=
+er-3-col-6-responsive { width: 25%; } .sender-4-col, .sender-4-col-4-respon=
+sive { width: 33.333333%; } .sender-5-col, .sender-5-col-5-responsive { wid=
+th: 41.666667%; } .sender-6-col, .sender-6-col-6-responsive { width: 50%; }=
+ .sender-7-col, .sender-7-col-7-responsive { width: 58.333333%; } .sender-8=
+-col, .sender-8-col-8-responsive { width: 66.666667%; } .sender-9-col, .sen=
+der-9-col-9-responsive { width: 75%; } .sender-10-col, .sender-10-col-10-re=
+sponsive { width: 83.333333%; } .sender-11-col, .sender-11-col-11-responsiv=
+e { width: 91.666667%; } .sender-12-col, .sender-12-col-12-responsive { wid=
+th: 100%; } .sender-3-col-6-responsive-wrapper { display: block; width: 50%=
+; float: left; overflow: auto; } @media only screen and (max-width: 640px) =
+{ table[class=3D"internal-content-table"], table.internal-content-table { w=
+idth: 100% !important; } img { max-width: 100% !important; height: auto !im=
+portant; } .columnSpacing { display: none; } /* FULL-WIDTH TABLES */ table[=
+class=3D"responsive-table"], table.responsive-table { width: 100% !importan=
+t; } td[class=3D"sender-1-col"], td.sender-1-col, td[class=3D"sender-2-col"=
+], td.sender-2-col, td[class=3D"sender-3-col"], td.sender-3-col, td[class=
+=3D"sender-4-col"], td.sender-4-col, td[class=3D"sender-5-col"], td.sender-=
+5-col, td[class=3D"sender-6-col"], td.sender-6-col, td[class=3D"sender-7-co=
+l"], td.sender-7-col, td[class=3D"sender-8-col"], td.sender-8-col, td[class=
+=3D"sender-9-col"], td.sender-9-col, td[class=3D"sender-10-col"], td.sender=
+-10-col, td[class=3D"sender-11-col"], td.sender-11-col, td[class=3D"sender-=
+12-col"], td.sender-12-col { width: 100% !important; display: block !import=
+ant; overflow: auto !important; /*padding-bottom: 20px;*/ padding-left: 0px=
+ !important; padding-right: 0px !important; } td[class=3D"sender-3-col-6-re=
+sponsive"], td.sender-3-col-6-responsive { width: 50%; padding-bottom: 20px=
+; } tr[class=3D"sender-3-col-6-responsive-wrapper"], tr.sender-3-col-6-resp=
+onsive-wrapper { display: initial !important; width: initial !important; fl=
+oat: initial !important; overflow: initial !important; } td[class=3D"intern=
+al-top-level-td"], td.internal-top-level-td { text-align: -webkit-center !i=
+mportant; } table[class=3D"hide-on-mobile"], table.hide-on-mobile { display=
+: none !important; } } </style> </head><body style=3D"background-color: rgb=
+(255, 255, 255);"><!--[if gte mso 9]><v:background xmlns:v=3D"urn:schemas-m=
+icrosoft-com:vml" fill=3D"t"> <v:fill type=3D"tile" color=3D"#ffffff"></v:f=
+ill></v:background><![endif]--><table style=3D"mso-padding-alt: 0;mso-margi=
+ng-alt: 0;" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"=
+> <tbody><tr> <td class=3D"se-email-backgroun-holder"> <table width=3D"100%=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"> <tbody=
+><tr> <td valign=3D"top"> <table class=3D"se-content-table" width=3D"100%" =
+cellspacing=3D"0" cellpadding=3D"0" align=3D"center"> <tbody><tr> <td> <tab=
+le width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D=
+"center"> <tbody><tr> <td align=3D"center"> <table width=3D"100%" cellspaci=
+ng=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"> <tbody><tr> <td s=
+tyle=3D"padding: 20px 0px 20px 0px;"> <!-- UNSUBSCRIBE COPY --> <table clas=
+s=3D"responsive-table" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" align=3D"center"> <tbody><tr> <td class=3D"browser-preview-unsu=
+bscribe-section-td" valign=3D"middle" align=3D"center"> <a class=3D"browser=
+-preview-unsubscribe-section-link" style=3D" color: #ffffff; font-size: 8px=
+; font-family: Arial, Helvetica Neue, Helvetica, sans-serif;" href=3D"https=
+://app.sender.net/campaigns/browser_preview/276c53831236e0a7e227b4cc25f28fb=
+f"> Nematote paveiksl=C4=97li=C5=B3? Spauskite =C4=8Dia. </a> </td> </tr> <=
+/tbody></table> </td> </tr> </tbody></table> </td> </tr> </tbody></table> <=
+/td> </tr> <!-- CONTENT --> <tr> <td class=3D"contentWrapper" style=3D""><t=
+able class=3D"section table-block" width=3D"100%" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0"><tbody><tr> <td bgcolor=3D"transparent"> <table sty=
+le=3D"table-layout: fixed !important;" class=3D"internal-content-table" wid=
+th=3D"640" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center=
+"> <tbody><tr> <td class=3D"internal-content-td" style=3D" padding-left: 0p=
+x; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; border-top-le=
+ft-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0p=
+x; border-bottom-right-radius: 0px; " valign=3D"top" bgcolor=3D"#ffffff"> <=
+table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"center"> <tbody><tr><td class=3D"sender-12-col" valign=3D"top" bgcolor=
+=3D"transparent"><table class=3D"table-block base-block-view" width=3D"100%=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr> <td class=3D=
+"internal-top-level-td" style=3D"padding-top: 10px; padding-right: 0px; pad=
+ding-bottom: 10px; padding-left: 0px;" bgcolor=3D"transparent" align=3D"cen=
+ter"> <div> <a href=3D"https://app.sender.net/nuoroda/fdc524649432a55c754ee=
+73d3f7a08e3/ef49fc2d9e7e4bb62e8de0e2f5792e50" rel=3D"fdc524649432a55c754ee7=
+3d3f7a08e3"> <img src=3D"https://app.vivasend.com/email_images/6148/125625/=
+kvietimas.png" alt=3D"Kvietimas!" style=3D"display: block; box-sizing: bord=
+er-box; max-width: 100%; border-radius: 0px;" width=3D"100%" height=3D"auto=
+" border=3D"0"> </a> </div> </td></tr></tbody></table></td></tr> </tbody></=
+table> </td> </tr> </tbody></table> </td></tr></tbody></table></td> </tr> <=
+!-- UNSUBSCRIBE --> <tr> <td> <table order=3D"0" width=3D"100%" cellspacing=
+=3D"0" cellpadding=3D"0"> <tbody><tr> <td align=3D"center"> <table width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"> <=
+tbody><tr> <td style=3D"padding: 20px 0px 20px 0px;"> <!-- UNSUBSCRIBE COPY=
+ --> <table class=3D"responsive-table" width=3D"100%" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center"> <tbody><tr> <td class=3D"brow=
+ser-preview-unsubscribe-section-td" valign=3D"middle" align=3D"center"> <a =
+class=3D"browser-preview-unsubscribe-section-link" href=3D"https://app.send=
+er.net/recipients/unsubscribe/276c53831236e0a7e227b4cc25f28fbf" style=3D"co=
+lor: #ffffff;font-size: 8px;font-family: Arial, Helvetica Neue, Helvetica, =
+sans-serif;"> Jeigu norite atsisakyti naujienlai=C5=A1kio, spauskite =C4=8D=
+ia </a> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </td> </t=
+r> </tbody></table> </td> </tr> </tbody></table> </td> </tr> </tbody></tabl=
+e> </td> </tr></tbody></table><img src=3D"https://app.sender.net/campaigns/=
+register_open/276c53831236e0a7e227b4cc25f28fbf" width=3D"1" height=3D"1" bo=
+rder=3D"0" alt=3D"" style=3D"height:1px !important;width:1px !important;bor=
+der-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;m=
+argin-right:0 !important;margin-left:0 !important;padding-top:0 !important;=
+padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !impo=
+rtant;outline-style:none;text-decoration:none;display:block;"></body></html=
+>
+------=_Part_41230264_1093969118.1554206408453--

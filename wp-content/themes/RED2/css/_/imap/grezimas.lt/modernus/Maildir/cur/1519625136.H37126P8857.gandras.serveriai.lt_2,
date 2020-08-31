@@ -1,0 +1,345 @@
+Return-path: <postman1010367@eml-snd.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Mon, 26 Feb 2018 08:05:36 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.89)
+	(envelope-from <postman1010367@eml-snd.com>)
+	id 1eqBup-0002Ii-SD
+	for modernus@grezimas.lt; Mon, 26 Feb 2018 08:05:35 +0200
+Received: from [85.206.175.112] (helo=smtp240.emlone.com)
+	by gandras.serveriai.lt with esmtp (Exim 4.89)
+	(envelope-from <postman1010367@eml-snd.com>)
+	id 1eqBup-0002Ib-PQ
+	for modernus@grezimas.lt; Mon, 26 Feb 2018 08:05:35 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=jun2015; d=eml-snd.com;
+ h=From:Sender:To:Message-Id:Subject:MIME-Version:Content-Type:List-Help:
+ List-Id:List-Unsubscribe:Date:no; i=postman1010367@eml-snd.com;
+ bh=o5PdJpnATEcq1pyXB5BCbZWGi8k=;
+ b=wXfESZnjGjovKxVNIpU5Exnp79O1+OnKIAYXs60E2FWrWHkF6/aqgu/gky0ogcoBLLX0OrJNr8Lp
+   JPie/QqAKYNNUfSJG7GtXCay6x8k5wjFWWpt04X5s6L3uXrZt08W6lnktO3prz6aAIi2ynEt3mKw
+   KrS6PiSpXaSWlHxhJds=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=jul2015; d=topeml.com;
+ h=From:Sender:To:Message-Id:Subject:MIME-Version:Content-Type:List-Help:
+ List-Id:List-Unsubscribe:Date;
+ bh=o5PdJpnATEcq1pyXB5BCbZWGi8k=;
+ b=AX1wNnc+UR1KW9tG6nUo8kfjrn9Yy0mNyTj3i1+aCw1SCYcHcYp7Npel8+sYCqbxWcNllmMHuYB1
+   mQgaEHU1BoH1HubKR+TlW24+j7lopt/4hOh7q2MOPll7EZGKwfesN/cBURWgF9NusreudLyAQ2Gu
+   0ILDx2izMcG2uSYgDzE=
+Received: by smtp9.emlone.com id hiehqu29nn4n for <modernus@grezimas.lt>; Mon, 26 Feb 2018 06:00:34 +0000 (envelope-from <postman1010367@eml-snd.com>)
+From: =?UTF-8?B?VUFCIOKAnlBlcnNvbmFsbyBpbXBvcnRvIHNwcmVuZGltYWnigJw=?= <info@ukrainieciai.lt>
+Sender: =?UTF-8?B?VUFCIOKAnlBlcnNvbmFsbyBpbXBvcnRvIHNwcmVuZGltYWnigJw=?= <postman1010367@eml-snd.com>
+To: modernus@grezimas.lt
+Message-Id: <E1eqBpy-UZc1wL-LF@ucs201-ucs-12.msgpanel.com>
+Subject: =?UTF-8?B?QmV0b251b3RvamFpLCBtxatyaW5pbmthaSwgcGFzdGF0xbMgYXDFoQ==?=
+ =?UTF-8?B?aWx0aW50b2phaSwgdGlua3VvdG9qYWkgYXBkYWlsaW5pbmthaQ==?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1195390_394898177.1519624834319"
+List-Help: <http://emlportal.com/en/help/forsubscribers>
+List-Id: 12699185
+List-Unsubscribe: <http://emlportal.com/en/unsubscribe/do?hash=6ftzyqngfnrwrzcdbfeowsfcpsae5a6w8ymetzpdsfik6gkcu7ws6inzat3uaejt1my8ofuxe9tqqa>
+Precedence: bulk
+X-Complaints-To: abuse@eml-snd.com
+X-EnvId: usproduction.b_152046061_15914719929
+X-Feedback-ID: 152046061:1010367:campaign:US
+Date: Mon, 26 Feb 2018 06:00:34 +0000
+X-Spam-Checked: emlportal.com, 84.237.210.20, ukrainieciai.lt, 88.99.146.119,
+	espl.work, empl.solutions, google.com
+
+------=_Part_1195390_394898177.1519624834319
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1195391_596453300.1519624834319"
+
+------=_Part_1195391_596453300.1519624834319
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear, Employer!
+
+You are welcomed by personnel selection company =E2=80=9CPersonalo Importo =
+Sprendimai=E2=80=9D from Lithuania.
+
+We are the leader in recruiting workers from Eastern Europe for European co=
+nstruction companies.
+
+We have huge database of qualified specialists in building sphere:
+
+=E2=98=85 Bricklayers
+=E2=98=85 Concrete workers
+=E2=98=85 Electricians
+=E2=98=85 Installers
+=E2=98=85 Welders
+=E2=98=85 Drywall Installers
+=E2=98=85 Painting workers
+=E2=98=85 Plasterers
+=E2=98=85 Carpenters
+
+Thanks to our offices in Lithuania (Vilnius), Ukraine (Kiev), Poland (Warsa=
+w) we can urgently send our Clients suitable personnel.
+
+Most of our Employers appreciate specialists from Ukraine as the most optim=
+al variant in compare with parametres "salary" and "qualification".
+
+Ukrainians are very persistent, responsible and industrious workers, ready =
+to work as much as necessary.
+
+We can send you workers for short period of time or for long term it depend=
+s on your company needs.
+
+We advise you to open inexhaustible source of high-quality labor force from=
+ Eastern Europe for your business!!
+
+Please let us know what kind of workers do you need and how many?
+We will send you back our proposal!
+
+Let`s cooperate!
+
+With best regards, Ana Martynenkaite,
+
+ukrainieciai.lt (http://ukrainieciai.lt/norway/?utm_source=3Dunisender&utm_=
+medium=3Ddenkmark_builders&utm_campaign=3Ddenkmark_builders)
+
++3705 259 6216 (tel:+37052596216)
+
+info@ukrainieciai.lt
+
+Vilnius, Gele=C5=BEinio Vilko g. 18A
+
+Click here (http://emlportal.com/en/unsubscribe?hash=3D6ftzyqngfnrwrzcdbfeo=
+wsfcpsae5a6w8ymetzpdsfik6gkcu7ws6inzat3uaejt1my8ofuxe9tqqa) to unsubscribe =
+from this mailing list.
+------=_Part_1195391_596453300.1519624834319
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title></title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html;charset=3DUTF-8">
+</head>
+<body>
+<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"margin: 0px auto; font-family: Arial, sans-serif=
+;" width=3D"720px">
+<tbody>
+<tr>
+<td style=3D"text-align:center;"><img alt=3D"" border=3D"0" height=3D"320" =
+src=3D"http://ukrainieciai.lt/assets/templates/img/builders-leasing3.jpg" s=
+tyle=3D"display:block;" width=3D"720"></td>
+</tr>
+<tr>
+<td height=3D"30px" style=3D"text-align:center;"></td>
+</tr>
+<tr>
+<td class=3D"bold-text text" style=3D"font-weight: bold;font-size: 16px;lin=
+e-height: 21px;">Gerbiamieji darbdaviai!</td>
+</tr>
+<tr>
+<td height=3D"30px" style=3D"text-align:center;"></td>
+</tr>
+<tr>
+<td class=3D"text" style=3D"font-size: 16px;line-height: 21px;">=E2=80=9CPe=
+rsonalo importo sprendimai=E2=80=9D - pirmaujanti =C4=AFmon=C4=97, teikiant=
+i kvalifikuot=C5=B3 specialist=C5=B3 i=C5=A1 Ukrainos paie=C5=A1k=C4=85 ir =
+atrank=C4=85 =C4=AFdarbinimui Lietuvoje.<br>
+Specialiai savo statyb=C5=B3 sektoriaus klientams si=C5=ABlome personalo nu=
+omos paslaug=C4=85.</td>
+</tr>
+<tr>
+<td height=3D"30px" style=3D"text-align:center;"></td>
+</tr>
+<tr>
+<td class=3D"text bold-text" style=3D"font-weight: bold;font-size: 16px;lin=
+e-height: 21px;">Specialiai Jums:</td>
+</tr>
+<tr>
+<td height=3D"30px" style=3D"text-align:center;"></td>
+</tr>
+<tr>
+<td>
+<ul style=3D"list-style-type: none;">
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=98=85 Nuolat atliekame profesionali=C4=85 specia=
+list=C5=B3 atrank=C4=85 Ukrainoje, Lenkijoje, Lietuvoje;</li>
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=98=85 Parengiame piln=C4=85 dokument=C5=B3 kompl=
+ekt=C4=85 legaliam darbui Lietuvoje;</li>
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=98=85 Organizuojame darbuotoj=C5=B3 atvykim=C4=
+=85 laiku;</li>
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=98=85 =C4=AEdarbiname darbuotojus savo =C4=AFmon=
+=C4=97je, kad Jus i=C5=A1vengtum=C4=97te papildom=C5=B3 r=C5=ABpes=C4=8Di=
+=C5=B3;</li>
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=98=85 Mes par=C5=ABpiname kandidatams apgyvendin=
+im=C4=85;</li>
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=98=85 Pristatome darbininkus =C4=AF objekt=C4=85=
+.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td height=3D"30px" style=3D"text-align:center;"></td>
+</tr>
+<tr>
+<td class=3D"text bold-text" style=3D"font-weight: bold;font-size: 16px;lin=
+e-height: 21px;">Kokius darbuotojus Jus galite i=C5=A1sinuomoti jau dabar:<=
+/td>
+</tr>
+<tr>
+<td height=3D"30px" style=3D"text-align:center;"></td>
+</tr>
+<tr>
+<td>
+<ul style=3D"list-style-type: none;">
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=9E=A0 Betonuotojai;</li>
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=9E=A0 M=C5=ABrininkai;</li>
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=9E=A0 Pastat=C5=B3 ap=C5=A1iltintojai;</li>
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=9E=A0 Gipso kartono montuotojai;</li>
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=9E=A0 Da=C5=BEytojai;</li>
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=9E=A0 Plyteli=C5=B3 kloj=C4=97jai.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td height=3D"30px" style=3D"text-align:center;"></td>
+</tr>
+<tr>
+<td class=3D"text bold-text" style=3D"font-weight: bold;font-size: 16px;lin=
+e-height: 21px;">Personalo nuomos paslaugos privalumai:</td>
+</tr>
+<tr>
+<td height=3D"30px" style=3D"text-align:center;"></td>
+</tr>
+<tr>
+<td>
+<ul style=3D"list-style-type: none;">
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=98=85 Svarbiausia - J=C5=ABs sutaupote laik=C4=
+=85.</li>
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=98=85 Darbuotojai su visais dokumentais yra pasi=
+reng=C4=99 prad=C4=97ti dirbti "nors ir =C5=A1iandien";</li>
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=98=85 J=C5=ABs galite i=C5=A1sinuomoti personal=
+=C4=85 bet kuriam laikotarpiui;</li>
+<li class=3D"text margin-bottom" style=3D"font-size: 16px;line-height: 21px=
+;margin-bottom: 10px;">=E2=98=85 Joki=C5=B3 problem=C5=B3 su dokumentais. J=
+=C5=ABs statote - mes pristatome darbuotojus!</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td height=3D"30px" style=3D"text-align:center;"></td>
+</tr>
+<tr>
+<td class=3D"text" style=3D"font-size: 16px;line-height: 21px;">Aktyviai =
+=C5=A1ia paslauga teiksime nuo baland=C5=BEio, bet busime paruo=C5=A1ti jau=
+ kovo m=C4=97nes=C4=AF.</td>
+</tr>
+<tr>
+<td height=3D"30px" style=3D"text-align:center;"></td>
+</tr>
+<tr>
+<td class=3D"text" style=3D"font-size: 16px;line-height: 21px;">Mes jau pri=
+imame i=C5=A1ankstines parai=C5=A1kas!</td>
+</tr>
+<tr>
+<td class=3D"text" style=3D"font-size: 16px;line-height: 21px;">Geriausi sp=
+ecialistai visada turi didel=C4=99 paklaus=C4=85, tod=C4=97l paskub=C4=97ki=
+te!</td>
+</tr>
+<tr>
+<td height=3D"30px" style=3D"text-align:center;"></td>
+</tr>
+<tr>
+<td class=3D"text" style=3D"font-size: 16px;line-height: 21px;">Mes mielai =
+atsakysime =C4=AF visus J=C5=ABs=C5=B3 klausimus.</td>
+</tr>
+<tr>
+<td height=3D"30px" style=3D"text-align:center;"></td>
+</tr>
+</tbody>
+</table>
+<table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"margin: 0px auto; font-family: Arial, sans-serif=
+;" width=3D"720px">
+<tbody>
+<tr>
+<td style=3D"font-size:16px; line-height:20px; width: 20px; padding-bottom:=
+ 15px; font-weight: bold;">Pagarbiai J=C5=ABs=C5=B3, =E2=80=9CPersonalo imp=
+orto sprendimai=E2=80=9D</td>
+</tr>
+<tr>
+<td class=3D"image-w td-indent" style=3D"font-size:16px; line-height:20px; =
+width: 20px;padding-bottom: 5px;"><img alt=3D"Website Lietuva:" class=3D"im=
+g-style" src=3D"http://espl.work/assets/templates/img/lithuana-flag.png" st=
+yle=3D"width: 20px;padding-right: 2px;"><a href=3D"http://emlportal.com/en/=
+mail_link_tracker?hash=3D67nks77huryewo6rrqzjirfy5w7ndq7xfnjjwgbzaxs6rk8b5u=
+1a1sop9js9wbwfz81q4uia7txk6w&url=3DaHR0cDovL3VrcmFpbmllY2lhaS5sdC9wZXJzb25u=
+ZWwtbGVhc2luZy8_dXRtX3NvdXJjZT11bmlzZW5kZXImdXRtX21lZGl1bT1idWlsZGVycyZ1dG1=
+fY2FtcGFpZ249YnVpbGRlcnM~" style=3D"text-decoration: none;" target=3D"_blan=
+k">ukrainieciai.lt</a></td>
+</tr>
+<tr>
+<td class=3D"image-w td-indent" style=3D"font-size:16px; line-height:20px; =
+width: 20px;padding-bottom: 5px;"><img alt=3D"Website Ukraine:" class=3D"im=
+g-style" src=3D"http://pl.empl.solutions/assets/templates/img/logo-calls1.p=
+ng" style=3D"width: 20px;padding-right: 2px;"><a href=3D"tel:+37052596216" =
+style=3D"text-decoration: none; color: #000;" target=3D"_blank">+3705 259 6=
+216</a></td>
+</tr>
+<tr>
+<td class=3D"image-w td-indent" style=3D"font-size:16px; line-height:20px; =
+width: 20px;padding-bottom: 15px;"><img alt=3D"email" class=3D"img-style" s=
+rc=3D"http://pl.empl.solutions/assets/templates/img/email-logo-unice.png" s=
+tyle=3D"width: 20px;padding-right: 2px;"><a href=3D"mailto:info@ukrainiecia=
+i.lt" style=3D"text-decoration: none;" target=3D"_blank">info@ukrainieciai.=
+lt</a></td>
+</tr>
+<tr>
+<td class=3D"td-indent" style=3D"font-size:16px; line-height:20px; padding-=
+bottom: 15px;">Vilnius, Gele=C5=BEinio Vilko g. 18A</td>
+</tr>
+<tr>
+<td height=3D"30px" style=3D"text-align:center;"></td>
+</tr>
+<tr>
+<td style=3D"text-align:right; width: 100%; height: 10px; background-positi=
+on: center; background-image:url(http://ukrainieciai.lt/assets/templates/im=
+g/footer-top-bg.jpg)"></td>
+</tr>
+<tr>
+<td height=3D"30px" style=3D"text-align:center;"></td>
+</tr>
+<tr>
+<td class=3D"text" style=3D"font-size: 12px;line-height: 16px;text-align: c=
+enter;">You received this letter, because you left an application<br>
+or subscribed to our newsletter on the ukrainieciai.lt website.<br>
+If the letter has got to you casually - we bring the deepest apologies.</td=
+>
+</tr>
+</tbody>
+</table>
+<table bgcolor=3D"white" align=3D"left" width=3D"100%"><tr><td><span style=
+=3D"font-family: arial,helvetica,sans-serif; color: black; font-size: 12px;=
+"><p style=3D"text-align: center; color: #bababa;">Click <a style=3D"color:=
+ #46a8c6;" href=3D"http://emlportal.com/en/unsubscribe?hash=3D6ftzyqngfnrwr=
+zcdbfeowsfcpsae5a6w8ymetzpdsfik6gkcu7ws6inzat3uaejt1my8ofuxe9tqqa">here</a>=
+ to unsubscribe from this mailing list.</p></span></td></tr></table><center=
+><table><tr><td><img src=3D"http://emlportal.com/en/mail_read_tracker/10103=
+67?hash=3D6zx317t5hqzc4jhdpccppxoqwo71f5d6wjgi6jx1wxx6idj3kj1wy" width=3D"1=
+" height=3D"1" alt=3D"" title=3D"" border=3D"0"></td></tr></table></center>=
+</body>
+</html>
+------=_Part_1195391_596453300.1519624834319--
+
+------=_Part_1195390_394898177.1519624834319--

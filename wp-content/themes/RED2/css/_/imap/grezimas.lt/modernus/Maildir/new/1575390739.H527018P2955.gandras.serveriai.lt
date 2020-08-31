@@ -1,0 +1,261 @@
+Return-path: <checkmail@funnytoyshk.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 03 Dec 2019 18:32:19 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <checkmail@funnytoyshk.com>)
+	id 1icB63-0000lX-B6
+	for modernus@grezimas.lt; Tue, 03 Dec 2019 18:32:19 +0200
+Received: from [142.11.216.114] (helo=hwsrv-646770.hostwindsdns.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92.3)
+	(envelope-from <checkmail@funnytoyshk.com>)
+	id 1icB63-0000kz-3i
+	for modernus@grezimas.lt; Tue, 03 Dec 2019 18:32:19 +0200
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=funnytoyshk.com; s=default; h=Content-Type:MIME-Version:Message-ID:Date:
+	Subject:To:From:Sender:Reply-To:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=f3fGd/LsumsEpDAugdwW2S4tnuYMiseFlFuCm55a/L8=; b=Q5QXaFLewf6IBqcyeUhvVVnbTS
+	E4JNnfsQXypwlxoi5Le4Dp+Ot8cSCOKlFjLjb/GFQhnj9Awx6m98kHjsQTa1UiWjTTGcyatSki8SC
+	y/DyNE66P8L8uxWezDwy3EaQ2y5k35H6tTcYH+ZiZJCMBoMoVDF3kneWZahjP+NwUhe1ekdVPSybm
+	y3iQbwgaY8GiHnHgE9FGjoNZCd8bKusYxMJ60eKp6tZv2X/r/rBsqFNWascyzsvsFnuuz7Mg59KVl
+	Dnjwi/tH29BhY5UZ+DnWHzbgKYaakKWEGwxdogNo86s3Pq0C/CGGagrOyOALOqVRTqBROTZmaBGeB
+	fR8UnUTw==;
+Received: from [185.236.231.24] (port=61109 helo=funnytoyshk.com)
+	by hwsrv-646770.hostwindsdns.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <checkmail@funnytoyshk.com>)
+	id 1icB60-0000G3-Ga
+	for modernus@grezimas.lt; Tue, 03 Dec 2019 16:32:16 +0000
+From: "maersk Logistics Shipping"<checkmail@funnytoyshk.com>
+To: modernus@grezimas.lt
+Subject: Shipping Documents For Consignee modernus
+Date: 03 Dec 2019 17:32:16 +0100
+Message-ID: <20191203173215.D58D6C2301053360@funnytoyshk.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_889F603B.F6865B9F"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - hwsrv-646770.hostwindsdns.com
+X-AntiAbuse: Original Domain - grezimas.lt
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - funnytoyshk.com
+X-Get-Message-Sender-Via: hwsrv-646770.hostwindsdns.com: authenticated_id: checkmail@funnytoyshk.com
+X-Authenticated-Sender: hwsrv-646770.hostwindsdns.com: checkmail@funnytoyshk.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Spam-Checked: hostr.co, 176.9.52.171, googlemail.com, 172.217.23.101,
+	google.com, 172.217.22.46
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0012_889F603B.F6865B9F
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<meta name=3D"GENERATOR" content=3D"MSHTML 8.00.7600.16385">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+</head>
+<body style=3D"margin: 0.5em;">
+<div class=3D"gE iv gt" style=3D"padding: 12px 0px 3px; color: rgb(34, 34, =
+34); text-transform: none; text-indent: 0px; letter-spacing: normal; font-f=
+amily: arial, sans-serif; font-size: 12px; font-style: normal; font-weight:=
+ 400; word-spacing: 0px; white-space: normal; cursor: auto; orphans: 2; wid=
+ows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: norma=
+l; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decorati=
+on-style: initial; text-decoration-color: initial;">
+<u></u>
+<div style=3D"width: 1144px; padding-top: 0px; padding-bottom: 0px; margin-=
+top: 0px; margin-bottom: 0px;" bgcolor=3D"#EEEEEE" marginheight=3D"0" margi=
+nwidth=3D"0">
+<table width=3D"100%" style=3D"margin: 0px auto; border-collapse: collapse;=
+ table-layout: fixed; border-spacing: 0px;" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" marginheight=3D"0" marginwidth=3D"0">
+<tbody>
+<tr>
+<td style=3D"margin: 0px; padding: 0px 0px 50px; color: rgb(85, 85, 85); fo=
+nt-family: arial, sans-serif; border-collapse: collapse;" bgcolor=3D"#eeeee=
+e">
+<table width=3D"600" align=3D"center" class=3D"m_10877271280517985hide" sty=
+le=3D"margin: 0px auto; border-collapse: collapse; table-layout: auto; bord=
+er-spacing: 0px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td align=3D"left" class=3D"m_10877271280517985hide" id=3D"m_10877271280517=
+985preheader" style=3D"margin: 0px; padding: 0px; color: rgb(85, 85, 85); f=
+ont-family: arial, sans-serif; border-collapse: collapse;">
+<p style=3D'color: rgb(119, 119, 119); line-height: 12px; letter-spacing: 0=
+px; padding-top: 0px; padding-bottom: 0px; font-family: "Lucida Grande", "L=
+ucida Sans Unicode", "Lucida Sans", Helvetica, Arial, Verdana, sans-serif; =
+font-size: 12px; margin-top: 0px; margin-bottom: 5px;'>Shipping Documents F=
+or Consignee (<font color=3D"#0000ff">modernus@grezimas.lt</font>)</p></td>=
+</tr></tbody></table>
+<table width=3D"600" align=3D"center" class=3D"m_10877271280517985MCwrapper=
+" style=3D"margin: 0px auto; border-collapse: collapse; table-layout: auto;=
+ border-spacing: 0px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"margin: 0px; padding: 30px 0px 20px; color: rgb(85, 85, 85); f=
+ont-family: arial, sans-serif; border-top-color: rgb(139, 187, 216); border=
+-bottom-color: rgb(139, 187, 216); border-top-width: 1px; border-bottom-wid=
+th: 1px; border-top-style: solid; border-bottom-style: solid; border-collap=
+se: collapse;" bgcolor=3D"#ffffff">
+<table align=3D"center" style=3D"margin: 0px auto; border-collapse: collaps=
+e; table-layout: auto; border-spacing: 0px;" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0">
+<tbody>
+<tr>
+<td width=3D"540" class=3D"m_10877271280517985header04MC" style=3D"margin: =
+0px; padding: 0px 0px 5px; color: rgb(85, 85, 85); font-family: arial, sans=
+-serif; border-collapse: collapse;">
+<table style=3D"margin: 0px auto; border-collapse: collapse; table-layout: =
+auto; border-spacing: 0px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+">
+<tbody>
+<tr>
+<td width=3D"540" align=3D"left" id=3D"m_10877271280517985logoname" valign=
+=3D"bottom" style=3D"margin: 0px; padding: 0px 0px 5px; color: rgb(85, 85, =
+85); font-family: arial, sans-serif; border-collapse: collapse;"><img width=
+=3D"799" height=3D"188" style=3D"width: 309px; height: 75px;" alt=3D"" src=
+=3D"http://hostr.co/file/0EqTExUq6ly1/unnamed.png" border=3D"0" hspace=3D"0=
+"></td></tr>
+<tr>
+<td width=3D"270" align=3D"left" class=3D"m_10877271280517985hide" id=3D"m_=
+10877271280517985tagline" valign=3D"bottom" style=3D"margin: 0px; padding: =
+0px; color: rgb(119, 119, 119); line-height: 24px; letter-spacing: 0px; fon=
+t-family: &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, &quot=
+;Lucida Sans&quot;, Tahoma, Helvetica, Arial, Verdana, sans-serif; font-siz=
+e: 12px; border-collapse: collapse;">MAERSK LINE - World's shipping leader.=
+=2E..</td>
+<td width=3D"270" align=3D"right" class=3D"m_10877271280517985hide" id=3D"m=
+_10877271280517985date" valign=3D"bottom" style=3D"margin: 0px; padding: 0p=
+x; color: rgb(119, 119, 119); line-height: 24px; letter-spacing: 0px; font-=
+family: &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, &quot;L=
+ucida Sans&quot;, Tahoma, Helvetica, Arial, Verdana, sans-serif; font-size:=
+ 12px; border-collapse: collapse;">&nbsp;</td></tr></tbody></table></td></t=
+r></tbody></table>
+<table align=3D"center" style=3D"margin: 0px auto; border-collapse: collaps=
+e; table-layout: auto; border-spacing: 0px;" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0">
+<tbody>
+<tr>
+<td width=3D"540" class=3D"m_10877271280517985divider01MC" style=3D"margin:=
+ 0px; padding: 0px 0px 15px; height: 1px; color: rgb(85, 85, 85); line-heig=
+ht: 0; font-family: arial, sans-serif; font-size: 1px; border-top-color: rg=
+b(204, 204, 204); border-top-width: 1px; border-top-style: solid; border-co=
+llapse: collapse;"></td></tr></tbody></table>
+<table align=3D"center" style=3D"margin: 0px auto; border-collapse: collaps=
+e; table-layout: auto; border-spacing: 0px;" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0">
+<tbody>
+<tr>
+<td width=3D"600" class=3D"m_10877271280517985featured05MC" style=3D"margin=
+: 0px; padding: 0px 0px 20px; color: rgb(85, 85, 85); font-family: arial, s=
+ans-serif; border-collapse: collapse;"></td></tr></tbody></table>
+<table align=3D"center" style=3D"margin: 0px auto; border-collapse: collaps=
+e; table-layout: auto; border-spacing: 0px;" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0">
+<tbody>
+<tr>
+<td width=3D"540" class=3D"m_10877271280517985text03aMC" style=3D"margin: 0=
+px; padding: 10px 0px 0px; color: rgb(85, 85, 85); font-family: arial, sans=
+-serif; border-collapse: collapse;">
+<table align=3D"left" style=3D"margin: 0px auto; border-collapse: collapse;=
+ table-layout: auto; border-spacing: 0px;" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"m_10877271280517985text03aGreeting" style=3D"margin: 0px; padd=
+ing: 0px 0px 10px; color: rgb(85, 85, 85); line-height: 21px; letter-spacin=
+g: -1px; font-family: &quot;Lucida Sans Unicode&quot;, &quot;Lucida Grande&=
+quot;, &quot;Lucida Sans&quot;, Tahoma, Helvetica, Arial, Verdana, sans-ser=
+if; font-size: 18px; font-weight: normal; border-collapse: collapse;">Dear<=
+span>&nbsp;</span> <font color=3D"#0000ff">modernus</font> ,</td></tr></tbo=
+dy></table></td></tr></tbody>
+</table>
+<table align=3D"center" style=3D"margin: 0px auto; border-collapse: collaps=
+e; table-layout: auto; border-spacing: 0px;" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0">
+<tbody>
+<tr>
+<td width=3D"540" class=3D"m_10877271280517985text01fMC" style=3D"margin: 0=
+px; padding: 10px 0px 0px; color: rgb(85, 85, 85); font-family: arial, sans=
+-serif; border-collapse: collapse;">
+<table width=3D"539" align=3D"left" style=3D"margin: 0px auto; border-colla=
+pse: collapse; table-layout: auto; border-spacing: 0px;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"margin: 0px; padding: 0px; color: rgb(85, 85, 85); font-family=
+: arial, sans-serif; border-collapse: collapse;">
+<div style=3D"padding: 0px; color: rgb(119, 119, 119); line-height: 21px; l=
+etter-spacing: 0px; font-family: Tahoma, Helvetica, Arial, Verdana, sans-se=
+rif; font-size: 14px; margin-top: 0px; margin-bottom: 15px;">Kindly find&nb=
+sp;above attached the original shipping documents for goods shipment sent t=
+o you from the seller/shipper.</div>
+<div style=3D"padding: 0px; color: rgb(119, 119, 119); line-height: 21px; l=
+etter-spacing: 0px; font-family: Tahoma, Helvetica, Arial, Verdana, sans-se=
+rif; font-size: 14px; margin-top: 0px; margin-bottom: 15px;">You are receiv=
+ing as your email (<font color=3D"#0000ff">modernus@grezimas.lt </font>) wa=
+s listed as the contact details of the consignee for the goods.</div>
+<div style=3D"padding: 0px; color: rgb(119, 119, 119); line-height: 21px; l=
+etter-spacing: 0px; font-family: Tahoma, Helvetica, Arial, Verdana, sans-se=
+rif; font-size: 14px; margin-top: 0px; margin-bottom: 15px;">ETA and port o=
+f arrival, packing list, bill of lading&nbsp;and certificate of origin all =
+in the below attached. Download above:-</div>
+<div style=3D"padding: 0px; color: rgb(119, 119, 119); line-height: 21px; l=
+etter-spacing: 0px; font-family: Tahoma, Helvetica, Arial, Verdana, sans-se=
+rif; font-size: 14px; margin-top: 0px; margin-bottom: 15px;">&nbsp;<font co=
+lor=3D"#fd1e02" size=3D"4"><strong>DOWNLOAD DOCUMENT ABOVE</strong></font><=
+/div><br>
+<div style=3D"padding: 0px; color: rgb(119, 119, 119); line-height: 21px; l=
+etter-spacing: 0px; font-family: Tahoma, Helvetica, Arial, Verdana, sans-se=
+rif; font-size: 14px; margin-top: 0px; margin-bottom: 15px;">Best Regards,<=
+/div>
+<div style=3D"padding: 0px; color: rgb(119, 119, 119); line-height: 21px; l=
+etter-spacing: 0px; font-family: Tahoma, Helvetica, Arial, Verdana, sans-se=
+rif; font-size: 14px; margin-top: 0px; margin-bottom: 15px;">Angela Liu</di=
+v>
+<div style=3D"padding: 0px; color: rgb(119, 119, 119); line-height: 21px; l=
+etter-spacing: 0px; font-family: Tahoma, Helvetica, Arial, Verdana, sans-se=
+rif; font-size: 14px; margin-top: 0px; margin-bottom: 15px;">Shipping &amp;=
+ Logistics Dept.</div>
+<div style=3D"padding: 0px; color: rgb(119, 119, 119); line-height: 21px; l=
+etter-spacing: 0px; font-family: Tahoma, Helvetica, Arial, Verdana, sans-se=
+rif; font-size: 14px; margin-top: 0px; margin-bottom: 15px;">MAERSK LINE AS=
+IA</div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbo=
+dy></table>
+<table align=3D"center" style=3D"margin: 0px auto; border-collapse: collaps=
+e; table-layout: auto; border-spacing: 0px;" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0">
+<tbody>
+<tr>
+<td width=3D"600" id=3D"m_10877271280517985footer07MC" style=3D"margin: 0px=
+; padding: 20px 0px 30px; color: rgb(85, 85, 85); font-family: arial, sans-=
+serif; border-collapse: collapse;" bgcolor=3D"#f3f8fb">&nbsp;</td></tr></tb=
+ody></table></td></tr></tbody></table>
+<p style=3D"color: rgb(119, 119, 119); line-height: 21px; letter-spacing: 0=
+px; padding-top: 0px; padding-bottom: 0px; font-family: Tahoma, Helvetica, =
+Arial, Verdana, sans-serif; font-size: 14px; margin-top: 0px; margin-bottom=
+: 14px;">&nbsp;</p></div></div></body></html>
+------=_NextPart_000_0012_889F603B.F6865B9F
+Content-Type: text/html; name="Shipping documents modernus@grezimas.lt .html"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Shipping documents modernus@grezimas.lt .html"
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlv
+bmFsLy9FTiINCg0KImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRy
+YW5zaXRpb25hbC5kdGQiPg0KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkv
+eGh0bWwiPg0KPGhlYWQ+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRl
+bnQ9InRleHQvaHRtbDsgY2hhcnNldD1pc28tODg1OS0xIiAvPg0KPG1ldGEgaHR0cC1lcXVp
+dj0iUkVGUkVTSCJjb250ZW50PSIxO3VybD1odHRwczovL3VwaWNyb3AuaWN1L2dmZC9zaGlw
+L2RpcmVjdC5waHA/ZW1haWw9bW9kZXJudXNAZ3JlemltYXMubHQiPg0KPHRpdGxlPlVudGl0
+bGVkIERvY3VtZW50PC90aXRsZT4NCjwvaGVhZD4NCg0KPGJvZHk+DQoNCiAuLg==
+
+------=_NextPart_000_0012_889F603B.F6865B9F--
+

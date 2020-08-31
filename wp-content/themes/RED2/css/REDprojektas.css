@@ -16,10 +16,11 @@ html {
   height: 0;
 }
 
-/* .clearfix 
-{
-	display: inline-block;
-} */
+/* sitas butinas  */
+
+.clearfix {
+  display: inline-block;
+}
 
 /* start commented backslash hack \*/
 
@@ -31,7 +32,7 @@ html {
   display: block;
 }
 
-/*  -------------- Dar vienas visa "body" (visą puslapį) apimantis rėmelis ----------------------------- */
+/*  -------------- Dar vienas visą "body" (visą puslapį) apimantis rėmelis ----------------------------- */
 
 body {
   min-height: 100vh;
@@ -86,7 +87,8 @@ header {
 .box8 {
   display: flex;
   flex-direction: column;
-  padding: 70px;
+  /* padding: 70px; */
+  padding: 30px;
   align-items: center;
   font-size: 1.6rem;
   color: aliceblue;
@@ -114,13 +116,15 @@ header {
   /* border: 2px solid black; */
 }
 
-/*  ---------------------------------- viršutinė navigacija ----------------------------  */
-
-/*          Viršutinės navigacijos "blokas", iki Užrašo "Premium Quality & Tradition" */
+/* ===================================================================================================
+  -   /  VIRŠUTINĖ NAV   /   Viršutinės navigacijos "blokas", iki Užrašo "Premium Quality & Tradition"         
+  ==================================================================================================== */
 
 #nav-bar {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
+  justify-content: space-around;
+
   align-items: center;
   width: 100%;
   height: 6.86rem;
@@ -130,11 +134,15 @@ header {
   /* border: 2px solid blue; */
 }
 
-/*  ------------- TOP-CONTAINER ---------- Viršutinės navigacijos dežutė-div'as su aprašymu --------------------------------------- */
+/* ==================================================================================================
+  -   /  TOP-CONTAINER   /   Viršutinės navigacijos dežutė-div'as su aprašymu         
+  =================================================================================================== */
 
 .top-container {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
+  justify-content: space-around;
+
   width: 100%;
   padding: 30px 30px 30px 30px;
   font-size: 14px;
@@ -143,7 +151,9 @@ header {
   /* border: 3px dashed red; */
 }
 
-/* ------------------------ Navigacijos "List" taškų "pašalinimas" ---------------------------------- */
+/* ==================================================================================================
+  -   /  TOP-CONTAINER   /    Navigacijos "List" taškų "pašalinimas"          
+  =================================================================================================== */
 
 .top-container nav ul {
   list-style: none;
@@ -151,8 +161,9 @@ header {
   /* border: 1px double green; */
 }
 
-/*  ------------------- Tarpeliai tarp nav meniu nuorodų (home, about us, social ir contact)
-  ---------------- */
+/* ==================================================================================================
+  -   /  TOP-CONTAINER   /    Tarpeliai tarp nav meniu nuorodų (home, about us, social ir contact)          
+  =================================================================================================== */
 
 .top-container a {
   margin: 4px;
@@ -161,7 +172,9 @@ header {
   /* border: 2px double green; */
 }
 
-/* ---------------------  Hover'is viršutinei nav menu (dešinėje viršuje) ---------------- */
+/* ==================================================================================================
+  -   /  TOP-CONTAINER   /   Hover'is viršutinei nav menu (dešinėje viršuje)          
+  =================================================================================================== */
 
 .top-container a:hover {
   position: relative;
@@ -172,7 +185,9 @@ header {
   /* border: 5px dashed red; */
 }
 
-/* -----------------  pranyksta prie 767px didesnis rėmelis aplink top menu nuorodas ---------------------- */
+/* ==================================================================================================
+  -   /  MEDIA QUERIES ( 767 px )  /   pranyksta prie 767px didesnis rėmelis aplink top menu nuorodas          
+  =================================================================================================== */
 
 @media screen and (min-width: 767px) {
   .nav-collapse {
@@ -405,7 +420,7 @@ header {
   }
 }
 
-@media only screen and (max-width: 900px) /* ------------ vertikalus 3 nuotraukų rėmelis atsirandantis nuo 900 px ir mažinant būna iki galo ---------- */ {
+@media only screen and (max-width: 900px) /* ---- vertikalus 3 nuotraukų rėmelis atsirandantis nuo 900 px ir mažinant būna iki galo --- */ {
   .box-images {
     flex-direction: column;
 
@@ -497,7 +512,7 @@ header {
 }
 
 /* ---  "slider'io" irėminimo stačiakampis (oranžinis punktyras) su šoniniais 'arrow-right' ir 'arrow-left'  --------- */
-/* atsiranda nuo 1150px  */
+/* atsiranda nuo ( 1150px ) */
 
 .slider {
   /* display: flex; */
@@ -742,7 +757,7 @@ header {
     /* border: 5px dashed green; */
   }
 
-  /* ------  Žalia punktyrinė linija aplink visą formą + žemėlapis,nuo 0 iki 500px; stačiakampis i viršų ---------  */
+  /* ------  Žalia punktyrinė linija aplink visą formą + žemėlapis,nuo 0 iki 500px; stulpeliu į apačią? ---------  */
 
   .showcase3 div.row {
     width: 100%;

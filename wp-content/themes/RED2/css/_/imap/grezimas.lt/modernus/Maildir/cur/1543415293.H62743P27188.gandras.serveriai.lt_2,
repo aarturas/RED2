@@ -1,0 +1,106 @@
+Return-path: <newsletter@sendersrv.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Wed, 28 Nov 2018 16:28:13 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <newsletter@sendersrv.com>)
+	id 1gS0p2-00074L-S3
+	for modernus@grezimas.lt; Wed, 28 Nov 2018 16:28:12 +0200
+Received: from [185.3.229.125] (helo=mail1.sendersrv.com)
+	by gandras.serveriai.lt with esmtp (Exim 4.90_1)
+	(envelope-from <newsletter@sendersrv.com>)
+	id 1gS0p2-00074F-Ph
+	for modernus@grezimas.lt; Wed, 28 Nov 2018 16:28:12 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=smtp; d=sender.lt;
+ h=From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe:Date;
+ bh=GOpnQ89MtV5b4SLQ3qqegqlQ9Dw=;
+ b=jnowvjuGE61zTPg4fDJkrRnKPk0t6Wg50Pm+7rqgQRZIjC/SpBMwMOKIjW7+l08QdM4IuK3aTriI
+   6EAm69UWwBPYOXrpUft3FkPzEIaThVHRsYBbFi59uwYz07fLBhDIm4LuOrcAhHqQCDHPh6WD2UUD
+   f7LWkBdhuz7IH06w6/s=
+From: =?UTF-8?Q?Ugn=C4=97?= <knyga@zalgiriomusis.lt>
+To: modernus@grezimas.lt
+Message-ID: <9bbd203fc9f50d7d5a71fd261dc1f302.1543415291095.newsletter@synergia.data.lt>
+Subject: =?UTF-8?Q?Paskutin=C4=97_minut=C4=97_(liko_2_dienos...)?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_35889640_130369699.1543415291095"
+Precedence: bulk
+Feedback-ID: 117:101637:campaign:SenderNET
+X-Sender-ID: 9bbd203fc9f50d7d5a71fd261dc1f302
+List-Unsubscribe: <http://dev.sender.lt/atsisakymas/9bbd203fc9f50d7d5a71fd261dc1f302>, <mailto:abuse@sender.lt?subject=9bbd203fc9f50d7d5a71fd261dc1f302&body=http://dev.sender.lt/atsisakymas/9bbd203fc9f50d7d5a71fd261dc1f302>
+Date: Wed, 28 Nov 2018 16:28:12 +0200
+X-Spam-Checked: sender.lt, 92.61.39.3, w3.org, zalgiriomusis.lt, 194.135.87.5,
+	sender.net, google.com
+
+------=_Part_35889640_130369699.1543415291095
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_35889640_130369699.1543415291095
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><style>table, td {=
+=09border-collapse: collapse;=09}=09table.element {=09width: 100%;=09}=09#c=
+ontent td {=09text-align: left;=09}=09a img {=09border: 0;=09outline: 0;=09=
+}=09p {=09margin: 0 0 10px 0;=09padding: 0;=09}=09#content_wrapper, #conten=
+t_wrapper td { /* teksto fonas */=09background-color: #FFFFFF;=09padding: 0=
+;=09}=09hr {=09color: #FFFFFF;=09}=09#content td h1 {=09/* antraste */=09ma=
+rgin: 0;=09padding: 10px 0 10px 0;=09font-size: 18px;=09font-weight: bold;=
+=09color: #000000;=09}=09#content td h2 {=09/* antraste 2 */=09margin: 0;=
+=09padding: 8px 0 8px 0;=09font-size: 16px;=09font-weight: bold;=09color: #=
+000000;=09}=09#content td, td#footer {=09/* laisko tekstas */=09font-size: =
+13px;=09color: #000000;=09font-family: Arial, Helvetica, sans-serif;=09line=
+-height: 140%;=09padding: 10px;=09}=09#content a {=09/* laisko linkai */=09=
+color: #0000FF;=09font-weight: normal;=09}=09#footer a, a#browserPreview {=
+=09color: #0000FF;=09font-family: Arial, Helvetica, sans-serif;=09font-size=
+: 13px;=09}</style></head> <body bgcolor=3D"#FFFFFF" align=3D"left" style=
+=3D"background: #FFFFFF; margin:0; padding:0; width:100% !important;" id=3D=
+"blank"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" style=3D"border-collapse: collapse;"><tr><td align=3D"left" id=3D"wrapp=
+er" style=3D"border-collapse: collapse;"><table id=3D"content_wrapper" widt=
+h=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"10px" style=3D"bord=
+er-collapse: collapse; background-color: #FFFFFF; padding: 0; border: 0;"><=
+tr><td id=3D"content" valign=3D"top" width=3D"600" style=3D"border-collapse=
+: collapse; background-color: #FFFFFF; padding: 0;"><table class=3D"element=
+" style=3D"border-collapse: collapse; width: 100%;"><tbody><tr><td style=3D=
+"border-collapse: collapse; text-align: left; background-color: #FFFFFF; pa=
+dding: 10px; color: #000000; font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 13px; line-height: 140%;"><div id=3D"JMy80ai8" class=3D" ">Sveiki,<=
+br><br>Tik nor=C4=97jau priminti, jei nety=C4=8Dia pamir=C5=A1ote.<br><br>=
+=C5=A0=C4=AF penktadien=C4=AF baigsis i=C5=A1skirtin=C4=97 50% nuolaida =C4=
+=AFsigyti prasming=C4=85 Kal=C4=97din=C4=99 dovan=C4=85 savo ar artim=C5=B3=
+j=C5=B3 vaikams - pirm=C4=85j=C4=AF Lietuvoje istorin=C4=AF komiks=C4=85 "=
+=C5=BDalgirio M=C5=AB=C5=A1is. Legenda Atgyja".<br><br>Tik dabar J=C5=ABs g=
+alite u=C5=BEsakyti knyg=C4=85 vos u=C5=BE 14,99 euro (=C4=AFskai=C4=8Diuot=
+as ir pristatymas).<br><br><a data-cke-saved-href=3D"http://www.zalgiriomus=
+is.lt/" href=3D"https://app.sender.net/nuoroda/ef19d61dba5b4977b7ce80938eab=
+33ed/c3d51953d08571122eea824c8e891d77" style=3D"color: #0000FF; font-weight=
+: normal;" rel=3D"ef19d61dba5b4977b7ce80938eab33ed">Spauskite =C4=8Dia &gt;=
+&gt;&gt;=C2=A0</a><br><br>Su geriausiais link=C4=97jimais,<br>Ugn=C4=97,<br=
+>"=C5=BDalgirio M=C5=AB=C5=A1is. Legenda atgyja" Knygos komanda</div></td><=
+/tr></tbody></table></td></tr></table><img src=3D"https://app.sender.net/ca=
+mpaigns/register_open/9bbd203fc9f50d7d5a71fd261dc1f302" width=3D"1" height=
+=3D"1" border=3D"0" alt=3D"" style=3D"height:1px !important;width:1px !impo=
+rtant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !im=
+portant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !i=
+mportant;padding-bottom:0 !important;padding-right:0 !important;padding-lef=
+t:0 !important;outline-style:none;text-decoration:none;display:block;"></td=
+></tr></table><table width=3D"600" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"10px" align=3D"left" style=3D"border-collapse: collapse;"><tr><td id=
+=3D"footer" align=3D"center" style=3D"border-collapse: collapse; color: #00=
+0000; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-heig=
+ht: 140%; padding: 10px;"><a href=3D"https://app.sender.net/recipients/unsu=
+bscribe/9bbd203fc9f50d7d5a71fd261dc1f302" style=3D"color: #0000FF; font-fam=
+ily: Arial, Helvetica, sans-serif; font-size: 13px;">Jei nebenorite gauti n=
+aujienlai=C5=A1ki=C5=B3, spauskite =C4=8Dia.</a></td></tr></table><img src=
+=3D"https://app.sender.net/campaigns/register_open/9bbd203fc9f50d7d5a71fd26=
+1dc1f302" width=3D"1" height=3D"1" border=3D"0" alt=3D"" style=3D"height:1p=
+x !important;width:1px !important;border-width:0 !important;margin-top:0 !i=
+mportant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0=
+ !important;padding-top:0 !important;padding-bottom:0 !important;padding-ri=
+ght:0 !important;padding-left:0 !important;outline-style:none;text-decorati=
+on:none;display:block;"></body></html>
+------=_Part_35889640_130369699.1543415291095--

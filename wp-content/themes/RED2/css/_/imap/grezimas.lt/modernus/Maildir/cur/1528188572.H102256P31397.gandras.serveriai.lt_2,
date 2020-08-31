@@ -1,0 +1,125 @@
+Return-path: <paslaugos@pristatymai.eu>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 05 Jun 2018 11:49:32 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <paslaugos@pristatymai.eu>)
+	id 1fQ7el-0008AF-Jg
+	for modernus@grezimas.lt; Tue, 05 Jun 2018 11:49:31 +0300
+Received: from [45.125.66.109] (helo=hermita.eu)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.90_1)
+	(envelope-from <paslaugos@pristatymai.eu>)
+	id 1fQ7el-00089v-45
+	for modernus@grezimas.lt; Tue, 05 Jun 2018 11:49:31 +0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=pristatymai.eu; s=x; h=Content-Type:MIME-Version:Date:Message-ID:Subject:To
+	:From:Reply-To:Sender:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=PGqPJzNHbKGmFAIEqfOsIh2lRVnPR3XfKTT79Z4JYQg=; b=Q99BvZivp6C4PjA9nlMslIEWiE
+	tuq8EPSDlkZTKySTz3Dbmnge/hHG2L5T3ouSGUtpwg5KSUHwu2+s3ZALwrlnv6vM3YgNpb23oqBJ2
+	/nTeuPmZMbbHnsy6+RNprbl0dGn7xi6wMfNv71c+26IbRShqC79Lb7lz7BlDnT8Gu+HsO6Wsr/DAk
+	UMJlR1gxYM+bM5evDpwklCSg8aujA7GSgAx/6kvvlYRlh/VY9dzOt2Z5izu1X/rxBa1HlIi5WprYq
+	ytmv8kwFlSfWw47t8PP2RKniea+lQfErcq1g+lmKcCRDgYtJh5nIbxUs8ESmvyV+PLEXuyRgIvDdZ
+	p2D90kNg==;
+Received: from 78-62-9-183.static.zebra.lt ([78.62.9.183] helo=[192.168.0.102])
+	by hermita.eu with esmtpsa (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.89)
+	(envelope-from <paslaugos@pristatymai.eu>)
+	id 1fQ7dI-0007XK-KI
+	for modernus@grezimas.lt; Tue, 05 Jun 2018 11:48:00 +0300
+Reply-To: <programavimass@gmail.com>
+From:"IT paslaugos" <paslaugos@pristatymai.eu>
+To: "modernus" <modernus@grezimas.lt> 
+Subject:=?utf-8?B?IFByb2dyYW1hdmltYXMsIGFwcHMga8WrcmltYXMsIHZhbGR5bW8gc2lzdGVtxbMga8WrcmltYXM=?=
+Message-ID: <7e1f9da681d56e40bdf9fbb642aa405d@SWEDEN>
+Date: Tue, 05 Jun 2018 11:49:26 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_6A4E5254.05276640"
+X-Priority: 1
+X-Mailer: Microsoft Office Outlook 12.0
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0001_6A4E5254.05276640
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Sveiki,=0D=0ASi=C5=ABlome programavimo, apps k=C5=ABrim=C5=B3, =
+eshop k=C5=ABrim=C5=B3, program=C5=B3 - valdymo sistem=C5=B3 =
+k=C5=ABrimo, internetini=C5=B3 svetaini=C5=B3 k=C5=ABrimo =C4=AFmoni=C5=
+=B3 duomen=C5=B3 baz=C4=99, tai =C4=AFmon=C4=97s, kurios teikia =
+IT paslaugas Lietuvoje.=0D=0A=C5=A0ioje baz=C4=97je pateikiama =
+informacija apie finansinius duomenis, kontaktus ir kit=C4=85 =
+Jums reikaling=C4=85 informacij=C4=85.=0D=0APasi=C5=ABlym=C4=85 =
+su pavyzd=C5=BEiu atsi=C5=B3sti?=0D=0A=0D=0ADar turime ir kit=C5=B3 =C4=
+=AFmoni=C5=B3 veikl=C5=B3 bazi=C5=B3 jei reikt=C5=B3, taip pat =
+ir u=C5=BEsienio =C5=A1ali=C5=B3
+
+------=_NextPart_000_0001_6A4E5254.05276640
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">=0D=0A<H=
+TML><HEAD>=0D=0A<META content=3D"text/html; charset=3Dutf-8" =
+http-equiv=3DContent-Type>=0D=0A<META name=3DGENERATOR content=3D"MSHT=
+ML 11.00.9600.17842"></HEAD>=0D=0A<BODY>=0D=0A<P style=3D"FONT-SIZE: =
+12px; FONT-FAMILY: arial, sans-serif; WHITE-SPACE: normal; WORD-SPACIN=
+G: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); =
+FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; =
+BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-lig=
+atures: normal; font-variant-caps: normal; -webkit-text-stroke-width: =
+0px; text-decoration-style: initial; text-decoration-color: =
+initial">Sveiki,</P>=0D=0A<P style=3D"FONT-SIZE: 12px; FONT-FAMILY: =
+arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSF=
+ORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); FONT-STYLE: =
+normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLO=
+R: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: =
+normal; font-variant-caps: normal; -webkit-text-stroke-width: =
+0px; text-decoration-style: initial; text-decoration-color: =
+initial">Si=C5=ABlome programavimo, apps k=C5=ABrim=C5=B3, eshop =
+k=C5=ABrim=C5=B3, program=C5=B3 - valdymo sistem=C5=B3 k=C5=ABrimo,&nb=
+sp;internetini=C5=B3 svetaini=C5=B3 k=C5=ABrimo =C4=AFmoni=C5=B3 =
+duomen=C5=B3 baz=C4=99, tai =C4=AFmon=C4=97s, kurios teikia =
+IT paslaugas Lietuvoje.</P>=0D=0A<P style=3D"FONT-SIZE: 12px; =
+FONT-FAMILY: arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: =
+0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); =
+FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; =
+BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-lig=
+atures: normal; font-variant-caps: normal; -webkit-text-stroke-width: =
+0px; text-decoration-style: initial; text-decoration-color: =
+initial">=C5=A0ioje baz=C4=97je pateikiama informacija apie =
+finansinius duomenis, kontaktus ir kit=C4=85 Jums reikaling=C4=85 =
+informacij=C4=85.</P>=0D=0A<P style=3D"FONT-SIZE: 12px; FONT-FAMILY: =
+arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSF=
+ORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); FONT-STYLE: =
+normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLO=
+R: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: =
+normal; font-variant-caps: normal; -webkit-text-stroke-width: =
+0px; text-decoration-style: initial; text-decoration-color: =
+initial">Pasi=C5=ABlym=C4=85 su pavyzd=C5=BEiu atsi=C5=B3sti?</P>=0D=0A=
+<P style=3D"FONT-SIZE: 12px; FONT-FAMILY: arial, sans-serif; =
+WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; =
+FONT-WEIGHT: 400; COLOR: rgb(34,34,34); FONT-STYLE: normal; =
+ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: =
+rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: =
+normal; font-variant-caps: normal; -webkit-text-stroke-width: =
+0px; text-decoration-style: initial; text-decoration-color: =
+initial">&nbsp;</P>=0D=0A<P style=3D"FONT-SIZE: 12px; FONT-FAMILY: =
+arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSF=
+ORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); FONT-STYLE: =
+normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLO=
+R: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: =
+normal; font-variant-caps: normal; -webkit-text-stroke-width: =
+0px; text-decoration-style: initial; text-decoration-color: =
+initial">Dar turime ir kit=C5=B3 =C4=AFmoni=C5=B3 veikl=C5=B3 =
+bazi=C5=B3 jei reikt=C5=B3, taip pat ir u=C5=BEsienio =C5=A1ali=C5=B3<=
+/P></BODY></HTML>
+
+------=_NextPart_000_0001_6A4E5254.05276640--
+
+

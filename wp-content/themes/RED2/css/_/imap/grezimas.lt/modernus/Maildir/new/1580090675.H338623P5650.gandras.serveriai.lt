@@ -1,0 +1,131 @@
+Return-path: <uretim@marinbasim.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Mon, 27 Jan 2020 04:04:35 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.92.3)
+	(envelope-from <uretim@marinbasim.com>)
+	id 1ivtlR-0001T0-V3
+	for modernus@grezimas.lt; Mon, 27 Jan 2020 04:04:34 +0200
+Received: from [95.217.102.163] (helo=jedi.kalfaoglu.net)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92.3)
+	(envelope-from <uretim@marinbasim.com>)
+	id 1ivtlR-0001Sr-TA
+	for modernus@grezimas.lt; Mon, 27 Jan 2020 04:04:33 +0200
+Received: from [10.33.0.18] (unknown [93.177.73.218])
+	by jedi.kalfaoglu.net (Postfix) with ESMTPSA id B686D24A501A;
+	Mon, 27 Jan 2020 04:26:29 +0300 (+03)
+X-Virus-Status: Clean
+X-Virus-Scanned: clamav-milter 0.101.5 at jedi.kalfaoglu.net
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=marinbasim.com;
+	s=default; t=1580088392;
+	bh=+jps7by+kqYnaM3yUmuUFAEf+krA1uLK8HpF8hHN80g=; h=Subject:To:From;
+	b=Vnfz1tDMdEigtVDZ0QlpKoMCt5TYU3mvCsQSn1czZIk4ucwDn+bjMy/Whak6yj4Y9
+	 j+wJHQz285SSlR/7bZPQc+h+VJNgjxv+kNAMOoi4w8LpfsUWkgF7G/NWtDF+qLiKIa
+	 fVoPjutIoN3k4e2P4Trb2l19XBras8oGpOsPIabI=
+Authentication-Results: jedi.kalfaoglu.net;
+        spf=pass (sender IP is 93.177.73.218) smtp.mailfrom=uretim@marinbasim.com smtp.helo=[10.33.0.18]
+Received-SPF: pass (jedi.kalfaoglu.net: connection is authenticated)
+Content-Type: multipart/alternative; boundary="===============0849061580=="
+MIME-Version: 1.0
+Subject: =?utf-8?q?Australia=E2=80=99s_Bushfire_Emergency?=
+To: Recipients <uretim@marinbasim.com>
+From: "Australian Charity" <uretim@marinbasim.com>
+Date: Mon, 27 Jan 2020 02:26:50 +0100
+Reply-To: "Australian Charity" <charity@australiamail.com>
+Message-Id: <E1ivtlR-0001T0-V3@gandras.serveriai.lt>
+
+You will not see this in a MIME-aware mail reader.
+--===============0849061580==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Greetings,
+ URGENT APPEAL: Across the country, over 10 million hectares of Australian =
+land has been burned to the ground. Over 1 billion animals have lost their =
+lives so far, including thousands of koalas, kangaroos, wallabies, birds an=
+d other iconic wildlife. Your support is urgently needed to care for injure=
+d wildlife and restore their homes. =
+
+  Right now, Australia is being ravaged by one of the most devastating bush=
+fire seasons the country has ever seen.
+ So far, more than 10 million hectares of Australian land has been burned.
+ It=2019s estimated that as many as 8,400 koalas have perished in fires on =
+the mid-north coast of NSW and Kangaroo Island in South Australia has lost =
+over 50% of their koala population This is a devastating blow for an iconic=
+ species already in decline, and these bushfires have the potential to hast=
+en koalas=2019 slide towards extinction in eastern Australia.
+ Koalas could be extinct in the wild in eastern Australia in as little as 3=
+0 years due mainly to ongoing excessive tree-clearing for agricultural and =
+urban development and climate heating triggered bushfires that destroy koal=
+a habitat, that potentially accelerate the extinction timeline.
+ But all hope is not lost. Help is urgently needed for the national emergen=
+cy fund to help raise $30 million to deliver:
+ =2022 Wildlife response - including partnering with wildlife response orga=
+nisations, communities and scientists nationally for a swift and effective =
+response and recovery at scale.
+=2022 Habitat restoration - including restoring native forests and damaged =
+wildlife habitat, stopping deforestation, cultivating habitat connectivity,=
+ core habitat and Indigenous and rural fire management.
+=2022 Future proofing Australia - including driving innovative solutions to=
+ help mitigate climate change, driving climate event preparedness, species =
+adaptation and long-term wildlife and nature conservation efforts towards s=
+ecuring Australia=2019s natural resources for people and nature.
+  =
+
+ Can you help save our precious koalas before they're gone forever? =
+
+Pleas contact us with our email below to make your donation and help what i=
+s lost : charity@australiamail.com
+ Regards,
+Australian Charity
+Ms. Charlotte Brown
+ =20
+
+--===============0849061580==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"/></head><BODY><P>Greetings,</P>
+<P>URGENT APPEAL: Across the country, over 10 million hectares of Australia=
+n land has been burned to the ground. Over 1 billion animals have lost thei=
+r lives so far, including thousands of koalas, kangaroos, wallabies, birds =
+and other iconic wildlife. Your support is urgently needed to care for inju=
+red wildlife and restore their homes. </P>
+<P>&nbsp;Right now, Australia is being ravaged by one of the most devastati=
+ng bushfire seasons the country has ever seen.</P>
+<P>So far, more than 10 million hectares of Australian land has been burned=
+.</P>
+<P>It=E2=80=99s estimated that as many as 8,400 koalas have perished in fir=
+es on the mid-north coast of NSW and Kangaroo Island in South Australia has=
+ lost over 50% of their koala population This is a devastating blow for an =
+iconic species already in decline, and these bushfires have the potential t=
+o hasten koalas=E2=80=99 slide towards extinction in eastern Australia.</P>
+<P>Koalas could be extinct in the wild in eastern Australia in as little as=
+ 30 years due mainly to ongoing excessive tree-clearing for agricultural an=
+d urban development and climate heating triggered bushfires that destroy ko=
+ala habitat, that potentially accelerate the extinction timeline.</P>
+<P>But all hope is not lost. Help is urgently needed for the national emerg=
+ency fund to help raise $30 million to deliver:</P>
+<P>=E2=80=A2 Wildlife response - including partnering with wildlife respons=
+e organisations, communities and scientists nationally for a swift and effe=
+ctive response and recovery at scale.<BR>=E2=80=A2 Habitat restoration - in=
+cluding restoring native forests and damaged wildlife habitat, stopping def=
+orestation, cultivating habitat connectivity, core habitat and Indigenous a=
+nd rural fire management.<BR>=E2=80=A2 Future proofing Australia - includin=
+g driving innovative solutions to help mitigate climate change, driving cli=
+mate event preparedness, species adaptation and long-term wildlife and natu=
+re conservation efforts towards securing Australia=E2=80=99s natural resour=
+ces for people and nature.</P>
+<P>&nbsp;</P>
+<P>Can you help save our precious koalas before they're gone forever? <BR>P=
+leas contact us with our email below to make your donation and help what is=
+ lost : <A href=3D"mailto:charity@australiamail.com">charity@australiamail.=
+com</A></P>
+<P>Regards,<BR>Australian Charity<BR>Ms. Charlotte Brown</P>
+<P>&nbsp;</P></BODY></HTML>
+--===============0849061580==--

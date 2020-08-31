@@ -1,0 +1,624 @@
+Return-path: <info2@naudotasit.eu>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Mon, 03 Feb 2020 12:14:41 +0200
+Received: from [91.224.93.151] (helo=laiskai.mailkitchen.ovh)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92.3)
+	(envelope-from <info2@naudotasit.eu>)
+	id 1iyYkb-0004rT-0i
+	for modernus@grezimas.lt; Mon, 03 Feb 2020 12:14:41 +0200
+Received: from [91.224.93.151] (helo=kompiuteriai.mailkitchen.ovh)
+	by laiskai.mailkitchen.ovh with esmtpa (Exim 4.92.3)
+	(envelope-from <info2@naudotasit.eu>)
+	id 1iyY8h-00024q-3C
+	for modernus@grezimas.lt; Mon, 03 Feb 2020 09:35:31 +0000
+Date: Mon, 3 Feb 2020 09:35:31 +0000
+To: modernus@grezimas.lt
+From: "NaudotasIT.lt" <info@naudotasit.eu>
+Reply-To: info@naudotasit.eu
+Subject: =?UTF-8?Q?Naudota_/_Gamykli=C5=A1kai_atnaujinta_kompiuterin=C4=97_technik?=
+ =?UTF-8?Q?a_pigiau_-_Su_naujais_2020_metais!?=
+Message-ID: <e4d3dbf194de8ec7edf2a30175da5467@kompiuteriai.mailkitchen.ovh>
+X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+List-Unsubscribe: <http://kompiuteriai.mailkitchen.ovh/?na=u&nk=65823-d238ceee1b&nek=3->
+Precedence: bulk
+X-Newsletter-Email-Id: 3
+X-Auto-Response-Suppress: OOF, AutoReply
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_e4d3dbf194de8ec7edf2a30175da5467"
+Content-Transfer-Encoding: 8bit
+X-Authenticated-Id: kompiuteriai@mailkitchen.ovh
+X-Spam-Status: Yes, http://www.brukalai.lt/lookup.php?value=naudotasit.eu
+
+This is a multi-part message in MIME format.
+
+--b1_e4d3dbf194de8ec7edf2a30175da5467
+Content-Type: text/plain; charset=us-ascii
+
+This email requires a modern e-mail reader but you can view the email online here:
+http://kompiuteriai.mailkitchen.ovh/?na=v&nk=65823-d238ceee1b&id=3.
+
+Thank you, NaudotasIT.lt
+
+To change your subscription follow: http://kompiuteriai.mailkitchen.ovh/?na=profile&nk=65823-d238ceee1b.
+
+
+--b1_e4d3dbf194de8ec7edf2a30175da5467
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>{subject}</title>
+<meta charset=3D"utf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<style type=3D"text/css">/* CLIENT-SPECIFIC STYLES */
+#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" mess=
+age */
+.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to d=
+isplay emails at full width */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmai=
+l to display normal line spacing */
+body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%=
+;} /* Prevent WebKit and Windows mobile changing default text sizes */
+table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing be=
+tween tables in Outlook 2007 and up */
+img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized=
+ image in Internet Explorer */
+
+/* RESET STYLES */
+body{margin:0; padding:0; height:100% !important; margin:0; padding:0; widt=
+h:100% !important;}
+img{border:0; height:auto; line-height:100%; outline:none; text-decoration:=
+none; max-width: 100%!important}
+table{border-collapse:collapse !important;}
+
+
+/* MOBILE STYLES */
+@media screen and (max-width: 525px) {
+
+ /* ALLOWS FOR FLUID TABLES */
+ table[class=3D"wrapper"]{
+ width:100% !important;
+ }
+
+ /* ADJUSTS LAYOUT OF LOGO IMAGE */
+ td[class=3D"logo"]{
+ text-align: left;
+ padding: 20px 0 20px 0 !important;
+ }
+
+ td[class=3D"logo"] img{
+ margin:0 auto!important;
+ }
+
+ /* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+ td[class=3D"mobile-hide"]{
+ display:none;}
+
+ img[class=3D"mobile-hide"]{
+ display: none !important;
+ }
+
+ img[class=3D"img-max"]{
+ max-width: 100% !important;
+ /*width: 100% !important;*/
+ height:auto !important;
+ }
+
+ /* FULL-WIDTH TABLES */
+ table[class=3D"responsive-table"]{
+ width:100%!important;
+ }
+
+ /* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+ td[class=3D"padding"]{
+ padding: 10px 5% 15px 5% !important;
+ }
+
+ td[class=3D"padding-copy"]{
+ padding: 10px 5% 10px 5% !important;
+ text-align: center;
+ }
+
+ td[class=3D"padding-meta"]{
+ padding: 30px 5% 0px 5% !important;
+ text-align: center;
+ }
+
+ td[class=3D"no-pad"]{
+ padding: 0 0 20px 0 !important;
+ }
+
+ td[class=3D"no-padding"]{
+ padding: 0 !important;
+ }
+
+ td[class=3D"section-padding"]{
+ padding: 50px 15px 50px 15px !important;
+ }
+
+ td[class=3D"section-padding-bottom-image"]{
+ padding: 50px 15px 0 15px !important;
+ }
+
+ /* ADJUST BUTTONS ON MOBILE */
+ td[class=3D"mobile-wrapper"]{
+ padding: 10px 5% 15px 5% !important;
+ }
+
+ table[class=3D"mobile-button-container"]{
+ margin:0 auto;
+ width:100% !important;
+ }
+
+ a[class=3D"mobile-button"]{
+ width:80% !important;
+ padding: 15px !important;
+ border: 0 !important;
+ font-size: 16px !important;
+ }
+
+}
+
+/* Html */
+.html-td p {
+ font-family: Helvetica, Arial, sans-serif;
+ font-size: 16px;
+}
+
+
+/* Last posts */
+@media all and (max-width: 525px) {
+ .hero-table {
+ width: 100%!important;
+ max-width: 100%!important;
+ }
+
+ .hero-table-right {
+ margin-top: 20px;
+ }
+}
+
+/* Text */
+
+
+/* Header */
+.header-logo {
+ text-align: center!important;
+}
+@media all and (max-width: 640) {
+ .header-table td {
+ width: 100%!important;
+ }
+ .header-logo {
+ text-align: center!important;
+ }
+}</style></head>
+<body style=3D"margin: 0; padding: 0;">
+<table type=3D"block" style=3D"border-collapse: collapse; width: 100%;" cla=
+ss=3D"tnpc-row tnpc-row-block ui-sortable-handle" data-id=3D"image" width=
+=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"=
+>
+<tbody><tr><td style=3D"padding: 0;" class=3D"edit-block" align=3D"center">=
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table type=3D"options" class=3D"tnpc-block-content" style=3D"width: 100%!i=
+mportant; max-width: 600px!important" width=3D"100%" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr><td style=3D"text-align: center; width: 100%!important; padding-=
+top: 15px; padding-left: 0px; padding-right: 0px; padding-bottom: 15px; bac=
+kground-color: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center=
+">
+<img src=3D"http://kompiuteriai.mailkitchen.ovh/wp-content/uploads/2019/12/=
+naudotas-it-eu-logo-mazass.png" alt=3D"" style=3D"max-width: 100%!important=
+; height: auto!important; display: inline-block;" border=3D"0">
+</td></tr></tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td></tr></tbody></table><table type=3D"block" style=3D"border-collapse: c=
+ollapse; width: 100%;" class=3D"tnpc-row tnpc-row-block ui-sortable-handle"=
+ data-id=3D"text" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" align=3D"center">
+<tbody><tr><td style=3D"padding: 0;" class=3D"edit-block" align=3D"center">=
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table type=3D"options" class=3D"tnpc-block-content" style=3D"width: 100%!i=
+mportant; max-width: 600px!important" width=3D"100%" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr><td style=3D"text-align: center; width: 100%!important; padding-=
+top: 40px; padding-left: 40px; padding-right: 40px; padding-bottom: 0px; ba=
+ckground-color: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"cente=
+r">
+<table style=3D"width: 100%!important" width=3D"100%" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0">
+ <tbody><tr>
+ <td class=3D"text-td" style=3D"font-family: Helvetica, Arial, sans-serif; =
+font-size: 16px; color: #000000; line-height: 1.5rem;" width=3D"100%" valig=
+n=3D"top" align=3D"left">
+ <p style=3D"text-align: center;"><span style=3D"font-family: arial, helvet=
+ica, sans-serif;">Naudota / Gamykli=C5=A1kai kompiuterin=C4=97 atnaujinta t=
+echnika</span></p>
+<p style=3D"text-align: center;">info@naudotasit.eu / <span class=3D"mini-c=
+ontacts phone show-on-desktop in-top-bar-left in-menu-second-switch first">=
++370 636 88400</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">NAUDOTASIT.LT / NAUDOTASIT.EU</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">=C5=A0iuo metu si=C5=ABlome:</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Daugiau nauj=C5=B3/naudot=C5=B3 arba i=C5=A1 ekspozicijos =
+ne=C5=A1iojam=C5=B3 kompiuteri=C5=B3 rasite www.naudotasit.lt arba esant po=
+reikiui kreipkit=C4=97s info@naudotasit.eu</span></p>
+<p style=3D"text-align: center;">&nbsp;</p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">=C5=A0i=C5=B3 modeli=C5=B3 turime didesn=C4=AF kiek=C4=
+=AF. Turime ir kitoki=C5=B3 modeli=C5=B3.</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">=C5=A0ios savait=C4=97s specialus pasi=C5=ABlymas</span></=
+p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Hp Z420 Workstation Tower CPU: 1 x Xeon E5-1620 V1 GPU: Nv=
+idia Quadro K2000 RAM: 8Gb HDD: 1TB SSD PSU:1 OS: Windows 7 Pro B=C5=ABkl=
+=C4=97: Naudotas A grade</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 720=E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Lenovo ThinkStation P500 Tower&nbsp; &nbsp; &nbsp;CPU: 1 x=
+ Xeon E5-1620 V3 GPU: Nvidia Quadro K2200 RAM: 64GB HDD: 2 x 512GB SSD PSU:=
+1 OS: Windows 7 Pro&nbsp; &nbsp; B=C5=ABkl=C4=97: Naudotas A grade</span></=
+p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 1300=E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Dell Precision T3610 Tower CPU: 1 x Xeon E5-1620 V2 GPU: N=
+vidia NVS 310 RAM: 16GB HDD: 1 x 1000GB HDD PSU: 1 OS: Windows 8 Pro B=
+=C5=ABkl=C4=97: Naudotas A grade Nedideli ibrezimai</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 470=E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Lenovo ThinkStation P500 Tower&nbsp; &nbsp; &nbsp;CPU: 1 x=
+ Xeon E5-1620 V3 GPU: Nvidia Quadro K2200 RAM: 64GB HDD: 2 x 512GB SSD + 2 =
+x 1TB SSD PSU:1 OS: Windows 7 Pro&nbsp; &nbsp; B=C5=ABkl=C4=97: Naudotas A =
+grade</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 1650=E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">STALINIAI KOMPIUTERIAI NAUDOTI</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Hp Compaq 6300 Pro SFF CPU: i5-3470 RAM: 16GB HDD: 500GB H=
+DD ODD: DVD OS: Windows 7 Pro B=C5=ABkl=C4=97: B grade Kaina: 270=E2=82=
+=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Hp Compaq 6300 Pro SFF CPU: i3-3220 RAM: 4GB HDD: 250GB HD=
+D ODD: DVD OS: Windows 7 Pro B=C5=ABkl=C4=97: B grade Kaina: 170=E2=82=
+=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Hp EliteDesk 800 G1 SFF CPU: i5-4570 RAM: 4GB HDD: N=C4=
+=97ra DD: DVD OS: Windows 8 Pro B=C5=ABkl=C4=97: A ARBA B grade Kaina: 255=
+=E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Lenovo ThinkCentre M82 SFF CPU: i5-3470 RAM: 4GB HDD: 250G=
+B arba 320GB HDD ODD: DVD OS: Windows 7 Pro B=C5=ABkl=C4=97: A ir B grade K=
+aina: 210=E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Dell OptiPlex 390 Desktop CPU: i3-2100 RAM: 4GB HDD: 250GB=
+ HDD ODD: DVD OS: Windows 7 Pro B=C5=ABkl=C4=97: B grade Kaina: 145=
+=E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Hp EliteDesk 700 G1 SFF CPU: i3-4160 RAM: 4GB HDD: N=C4=
+=97ra DD: DVD OS: Windows 8 Pro B=C5=ABkl=C4=97: A ARBA B grade Kaina: 190=
+=E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Turime ir kitoki=C5=B3 dell / hp modeli=C5=B3 kreipkit=
+=C4=97s info@naudotasit.eu</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">TAIP PAT SURENKAME NAUJUS KOMPIUTERIUS PAGAL J=C5=AAS=
+=C5=B2 KELIAMUS REIKALAVIMUS GEROMIS KAINOMIS.</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Turime daug nauj=C5=B3 ir naudot=C5=B3 Lenovo ir Dell komp=
+iuteri=C5=B3 domina konkret=C5=ABs modeliai ra=C5=A1ykite info@naudotasit.e=
+u</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Ne=C5=A1iojami kompiuteriai</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">=C5=A0i=C5=B3 kompiuteri=C5=B3 neturime el. prekyboje tai =
+individualus pasi=C5=ABlymas Jums</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">NAUDOTI NE=C5=A0IOJAMI KOMPIUTERIAI</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Dell Inspiron 17 5767 Juodas, 17.3" Full HD 1920x1080, Int=
+el Core i5-7200U 2.5 GHz, Intel HD 620, 8 GB DDR4, 240GB SSD, DOS</span></p=
+>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 449,00 =E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Dell Inspiron 3464 All-In-One Juodas, 23.8" FullHD 1920x10=
+80, Intel Core i5-7200u 2.5 GHz, Intel HD 620 + Nvidia GeForce 920MX, 8 GB =
+DDR4, 1TB 5400, Windows 10 Home</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 499,00 =E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Dell Inspiron 13 - 5379 13.3" Full HD 1920x1080 Touchscree=
+n, Intel Core i7-8550U 1.8 GHz, Intel UHD 620, 8 GB DDR4, 256GB SSD, Window=
+s 10 Home</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 549,00 =E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Dell Inspiron 13 - 5379 13.3" Full HD 1920x1080 Touchscree=
+n, Intel Core i7-8550U 1.8 GHz, Intel UHD 620, 16 GB DDR4, 256GB SSD, Windo=
+ws 10 Home</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 599,00 =E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Refurbished ne=C5=A1iojami kompiuteriai</span></p>
+<p style=3D"text-align: center;"><br>Dell Inspiron 15 3552<br>Black 15.6" H=
+D 1366x768, Intel Celeron N3060 1,6GHz, Intel HD, 4GB DDR3 1600Mhz, 240GB S=
+SD, Windows 10 Home<br>Kaina: 219,00 =E2=82=AC<br><br>Dell Inspiron 15 3573=
+<br>Black 15.6" Full HD 1920x1080, Intel Celeron N4000 1,1GHz, Intel UHD 60=
+0, 4GB DDR4 2400Mhz, 500GB 5400, Windows 10 Home<br>Kaina: 249,00 =E2=82=
+=AC<br><br>Dell Inspiron 15 5580<br>Silver 15.6" Full HD 1920x1080, Intel C=
+ore i5-8265U 1.60 GHz, Intel UHD 620, 8 GB DDR4, 256GB SSD M.2 NVMe, DOS<br=
+>Kaina: 599,00 =E2=82=AC<br><br>Dell Inspiron 14 5482 2-in-1<br>Silver 14" =
+Full HD 1920x1080 Touchscreen, Intel Core i7-8565u 1.8 GHz, Intel UHD 620, =
+8 GB DDR4, 256GB SSD, DOS<br>Kaina: 649,00 =E2=82=AC<br><br>Dell Vostro 13 =
+5370<br>Silver 13.3" Full HD 1920x1080, Intel Core i5-8250u 1.60 GHz, Intel=
+ UHD 620, 8 GB DDR4, 512GB SSD M.2 NVMe, Windows 10 PRO<br>Kaina: 699,00 =
+=E2=82=AC<br><br>Dell Inspiron 13 5390<br>Silver 13.3" Full HD 1920x1080, I=
+ntel Core i5-8265u 1.6 GHz, Intel UHD 620, 8 GB DDR4, 512 GB SSD M.2 NVMe, =
+DOS<br>Kaina: 699,00 =E2=82=AC<br><br>Dell XPS 13 9360<br>Silver 13.3" QHD+=
+ 3200x1800, Touchscreen, Intel Core i7-7500U 2.7 GHz, Intel HD 620, 8 GB LP=
+DDR3, 512 GB SSD M.2 NVMe, Windows 10 Home<br>Kaina: 699,00 =E2=82=AC <br><=
+br>Dell Inspiron 17 3780<br>Silver 17.3" Full HD 1920x1080, Intel Core i5-8=
+265U 1.60 GHz, Intel UHD 620 + Radeon 520, 8 GB DDR4, 256GB SSD M.2 NVMe + =
+1TB 5400, DOS<br>Kaina: 699,00 =E2=82=AC<br><br>Dell Inspiron 13 7380<br>Si=
+lver 13.3" Full HD 1920x1080, Intel Core i7-8565u 1.8 GHz, Intel UHD 620, 8=
+ GB DDR4, 256GB SSD M.2 NVMe, DOS<br>Kaina: 699,00 =E2=82=AC<br><br>Dell In=
+spiron 13 7380<br>Silver 13.3" Full HD 1920x1080, Intel Core i7-8565u 1.8 G=
+Hz, Intel UHD 620, 8 GB DDR4, 256GB SSD M.2 NVMe, Windows 10 Home<br>Kaina:=
+ 749,00 =E2=82=AC<br><br>Dell XPS 13 9360R<br>Silver 13.3" Full HD 1920x108=
+0, Intel Core i7-8550u 1.8 GHz, Intel UHD 620, 8 GB LPDDR3, 256 GB SSD M.2 =
+NVME, DOS<br>Kaina: 799,00 =E2=82=AC<br><br>Dell Inspiron 13 7373<br>Silver=
+ 13.3" FullHD 1920x1080 Touchscreen, Intel Core i7-8550U 1.8 GHz, Intel UHD=
+ 620, 16 GB DDR4, 512GB SSD M.2, Windows 10 Home<br>Kaina: 799,00 =E2=82=
+=AC<br><br>Dell Inspiron 13 7370<br>Silver 13.3" FullHD 1920x1080, Intel Co=
+re i7-8550U 1.8 GHz, Intel UHD 620, 16 GB DDR4, 512GB SSD M.2 NVMe, Windows=
+ 10 Home<br>Kaina: 799,00 =E2=82=AC<br><br>Dell Inspiron 13 5390<br>Silver =
+13.3" Full HD 1920x1080, Intel Core i7-8565u 1.8 GHz, Intel UHD 620 + GeFor=
+ce MX250, 8 GB DDR4, 512 GB SSD M.2 NVMe, DOS<br>Kaina: 849,00 =E2=82=AC<br=
+><br>Dell Inspiron 13 7386 2in1<br>Silver 13.3" Full HD 1920x1080 Touchscre=
+en, Intel Core i7-8565u 1.8 GHz, Intel UHD 620, 8 GB DDR4, 512 GB SSD M.2 N=
+VMe, DOS<br>Kaina: 849,00 =E2=82=AC<br><br>Dell Inspiron 13 7380<br>Silver =
+13.3" Full HD 1920x1080, Intel Core i7-8565u 1.8 GHz, Intel UHD 620, 16 GB =
+DDR4, 512 GB SSD M.2 NVMe, Windows 10 Home <br>Kaina: 849,00 =E2=82=AC<br><=
+br>Dell XPS 13 9365 2-in-1<br>Silver 13.3" Full HD 1920x1080 Touchscreen, I=
+ntel Core i7-8500Y 1.5 GHz, Intel UHD 615 , 8 GB LPDDR3, 256 GB SSD M.2 NVM=
+E, Windows 10 Home<br>Kaina: 949,00 =E2=82=AC<br><br>Dell XPS 13 9365 2-in-=
+1<br>Silver 13.3" QHD+, 3200x1800 Touchscreen, Intel Core i5-8200Y 1.3 GHz,=
+ Intel UHD 615 , 8 GB DDR3, 256 GB SSD M.2 NVMe, Windows 10 Home<br>Kaina: =
+949,00 =E2=82=AC<br><br>Dell Inspiron 13 7386 2in1<br>Silver 13.3" Full HD =
+1920x1080 Touchscreen, Intel Core i7-8565u 1.8 GHz, Intel UHD 620, 16 GB DD=
+R4, 512 GB SSD M.2 NVMe, Windows 10 Home<br>Kaina: 949,00 =E2=82=AC<br><br>=
+Dell XPS 13 9370<br>Silver 13.3" Full HD 1920x1080, Intel Core i5-8250U 1.6=
+ GHz, Intel UHD 620, 8 GB LPDDR3, 256 GB SSD M.2 NVMe, Windows 10<br>Kaina:=
+ 999,00 =E2=82=AC<br><br>Dell XPS 13 9380<br>Silver 13.3" Full HD 1920x1080=
+ Touchscreen, Intel Core i5-8365u 1.6 GHz, Intel UHD 620, 8 GB LPDDR3, 256 =
+GB SSD M.2 NVMe, Windows 10 Home<br>Kaina: 1 099,00 =E2=82=AC<br><br>Dell X=
+PS 15 9570<br>Silver 15.6" Full HD 1920x1080, Intel Core i5-8300H 2.3 GHz,I=
+ntel UHD 630 + Nvidia GTX 1050, 16 GB DDR4, 256 GB SSD M.2 NVMe, DOS<br>Kai=
+na: 1 099,00 =E2=82=AC<br><br>Dell XPS 13 9370<br>Ro=C5=BEinis/Auksinis 13.=
+3" Full HD 1920x1080, Intel Core i7-8550U 1.8 GHz, Intel UHD 620, 8 GB LPDD=
+R3, 512 GB SSD M.2 NVMe, DOS<br>Kaina: 1 099,00 =E2=82=AC<br><br>Dell XPS 1=
+3 9370<br>Silver 13.3" Full HD 1920x1080, Intel Core i7-8650U 1.9 GHz, Inte=
+l UHD 620, 8 GB LPDDR3, 512 GB SSD M.2 NVMe, DOS<br>Kaina: 1 099,00 =
+=E2=82=AC<br><br>Dell XPS 13 9365 2-in-1<br>Silver 13.3" QHD+ 3200x1800, In=
+tel Core i7-8500Y 1.5 GHz, Intel UHD 615 , 16 GB DDR3, 512GB SSD M.2 NVME, =
+Windows 10 Home<br>Kaina: 1 099,00 =E2=82=AC<br><br>Dell XPS 13 9370<br>Sil=
+ver 13.3" UHD 4K 3840x2160 Touchscreen, Intel Core i7-8550U 1.8 GHz, Intel =
+UHD 620, 16 GB LPDDR3, 512 GB SSD M.2 NVMe, DOS<br>Kaina: 1 279,00 =
+=E2=82=AC<br><br>Dell XPS 13 9370<br>Silver 13.3" UHD 4K 3840x2160 Touchscr=
+een, Intel Core i7-8550U 1.8 GHz, Intel UHD 620, 16 GB LPDDR3, 512 GB SSD M=
+.2 NVMe, Windows 10 Home<br>Kaina: 1 279,00 =E2=82=AC <br><br>Dell Latitude=
+ 7400 2in1<br>Silver 14.0" Full HD 1920x1080 Touchscreen, Intel Core i5-826=
+5U 1.6 GHz, Intel UHD 620, 8 GB LPDDR3, 512 GB SSD M.2 NVMe, Windows 10 Pro=
+<br>Kaina: 1 329,00 =E2=82=AC<br><br>Dell XPS 15 9570<br>Silver 15.6" Full =
+HD 1920x1080, Intel Core i7-8750H 2.2 GHz,Intel UHD 630 + Nvidia GTX 1050Ti=
+, 16 GB DDR4, 512 GB SSD M.2 NVMe, Windows 10 Home<br>Kaina: 1 599,00 =
+=E2=82=AC <br><br>Dell XPS 13 7390<br>Silver 13.3" Full HD 1920x1080, Intel=
+ Core i7-10510u 1.8 GHz, Intel UHD, 16 GB LPDDR3, 512 GB SSD M.2 NVMe, DOS<=
+br>Kaina: 1 599,00 =E2=82=AC<br><br>Dell XPS 15 9570<br>Silver 15.6" Full H=
+D 1920x1080, Intel Core i7-8750H 2.2 GHz,Intel UHD 630 + Nvidia GTX 1050Ti,=
+ 16 GB DDR4, 256 GB SSD M.2 NVMe, Windows 10<br>Kaina: 1 599,00 =E2=82=
+=AC<br><br>Dell XPS 15 9570<br>Silver 15.6" UHD 4K 3840x2160, Intel Core i7=
+-8750H 2.2 GHz,Intel UHD 630 + Nvidia GTX 1050Ti, 16 GB DDR4, 512GB SSD M.2=
+ NVMe, Windows 10 Home<br>Kaina: 1 699,00 =E2=82=AC<br><br>Dell XPS 15 7590=
+<br>Silver 15.6" Full HD 1920x1080, Intel Core i7-9750H 2.60 GHz,Intel UHD =
+630 + Nvidia GTX 1650, 16 GB DDR4, 512 GB SSD M.2 NVMe, DOS<br>Kaina: 1 799=
+,00 =E2=82=AC<br><br>Dell XPS 15 9575 2 in 1<br>Silver 15.6" UHD 3840x2160,=
+ Touchscreen, Intel Core i7-8705G 3.1 GHz,Intel HD 630 + Radeon RX Vega M G=
+L, 16 GB DDR4, 512GB M.2 NVMe, Windows 10<br>Kaina: 1 899,00 =E2=82=AC<br><=
+br>Dell XPS 13 7390 2in1<br>Silver 13.4" UHD+ 3840x2400 Touchscreen, Intel =
+Core i7-1065G7 1.3 GHz, Intel Iris Plus, 32 GB LPDDR4x, 1TB SSD M.2 NVMe, D=
+OS<br>Kaina: 1 949,00 =E2=82=AC<br><br>Dell XPS 15 9575 2 in 1<br>Silver 15=
+.6" UHD 3840x2160, Touchscreen, Intel Core i7-8705G 3.1 GHz,Intel HD 630 + =
+Radeon RX Vega M GL, 16 GB DDR4, 1TB M.2 NVMe, Windows 10<br>Kaina: 1 999,0=
+0 =E2=82=AC<br><br>Dell XPS 13 7390 2in1<br>Silver 13.4" UHD+ 3840x2400 Tou=
+chscreen, Intel Core i7-1065G7 1.3 GHz, Intel Iris Plus, 32 GB LPDDR4x, 1TB=
+ SSD M.2 NVMe, Windows 10 Home<br>Kaina: 1 999,00 =E2=82=AC<br><br>Dell XPS=
+ 15 9570<br>Silver 15.6" Full HD 1920x1080, Intel Core i9-8950HK 2.9 GHz,In=
+tel UHD 630 + Nvidia GTX 1050Ti, 32 GB DDR4, 512GB SSD M.2 NVMe + 1TB 5400,=
+ Windows 10 Home<br>Kaina: 1 999,00 =E2=82=AC<br><br>Dell XPS 13 7390 2in1<=
+br>Silver 13.4" UHD+ 3840x2400 Touchscreen, Intel Core i7-1065G7 1.3 GHz, I=
+ntel Iris Plus, 32 GB LPDDR4x, 1TB SSD M.2 NVMe, Windows 10 PRO<br>Kaina: 2=
+ 049,00 =E2=82=AC</p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Turime daug =C4=AFvairi=C5=B3 ne=C5=A1iojam=C5=B3 kompiute=
+ri=C5=B3 www.naudotasit.eu</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Serveriai / Darbin=C4=97s stotys</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Hp ProLiant DL360p Gen8 R1U CPU: 2 x Xeon E5-2630 V1 RAM: =
+32GB HDD: N=C4=97ra HDD PSU: 2 OS: N=C4=97ra OS B=C5=ABkl=C4=97: Naudotas K=
+ita info: hdd 2.5, without front bezel, without rail kit Kaina: 580=
+=E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Hp Proliant DL380 G7 R2U CPU: 2 x Xeon X5675 RAM: 48GB HDD=
+: 2 x 300GB HDD SAS 2.5 10K PSU: 2 OS: N=C4=97ra OS B=C5=ABkl=C4=97: Naudot=
+as Kaina:&nbsp; &nbsp; 540=E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Dell PowerEdge R720xd CPU: 2 x Xeon E5-2660 V1 RAM: 192GB =
+HDD: 16 x 146GB hdd 2.5 sas 15k PSU: 2 OS: N=C4=97ra OS B=C5=ABkl=C4=97: Na=
+udotas Kita info: Raid card Perc H710, iDRAC, Be rail kit Kaina: 2050=
+=E2=82=AC</span></p>
+<p style=3D"text-align: center;">&nbsp;</p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Dell PowerEdge R720xd CPU: 2 x Xeon E5-2660 V1 RAM: 128GB =
+HDD: 16 x 146GB hdd 2.5 sas 15k PSU: 2 OS: N=C4=97ra OS B=C5=ABkl=C4=97: Na=
+udotas Kita info: Raid card Perc H710, iDRAC, Be rail kit Kaina: 1800=
+=E2=82=AC</span></p>
+<p style=3D"text-align: center;">&nbsp;</p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Hp ProLiant DL380 G6 R2U CPU: 2 x Xeon X5560 RAM: 48GB HDD=
+: 2 x 146GB PSU: 2 OS: N=C4=97ra OS B=C5=ABkl=C4=97: Naudotas Kita info: SA=
+S 10K, Truksta RAID baterijos ir laido Kaina: 340=E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Dell Poweredge R610 CPU: 2 x Xeon X5570 RAM: 48GB HDD: N=
+=C4=97ra HDD PSU: 2 OS: N=C4=97ra OS B=C5=ABkl=C4=97: Naudotas Kita info: H=
+DD 2.5, PERC 6/i, Yra iDRAC Kaina: 380=E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Lenovo ThinkStation C30 Tower CPU: 2 x Xeon E5-2620 V2 RAM=
+: 28GB HDD: 1 x 128GB SSD PSU: 1 OS: Windows 8 Pro GPU: 2x NVS 315 B=C5=
+=ABkl=C4=97: Naudotas Kaina: 840=E2=82=AC</span></p>
+<p style=3D"text-align: center;">&nbsp;</p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Lenovo ThinkStation P500 Tower CPU: 1 x Xeon E5-1620 V3 RA=
+M: 64GB HDD: 2 x 512GB PSU: 1 OS: W7P B=C5=ABkl=C4=97: Naudotas B Kaina: 13=
+00=E2=82=AC</span></p>
+<p style=3D"text-align: center;">&nbsp;</p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Hp Z420 Workstation Tower CPU: 1 x Xeon E5-1620 V1 GPU: Nv=
+idia Quadro K2000 RAM: 8Gb HDD: 1 x 128GB SSD&nbsp; &nbsp; PSU:1 OS: Window=
+s 7 Pro&nbsp; &nbsp; B=C5=ABkl=C4=97: Naudotas A grade</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 550=E2=82=AC</span></p>
+<p style=3D"text-align: center;">&nbsp;</p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Hp Z420 Workstation Tower CPU: 1 x Xeon E5-1620 V1 GPU: Nv=
+idia Quadro K2000 RAM: 8Gb HDD: 1TB SSD PSU:1 OS: Windows 7 Pro B=C5=ABkl=
+=C4=97: Naudotas A grade</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 720=E2=82=AC</span></p>
+<p style=3D"text-align: center;">&nbsp;</p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Hp Z420 Workstation Tower CPU: 1 x Xeon E5-1620 V1 GPU: Nv=
+idia Quadro K2000 RAM: 16Gb HDD: 1TB SSD + 128GB SSD&nbsp; &nbsp; PSU:1 OS:=
+ Windows 7 Pro&nbsp; &nbsp; B=C5=ABkl=C4=97: Naudotas A grade</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 780=E2=82=AC</span></p>
+<p style=3D"text-align: center;">&nbsp;</p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Lenovo ThinkStation P500 Tower&nbsp; &nbsp; &nbsp;CPU: 1 x=
+ Xeon E5-1620 V3 GPU: Nvidia Quadro K2200 RAM: 64GB HDD: 2 x 512GB SSD PSU:=
+1 OS: Windows 7 Pro&nbsp; &nbsp; B=C5=ABkl=C4=97: Naudotas A grade</span></=
+p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 1300=E2=82=AC</span></p>
+<p style=3D"text-align: center;">&nbsp;</p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Dell Precision T3610 Tower CPU: 1 x Xeon E5-1620 V2 GPU: N=
+vidia NVS 310 RAM: 16GB HDD: 1 x 1000GB HDD PSU: 1 OS: Windows 8 Pro B=
+=C5=ABkl=C4=97: Naudotas A grade Nedideli ibrezimai</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 470=E2=82=AC</span></p>
+<p style=3D"text-align: center;">&nbsp;</p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Dell Precision T3610 Tower CPU: 1 x Xeon E5-1620 V2 GPU: N=
+vidia NVS 310 RAM: 16GB HDD: 1 x 1TB HDD + 1 x 1TB SSD PSU: 1 OS: Windows 8=
+ Pro B=C5=ABkl=C4=97: Naudotas A grade Nedideli ibrezimai</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 640=E2=82=AC</span></p>
+<p style=3D"text-align: center;">&nbsp;</p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Lenovo ThinkStation P500 Tower&nbsp; &nbsp; &nbsp;CPU: 1 x=
+ Xeon E5-1620 V3 GPU: Nvidia Quadro K2200 RAM: 64GB HDD: 2 x 512GB SSD + 2 =
+x 1TB SSD PSU:1 OS: Windows 7 Pro&nbsp; &nbsp; B=C5=ABkl=C4=97: Naudotas A =
+grade</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kaina: 1650=E2=82=AC</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Daugiau kompiuteri=C5=B3 www.naudotasit.eu</span></p>
+<p style=3D"text-align: center;">&nbsp;</p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Daugiau kompiuteri=C5=B3 rasite www.naudotasit.eu, neradot=
+e sau tinkamo ? para=C5=A1ykite mums info@naudotasit.eu</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Neradote jums tinkamo modelio kreipkit=C4=97s info@naudota=
+sit.eu</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Turime labai daug skirting=C5=B3 modeli=C5=B3 dell, lenovo=
+ ne=C5=A1iojam=C5=B3 ir stalini=C5=B3/darbini=C5=B3 sto=C4=8Di=C5=B3 kompiu=
+teri=C5=B3 =C5=A1iuo metu pildome katalog=C4=85, bet d=C4=97l konkre=C4=
+=8Di=C5=B3 modeli=C5=B3 galite kreiptis info@naudotasit.eu&nbsp;</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Kompiuterin=C4=97s =C4=AFranga sandelyje papildoma kiekvie=
+n=C4=85 savait=C4=99.</span></p>
+<p style=3D"text-align: center;"><span style=3D"font-family: arial, helveti=
+ca, sans-serif;">Apsilankykite M=C5=ABs=C5=B3 internetin=C4=97je svetain=
+=C4=97je ir raskite daugiau pasi=C5=ABlym=C5=B3www.naudotasit.lt</span></p>
+<p style=3D"text-align: center;">&nbsp;</p> </td>
+ </tr>
+</tbody></table>
+</td></tr></tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td></tr></tbody></table>
+<table type=3D"block" style=3D"border-collapse: collapse; width: 100%;" cla=
+ss=3D"tnpc-row tnpc-row-block ui-sortable-handle" data-id=3D"footer" width=
+=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"=
+>
+<tbody><tr><td style=3D"padding: 0;" class=3D"edit-block" align=3D"center">=
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table type=3D"options" class=3D"tnpc-block-content" style=3D"width: 100%!i=
+mportant; max-width: 600px!important" width=3D"100%" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr><td style=3D"text-align: center; width: 100%!important; padding-=
+top: 15px; padding-left: 15px; padding-right: 15px; padding-bottom: 15px; b=
+ackground-color: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"cent=
+er">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+ <tbody><tr>
+ <td align=3D"center">
+
+ <a class=3D"footer-text" style=3D"font-size: 12px; font-family: Helvetica,=
+ Arial, sans-serif; font-weight: normal; color: #444444; text-decoration: n=
+one;" href=3D"http://kompiuteriai.mailkitchen.ovh/?nltr=3DMzs2NTgyMztodHRwO=
+i8va29tcGl1dGVyaWFpLm1haWxraXRjaGVuLm92aC8%2FbmE9cHJvZmlsZSZuaz02NTgyMy1kMj=
+M4Y2VlZTFiOzszYTJmODk3MmIyNWRiZmRjOTQwOTI4MTU5Njc0YzMyNg%3D%3D">Nebegauti l=
+ai=C5=A1k=C5=B3</a>
+
+ <span class=3D"footer-text" style=3D"font-size: 12px; font-family: Helveti=
+ca, Arial, sans-serif; font-weight: normal; color: #444444; text-decoration=
+: none;">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span>
+
+ <a class=3D"footer-text" style=3D"font-size: 12px; font-family: Helvetica,=
+ Arial, sans-serif; font-weight: normal; color: #444444; text-decoration: n=
+one;" href=3D"http://kompiuteriai.mailkitchen.ovh/?nltr=3DMzs2NTgyMztodHRwO=
+i8va29tcGl1dGVyaWFpLm1haWxraXRjaGVuLm92aC8%2FbmE9diZuaz02NTgyMy1kMjM4Y2VlZT=
+FiJmlkPTM7OzYyODU5YTRhOWIzY2FjMDViMGE0OGE5Mjg4YTVkNjY3">Per=C5=BEi=C5=ABr=
+=C4=97ti online</a>
+
+ </td>
+ </tr>
+</tbody></table>
+</td></tr></tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td></tr></tbody></table>
+<img width=3D"1" height=3D"1" alt=3D"" src=3D"http://kompiuteriai.mailkitch=
+en.ovh/?noti=3DMzs2NTgyMzswYmNkZmQxZjNhNzQxNzE0OGJkNDM4OWU1YjBiMTk0Mw%3D%3D=
+"/></body>
+</html>
+
+
+--b1_e4d3dbf194de8ec7edf2a30175da5467--
+

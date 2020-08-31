@@ -1,0 +1,2097 @@
+Return-path: <naujienlaiskis@mobilena-servisas.lt>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Mon, 04 Jun 2018 17:31:29 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <naujienlaiskis@mobilena-servisas.lt>)
+	id 1fPqW9-00013Q-2Y
+	for modernus@grezimas.lt; Mon, 04 Jun 2018 17:31:29 +0300
+Received: from [185.209.139.47] (helo=server.mobilena-servisas.lt)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.90_1)
+	(envelope-from <naujienlaiskis@mobilena-servisas.lt>)
+	id 1fPqW9-00013L-0W
+	for modernus@grezimas.lt; Mon, 04 Jun 2018 17:31:29 +0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=mobilena-servisas.lt; s=mail; h=List-Unsubscribe:Content-Type:MIME-Version:
+	To:From:Subject:Date:Message-ID:Sender:Reply-To:Cc:Content-Transfer-Encoding:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=UV+jHHBt0DlFAAQrL9QlEz1qKbiirLkZXGMjo9J8rSo=; b=SDayQUcW3tdUUsyAWyQotFJ/dh
+	9NXbRcpL9STww0pvfYyCWZ5F9T2J9pWTWfWHrt6W68K3C/3tTkbrsH4xyKQnDQE0yD7PiqA4BPzSO
+	qtjdxRCIwkFMM3ZHcbH5UVCdpM69sN1tlpa1SQUDjvKYMTI3OqGCoINk2aK5C6NcmmZI=;
+Received: from server.mobilena-servisas.lt ([185.209.139.47] helo=mobilena-servisas.lt)
+	by server.mobilena-servisas.lt with esmtpa (Exim 4.90_1)
+	(envelope-from <naujienlaiskis@mobilena-servisas.lt>)
+	id 1fPqW8-0007ex-Ji
+	for modernus@grezimas.lt; Mon, 04 Jun 2018 14:31:28 +0000
+Message-ID: <ff178a7610c4847d4dcc400d0050363d@mobilena-servisas.lt>
+Date: Mon, 04 Jun 2018 14:31:28 +0000
+Subject: MOBILENA - =?utf-8?Q?Telefon=C5=B3?= ir
+ =?utf-8?Q?kompiuteri=C5=B3?= taisymas visoje Lietuvoje
+From: Mobilena Servisas <naujienlaiskis@mobilena-servisas.lt>
+To: modernus@grezimas.lt
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1528122688_94b7cb29c346a526fde15f71c17ad825_=_"
+Precedence: Bulk
+List-Unsubscribe: <https://mobilena-servisas.lt/email/unsubscribe/5b154d405958e>
+X-Spam-Checked: mobilena-servisas.lt, 185.209.139.47, w3.org, akamaihd.net,
+	mailchimp.com, 23.59.117.46, mobilena.lt, 185.79.247.47, googlemail.com
+
+
+--_=_swift_v4_1528122688_94b7cb29c346a526fde15f71c17ad825_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+--_=_swift_v4_1528122688_94b7cb29c346a526fde15f71c17ad825_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd"><html xmlns=3D"http://www.w3.org/1999/xhtml" lan=
+g=3D"en" style=3D"" class=3D" js flexbox flexboxlegacy canvas canvastext we=
+bgl no-touch geolocation postmessage websqldatabase indexeddb hashchange hi=
+story draganddrop websockets rgba hsla multiplebgs backgroundsize borderima=
+ge borderradius boxshadow textshadow opacity cssanimations csscolumns cssgr=
+adients cssreflections csstransforms csstransforms3d csstransitions fontfac=
+e generatedcontent video audio localstorage sessionstorage webworkers appli=
+cationcache svg inlinesvg smil svgclippaths js csstransforms csstransforms3=
+d csstransitions responsejs "><head>
+        <meta http-equiv=3D"Content-=
+Type" content=3D"text/html; charset=3Dutf-8" />
+        <meta name=3D"vie=
+wport" content=3D"width=3Ddevice-width, initial-scale=3D1.0" />
+        <=
+meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+        <met=
+a name=3D"robots" content=3D"noindex, nofollow" />
+        <title>MOBILEN=
+A - Telefon=C5=B3 ir kompiuteri=C5=B3 taisymas visoje Lietuvoje</title>
+ =
+       <style type=3D"text/css">
+            body, table, td, a{-webkit-t=
+ext-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+            table, td=
+{mso-table-lspace: 0pt; mso-table-rspace: 0pt;}
+            img{border: 0=
+; height: auto; line-height: 100%; outline: none; text-decoration: none; -m=
+s-interpolation-mode: bicubic;}
+            table{border-collapse: collap=
+se !important;}
+            body{font-family: 'Open Sans', Verdana, Arial=
+, sans-serif; height: 100% !important; margin: 0 !important; padding: 0 !im=
+portant; width: 100% !important; -webkit-font-smoothing: antialiased !impor=
+tant; font-smoothing: antialiased !important;}
+            div[style*=3D"=
+margin: 16px 0;"] { margin:0 !important; }
+            a[x-apple-data-det=
+ectors] {
+                color: inherit !important;
+                te=
+xt-decoration: none !important;
+                font-size: inherit !impor=
+tant;
+                font-family: inherit !important;
+                =
+font-weight: inherit !important;
+                line-height: inherit !im=
+portant;
+            }
+            @media only screen and (min-width: 6=
+60px) {
+                .shrinker {
+                    padding: 0 55px=
+ !important;
+                }
+                .header-split {
+      =
+              display: block;
+                    width: 50%;
+         =
+           float: left;
+                }
+                .header-split=
+.right p, .header-split.right td, .header-split.right {
+                 =
+   text-align: right !important;
+                    float: right !import=
+ant;
+                }
+                .large-circle {
+              =
+      width: 16% !important;
+                    float: left !important;=
+
+                    display: block !important;
+                }
+   =
+             .large-circle-text {
+                    width: 75% !importa=
+nt;
+                    padding-left: 9% !important;
+                  =
+  float: left !important;
+                    display: block !important;=
+
+                }
+                .small-circle {
+                  =
+  width: 12% !important;
+                    float: left !important;
+  =
+                  display: block !important;
+                }
+        =
+        .small-circle-text {
+                    width: 79% !important;=
+
+                    padding-left: 9% !important;
+                    f=
+loat: left !important;
+                    display: block !important;
+ =
+               }
+            }
+            @media only screen and (max-=
+width: 660px) {
+                * {
+                    text-align: cen=
+ter !important;
+                }
+                .shrinker {
+       =
+             width: 100% !important;
+                    padding: 0 15px =
+!important;
+                }
+                .header-split td {
+    =
+                padding: 5px 0 !important;
+                    width: 100=
+% !important;
+                    text-align: center !important;
+      =
+          }
+                .header-split a, .header-split p {
+        =
+            text-align: center !important;
+                }
+          =
+      .large-circle-text {
+                    margin-bottom: 15px;
+   =
+                 float: left;
+                    width: 100%;
+        =
+        }
+                .large-circle-text td {
+                    f=
+loat: left;
+                    width: 100%;
+                }
+      =
+          .c1,.c2,.c3,.c4,.c5,.c6,.c7,.c8,.c10,.c11,.c12 {
+              =
+      width: 100% !important;
+                    float: left !important;=
+
+                    display: block;
+                    padding: 0 !im=
+portant;
+                    margin: 10px 0;
+                }
+      =
+      }
+        </style>
+        <!--[if !mso]><!-->
+        <style t=
+ype=3D"text/css">
+            /* Opens sans font */
+            @font-f=
+ace {
+              font-family: 'Open Sans';
+              src: url('h=
+ttps://mobilena-servisas.lt/themes/sparse/assets/open-sans/OpenSans-Regular=
+.WOFF') format('woff'),
+                   url('https://mobilena-servisas=
+.lt/themes/sparse/assets/open-sans/OpenSans-Regular.ttf')  format('truetype=
+');=20
+              font-weight: 300;
+            }
+            @font-=
+face {
+              font-family: 'Open Sans';
+              src: url('=
+https://mobilena-servisas.lt/themes/sparse/assets/open-sans/OpenSans-Italic=
+.WOFF') format('woff'),
+                   url('https://mobilena-servisas=
+.lt/themes/sparse/assets/open-sans/OpenSans-Italic.ttf')  format('truetype'=
+);=20
+              font-weight: 300;
+              font-style: italic;=
+
+            }
+            @font-face {
+              font-family: 'O=
+pen Sans';
+              src: url('https://mobilena-servisas.lt/themes/sp=
+arse/assets/open-sans/OpenSans-SemiBold.WOFF') format('woff'),
+          =
+         url('https://mobilena-servisas.lt/themes/sparse/assets/open-sans/O=
+penSans-SemiBold.ttf')  format('truetype');=20
+              font-weight: 7=
+00;
+            }
+            @font-face {
+              font-family:=
+ 'Open Sans';
+              src: url('https://mobilena-servisas.lt/themes=
+/sparse/assets/open-sans/OpenSans-SemiBoldItalic.WOFF') format('woff'),
+ =
+                  url('https://mobilena-servisas.lt/themes/sparse/assets/op=
+en-sans/OpenSans-SemiBoldItalic.ttf')  format('truetype');=20
+             =
+ font-weight: 700;
+              font-style: italic;
+            }
+  =
+      </style>
+        <!--<![endif]-->
+                               =
+       </head>
+    <body style=3D"margin: 0px; padding: 0px; background: =
+rgb(240, 240, 240); cursor: auto; overflow: visible;" class=3D"ui-sortable"=
+>
+    <!--[if mso]>
+    <style type=3D"text/css">
+    body, table, td=
+ {font-family: 'Open Sans', Verdana, Arial, sans-serif; !important;}
+    =
+</style>
+    <![endif]-->
+    <table width=3D"100%" height=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center">
+        <=
+tbody><tr>
+            <td width=3D"100%" valign=3D"top" align=3D"center"=
+>
+                <center>
+                    <!-- END HEADER LINKS --=
+>
+                    <!-- START HEADER LINKS -->
+                    <=
+!-- START HEADER -->
+                    <table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" height=3D"100%" width=3D"100%" data-section-wrappe=
+r=3D"1" bgcolor=3D"transparent" style=3D"background-color: transparent;">=
+
+                        <tbody><tr data-section=3D"1" bgcolor=3D"#ffffff=
+" style=3D"background-color: rgb(255, 255, 255);">
+                      =
+      <td align=3D"center" height=3D"100%" valign=3D"top" width=3D"100%">=
+
+                                <!--[if (gte mso 9)|(IE)]>
+           =
+                     <table align=3D"center" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" width=3D"660">
+                                <tr>
+=
+                                <td align=3D"center" valign=3D"top" width=
+=3D"660">
+                                <![endif]-->
+                =
+                <table align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"100%" style=3D"max-width:660px;" bgcolor=3D"#f0f0f0"=
+>
+                                    <tbody><tr>
+                     =
+                   <td align=3D"center" style=3D"font-family: 'Open Sans', =
+Verdana, Arial, sans-serif; background:#f0f0f0; color:#212121; padding: 0 1=
+5px;" class=3D"shrinker ui-sortable" data-slot-container=3D"1">
+         =
+                               </td>
+                                    =
+</tr>
+                                </tbody></table>
+                =
+                <table align=3D"center" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"100%" style=3D"max-width:660px;" bgcolor=3D"#f0f0f0"=
+>
+                                    <tbody><tr>
+                     =
+                   <td align=3D"center" style=3D"font-family: 'Open Sans', =
+Verdana, Arial, sans-serif; background:#f0f0f0; color:#212121; padding: 0 1=
+5px;" class=3D"shrinker ui-sortable" data-slot-container=3D"1">
+         =
+                                   <div data-slot=3D"text" data-param-paddi=
+ng-top=3D"10" style=3D"padding-top: 10px;"></div><div data-slot=3D"codemode=
+">
+                                    <div class=3D"codemodeHtmlContaine=
+r"><a href=3D"https://mobilena-servisas.lt/r/06371ea4821a26e08a47d35c1?ct=
+=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJl=
+bWFpbCI7aTo0O3M6NDoic3RhdCI7czoxMzoiNWIxNTRkNDA1OTU4ZSI7czo0OiJsZWFkIjtzOjU=
+6IjY5ODg2IjtzOjc6ImNoYW5uZWwiO2E6MTp7czo1OiJlbWFpbCI7aTo0O319&">Nematote pa=
+vaiksl=C4=97li=C5=B3? Spauskite =C4=8Dia.</a>
+</div>
+                  =
+              </div><div data-slot=3D"separator">
+                       =
+             <hr />
+                                </div><div data-slot=
+=3D"text" style=3D"position: relative; left: 0px; top: 0px;" class=3D""><im=
+g src=3D"https://mobilena-servisas.lt/media/images/3fe73b81d2dc7e4b92bb6d17=
+03c65157.gif" class=3D"fr-fic fr-dib" /></div><div data-slot=3D"text"><h4><=
+span style=3D"font-family: Verdana,Geneva,sans-serif;"><span style=3D"color=
+: rgb(124, 112, 107);">Telefon=C5=B3 ir kompiuteri=C5=B3 serviso centras</s=
+pan></span></h4></div><div data-slot=3D"text"><div style=3D"text-align: rig=
+ht;"><em>Priimame u=C5=BEsakymus i=C5=A1 visos Lietuvos!</em></div></div><d=
+iv data-slot=3D"text" style=3D"position: relative; left: 0px; top: 0px;" cl=
+ass=3D""></div>
+                                        <div data-slot=3D=
+"text"><div style=3D"text-align: left;"><em>=C2=A0 =C2=A0 =C2=A0</em></div>=
+<div style=3D"text-align: left;"><em>=C2=A0 Sveiki!<br /></em></div><div st=
+yle=3D"text-align: left;"><br /></div><div style=3D"text-align: left;"><em>=
+D=C4=97l =C2=A0gegu=C5=BE=C4=97s 25 dien=C4=85 =C4=AFsigaliosian=C4=8Dio Be=
+ndrojo Duomen=C5=B3 Apsaugos Reglamento, norime pakviesti i=C5=A1 naujo pat=
+virtinti naujienlai=C5=A1ki=C5=B3 gavim=C4=85.=C2=A0</em></div><div style=
+=3D"text-align: left;"><em><br /></em></div><div style=3D"text-align: left;=
+"><em>Pa=C5=BEadame ne da=C5=BEniau nei 1 kart=C4=85 per 3 m=C4=97nesius:<b=
+r /><ul><li>Supa=C5=BEindinti tave su geriausiais pasi=C5=ABlymais ir akcij=
+omis</li><li>Pristatyti naujas paslaugas</li><li>Ne da=C5=BEniau nei kart=
+=C4=85 per metus atsi=C5=B3sti trump=C4=85 apklaus=C4=85, kuri pad=C4=97s s=
+uprasti ir, to pasekoje, patenkinti tavo poreikius=C2=A0</li><li>Sutikusiem=
+s gauti naujienlai=C5=A1k=C4=AF dovanosime vienkartin=C4=99 10 Eur vert=
+=C4=97s nuolaid=C4=85 bet kurio =C4=AFrenginio taisymui.</li></ul></em></di=
+v></div><div data-slot=3D"button" data-param-float=3D"0" align=3D"left" dat=
+a-param-background-color=3D"0ebbeb" data-param-link-text=3D"Sutinku! :)" da=
+ta-param-padding-top=3D"5" style=3D"padding-top: 5px; padding-bottom: 5px; =
+position: relative; left: 0px; top: 0px;" data-param-padding-bottom=3D"5" d=
+ata-param-border-radius=3D"25" class=3D"" data-param-href=3D"https://mobile=
+na-servisas.lt/sutikimas">
+<a href=3D"https://mobilena-servisas.lt/r/0298=
+9ec5613360be720b05092?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFp=
+bCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoxMzoiNWIxNTRkNDA1OTU=
+4ZSI7czo0OiJsZWFkIjtzOjU6IjY5ODg2IjtzOjc6ImNoYW5uZWwiO2E6MTp7czo1OiJlbWFpbC=
+I7aTo0O319&" class=3D"button" target=3D"_blank" style=3D"border-color: rgb(=
+14, 187, 235); border-width: 10px 20px; border-style: solid; text-decoratio=
+n: none; border-radius: 25px; background-color: rgb(14, 187, 235); display:=
+ inline-block; font-size: 16px; color: rgb(255, 255, 255);" background=3D"#=
+0ebbeb">Sutinku! :)</a>
+<div style=3D"clear:both"></div>                 =
+               </div><div data-slot=3D"button" data-param-float=3D"0" align=
+=3D"left" data-param-background-color=3D"d593ed" data-param-padding-top=3D"=
+5" style=3D"padding-top: 5px; padding-bottom: 5px; position: relative; left=
+: 0px; top: 0px;" data-param-padding-bottom=3D"5" data-param-border-radius=
+=3D"25" data-param-link-text=3D"Nesutinku" data-param-href=3D"https://mobil=
+ena-servisas.lt/email/unsubscribe/5b154d405958e" class=3D"">
+<a href=3D"h=
+ttps://mobilena-servisas.lt/email/unsubscribe/5b154d405958e" class=3D"butto=
+n" target=3D"_blank" style=3D"border-color: rgb(213, 147, 237); border-widt=
+h: 10px 20px; border-style: solid; text-decoration: none; border-radius: 25=
+px; background-color: rgb(213, 147, 237); display: inline-block; font-size:=
+ 16px; color: rgb(255, 255, 255);" background=3D"#d593ed">Nesutinku</a>
+<=
+div style=3D"clear:both"></div>                                </div><div d=
+ata-slot=3D"text"><div style=3D"text-align: left;"><br /></div><div style=
+=3D"text-align: left;"><em>D=C4=97kojame.</em></div></div><div data-slot=3D=
+"separator">
+                                    <hr />
+               =
+                 </div><div data-slot=3D"codemode">
+                     =
+               <div class=3D"codemodeHtmlContainer">=09=09<!-- NAME: WELCOM=
+E EMAIL -->
+=09=09<!--[if gte mso 15]>
+=09=09<xml>
+=09=09=09<o:Office=
+DocumentSettings>
+=09=09=09<o:AllowPNG></o:AllowPNG>
+=09=09=09<o:Pixels=
+PerInch>96</o:PixelsPerInch>
+=09=09=09</o:OfficeDocumentSettings>
+=09=
+=09</xml>
+=09=09<![endif]-->
+=09=09<meta charset=3D"UTF-8" />
+       =
+ <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+        <m=
+eta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1" /=
+>
+=09=09<title>*|MC:SUBJECT|*</title>
+    <style type=3D"text/css">
+=
+=09=09p{
+=09=09=09margin:10px 0;
+=09=09=09padding:0;
+=09=09}
+=09=09=
+table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09h1,h2,h3,h4,h=
+5,h6{
+=09=09=09display:block;
+=09=09=09margin:0;
+=09=09=09padding:0;=
+
+=09=09}
+=09=09img,a img{
+=09=09=09border:0;
+=09=09=09height:auto;=
+
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=
+=09body,#bodyTable,#bodyCell{
+=09=09=09height:100%;
+=09=09=09margin:0;=
+
+=09=09=09padding:0;
+=09=09=09width:100%;
+=09=09}
+=09=09.mcnPreview=
+Text{
+=09=09=09display:none !important;
+=09=09}
+=09=09#outlook a{
+=
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09-ms-interpolation-mod=
+e:bicubic;
+=09=09}
+=09=09table{
+=09=09=09mso-table-lspace:0pt;
+=09=
+=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09widt=
+h:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}=
+
+=09=09p,a,li,td,blockquote{
+=09=09=09mso-line-height-rule:exactly;
+=
+=09=09}
+=09=09a[href^=3Dtel],a[href^=3Dsms]{
+=09=09=09color:inherit;
+=
+=09=09=09cursor:default;
+=09=09=09text-decoration:none;
+=09=09}
+=09=
+=09p,a,li,td,body,table,blockquote{
+=09=09=09-ms-text-size-adjust:100%;=
+
+=09=09=09-webkit-text-size-adjust:100%;
+=09=09}
+=09=09.ExternalClass=
+,.ExternalClass p,.ExternalClass td,.ExternalClass div,.ExternalClass span,=
+.ExternalClass font{
+=09=09=09line-height:100%;
+=09=09}
+=09=09a[x-app=
+le-data-detectors]{
+=09=09=09color:inherit !important;
+=09=09=09text-de=
+coration:none !important;
+=09=09=09font-size:inherit !important;
+=09=09=
+=09font-family:inherit !important;
+=09=09=09font-weight:inherit !importan=
+t;
+=09=09=09line-height:inherit !important;
+=09=09}
+=09=09.templateCo=
+ntainer{
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09a.mcnButt=
+on{
+=09=09=09display:block;
+=09=09}
+=09=09.mcnImage,.mcnRetinaImage{=
+
+=09=09=09vertical-align:bottom;
+=09=09}
+=09=09.mcnTextContent{
+=09=
+=09=09word-break:break-word;
+=09=09}
+=09=09.mcnTextContent img{
+=09=
+=09=09height:auto !important;
+=09=09}
+=09=09.mcnDividerBlock{
+=09=09=
+=09table-layout:fixed !important;
+=09=09}
+=09/*
+=09@tab Page
+=09@se=
+ction Heading 1
+=09@style heading 1
+=09*/
+=09=09h1{
+=09=09=09/*@edi=
+table*/color:#222222;
+=09=09=09/*@editable*/font-family:'Open Sans', 'Hel=
+vetica Neue', Helvetica, Arial, sans-serif;
+=09=09=09/*@editable*/font-si=
+ze:32px;
+=09=09=09/*@editable*/font-style:normal;
+=09=09=09/*@editable*=
+/font-weight:bold;
+=09=09=09/*@editable*/line-height:150%;
+=09=09=09/*@=
+editable*/letter-spacing:normal;
+=09=09=09/*@editable*/text-align:left;=
+
+=09=09}
+=09/*
+=09@tab Page
+=09@section Heading 2
+=09@style headi=
+ng 2
+=09*/
+=09=09h2{
+=09=09=09/*@editable*/color:#222222;
+=09=09=09=
+/*@editable*/font-family:Helvetica;
+=09=09=09/*@editable*/font-size:30px;=
+
+=09=09=09/*@editable*/font-style:normal;
+=09=09=09/*@editable*/font-we=
+ight:bold;
+=09=09=09/*@editable*/line-height:150%;
+=09=09=09/*@editable=
+*/letter-spacing:normal;
+=09=09=09/*@editable*/text-align:left;
+=09=09}=
+
+=09/*
+=09@tab Page
+=09@section Heading 3
+=09@style heading 3
+=09=
+*/
+=09=09h3{
+=09=09=09/*@editable*/color:#444444;
+=09=09=09/*@editabl=
+e*/font-family:Helvetica;
+=09=09=09/*@editable*/font-size:22px;
+=09=09=
+=09/*@editable*/font-style:normal;
+=09=09=09/*@editable*/font-weight:bold=
+;
+=09=09=09/*@editable*/line-height:150%;
+=09=09=09/*@editable*/letter-=
+spacing:normal;
+=09=09=09/*@editable*/text-align:left;
+=09=09}
+=09/*=
+
+=09@tab Page
+=09@section Heading 4
+=09@style heading 4
+=09*/
+=09=
+=09h4{
+=09=09=09/*@editable*/color:#999999;
+=09=09=09/*@editable*/font-=
+family:Georgia;
+=09=09=09/*@editable*/font-size:20px;
+=09=09=09/*@edita=
+ble*/font-style:italic;
+=09=09=09/*@editable*/font-weight:normal;
+=09=
+=09=09/*@editable*/line-height:125%;
+=09=09=09/*@editable*/letter-spacing=
+:normal;
+=09=09=09/*@editable*/text-align:center;
+=09=09}
+=09/*
+=09=
+@tab Header
+=09@section Header Container Style
+=09*/
+=09=09#templateH=
+eader{
+=09=09=09/*@editable*/background-color:#f3f3f3;
+=09=09=09/*@edit=
+able*/background-image:none;
+=09=09=09/*@editable*/background-repeat:no-r=
+epeat;
+=09=09=09/*@editable*/background-position:center;
+=09=09=09/*@ed=
+itable*/background-size:cover;
+=09=09=09/*@editable*/border-top:1px none =
+;
+=09=09=09/*@editable*/border-bottom:1px none ;
+=09=09=09/*@editable*/=
+padding-top:27px;
+=09=09=09/*@editable*/padding-bottom:0;
+=09=09}
+=09=
+/*
+=09@tab Header
+=09@section Header Interior Style
+=09*/
+=09=09.he=
+aderContainer{
+=09=09=09/*@editable*/background-color:#ffffff;
+=09=09=
+=09/*@editable*/background-image:none;
+=09=09=09/*@editable*/background-r=
+epeat:no-repeat;
+=09=09=09/*@editable*/background-position:center;
+=09=
+=09=09/*@editable*/background-size:cover;
+=09=09=09/*@editable*/border-to=
+p:0;
+=09=09=09/*@editable*/border-bottom:0;
+=09=09=09/*@editable*/paddi=
+ng-top:18px;
+=09=09=09/*@editable*/padding-bottom:0;
+=09=09}
+=09/*
+=
+=09@tab Header
+=09@section Header Text
+=09*/
+=09=09.headerContainer .=
+mcnTextContent,.headerContainer .mcnTextContent p{
+=09=09=09/*@editable*/=
+color:#222222;
+=09=09=09/*@editable*/font-family:Helvetica;
+=09=09=09/*=
+@editable*/font-size:16px;
+=09=09=09/*@editable*/line-height:150%;
+=09=
+=09=09/*@editable*/text-align:left;
+=09=09}
+=09/*
+=09@tab Header
+=
+=09@section Header Link
+=09*/
+=09=09.headerContainer .mcnTextContent a,=
+.headerContainer .mcnTextContent p a{
+=09=09=09/*@editable*/color:#00ADD8=
+;
+=09=09=09/*@editable*/font-weight:normal;
+=09=09=09/*@editable*/text-=
+decoration:underline;
+=09=09}
+=09/*
+=09@tab Body
+=09@section Body C=
+ontainer Style
+=09*/
+=09=09#templateBody{
+=09=09=09/*@editable*/backg=
+round-color:#e6fdfb;
+=09=09=09/*@editable*/background-image:none;
+=09=
+=09=09/*@editable*/background-repeat:no-repeat;
+=09=09=09/*@editable*/bac=
+kground-position:center;
+=09=09=09/*@editable*/background-size:cover;
+=
+=09=09=09/*@editable*/border-top:0;
+=09=09=09/*@editable*/border-bottom:0=
+;
+=09=09=09/*@editable*/padding-top:0;
+=09=09=09/*@editable*/padding-bo=
+ttom:18px;
+=09=09}
+=09/*
+=09@tab Body
+=09@section Body Interior Sty=
+le
+=09*/
+=09=09.bodyContainer{
+=09=09=09/*@editable*/background-color=
+:#FFFFFF;
+=09=09=09/*@editable*/background-image:none;
+=09=09=09/*@edit=
+able*/background-repeat:no-repeat;
+=09=09=09/*@editable*/background-posit=
+ion:center;
+=09=09=09/*@editable*/background-size:cover;
+=09=09=09/*@ed=
+itable*/border-top:0;
+=09=09=09/*@editable*/border-bottom:0;
+=09=09=09/=
+*@editable*/padding-top:0;
+=09=09=09/*@editable*/padding-bottom:18px;
+=
+=09=09}
+=09/*
+=09@tab Body
+=09@section Body Text
+=09*/
+=09=09.bod=
+yContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+=09=09=09/*@=
+editable*/color:#222222;
+=09=09=09/*@editable*/font-family:Helvetica;
+=
+=09=09=09/*@editable*/font-size:16px;
+=09=09=09/*@editable*/line-height:1=
+50%;
+=09=09=09/*@editable*/text-align:left;
+=09=09}
+=09/*
+=09@tab B=
+ody
+=09@section Body Link
+=09*/
+=09=09.bodyContainer .mcnTextContent =
+a,.bodyContainer .mcnTextContent p a{
+=09=09=09/*@editable*/color:#00ADD8=
+;
+=09=09=09/*@editable*/font-weight:normal;
+=09=09=09/*@editable*/text-=
+decoration:underline;
+=09=09}
+=09/*
+=09@tab Footer
+=09@section Foot=
+er Style
+=09*/
+=09=09#templateFooter{
+=09=09=09/*@editable*/backgroun=
+d-color:#F7F7F7;
+=09=09=09/*@editable*/background-image:none;
+=09=09=09=
+/*@editable*/background-repeat:no-repeat;
+=09=09=09/*@editable*/backgroun=
+d-position:center;
+=09=09=09/*@editable*/background-size:cover;
+=09=09=
+=09/*@editable*/border-top:0;
+=09=09=09/*@editable*/border-bottom:0;
+=
+=09=09=09/*@editable*/padding-top:0;
+=09=09=09/*@editable*/padding-bottom=
+:73px;
+=09=09}
+=09/*
+=09@tab Footer
+=09@section Footer Interior Sty=
+le
+=09*/
+=09=09.footerContainer{
+=09=09=09/*@editable*/background-col=
+or:transparent;
+=09=09=09/*@editable*/background-image:none;
+=09=09=09/=
+*@editable*/background-repeat:no-repeat;
+=09=09=09/*@editable*/background=
+-position:center;
+=09=09=09/*@editable*/background-size:cover;
+=09=09=
+=09/*@editable*/border-top:0;
+=09=09=09/*@editable*/border-bottom:0;
+=
+=09=09=09/*@editable*/padding-top:0;
+=09=09=09/*@editable*/padding-bottom=
+:0;
+=09=09}
+=09/*
+=09@tab Footer
+=09@section Footer Text
+=09*/
+=
+=09=09.footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{=
+
+=09=09=09/*@editable*/color:#333333;
+=09=09=09/*@editable*/font-family=
+:Helvetica;
+=09=09=09/*@editable*/font-size:12px;
+=09=09=09/*@editable*=
+/line-height:150%;
+=09=09=09/*@editable*/text-align:center;
+=09=09}
+=
+=09/*
+=09@tab Footer
+=09@section Footer Link
+=09*/
+=09=09.footerCon=
+tainer .mcnTextContent a,.footerContainer .mcnTextContent p a{
+=09=09=09/=
+*@editable*/color:#333333;
+=09=09=09/*@editable*/font-weight:normal;
+=
+=09=09=09/*@editable*/text-decoration:underline;
+=09=09}
+=09@media only=
+ screen and (max-width: 480px){
+=09=09body,table,td,p,a,li,blockquote{
+=
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+}=09@media o=
+nly screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:100% !imp=
+ortant;
+=09=09=09min-width:100% !important;
+=09=09}
+}=09@media only s=
+creen and (max-width: 480px){
+=09=09.mcnRetinaImage{
+=09=09=09max-width=
+:100% !important;
+=09=09}
+}=09@media only screen and (max-width: 480px)=
+{
+=09=09.mcnImage{
+=09=09=09width:100% !important;
+=09=09}
+}=09@med=
+ia only screen and (max-width: 480px){
+=09=09.mcnCartContainer,.mcnCaptio=
+nTopContent,.mcnRecContentContainer,.mcnCaptionBottomContent,.mcnTextConten=
+tContainer,.mcnBoxedTextContentContainer,.mcnImageGroupContentContainer,.mc=
+nCaptionLeftTextContentContainer,.mcnCaptionRightTextContentContainer,.mcnC=
+aptionLeftImageContentContainer,.mcnCaptionRightImageContentContainer,.mcnI=
+mageCardLeftTextContentContainer,.mcnImageCardRightTextContentContainer{
+=
+=09=09=09max-width:100% !important;
+=09=09=09width:100% !important;
+=09=
+=09}
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnBoxedText=
+ContentContainer{
+=09=09=09min-width:100% !important;
+=09=09}
+}=09@me=
+dia only screen and (max-width: 480px){
+=09=09.mcnImageGroupContent{
+=
+=09=09=09padding:9px !important;
+=09=09}
+}=09@media only screen and (ma=
+x-width: 480px){
+=09=09.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCa=
+ptionRightContentOuter .mcnTextContent{
+=09=09=09padding-top:9px !importa=
+nt;
+=09=09}
+}=09@media only screen and (max-width: 480px){
+=09=09.mcn=
+ImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCaptionBot=
+tomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-child .mcn=
+TextContent{
+=09=09=09padding-top:18px !important;
+=09=09}
+}=09@media=
+ only screen and (max-width: 480px){
+=09=09.mcnImageCardBottomImageConten=
+t{
+=09=09=09padding-bottom:9px !important;
+=09=09}
+}=09@media only sc=
+reen and (max-width: 480px){
+=09=09.mcnImageGroupBlockInner{
+=09=09=09p=
+adding-top:0 !important;
+=09=09=09padding-bottom:0 !important;
+=09=09}=
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupBlo=
+ckOuter{
+=09=09=09padding-top:9px !important;
+=09=09=09padding-bottom:9=
+px !important;
+=09=09}
+}=09@media only screen and (max-width: 480px){=
+
+=09=09.mcnTextContent,.mcnBoxedTextContentColumn{
+=09=09=09padding-rig=
+ht:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+}=
+=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardLeftImag=
+eContent,.mcnImageCardRightImageContent{
+=09=09=09padding-right:18px !imp=
+ortant;
+=09=09=09padding-bottom:0 !important;
+=09=09=09padding-left:18p=
+x !important;
+=09=09}
+}=09@media only screen and (max-width: 480px){
+=
+=09=09.mcpreview-image-uploader{
+=09=09=09display:none !important;
+=09=
+=09=09width:100% !important;
+=09=09}
+}=09@media only screen and (max-wi=
+dth: 480px){
+=09/*
+=09@tab Mobile Styles
+=09@section Heading 1
+=09@=
+tip Make the first-level headings larger in size for better readability on =
+small screens.
+=09*/
+=09=09h1{
+=09=09=09/*@editable*/font-size:30px !=
+important;
+=09=09=09/*@editable*/line-height:125% !important;
+=09=09}=
+
+}=09@media only screen and (max-width: 480px){
+=09/*
+=09@tab Mobile =
+Styles
+=09@section Heading 2
+=09@tip Make the second-level headings lar=
+ger in size for better readability on small screens.
+=09*/
+=09=09h2{
+=
+=09=09=09/*@editable*/font-size:26px !important;
+=09=09=09/*@editable*/li=
+ne-height:125% !important;
+=09=09}
+}=09@media only screen and (max-widt=
+h: 480px){
+=09/*
+=09@tab Mobile Styles
+=09@section Heading 3
+=09@ti=
+p Make the third-level headings larger in size for better readability on sm=
+all screens.
+=09*/
+=09=09h3{
+=09=09=09/*@editable*/font-size:20px !im=
+portant;
+=09=09=09/*@editable*/line-height:150% !important;
+=09=09}
+}=
+=09@media only screen and (max-width: 480px){
+=09/*
+=09@tab Mobile Styl=
+es
+=09@section Heading 4
+=09@tip Make the fourth-level headings larger =
+in size for better readability on small screens.
+=09*/
+=09=09h4{
+=09=
+=09=09/*@editable*/font-size:18px !important;
+=09=09=09/*@editable*/line-=
+height:150% !important;
+=09=09}
+}=09@media only screen and (max-width: =
+480px){
+=09/*
+=09@tab Mobile Styles
+=09@section Boxed Text
+=09@tip =
+Make the boxed text larger in size for better readability on small screens.=
+ We recommend a font size of at least 16px.
+=09*/
+=09=09.mcnBoxedTextCo=
+ntentContainer .mcnTextContent,.mcnBoxedTextContentContainer .mcnTextConten=
+t p{
+=09=09=09/*@editable*/font-size:14px !important;
+=09=09=09/*@edita=
+ble*/line-height:150% !important;
+=09=09}
+}=09@media only screen and (m=
+ax-width: 480px){
+=09/*
+=09@tab Mobile Styles
+=09@section Header Text=
+
+=09@tip Make the header text larger in size for better readability on sm=
+all screens.
+=09*/
+=09=09.headerContainer .mcnTextContent,.headerContai=
+ner .mcnTextContent p{
+=09=09=09/*@editable*/font-size:16px !important;=
+
+=09=09=09/*@editable*/line-height:150% !important;
+=09=09}
+}=09@medi=
+a only screen and (max-width: 480px){
+=09/*
+=09@tab Mobile Styles
+=09=
+@section Body Text
+=09@tip Make the body text larger in size for better r=
+eadability on small screens. We recommend a font size of at least 16px.
+=
+=09*/
+=09=09.bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent=
+ p{
+=09=09=09/*@editable*/font-size:16px !important;
+=09=09=09/*@editab=
+le*/line-height:150% !important;
+=09=09}
+}=09@media only screen and (ma=
+x-width: 480px){
+=09/*
+=09@tab Mobile Styles
+=09@section Footer Text=
+
+=09@tip Make the footer content text larger in size for better readabili=
+ty on small screens.
+=09*/
+=09=09.footerContainer .mcnTextContent,.foot=
+erContainer .mcnTextContent p{
+=09=09=09/*@editable*/font-size:14px !impo=
+rtant;
+=09=09=09/*@editable*/line-height:150% !important;
+=09=09}
+}</=
+style>
+                    <script async=3D"" src=3D"https://ds-aksb-a.ak=
+amaihd.net/aksb.min.js"></script><script async=3D"" src=3D"https://ds-aksb-=
+a.akamaihd.net/aksb.min.js"></script><script async=3D"" src=3D"https://ds-a=
+ksb-a.akamaihd.net/aksb.min.js"></script><script async=3D"" src=3D"https://=
+ds-aksb-a.akamaihd.net/aksb.min.js"></script><script async=3D"" src=3D"http=
+s://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script async=3D"" src=3D"=
+https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script async=3D"" src=
+=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script async=3D""=
+ src=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script async=
+=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script a=
+sync=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><scri=
+pt async=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><=
+script async=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js"></scri=
+pt><script async=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js"></=
+script><script async=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js=
+"></script><script async=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aksb.mi=
+n.js"></script><script async=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aks=
+b.min.js"></script><script async=3D"" src=3D"https://ds-aksb-a.akamaihd.net=
+/aksb.min.js"></script><script async=3D"" src=3D"https://ds-aksb-a.akamaihd=
+.net/aksb.min.js"></script><script async=3D"" src=3D"https://ds-aksb-a.akam=
+aihd.net/aksb.min.js"></script><script async=3D"" src=3D"https://ds-aksb-a.=
+akamaihd.net/aksb.min.js"></script><script async=3D"" src=3D"https://ds-aks=
+b-a.akamaihd.net/aksb.min.js"></script><script async=3D"" src=3D"https://ds=
+-aksb-a.akamaihd.net/aksb.min.js"></script><script async=3D"" src=3D"https:=
+//ds-aksb-a.akamaihd.net/aksb.min.js"></script><script async=3D"" src=3D"ht=
+tps://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script async=3D"" src=
+=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script async=3D""=
+ src=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script async=
+=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script a=
+sync=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><scri=
+pt async=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><=
+script async=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js"></scri=
+pt><script async=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js"></=
+script><script async=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aksb.min.js=
+"></script><script async=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aksb.mi=
+n.js"></script><script async=3D"" src=3D"https://ds-aksb-a.akamaihd.net/aks=
+b.min.js"></script><script async=3D"" src=3D"https://ds-aksb-a.akamaihd.net=
+/aksb.min.js"></script><script async=3D"" src=3D"https://ds-aksb-a.akamaihd=
+.net/aksb.min.js"></script><script async=3D"" src=3D"https://ds-aksb-a.akam=
+aihd.net/aksb.min.js"></script><script async=3D"" src=3D"https://ds-aksb-a.=
+akamaihd.net/aksb.min.js"></script><script async=3D"" src=3D"https://ds-aks=
+b-a.akamaihd.net/aksb.min.js"></script><script async=3D"" src=3D"https://ds=
+-aksb-a.akamaihd.net/aksb.min.js"></script><script>var w=3Dwindow;if(w.perf=
+ormance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=3Ddo=
+cument;AKSB=3Dw.AKSB||{},AKSB.q=3DAKSB.q||[],AKSB.mark=3DAKSB.mark||functio=
+n(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=3DAKSB=
+.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime(=
+)])},AKSB.done=3DAKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark(=
+"firstbyte",(new Date).getTime()),AKSB.prof=3D{custid:"641075",ustr:"",orig=
+inlat:"0",clientrtt:"47",ghostip:"95.101.133.84",ipv6:false,pct:"10",client=
+ip:"88.119.50.32",requestid:"3929f8",region:"15267",protocol:"h2",blver:13,=
+akM:"x",akN:"ae",akTT:"O",akTX:"1",akTI:"3929f8",ai:"441803",ra:"false",pmg=
+n:"",pmgi:"",pmp:"",qc:""},function(e){var _=3Dd.createElement("script");_.=
+async=3D"async",_.src=3De;var t=3Dd.getElementsByTagName("script"),t=3Dt[t.=
+length-1];t.parentNode.insertBefore(_,t)}(("https:"=3D=3D=3Dd.location.prot=
+ocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+=
+=09=09<!--*|IF:MC_PREVIEW_TEXT|*-->
+=09=09<!--[if !gte mso 9]><!----><spa=
+n class=3D"mcnPreviewText" style=3D"display:none; font-size:0px; line-heigh=
+t:0px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; visibilit=
+y:hidden; mso-hide:all;">*|MC_PREVIEW_TEXT|*</span><!--<![endif]-->
+=09=
+=09<!--*|END:IF|*-->
+        <center>
+            <table align=3D"cente=
+r" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" width=
+=3D"100%" id=3D"bodyTable">
+                <tbody><tr>
+               =
+     <td align=3D"center" valign=3D"top" id=3D"bodyCell">
+               =
+         <!-- BEGIN TEMPLATE // -->
+                        <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=
+=09=09=09<tbody><tr>
+=09=09=09=09=09=09=09=09<td align=3D"center" valign=
+=3D"top" id=3D"templateHeader" data-template-container=3D"">
+=09=09=09=09=
+=09=09=09=09=09<!--[if (gte mso 9)|(IE)]>
+=09=09=09=09=09=09=09=09=09<tab=
+le align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"600" style=3D"width:600px;">
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=
+=09=09=09=09=09=09=09<td align=3D"center" valign=3D"top" width=3D"600" styl=
+e=3D"width:600px;">
+=09=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09=
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" class=3D"templateContainer">
+=09=09=09=09=
+=09=09=09=09=09=09<tbody><tr>
+                                =09=09=09<t=
+d valign=3D"top" class=3D"headerContainer"></td>
+=09=09=09=09=09=09=09=09=
+=09=09</tr>
+=09=09=09=09=09=09=09=09=09</tbody></table>
+=09=09=09=09=09=
+=09=09=09=09<!--[if (gte mso 9)|(IE)]>
+=09=09=09=09=09=09=09=09=09</td>=
+
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09</table>=
+
+=09=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09=09=09=09=09=09</td>=
+
+                            </tr>
+=09=09=09=09=09=09=09<tr>
+=09=09=
+=09=09=09=09=09=09<td align=3D"center" valign=3D"top" id=3D"templateBody" d=
+ata-template-container=3D"">
+=09=09=09=09=09=09=09=09=09<!--[if (gte mso =
+9)|(IE)]>
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0"=
+ cellspacing=3D"0" cellpadding=3D"0" width=3D"600" style=3D"width:600px;">=
+
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=
+=3D"center" valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=
+=09=09=09=09=09=09=09<![endif]-->
+=09=09=09=09=09=09=09=09=09<table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ class=3D"templateContainer">
+=09=09=09=09=09=09=09=09=09=09<tbody><tr>=
+
+                                =09=09=09<td valign=3D"top" class=3D"bod=
+yContainer"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" class=3D"mcnTextBlock" style=3D"min-width:100%;">
+    <tbody cl=
+ass=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" =
+class=3D"mcnTextBlockInner" style=3D"padding-top:9px;">
+              =09=
+<!--[if mso]>
+=09=09=09=09<table align=3D"left" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:100%;">
+=09=09=09=
+=09<tr>
+=09=09=09=09<![endif]-->
+=09=09=09=09<!--[if mso]>
+=09=09=09=
+=09<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09<=
+![endif]-->
+                <table align=3D"left" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" style=3D"max-width:100%; min-width:100%;" width=
+=3D"100%" class=3D"mcnTextContentContainer">
+                    <tbody><=
+tr>
+                        <td valign=3D"top" class=3D"mcnTextContent" s=
+tyle=3D"padding-top:0; padding-right:18px; padding-bottom:9px; padding-left=
+:18px;">
+                            =C2=A0Maloniai kvie=C4=8Diame pasina=
+udoti m=C5=ABs=C5=B3 teikiamomis paslaugomis!<br />
+Operatyviai, nebrangi=
+ai ir svarbiausia kokybi=C5=A1kai      atliekame =C5=A1iuos darbus:
+     =
+                   </td>
+                    </tr>
+                </tb=
+ody></table>
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</td>
+=09=09=09=09=
+<![endif]-->
+=09=09=09=09<!--[if mso]>
+=09=09=09=09</tr>
+=09=09=09=09=
+</table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+ =
+   </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"100%" class=3D"mcnCaptionBlock">
+    <tbody class=3D"mcnCapti=
+onBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInn=
+er" valign=3D"top" style=3D"padding:9px;">
+<table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" class=3D"mcnCaptionLeftContentOuter" width=3D"100=
+%">
+    <tbody><tr>
+        <td valign=3D"top" class=3D"mcnCaptionLeftC=
+ontentInner" style=3D"padding:0 9px ;">
+            <table align=3D"right=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnCaptionLeftI=
+mageContentContainer" width=3D"264">
+                <tbody><tr>
+      =
+              <td class=3D"mcnCaptionLeftImageContent" align=3D"center" val=
+ign=3D"top">
+                        <img alt=3D"" src=3D"https://gallery=
+.mailchimp.com/f85edf353962a8b8ccb11cdde/images/fae2a7cf-bc1c-454f-a926-9d3=
+349d23434.jpg" width=3D"264" style=3D"max-width:360px;" class=3D"mcnImage" =
+/>
+                    </td>
+                </tr>
+            </tbod=
+y></table>
+            <table class=3D"mcnCaptionLeftTextContentContainer=
+" align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+264">
+                <tbody><tr>
+                    <td valign=3D"top=
+" class=3D"mcnTextContent">
+                        <a href=3D"https://mo=
+bilena-servisas.lt/r/28e13bede092d4c4badf0d4da?ct=3DYTo1OntzOjY6InNvdXJjZSI=
+7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdC=
+I7czoxMzoiNWIxNTRkNDA1OTU4ZSI7czo0OiJsZWFkIjtzOjU6IjY5ODg2IjtzOjc6ImNoYW5uZ=
+WwiO2E6MTp7czo1OiJlbWFpbCI7aTo0O319&" target=3D"_blank">=E2=80=A2 Mobili=
+=C5=B3j=C5=B3 telefon=C5=B3 taisymas bei programinis tvarkymas.</a><br />=
+
+<br />
+<a href=3D"https://mobilena-servisas.lt/r/36fffef6c71f57bad7e64=
+a09e?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9c=
+zo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoxMzoiNWIxNTRkNDA1OTU4ZSI7czo0OiJsZWFk=
+IjtzOjU6IjY5ODg2IjtzOjc6ImNoYW5uZWwiO2E6MTp7czo1OiJlbWFpbCI7aTo0O319&" targ=
+et=3D"_blank">=E2=80=A2 Ekran=C5=B3 atnaujinimas - stikliuk=C5=B3 keitimas.=
+<br />
+OCA bei LOCA technologija.</a>
+                    </td>
+     =
+           </tr>
+            </tbody></table>
+        </td>
+    </tr>=
+
+</tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</=
+table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" class=3D"mcnCaptionBlock">
+    <tbody class=3D"mcnCaptionBlockOuter">=
+
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" valign=3D"=
+top" style=3D"padding:9px;">
+<table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" class=3D"mcnCaptionLeftContentOuter" width=3D"100%">
+    <tbo=
+dy><tr>
+        <td valign=3D"top" class=3D"mcnCaptionLeftContentInner" s=
+tyle=3D"padding:0 9px ;">
+            <table align=3D"right" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnCaptionLeftImageContentCon=
+tainer" width=3D"264">
+                <tbody><tr>
+                    =
+<td class=3D"mcnCaptionLeftImageContent" align=3D"center" valign=3D"top">=
+
+                        <img alt=3D"" src=3D"https://gallery.mailchimp.c=
+om/f85edf353962a8b8ccb11cdde/images/743f4870-fdd6-4bcb-8947-3bbe83af3fb3.jp=
+g" width=3D"264" style=3D"max-width:360px;" class=3D"mcnImage" />
+       =
+             </td>
+                </tr>
+            </tbody></table>=
+
+            <table class=3D"mcnCaptionLeftTextContentContainer" align=3D=
+"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"264">
+  =
+              <tbody><tr>
+                    <td valign=3D"top" class=3D=
+"mcnTextContent">
+                        <a href=3D"https://mobilena-ser=
+visas.lt/r/e05983c50a0e83ee3c5086c5d?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpO=
+jA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoxMzoi=
+NWIxNTRkNDA1OTU4ZSI7czo0OiJsZWFkIjtzOjU6IjY5ODg2IjtzOjc6ImNoYW5uZWwiO2E6MTp=
+7czo1OiJlbWFpbCI7aTo0O319&" target=3D"_blank">=E2=80=A2 Plan=C5=A1etini=
+=C5=B3 kompiuteri=C5=B3 taisymas bei programinis tvarkymas</a><br />
+<br =
+/>
+<a href=3D"https://mobilena-servisas.lt/r/36fffef6c71f57bad7e64a09e?ct=
+=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJl=
+bWFpbCI7aTo0O3M6NDoic3RhdCI7czoxMzoiNWIxNTRkNDA1OTU4ZSI7czo0OiJsZWFkIjtzOjU=
+6IjY5ODg2IjtzOjc6ImNoYW5uZWwiO2E6MTp7czo1OiJlbWFpbCI7aTo0O319&" target=3D"_=
+blank">=E2=80=A2 Ekran=C5=B3 atnaujinimas - stikliuk=C5=B3 keitimas.<br />=
+
+OCA bei LOCA technologija.</a>
+                    </td>
+           =
+     </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</t=
+body></table>
+            </td>
+        </tr>
+    </tbody>
+</table>=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnCaptionBlock">
+    <tbody class=3D"mcnCaptionBlockOuter">
+     =
+   <tr>
+            <td class=3D"mcnCaptionBlockInner" valign=3D"top" sty=
+le=3D"padding:9px;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"mcnCaptionLeftContentOuter" width=3D"100%">
+    <tbody><tr>=
+
+        <td valign=3D"top" class=3D"mcnCaptionLeftContentInner" style=3D=
+"padding:0 9px ;">
+            <table align=3D"right" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" class=3D"mcnCaptionLeftImageContentContainer"=
+ width=3D"264">
+                <tbody><tr>
+                    <td cla=
+ss=3D"mcnCaptionLeftImageContent" align=3D"center" valign=3D"top">
+      =
+                  <img alt=3D"" src=3D"https://gallery.mailchimp.com/f85edf=
+353962a8b8ccb11cdde/images/3838c90e-c028-4a25-b8a2-d283182f3c79.png" width=
+=3D"264" style=3D"max-width:360px;" class=3D"mcnImage" />
+               =
+     </td>
+                </tr>
+            </tbody></table>
+       =
+     <table class=3D"mcnCaptionLeftTextContentContainer" align=3D"left" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"264">
+            =
+    <tbody><tr>
+                    <td valign=3D"top" class=3D"mcnTextCo=
+ntent">
+                        <br />
+<br />
+<a href=3D"https://mobi=
+lena-servisas.lt/r/3ad5088620379b1028f14fff4?ct=3DYTo1OntzOjY6InNvdXJjZSI7Y=
+ToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7=
+czoxMzoiNWIxNTRkNDA1OTU4ZSI7czo0OiJsZWFkIjtzOjU6IjY5ODg2IjtzOjc6ImNoYW5uZWw=
+iO2E6MTp7czo1OiJlbWFpbCI7aTo0O319&" target=3D"_blank">=E2=80=A2 Ne=C5=A1ioj=
+am=C5=B3 ir stacionari=C5=B3 kompiuteri=C5=B3 taisymas bei programinis tvar=
+kymas</a>
+                    </td>
+                </tr>
+           =
+ </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+        =
+    </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnCaptionBlock">=
+
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            =
+<td class=3D"mcnCaptionBlockInner" valign=3D"top" style=3D"padding:9px;">=
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnCapt=
+ionLeftContentOuter" width=3D"100%">
+    <tbody><tr>
+        <td valign=
+=3D"top" class=3D"mcnCaptionLeftContentInner" style=3D"padding:0 9px ;">
+=
+            <table align=3D"right" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"mcnCaptionLeftImageContentContainer" width=3D"264">
+   =
+             <tbody><tr>
+                    <td class=3D"mcnCaptionLeftI=
+mageContent" align=3D"center" valign=3D"top">
+                        <im=
+g alt=3D"" src=3D"https://gallery.mailchimp.com/f85edf353962a8b8ccb11cdde/i=
+mages/933084f4-c95e-4de6-af0e-684dce1ddc78.png" width=3D"264" style=3D"max-=
+width:300px;" class=3D"mcnImage" />
+                    </td>
+         =
+       </tr>
+            </tbody></table>
+            <table class=3D"m=
+cnCaptionLeftTextContentContainer" align=3D"left" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"264">
+                <tbody><tr>
+   =
+                 <td valign=3D"top" class=3D"mcnTextContent">
+           =
+             <br />
+<br />
+<a href=3D"https://mobilena-servisas.lt/r/5f=
+dfa7aa86490a6c11d875ae0?ct=3DYTo1OntzOjY6InNvdXJjZSI7YToyOntpOjA7czo1OiJlbW=
+FpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6NDoic3RhdCI7czoxMzoiNWIxNTRkNDA1O=
+TU4ZSI7czo0OiJsZWFkIjtzOjU6IjY5ODg2IjtzOjc6ImNoYW5uZWwiO2E6MTp7czo1OiJlbWFp=
+bCI7aTo0O319&" target=3D"_blank">=E2=80=A2 Kurjerio i=C5=A1kvietimo paslaug=
+a</a><br />
+<br />
+J=C5=ABs galite atsi=C5=B3sti =C4=AFrengin=C4=AF tai=
+symui i=C5=A1 betkurio Lietuvos ta=C5=A1ko.
+                    </td>
+ =
+               </tr>
+            </tbody></table>
+        </td>
+    <=
+/tr>
+</tbody></table>
+            </td>
+        </tr>
+    </tbody>=
+
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" class=3D"mcnBoxedTextBlock" style=3D"min-width:100%;">
+    <!--[if=
+ gte mso 9]>
+=09<table align=3D"center" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" width=3D"100%">
+=09<![endif]-->
+=09<tbody class=3D"mcnB=
+oxedTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=
+=3D"mcnBoxedTextBlockInner">
+=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=
+=09<td align=3D"center" valign=3D"top">
+=09=09=09=09<![endif]-->
+      =
+          <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"min-width:100%;" class=3D"mcnBoxedTextConten=
+tContainer">
+                    <tbody><tr>
+                        <t=
+d style=3D"padding-top:9px; padding-left:18px; padding-bottom:9px; padding-=
+right:18px;">
+                            <table border=3D"0" cellspacing=
+=3D"0" class=3D"mcnTextContentContainer" width=3D"100%" style=3D"min-width:=
+ 100% !important;background-color: #404040;">
+                           =
+     <tbody><tr>
+                                    <td valign=3D"top" c=
+lass=3D"mcnTextContent" style=3D"padding: 18px;color: #F2F2F2;font-family: =
+Helvetica;font-size: 14px;font-weight: normal;text-align: center;">
+     =
+                                   <span style=3D"font-size:18px">M=C5=
+=ABs=C5=B3 adresas - K=C4=99stu=C4=8Dio g. 50, Vilnius (=C5=BDv=C4=97ryno r=
+ajonas)<br />
+Tel. nr.: +370 612 57770, +370 52 775577</span>
+         =
+                           </td>
+                                </tr>
+=
+                            </tbody></table>
+                        </td=
+>
+                    </tr>
+                </tbody></table>
+=09=09=
+=09=09<!--[if gte mso 9]>
+=09=09=09=09</td>
+=09=09=09=09<![endif]-->
+=
+=09=09=09=09<!--[if gte mso 9]>
+                </tr>
+                <=
+/table>
+=09=09=09=09<![endif]-->
+            </td>
+        </tr>
+  =
+  </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%" class=3D"mcnCaptionBlock">
+    <tbody class=3D"mcnCaptio=
+nBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInne=
+r" valign=3D"top" style=3D"padding:9px;">
+<table align=3D"left" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnCaptionBottomContent">=
+
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" ali=
+gn=3D"center" valign=3D"top" style=3D"padding:0 9px 9px 9px;">
+          =
+  <img alt=3D"" src=3D"https://gallery.mailchimp.com/f85edf353962a8b8ccb11c=
+dde/_compresseds/d604b228-90d0-4bb1-b943-08fca51367e3.jpg" width=3D"564" st=
+yle=3D"max-width:4241px;" class=3D"mcnImage" />
+        </td>
+    </tr>=
+
+    <tr>
+        <td class=3D"mcnTextContent" valign=3D"top" style=3D"=
+padding: 0px 9px; font-family: " open=3D"" sans",=3D"" "helvetica=3D"" neue=
+",=3D"" helvetica,=3D"" arial,=3D"" sans-serif;"=3D"" width=3D"564">
+    =
+    </td>
+    </tr>
+</tbody></table>
+            </td>
+        </tr=
+>
+    </tbody>
+</table></td>
+=09=09=09=09=09=09=09=09=09=09</tr>
+=
+=09=09=09=09=09=09=09=09=09</tbody></table>
+=09=09=09=09=09=09=09=09=09<!=
+--[if (gte mso 9)|(IE)]>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=
+=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=
+=09=09=09=09=09<![endif]-->
+=09=09=09=09=09=09=09=09</td>
+             =
+               </tr>
+                            <tr>
+=09=09=09=09=09=
+=09=09=09<td align=3D"center" valign=3D"top" id=3D"templateFooter" data-tem=
+plate-container=3D"">
+=09=09=09=09=09=09=09=09=09<!--[if (gte mso 9)|(IE)=
+]>
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+=09=
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"cent=
+er" valign=3D"top" width=3D"600" style=3D"width:600px;">
+=09=09=09=09=09=
+=09=09=09=09<![endif]-->
+=09=09=09=09=09=09=09=09=09<table align=3D"cente=
+r" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D=
+"templateContainer">
+=09=09=09=09=09=09=09=09=09=09<tbody><tr>
+        =
+                        =09=09=09<td valign=3D"top" class=3D"footerContaine=
+r"></td>
+=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=
+=09</tbody></table>
+=09=09=09=09=09=09=09=09=09<!--[if (gte mso 9)|(IE)]>=
+
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09<![endif]-=
+->
+=09=09=09=09=09=09=09=09</td>
+                            </tr>
+  =
+                      </tbody></table>
+                        <!-- // EN=
+D TEMPLATE -->
+                    </td>
+                </tr>
+      =
+      </tbody></table>
+        </center>
+</div>
+                     =
+           </div><div data-slot=3D"button" style=3D"position: relative; lef=
+t: 0px; top: 0px; padding-top: 20px; padding-bottom: 20px;" class=3D"" data=
+-param-link-text=3D"www.mobilena.lt" data-param-padding-top=3D"20" data-par=
+am-padding-bottom=3D"20" data-param-border-radius=3D"25" data-param-backgro=
+und-color=3D"08ccc5" data-param-href=3D"http://mobilena.lt/">
+<a href=3D"=
+https://mobilena-servisas.lt/r/06371ea4821a26e08a47d35c1?ct=3DYTo1OntzOjY6I=
+nNvdXJjZSI7YToyOntpOjA7czo1OiJlbWFpbCI7aToxO2k6NDt9czo1OiJlbWFpbCI7aTo0O3M6=
+NDoic3RhdCI7czoxMzoiNWIxNTRkNDA1OTU4ZSI7czo0OiJsZWFkIjtzOjU6IjY5ODg2IjtzOjc=
+6ImNoYW5uZWwiO2E6MTp7czo1OiJlbWFpbCI7aTo0O319&" class=3D"button" target=3D"=
+_blank" style=3D"border-color: rgb(8, 204, 197); border-width: 10px 20px; b=
+order-style: solid; text-decoration: none; border-radius: 25px; background-=
+color: rgb(8, 204, 197); display: inline-block; font-size: 16px; color: rgb=
+(255, 255, 255);" background=3D"#08ccc5">www.mobilena.lt</a>
+<div style=
+=3D"clear:both"></div>                                </div></td>
+       =
+                             </tr>
+                                </tbod=
+y></table>
+                                <!--[if (gte mso 9)|(IE)]>
+ =
+                               </td>
+                                </tr=
+>
+                                </table>
+                            =
+    <![endif]-->
+                            </td>
+                    =
+    </tr>
+                    </tbody></table>
+                    <!--=
+ END HEADER-->
+                    <!-- START SECTION 1 -->
+           =
+         <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"=
+100%" width=3D"100%" data-section-wrapper=3D"1">
+                        =
+<tbody><tr data-section=3D"1">
+                            <td align=3D"c=
+enter" height=3D"100%" valign=3D"top" width=3D"100%">
+                   =
+             <!--[if (gte mso 9)|(IE)]>
+                                <=
+table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"660">
+                                <tr>
+                      =
+          <td align=3D"center" valign=3D"top" width=3D"660">
+            =
+                    <![endif]-->
+                                <table a=
+lign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" style=3D"max-width:660px;" bgcolor=3D"#f0f0f0">
+                    =
+                <tbody><tr>
+                                        <td a=
+lign=3D"center" style=3D"font-family: 'Open Sans', Verdana, Arial, sans-ser=
+if; background:#f0f0f0; color:#212121; padding: 0 15px;" class=3D"shrinker =
+ui-sortable" data-slot-container=3D"1">
+                                 =
+       </td>
+                                    </tr>
+                =
+                </tbody></table>
+                                <!--[if =
+(gte mso 9)|(IE)]>
+                                </td>
+              =
+                  </tr>
+                                </table>
+      =
+                          <![endif]-->
+                            </td>=
+
+                        </tr>
+                    </tbody></table>
+ =
+                   <!-- END SECTION 1-->
+                   <!-- START SE=
+CTION 2 -->
+                    <table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" height=3D"100%" width=3D"100%" data-section-wrapper=3D"1">=
+
+                        <tbody><tr data-section=3D"1">
+               =
+             <td align=3D"center" height=3D"100%" valign=3D"top" width=3D"1=
+00%">
+                                <!--[if (gte mso 9)|(IE)]>
+      =
+                          <table align=3D"center" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"660">
+                                <=
+tr>
+                                <td align=3D"center" valign=3D"top" w=
+idth=3D"660">
+                                <![endif]-->
+            =
+                    <table align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%" style=3D"max-width:660px;" bgcolor=3D"#f0f=
+0f0">
+                                    <tbody><tr>
+                 =
+                       <td align=3D"center" style=3D"font-family: 'Open San=
+s', Verdana, Arial, sans-serif; background:#f0f0f0; color:#212121; padding:=
+ 0 15px;" class=3D"shrinker ui-sortable" data-slot-container=3D"1">
+     =
+                                   </td>
+                                =
+    </tr>
+                                </tbody></table>
+            =
+                    <!--[if (gte mso 9)|(IE)]>
+                          =
+      </td>
+                                </tr>
+                     =
+           </table>
+                                <![endif]-->
+      =
+                      </td>
+                        </tr>
+             =
+       </tbody></table>
+                    <!-- END SECTION 2-->
+     =
+               <!-- START SECTION 3 -->
+                    <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" width=3D"100%" d=
+ata-section-wrapper=3D"1">
+                        <tbody><tr data-sectio=
+n=3D"1">
+                            <td align=3D"center" height=3D"100%"=
+ valign=3D"top" width=3D"100%">
+                                <!--[if (=
+gte mso 9)|(IE)]>
+                                <table align=3D"center"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"660">
+        =
+                        <tr>
+                                <td align=3D=
+"center" valign=3D"top" width=3D"660">
+                                <!=
+[endif]-->
+                                <table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"max-widt=
+h:660px;" bgcolor=3D"#f0f0f0">
+                                    <tbody=
+><tr>
+                                        <td align=3D"center" style=
+=3D"font-family: 'Open Sans', Verdana, Arial, sans-serif; background:#f0f0f=
+0; color:#212121; padding: 0 15px;" class=3D"shrinker ui-sortable" data-slo=
+t-container=3D"1">
+                                        </td>
+      =
+                              </tr>
+                                </tbo=
+dy></table>
+                                <!--[if (gte mso 9)|(IE)]>
+=
+                                </td>
+                                </t=
+r>
+                                </table>
+                           =
+     <![endif]-->
+                            </td>
+                   =
+     </tr>
+                    </tbody></table>
+                    <!-=
+- END SECTION 3 -->
+                    <!-- START SECTION 4 -->
+      =
+              <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" heigh=
+t=3D"100%" width=3D"100%" data-section-wrapper=3D"1">
+                   =
+     <tbody><tr data-section=3D"1">
+                            <td align=
+=3D"center" height=3D"100%" valign=3D"top" width=3D"100%">
+              =
+                  <!--[if (gte mso 9)|(IE)]>
+                            =
+    <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"660">
+                                <tr>
+                 =
+               <td align=3D"center" valign=3D"top" width=3D"660">
+       =
+                         <![endif]-->
+                                <ta=
+ble align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"max-width:660px;" bgcolor=3D"#f0f0f0">
+               =
+                     <tbody><tr>
+                                        =
+<td align=3D"center" style=3D"font-family: 'Open Sans', Verdana, Arial, san=
+s-serif; background:#f0f0f0; color:#212121; padding: 0 15px;" class=3D"shri=
+nker ui-sortable" data-slot-container=3D"1">
+                            =
+            </td>
+                                    </tr>
+           =
+                     </tbody></table>
+                                <!-=
+-[if (gte mso 9)|(IE)]>
+                                </td>
+         =
+                       </tr>
+                                </table>
+ =
+                               <![endif]-->
+                            <=
+/td>
+                        </tr>
+                    </tbody></table>=
+
+                    <!-- END SECTION 4 -->
+                    <!-- ST=
+ART SECTION 5 -->
+                    <table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" height=3D"100%" width=3D"100%" data-section-wrapper=3D=
+"1">
+                        <tbody><tr data-section=3D"1">
+           =
+                 <td align=3D"center" height=3D"100%" valign=3D"top" width=
+=3D"100%">
+                                <!--[if (gte mso 9)|(IE)]>
+ =
+                               <table align=3D"center" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" width=3D"660">
+                             =
+   <tr>
+                                <td align=3D"center" valign=3D"to=
+p" width=3D"660">
+                                <![endif]-->
+        =
+                        <table align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" style=3D"max-width:660px;" bgcolor=3D"=
+#f0f0f0">
+                                    <tbody><tr>
+             =
+                           <td align=3D"center" style=3D"font-family: 'Open=
+ Sans', Verdana, Arial, sans-serif; background:#f0f0f0; color:#212121; padd=
+ing: 0 15px;" class=3D"shrinker ui-sortable" data-slot-container=3D"1">
+ =
+                                       </td>
+                            =
+        </tr>
+                                </tbody></table>
+        =
+                        <!--[if (gte mso 9)|(IE)]>
+                      =
+          </td>
+                                </tr>
+                 =
+               </table>
+                                <![endif]-->
+  =
+                          </td>
+                        </tr>
+         =
+           </tbody></table>
+                    <!-- END SECTION 5 -->
+=
+                    <!-- START COMPANY INFO -->
+                    <tabl=
+e border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" width=3D=
+"100%" data-section-wrapper=3D"1">
+                        <tbody><tr dat=
+a-section=3D"1">
+                            <td align=3D"center" height=
+=3D"100%" valign=3D"top" width=3D"100%">
+                                =
+<!--[if (gte mso 9)|(IE)]>
+                                <table align=
+=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"660">=
+
+                                <tr>
+                                <=
+td align=3D"center" valign=3D"top" width=3D"660">
+                       =
+         <![endif]-->
+                                <table align=3D"cen=
+ter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"max-width:660px;" bgcolor=3D"#f0f0f0">
+                              =
+      <tbody><tr>
+                                        <td height=3D"1=
+5" style=3D"font-size: 15px; line-height: 15px;">=C2=A0</td>
+            =
+                        </tr>
+                                    <tr>
+=
+                                        <td align=3D"center" style=3D"font-=
+family: 'Open Sans', Verdana, Arial, sans-serif; color:#212121; text-transf=
+orm: uppercase;" data-slot-container=3D"1" class=3D"ui-sortable">
+       =
+                                     <div data-slot=3D"text"><span style=3D=
+"font-family:arial, sans-serif; font-size:10px; line-height:20px; color:#dd=
+dddd;">=C2=A0</span>
+<a href=3D"mailto:#naujienlaiskis@mobilena-servisas.=
+lt" rel=3D"noopener noreferrer" style=3D"font-family: 'Open Sans', Verdana,=
+ Arial, sans-serif; font-size:10px; line-height:20px; color:#212121; text-t=
+ransform: uppercase; text-decoration:underline;" target=3D"_blank">ra=C5=
+=A1yti e-lai=C5=A1k=C4=85</a>
+<span style=3D"font-family:arial, sans-seri=
+f; font-size:10px; line-height:20px; color:#dddddd;">=C2=A0|=C2=A0</span>=
+
+<a href=3D"https://mobilena-servisas.lt/email/unsubscribe/5b154d405958e"=
+ rel=3D"noopener noreferrer" style=3D"font-family: 'Open Sans', Verdana, Ar=
+ial, sans-serif; font-size:10px; line-height:20px; color:#212121; text-tran=
+sform: uppercase; text-decoration:underline;" target=3D"_blank">Atsisakyti =
+naujienlai=C5=A1io</a></div>
+                                        </td=
+>
+                                    </tr>
+                           =
+         <tr>
+                                        <td height=3D"15" s=
+tyle=3D"font-size: 15px; line-height: 15px;">=C2=A0</td>
+                =
+                    </tr>
+                                </tbody></table=
+>
+                                <!--[if (gte mso 9)|(IE)]>
+          =
+                      </td>
+                                </tr>
+     =
+                           </table>
+                                <![en=
+dif]-->
+                            </td>
+                        </tr>=
+
+                    </tbody></table>
+                    <!-- END COMP=
+ANY INFO -->
+                    <!-- START COPYRIGHT -->
+             =
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"10=
+0%" width=3D"100%" data-section-wrapper=3D"1">
+                        <t=
+body><tr data-section=3D"1">
+                            <td align=3D"cen=
+ter" height=3D"100%" valign=3D"top" width=3D"100%">
+                     =
+           <!--[if (gte mso 9)|(IE)]>
+                                <ta=
+ble align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"660">
+                                <tr>
+                        =
+        <td align=3D"center" valign=3D"top" width=3D"660">
+              =
+                  <![endif]-->
+                                <table ali=
+gn=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" style=3D"max-width:660px;" bgcolor=3D"#f0f0f0">
+                      =
+              <tbody><tr>
+                                        <td ali=
+gn=3D"center" style=3D"font-family: 'Open Sans', Verdana, Arial, sans-serif=
+; color:#212121; text-transform: uppercase;" data-slot-container=3D"1" clas=
+s=3D"ui-sortable">
+                                        </td>
+      =
+                              </tr>
+                                    <=
+tr>
+                                        <td height=3D"20" style=3D"fo=
+nt-size: 20px; line-height: 20px;">=C2=A0</td>
+                          =
+          </tr>
+                                </tbody></table>
+      =
+                          <!--[if (gte mso 9)|(IE)]>
+                    =
+            </td>
+                                </tr>
+               =
+                 </table>
+                                <![endif]-->
+=
+                            </td>
+                        </tr>
+       =
+             </tbody></table>
+                    <!-- END COPYRIGHT -->=
+
+                    <!-- START SOCIAL -->
+                    <table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" width=3D"10=
+0%" data-section-wrapper=3D"1">
+                        <tbody><tr data-s=
+ection=3D"1">
+                            <td align=3D"center" height=3D"=
+100%" valign=3D"top" width=3D"100%">
+                                <!--=
+[if (gte mso 9)|(IE)]>
+                                <table align=3D"ce=
+nter" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"660">
+   =
+                             <tr>
+                                <td ali=
+gn=3D"center" valign=3D"top" width=3D"660">
+                             =
+   <![endif]-->
+                                <table align=3D"center" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"max=
+-width:660px;" bgcolor=3D"#f0f0f0">
+                                    <=
+tbody><tr>
+                                        <td align=3D"center" h=
+eight=3D"100%" valign=3D"top" width=3D"100%" data-slot-container=3D"1" clas=
+s=3D"ui-sortable">
+                                        </td>
+      =
+                              </tr>
+                                    <=
+tr>
+                                        <td height=3D"40" style=3D"fo=
+nt-size: 40px; line-height: 40px;">=C2=A0</td>
+                          =
+          </tr>
+                                </tbody></table>
+      =
+                          <!--[if (gte mso 9)|(IE)]>
+                    =
+            </td>
+                                </tr>
+               =
+                 </table>
+                                <![endif]-->
+=
+                            </td>
+                        </tr>
+       =
+             </tbody></table>
+                    <!-- END SOCIAL -->
+ =
+                   <!--[if (gte mso 9)|(IE)]>
+                    </td>=
+
+                    </tr>
+                    </table>
+             =
+       <![endif]-->
+                </center>
+            </td>
+     =
+   </tr>
+    </tbody></table>             =20
+    <div style=3D"display:n=
+one; white-space:nowrap; font:15px courier; line-height:0;">
+    </div>=
+
+<img height=3D"1" width=3D"1" src=3D"https://mobilena-servisas.lt/email/=
+5b154d405958e.gif" alt=3D"" /></body></html>
+
+--_=_swift_v4_1528122688_94b7cb29c346a526fde15f71c17ad825_=_--
+

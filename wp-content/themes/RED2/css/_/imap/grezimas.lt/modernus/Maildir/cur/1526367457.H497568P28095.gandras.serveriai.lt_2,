@@ -1,0 +1,78 @@
+Return-path: <klaipeda@uabprekyba.eu>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 15 May 2018 09:57:37 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <klaipeda@uabprekyba.eu>)
+	id 1fITtx-0007J0-CO
+	for modernus@grezimas.lt; Tue, 15 May 2018 09:57:37 +0300
+Received: from [45.125.66.109] (helo=hermita.eu)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.90_1)
+	(envelope-from <klaipeda@uabprekyba.eu>)
+	id 1fITtx-0007Iv-90
+	for modernus@grezimas.lt; Tue, 15 May 2018 09:57:37 +0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=uabprekyba.eu; s=x; h=Content-Type:MIME-Version:Date:Message-ID:Subject:To:
+	From:Reply-To:Sender:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=sCkZycSUmJsgGpMA1ehntXMZC6MP8261JqhERj4DKmE=; b=fd4A4dtHbbABXJEwtGvzwq3KrV
+	2YzZTdmZL9N+b9AzOhqjptEtne29ySHf9GJA1t4EFxl4jl4afBgSBeRQWbfSwRgyl8c5qcjnkmYM5
+	mC0TYQv5jQB4wV/9mpHizTxlf+5Im441HEahrYTqtwM7TnJ02sGUSHgC8NigE24GTUrtfssfg0SJy
+	LjO8iZ9GHeCcQGd/9ulNjoMxc0d7hG6qA8Lz3jbqRi+wYjl83RVXN+lDBGXUzf3GrEzgQkSOvbK7L
+	BfDMWxpyHKEwXL/eSWtUcol0EIBKC1d17ZzVjrl3IXNr3iEzEbiT/K15W6TYrFI0RmkU5vhtNIvw3
+	4Mf/fyQg==;
+Received: from 78-62-9-183.static.zebra.lt ([78.62.9.183] helo=[192.168.0.103])
+	by hermita.eu with esmtpsa (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.89)
+	(envelope-from <klaipeda@uabprekyba.eu>)
+	id 1fITsx-00082Q-Rx
+	for modernus@grezimas.lt; Tue, 15 May 2018 09:56:35 +0300
+Reply-To: <kverslui@gmail.com>
+From:"=?utf-8?B?VcW+a2xhdXNh?=" <klaipeda@uabprekyba.eu>
+To: "modernus" <modernus@grezimas.lt> 
+Subject:=?utf-8?B?IFZpbG5pdXMsIEthdW5hcywgS2xhaXDEl2RhIHBhc2lyaW5rdGluYWk=?=
+Message-ID: <9692b24beb135148a6e24deaa5591bf2@workstation>
+Date: Tue, 15 May 2018 09:57:26 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_89C146AD.5B4FF547"
+X-Priority: 1
+X-Mailer: Microsoft Office Outlook 12.0
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0001_89C146AD.5B4FF547
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Laba diena,=0D=0ANoriu paklausti d=C4=97l Vilniaus, Kauno, Klaip=C4=97=
+dos miesto =0D=0AAr Jums reikia =C5=A1i=C5=B3 miest=C5=B3 =C4=AFmoni=C5=
+=B3 bazi=C5=B3? ar atsi=C5=B3sti pavyzd=C5=BEius su pasi=C5=ABlymu?=0D=
+=0ABaz=C4=97se nurodoma kontaktai, apyvarta, darbuotoj=C5=B3 =
+sk. atlyginimai, veiklos, teisn=C4=97s formos, automobili=C5=B3 =
+skai=C4=8Dius, =0D=0Akodai, web, vadovai, =C4=AFregistravimo =
+data ir kita informacija
+
+------=_NextPart_000_0001_89C146AD.5B4FF547
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">=0D=0A<H=
+TML><HEAD>=0D=0A<META content=3D"text/html; charset=3Dutf-8" =
+http-equiv=3DContent-Type>=0D=0A<META name=3DGENERATOR content=3D"MSHT=
+ML 11.00.9600.19003"></HEAD>=0D=0A<BODY>=0D=0A<P>Laba diena,</P>=0D=0A=
+<P>Noriu paklausti d=C4=97l Vilniaus, Kauno, Klaip=C4=97dos =
+miesto </P>=0D=0A<P>Ar Jums reikia =C5=A1i=C5=B3 miest=C5=B3 =C4=AFmon=
+i=C5=B3 bazi=C5=B3? ar atsi=C5=B3sti pavyzd=C5=BEius su pasi=C5=ABlymu=
+?</P>=0D=0A<P>Baz=C4=97se nurodoma kontaktai, apyvarta, darbuotoj=C5=B3=
+ sk. atlyginimai, veiklos, teisn=C4=97s formos, automobili=C5=B3 =
+skai=C4=8Dius, </P>=0D=0A<P>kodai, web, vadovai, =C4=AFregistravimo =
+data ir kita informacija</P>=0D=0A<P>&nbsp;</P></BODY></HTML>
+
+------=_NextPart_000_0001_89C146AD.5B4FF547--
+
+

@@ -1,0 +1,284 @@
+Return-path: <kristina.infogv@gmail.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Wed, 03 Apr 2019 11:58:16 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <kristina.infogv@gmail.com>)
+	id 1hBbip-0005Ea-SS
+	for modernus@grezimas.lt; Wed, 03 Apr 2019 11:58:15 +0300
+Received: from [209.85.167.43] (helo=mail-lf1-f43.google.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.90_1)
+	(envelope-from <kristina.infogv@gmail.com>)
+	id 1hBbip-0005EW-Mk
+	for modernus@grezimas.lt; Wed, 03 Apr 2019 11:58:15 +0300
+Received: by mail-lf1-f43.google.com with SMTP id b7so11086533lfg.9
+        for <modernus@grezimas.lt>; Wed, 03 Apr 2019 01:58:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=message-id:mime-version:to:from:subject:date:importance;
+        bh=Ll0e7l8cl9vgBPXHFb3Xii0COeGizNGxfrrdGE+uHeE=;
+        b=bczHSnHHq/jaX9cu1t7x9hn212iJ39LGRgu031y034soPNDY6RkvOadh4fkudy3+d0
+         K18PoZzANf8t2A2gP6E3w/PxXdjUNVRCuuzmiI7k4ISwQNQnBNdbIJmdVwQGyIYA0UIm
+         GB2rJToy28rfLNIVTiKBO3k4WWFTupJ8dHnYz03UyWfFzSmH3Du7jla8Y9wLxSVqBuEu
+         bib2Um3OxM4f3siUunY+ec9eXdP+mIVSr+4pEg6hXSnN/V4scwcOkg2zeak1NbnbdDsy
+         JEzQSN/CPESb8Y/ZXKAnQD5wVilwux75BhLHFj789Ilk/eq2Bgm7bETrX/RFTaQdjhHx
+         kbMw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:message-id:mime-version:to:from:subject:date
+         :importance;
+        bh=Ll0e7l8cl9vgBPXHFb3Xii0COeGizNGxfrrdGE+uHeE=;
+        b=SOD9O3pLJfQYvrB1nL1LqiODDmWeUk7bSvskml2chSv2oh7jbaIdruNLPX0v3/UHoC
+         Pr2myikyS8rDxzIsLyho04MiOpkeihQPT1a8A9W6poL8PriHt+L50iMajVNfqUCUNBGM
+         CnQgZAvJg3Evg9+p+nhhTvHSmy3OLnxlHGoV6unqDfg47IMFJ5gtmTdFSPvl9w7taB8P
+         B8CIJjxikELN1XrIP3tfm6HcbCRcso2bUVy4fr+mW0uQMztjMXYkMctf8Qba7jAU6nSg
+         rbtD8Zfz1lxwoDi8V6y9DNe1xmeRfjBmR4Qa1UJ/s59OIQT1/xzinibd3GfUXLNsz7ai
+         sChw==
+X-Gm-Message-State: APjAAAV6LknuPyRbuDMBc1INMULfLXzCLKj6UonymAd7iyAvmlbt22/Q
+	Sle0/MRPbk1iiKHr6G3iVYP+CAvVOzY=
+X-Google-Smtp-Source: APXvYqyxWdD7psg++j7iGVdybPiOV4Pl4pq7yCTwdYhm3oM6FvWeJvVQ8GXH8WZtvD4QdxvyGACtaw==
+X-Received: by 2002:ac2:4285:: with SMTP id m5mr12099506lfh.103.1554281894450;
+        Wed, 03 Apr 2019 01:58:14 -0700 (PDT)
+Received: from ?IPv6:::ffff:192.168.1.75? (81-7-88-66.static.zebra.lt. [81.7.88.66])
+        by smtp.gmail.com with ESMTPSA id b194sm2842163lfg.39.2019.04.03.01.58.12
+        for <modernus@grezimas.lt>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 03 Apr 2019 01:58:13 -0700 (PDT)
+Message-ID: <5ca475a5.1c69fb81.1661d.237c@mx.google.com>
+MIME-Version: 1.0
+To: "modernus@grezimas.lt" <modernus@grezimas.lt>
+From: Kristina <kristina.infogv@gmail.com>
+Subject: =?utf-8?Q?U=C5=BEklausa?=
+Date: Wed, 3 Apr 2019 11:58:18 +0300
+Importance: normal
+X-Priority: 3
+Content-Type: multipart/mixed;
+	boundary="_1E3F4C89-D0FC-4467-921D-B7CBBA35C7E3_"
+X-Spam-Checked: microsoft.com, w3.org
+
+--_1E3F4C89-D0FC-4467-921D-B7CBBA35C7E3_
+Content-Type: multipart/alternative;
+	boundary="_AB94CDC4-CB4F-46C7-8395-23B73237E215_"
+
+--_AB94CDC4-CB4F-46C7-8395-23B73237E215_
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset="utf-8"
+
+R2VyYi4gc3BlY2lhbGlzdGUsDQoNCm5vcmltZSBwYWtsYXVzdGkgYXIgxaFpdW8gbWV0dSB0dXJp
+dGUsIGthcyB0ZWlraWEgSnVtcyB2YWx5bW8gcGFzbGF1Z2FzPyBBciBlc2F0ZSBwYXRlbmtpbnRp
+IGJlaSBrYWlwIGRlxaFpbXRiYWzEl2plIHNpc3RlbW9qZSBnYWzEl3R1bcSXdGUgxK92ZXJ0aW50
+aSBkYWJhciBnYXVuYW1hcyB2YWx5bW8gcGFzbGF1Z2FzPyBFc2FtZSBwYXRpa2ltYSB2YWx5bW8g
+xK9tb27Elywga3VyaSBpxaFtYW5vIHNhdm8gZGFyYsSFLCB0b2TEl2wgbm9yaW1lIGJlbmRyYWRh
+cmJpYXV0aS4gUGFncmluZGluxJcgbcWrc8WzIHZlaWtsYSDigJMgxK9tb25pxbMgYmVpIHByaXZh
+xI1pxbMgYXNtZW7FsyBwYXRhbHDFsyB2YWx5bWFzLiBUYWlwIHBhdCBhdGxpZWthbWUgaXIga2l0
+YXMgdmFseW1vIHBhc2xhdWdhcy4gUGFzbGF1Z29zIGthaW5hIGRlcmluYW1hIGluZGl2aWR1YWxp
+YWksIGF0c2nFvnZlbGdpYW50IMSvIHBvcmVpa2l1cy4gVGFkLCBhciBnYWzEl3R1bWUgYXRzacWz
+c3RpIEp1bXMgcHJlbGltaW5hcsWzIHBhc2nFq2x5bcSFIMWhaWFpIGRpZW5haSBhciBhdGVpxI1p
+YWk/IA0KTGF1a3NpbWUgSsWrc8WzIGF0c2FreW1vIQ0KDQotLcKgDQpQYWdhcmJpYWnCoA0KVmFk
+eWJpbmlua8SXDQpLcmlzdGluYSBEYWx1Y2hhbm92aWVuxJcNClVBQiAiR2VuZXJhbGluaXMgdmFs
+eW1hcyINClZpbG5pdXMNClRlbC46wqDCoMKgIDggNjg3IDEwIDI3MQ0KDQoNCg0K
+
+--_AB94CDC4-CB4F-46C7-8395-23B73237E215_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><meta http-equiv=3DContent-Type content=
+=3D"text/html; charset=3Dutf-8"><meta name=3DGenerator content=3D"Microsoft=
+ Word 15 (filtered medium)"><!--[if !mso]><style>v\:* {behavior:url(#defaul=
+t#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 5 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:3.0cm 1.0cm 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style></head><body lang=3DLT><div class=3DWordSection1><p class=3DMsoN=
+ormal>Gerb. specialiste,</p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p cl=
+ass=3DMsoNormal>norime paklausti ar =C5=A1iuo metu turite, kas teikia Jums =
+valymo paslaugas? Ar esate patenkinti bei kaip de=C5=A1imtbal=C4=97je siste=
+moje gal=C4=97tum=C4=97te =C4=AFvertinti dabar gaunamas valymo paslaugas? E=
+same patikima valymo =C4=AFmon=C4=97, kuri i=C5=A1mano savo darb=C4=85, tod=
+=C4=97l norime bendradarbiauti. Pagrindin=C4=97 m=C5=ABs=C5=B3 veikla =E2=
+=80=93 =C4=AFmoni=C5=B3 bei priva=C4=8Di=C5=B3 asmen=C5=B3 patalp=C5=B3 val=
+ymas. Taip pat atliekame ir kitas valymo paslaugas. Paslaugos kaina derinam=
+a individualiai, atsi=C5=BEvelgiant =C4=AF poreikius. Tad, ar gal=C4=97tume=
+ atsi=C5=B3sti Jums preliminar=C5=B3 pasi=C5=ABlym=C4=85 =C5=A1iai dienai a=
+r atei=C4=8Diai? </p><p class=3DMsoNormal>Lauksime J=C5=ABs=C5=B3 atsakymo!=
+</p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal style=3D=
+'background:white'><span style=3D'font-size:12.0pt;font-family:"Arial",sans=
+-serif;color:#222222'>--&nbsp;<o:p></o:p></span></p><div><div><p class=3DMs=
+oNormal><span style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;colo=
+r:#222222'>Pagarbiai&nbsp;<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:#222222'>Vad=
+ybinink=C4=97<o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'font=
+-size:10.0pt;font-family:"Arial",sans-serif;color:#222222'>Kristina Dalucha=
+novien=C4=97<o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'font-=
+size:10.0pt;font-family:"Arial",sans-serif;color:#222222'>UAB &quot;General=
+inis valymas&quot;<o:p></o:p></span></p><p class=3DMsoNormal><span style=3D=
+'font-size:10.0pt;font-family:"Arial",sans-serif;color:#222222'>Vilnius<o:p=
+></o:p></span></p><p class=3DMsoNormal><span style=3D'font-size:10.0pt;font=
+-family:"Arial",sans-serif;color:black'>Tel.:&nbsp;&nbsp;&nbsp; 8 687 10 27=
+1</span><span style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;colo=
+r:#222222'><o:p></o:p></span></p></div></div><div style=3D'margin-top:11.25=
+pt;margin-bottom:11.25pt' id=3D":2yg"><div><p class=3DMsoNormal style=3D'ba=
+ckground:white'><span style=3D'font-size:9.5pt;font-family:"Helvetica",sans=
+-serif;color:#222222'><img width=3D147 height=3D68 style=3D'width:1.5312in;=
+height:.7083in' id=3D"Paveiksl=C4=97lis_x0020_3" src=3D"cid:image001.jpg@01=
+D4C3B6.7F1788E0" alt=3D"cid:image001.jpg@01D4C3B6.7F1788E0"></span><span st=
+yle=3D'font-size:9.5pt;font-family:"Helvetica",sans-serif;color:#222222'><o=
+:p></o:p></span></p></div></div><p class=3DMsoNormal style=3D'margin-top:6.=
+0pt;background:white'><span style=3D'font-size:9.5pt;font-family:"Helvetica=
+",sans-serif;color:#222222'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNorma=
+l><o:p>&nbsp;</o:p></p></div></body></html>=
+
+--_AB94CDC4-CB4F-46C7-8395-23B73237E215_--
+
+--_1E3F4C89-D0FC-4467-921D-B7CBBA35C7E3_
+Content-Type: image/jpeg;
+	name="995E84DCF5B74BB1BAEACD621D6439ED[4044904].jpg"
+Content-ID: <image001.jpg@01D4C3B6.7F1788E0>
+Content-Transfer-Encoding: base64
+Content-Disposition: inline;
+	filename="995E84DCF5B74BB1BAEACD621D6439ED[4044904].jpg"
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
+FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCABEAJMDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD7qtvt
+BnuGldGhLYiCghhjOc0lit3tk+1mInednlZ+72znvVncMZJ4qlrE0MOl3E018unW8aF5LtnVVjUc
+lizcAe5r/OCMnWnyWSUmle23pb8bbn6Hcu7hnGefSmxwpCmyNQi5JwowMmvmPx5+314F8N6u+k+G
+bC/8dapkRoNMXbFI+TlQ5BLf8BUg54Ncrqn7TPx68RRiPR/gs9jFJ8yfbXkSfHXoWT+Vfd4XgLPa
+6jOtBUYS1vUlGGnflk0/wOR4qleyd/RXPr/T0u445BdyRyOXJQxggBewPvVjKqwXIB7CvgjxZ+3F
+8YPA0lsviv4ZW+iRiUESTQ3MKy4/hDklTn2r3X4A/tHRfGTwbr3jnXdKg8P2GgblkkScyYATcxxj
+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
+
+--_1E3F4C89-D0FC-4467-921D-B7CBBA35C7E3_--
+

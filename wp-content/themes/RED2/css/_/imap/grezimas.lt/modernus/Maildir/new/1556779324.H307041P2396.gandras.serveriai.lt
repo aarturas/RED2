@@ -1,0 +1,147 @@
+Return-path: <newsletter@sendersrv.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Thu, 02 May 2019 09:42:04 +0300
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <newsletter@sendersrv.com>)
+	id 1hM5Pv-0000cV-H3
+	for modernus@grezimas.lt; Thu, 02 May 2019 09:42:03 +0300
+Received: from [185.3.229.125] (helo=mail1.sendersrv.com)
+	by gandras.serveriai.lt with esmtp (Exim 4.90_1)
+	(envelope-from <newsletter@sendersrv.com>)
+	id 1hM5Pv-0000cQ-EM
+	for modernus@grezimas.lt; Thu, 02 May 2019 09:42:03 +0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=smtp; d=sender.lt;
+ h=From:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe:Date;
+ bh=iNsjUI++10B6DvxO8FwG2XOOq40=;
+ b=O9oPTyaM/QgoijWYJ7favvSpyAxgCnzL56FTOGTQbjXuxpdo4slBOqSbKBd0EmKwR+8Rda60ofbR
+   n7W0U6vGeEqTc7GbXicnHMuwu+uNR0ddh9ikAqyo3XxGaKxBXb2BQ3BN34dROkho6kKKc1h0A8HD
+   cpe9DkIYgp/4wcW/0ok=
+From: =?UTF-8?Q?Ugn=C4=97_=7C_Money_Club?= <ugne@moneyclub.pro>
+To: modernus@grezimas.lt
+Message-ID: <2c6fdb180cb4c18d28fce42c13ed9c01.1556779323078.newsletter@synergia.data.lt>
+Subject: =?UTF-8?Q?Tik_=C5=A1iandien_(paskutin=C4=97_minut=C4=97)?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_34190810_1597438830.1556779323078"
+Precedence: bulk
+Feedback-ID: 117:132631:campaign:SenderNET
+X-Sender-ID: 2c6fdb180cb4c18d28fce42c13ed9c01
+List-Unsubscribe: <http://dev.sender.lt/atsisakymas/2c6fdb180cb4c18d28fce42c13ed9c01>, <mailto:abuse@sender.lt?subject=2c6fdb180cb4c18d28fce42c13ed9c01&body=http://dev.sender.lt/atsisakymas/2c6fdb180cb4c18d28fce42c13ed9c01>
+Date: Thu, 2 May 2019 09:42:03 +0300
+X-Spam-Checked: sender.lt, 92.61.39.3, w3.org, moneyclub.pro, 194.135.87.5,
+	sender.net, 104.248.86.238, serveriai.lt, google.com
+
+------=_Part_34190810_1597438830.1556779323078
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_34190810_1597438830.1556779323078
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><style>table, td {=
+=09border-collapse: collapse;=09}=09table.element {=09width: 100%;=09}=09#c=
+ontent td {=09text-align: left;=09}=09a img {=09border: 0;=09outline: 0;=09=
+}=09p {=09margin: 0 0 10px 0;=09padding: 0;=09}=09#content_wrapper, #conten=
+t_wrapper td { /* teksto fonas */=09background-color: #FFFFFF;=09padding: 0=
+;=09}=09hr {=09color: #FFFFFF;=09}=09#content td h1 {=09/* antraste */=09ma=
+rgin: 0;=09padding: 10px 0 10px 0;=09font-size: 18px;=09font-weight: bold;=
+=09color: #000000;=09}=09#content td h2 {=09/* antraste 2 */=09margin: 0;=
+=09padding: 8px 0 8px 0;=09font-size: 16px;=09font-weight: bold;=09color: #=
+000000;=09}=09#content td, td#footer {=09/* laisko tekstas */=09font-size: =
+13px;=09color: #000000;=09font-family: Arial, Helvetica, sans-serif;=09line=
+-height: 140%;=09padding: 10px;=09}=09#content a {=09/* laisko linkai */=09=
+color: #0000FF;=09font-weight: normal;=09}=09#footer a, a#browserPreview {=
+=09color: #0000FF;=09font-family: Arial, Helvetica, sans-serif;=09font-size=
+: 13px;=09}</style></head> <body bgcolor=3D"#FFFFFF" align=3D"left" style=
+=3D"background: #FFFFFF; margin:0; padding:0; width:100% !important;" id=3D=
+"blank"><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" style=3D"border-collapse: collapse;"><tr><td align=3D"left" id=3D"wrapp=
+er" style=3D"border-collapse: collapse;"><table id=3D"content_wrapper" widt=
+h=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"10px" style=3D"bord=
+er-collapse: collapse; background-color: #FFFFFF; padding: 0; border: 0;"><=
+tr><td id=3D"content" valign=3D"top" width=3D"600" style=3D"border-collapse=
+: collapse; background-color: #FFFFFF; padding: 0;"><table style=3D"border-=
+collapse: collapse;"><tbody><tr><td style=3D"border-collapse: collapse; tex=
+t-align: left; background-color: #FFFFFF; padding: 10px; color: #000000; fo=
+nt-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 140%=
+;"><div id=3D"cA4iCuJC" class=3D" ">Brang=C5=ABs vadovai ir vadov=C4=97s,<b=
+r><br>Net 740 auk=C5=A1=C4=8Diausio lygio =C4=AFmoni=C5=B3 vadov=C5=B3 ir a=
+kcinink=C5=B3 jau u=C5=BEsiregistravo =C4=AF <strong>vienintel=C4=AF =C5=A1=
+iais metais "MAXIMA" =C4=AFmoni=C5=B3 grup=C4=97s bendra=C4=AFk=C5=ABr=C4=
+=97jo, verslininko p. Igno Sta=C5=A1kevi=C4=8Diaus autorin=C4=AF seminar=C4=
+=85</strong> <a data-cke-saved-href=3D"http://moneyclub.pro/" href=3D"https=
+://app.sender.net/nuoroda/39637065bfaf78a1a7c2c9ed7c8d3e2a/c3d51953d0857112=
+2eea824c8e891d77" style=3D"color: #0000FF; font-weight: normal;" rel=3D"396=
+37065bfaf78a1a7c2c9ed7c8d3e2a">"Kaip vadovauti apgalvotai: Darn=C5=ABs ir p=
+roduktyv=C5=ABs santykiai su darbuotojais".</a>=C2=A0(vyks gegu=C5=BE=C4=97=
+s 3 d., Vilniuje)<br><br>=C5=A0iame seminare p. Ignas atsakys =C4=AF <a dat=
+a-cke-saved-href=3D"http://moneyclub.pro/" href=3D"https://app.sender.net/n=
+uoroda/4f0c91b441aa34c3bf5df2e8ba6fa9d4/c3d51953d08571122eea824c8e891d77" s=
+tyle=3D"color: #0000FF; font-weight: normal;" rel=3D"4f0c91b441aa34c3bf5df2=
+e8ba6fa9d4">10 ko gero pa=C4=8Di=C5=B3 svarbiausi=C5=B3 klausim=C5=B3</a> k=
+iekvienam =C5=A1iuolaikiniam vadovui:<br><br><strong>1. KOKIA SVARBIAUSIA V=
+ADOVO U=C5=BDDUOTIS?</strong><br>=C4=AE k=C4=85 labiausiai turi susikoncent=
+ruoti kiekvienas =C5=A1iuolaikinis vadovas ir vadov=C4=97?<br><br><strong>2=
+. KOKS VADOVAVIMO STILIUS PA=C5=BDANGIAUSIAS?</strong><br>Bosas? Lyderis? E=
+mpati=C5=A1kas kolega? Kokiu b=C5=ABti, kad komanda nor=C4=97t=C5=B3 ilgai =
+b=C5=ABti su Jumis?<br><br><strong>3. KAIP FORMULUOTI ORGANIZACIJOS TIKSLUS=
+?</strong><br>Ar yra ka=C5=BEkas auk=C5=A1tesnio, nei tik eur=C5=B3 u=C5=BE=
+dirbimas? Kokie tikslai skatina =C5=BEmones eiti =C4=AF priek=C4=AF?<br><br=
+><strong>4. KAIP ATSIRINKTI TINKAMUS =C5=BDMONES?</strong><br>=C4=AEmon=C4=
+=97s =C5=BEvaig=C5=BEd=C4=97? Visa=C5=BEinis cinikas? Aklas optimistas? Kok=
+ie darbuotojai yra labiausiai tinkami =C5=A1iuolaikinei =C4=AFmonei?<br><br=
+><strong>5. KOKIUS DARBUS IR SPRENDIMUS DELEGUOTI?</strong><br>Kaip nustoti=
+ dirbti d=C4=97l savo komandos ir skatinti komand=C4=85 dirbti savaranki=C5=
+=A1kai?<br><br><strong>6. KADA IR KAIP VERTINTI DARBUOTOJ=C5=B2 VEIKLOS ROD=
+IKLIUS?</strong><br>Kiekvienas darbuotojas nori b=C5=ABti =C4=AFvertintas i=
+r pagerbtas. Ir tai padaryti rafinuotai yra labai svarbu. Kaip tai padaryti=
+ teisingai?<br><br><strong>7. KAIP GIRTI IR PEIKTI DARBUOTOJUS?</strong><br=
+>Kaip esant prie=C5=BEas=C4=8Diai papeikti, kad darbuotojui nor=C4=97t=C5=
+=B3si stengtis toliau ir kaip pagirti, kad jis neu=C5=BEriest=C5=B3 nosies?=
+<br><br><strong>8. KOKIAS KLAIDAS ATLEISTI, O KOKI=C5=B2 =E2=80=93 NE?</str=
+ong><br>Nepakei=C4=8Diam=C5=B3 n=C4=97ra. Kaip spr=C4=99sti problemas? Koki=
+us darbuotojus reik=C4=97t=C5=B3 pakeisti nedelsiant ir d=C4=97l koki=C5=B3=
+ klaid=C5=B3, o kam verta suteikti antr=C4=85, ir net tre=C4=8Di=C4=85 =C5=
+=A1ans=C4=85?<br><br><strong>9. KAIP SUMA=C5=BDINTI KOMANDOS SUSITIKIMUS TI=
+K IKI PA=C4=8CI=C5=B2 SVARBIAUSI=C5=B2?</strong><br>Visi m=C4=97gsta daryti=
+ daugyb=C4=99 susitikim=C5=B3. Taip prarandamas ir vadov=C5=B3, ir darbuoto=
+j=C5=B3 brangus laikas. Kaip ir kada daryti susitikimus, kad jie ne=C5=A1t=
+=C5=B3 did=C5=BEiausi=C4=85 efektyvum=C4=85 ir peln=C4=85?<br><br><strong>1=
+0. KAIP =C4=AEGALINTI ORGANIZACIJ=C4=84?</strong><br>U=C5=BEtenka apsimetin=
+=C4=97ti, kad tik atlyginimo k=C4=97limas yra komandos ir organizacijos =C4=
+=AFgalinimas siekti did=C5=BEi=C5=B3 dalyk=C5=B3. K=C4=85 ir kaip turi dary=
+ti =C5=A1iuolaikiniai vadovai, kad komanda nor=C4=97t=C5=B3 dar labiau sten=
+gtis?<br><br>Nuo=C5=A1ird=C5=BEiai kvie=C4=8Diu registruotis =C4=AF =C5=A1=
+=C4=AF unikal=C5=B3 seminar=C4=85 dabar ypatingomis s=C4=85lygomis:<br><a d=
+ata-cke-saved-href=3D"http://www.moneyclub.pro" href=3D"https://app.sender.=
+net/nuoroda/878bfdbbd351d56779a2c3ac12774e21/c3d51953d08571122eea824c8e891d=
+77" style=3D"color: #0000FF; font-weight: normal;" rel=3D"878bfdbbd351d5677=
+9a2c3ac12774e21">www.moneyclub.pro</a><br><br>Su geriausiais link=C4=97jima=
+is,<br>Ugn=C4=97 Docyt=C4=97<br>Seminaro koordinator=C4=97<br>"Money Club" =
+komanda</div></td></tr></tbody></table></td></tr></table><table width=3D"60=
+0" border=3D"0" cellspacing=3D"0" cellpadding=3D"10px" align=3D"left" style=
+=3D"border-collapse: collapse;"><tr><td id=3D"footer" align=3D"center" styl=
+e=3D"border-collapse: collapse; color: #000000; font-family: Arial, Helveti=
+ca, sans-serif; font-size: 13px; line-height: 140%; padding: 10px;"><a href=
+=3D"https://app.sender.net/recipients/unsubscribe/2c6fdb180cb4c18d28fce42c1=
+3ed9c01" style=3D"color: #0000FF; font-family: Arial, Helvetica, sans-serif=
+; font-size: 13px;">Jei nebenorite gauti naujienlai=C5=A1ki=C5=B3, spauskit=
+e =C4=8Dia.</a></td></tr></table></td></tr></table><img src=3D"https://app.=
+sender.net/campaigns/register_open/2c6fdb180cb4c18d28fce42c13ed9c01" width=
+=3D"1" height=3D"1" border=3D"0" alt=3D"" style=3D"height:1px !important;wi=
+dth:1px !important;border-width:0 !important;margin-top:0 !important;margin=
+-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;pad=
+ding-top:0 !important;padding-bottom:0 !important;padding-right:0 !importan=
+t;padding-left:0 !important;outline-style:none;text-decoration:none;display=
+:block;"></body><img src=3D"https://app.sender.net/campaigns/register_open/=
+2c6fdb180cb4c18d28fce42c13ed9c01" width=3D"1" height=3D"1" border=3D"0" alt=
+=3D"" style=3D"height:1px !important;width:1px !important;border-width:0 !i=
+mportant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 =
+!important;margin-left:0 !important;padding-top:0 !important;padding-bottom=
+:0 !important;padding-right:0 !important;padding-left:0 !important;outline-=
+style:none;text-decoration:none;display:block;"></html>
+------=_Part_34190810_1597438830.1556779323078--

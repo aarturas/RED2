@@ -1,0 +1,420 @@
+Return-path: <mazena.vadeisiene@daytongroup.lt>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Tue, 13 Mar 2018 10:12:08 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.89)
+	(envelope-from <mazena.vadeisiene@daytongroup.lt>)
+	id 1evf2W-0003o1-5N
+	for modernus@grezimas.lt; Tue, 13 Mar 2018 10:12:08 +0200
+Received: from [104.47.2.61] (helo=EUR01-DB5-obe.outbound.protection.outlook.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <mazena.vadeisiene@daytongroup.lt>)
+	id 1evf21-0003eq-HT
+	for modernus@grezimas.lt; Tue, 13 Mar 2018 10:12:08 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=uabdaytongroup.onmicrosoft.com; s=selector1-daytongroup-lt;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=0FkTR8968J+YOzS9wHFSuGXS/dbQnhU2mvd/zSlMEQk=;
+ b=c2+8AUeWvSEpwpy9WqgkFGltR5n8Lk8DcfKZxcSZ9RUTPZ7dLgr+hraisdg8UGjdUZjDOkFso89tqqw9ADQ/KtfmoBDbB1tWUa5FxW4oE1SlO69eN26Np/kznAG3gQGYuugJg6hCrb5KlSsp+yvxQ5sFRTen0hzF0gKFOEEL8fg=
+Received: from AM5PR0601MB2372.eurprd06.prod.outlook.com (10.173.91.18) by
+ AM5PR0601MB2258.eurprd06.prod.outlook.com (10.173.90.22) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.567.14; Tue, 13 Mar 2018 08:11:35 +0000
+Received: from AM5PR0601MB2372.eurprd06.prod.outlook.com
+ ([fe80::b18f:4c32:77a9:3369]) by AM5PR0601MB2372.eurprd06.prod.outlook.com
+ ([fe80::b18f:4c32:77a9:3369%2]) with mapi id 15.20.0567.018; Tue, 13 Mar 2018
+ 08:11:35 +0000
+From: Mazena Vadeisiene <mazena.vadeisiene@daytongroup.lt>
+To: "modernus@grezimas.lt" <modernus@grezimas.lt>
+Subject: FW: UAB Dayton
+Thread-Topic: UAB Dayton
+Thread-Index: AdO0TS874clF6YmRQ+SO42KCDnj7zAA56A1gAGxrVmAA7t8PQA==
+Date: Tue, 13 Mar 2018 08:11:35 +0000
+Message-ID: <AM5PR0601MB23721A24028B2DD267EAE94C83D20@AM5PR0601MB2372.eurprd06.prod.outlook.com>
+Accept-Language: lt-LT, en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=mazena.vadeisiene@daytongroup.lt; 
+x-originating-ip: [82.135.220.67]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;AM5PR0601MB2258;7:FjNBvPJE3N+wc3YchBOpCC9u3k3t19jlRnNjqpmRaTOmL0x+Z3AAaExXWsCebdt2Vx5Tc4f9iWUBpN/D8oBqQ5TQ9r8POH2R8NElbbOisYqEy6cJDdeod+s6DAK1Cb1HTl7NS9+avKcOTqWVDib5XNTHZ2bY54HT4iUJLDg3yIrkH2h5taIO4Jk8UinBYliliuqlsqlrQ7770UAlR6fT03408R533/edQ0GInPOHhvtcWJjuRW2tN5Wx1/6na39Q
+x-ms-exchange-antispam-srfa-diagnostics: SSOS;
+x-ms-office365-filtering-correlation-id: 1f0956b4-b9a6-4b97-ce63-08d588ba09c7
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(7020095)(4652020)(7021125)(5600026)(4604075)(3008032)(4534165)(7022125)(4603075)(4627221)(201702281549075)(7048125)(7024125)(7027125)(7028125)(7023125)(2017052603328)(7153060)(49563074)(7193020);SRVR:AM5PR0601MB2258;
+x-ms-traffictypediagnostic: AM5PR0601MB2258:
+x-microsoft-antispam-prvs: <AM5PR0601MB2258446C73BCD8752656C92883D20@AM5PR0601MB2258.eurprd06.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(28532068793085)(21748063052155);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(102415395)(6040522)(2401047)(8121501046)(5005006)(3002001)(93006095)(93001095)(10201501046)(3231221)(944501244)(52105095)(6041310)(20161123564045)(20161123562045)(20161123560045)(2016111802025)(20161123558120)(6043046)(6072148)(201708071742011);SRVR:AM5PR0601MB2258;BCL:0;PCL:0;RULEID:;SRVR:AM5PR0601MB2258;
+x-forefront-prvs: 0610D16BBE
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(346002)(39840400004)(39380400002)(396003)(366004)(376002)(189003)(199004)(478600001)(14454004)(2501003)(6306002)(7116003)(6116002)(3660700001)(2900100001)(55016002)(53936002)(229853002)(5660300001)(2473003)(236005)(9686003)(33656002)(5640700003)(54896002)(26005)(3280700002)(186003)(102836004)(68736007)(54556002)(5630700001)(733005)(790700001)(6436002)(105586002)(221733001)(7696005)(74316002)(3846002)(99286004)(19609705001)(25786009)(2351001)(7736002)(5250100002)(97736004)(66066001)(74482002)(8676002)(106356001)(8936002)(1730700003)(606006)(2906002)(81156014)(86362001)(81166006)(6916009)(53546011)(6506007)(316002)(861006)(99936001);DIR:OUT;SFP:1101;SCL:1;SRVR:AM5PR0601MB2258;H:AM5PR0601MB2372.eurprd06.prod.outlook.com;FPR:;SPF:None;PTR:InfoNoRecords;MX:1;A:1;LANG:lt;
+received-spf: None (protection.outlook.com: daytongroup.lt does not designate
+ permitted sender hosts)
+x-microsoft-antispam-message-info: ZBE/3R8EYg7xPp7cgo9dR7lD9PxYsf5YOx9xxT/z1U5eBN470hR5kDLaXUWXa1cI69iuLYrAy0mETpbCfn7vgyaO08LCKikCJ5lPE36nRF7/XMgddQJFik6rLgv3jAdzg5uRBdinVAKVvMFqEr6lg8N0LuqtRDFzjoNT7yrpVMyrCQ48zNYmLrcIJR6JtgCtLrIwLi0/gB1T/MfeIuEdfoV9qqsp4PaIIpZXkxnlHx+iY5zbBSI8844oYL6a5NDAMKts010zZnXszL7u2gmbU9958hYtL+0AlXa6AQch+aO6lj8h75FPkkO9JaoSQiUYEz2Ait6pyD+qD0z+zgGAmw==
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/related;
+	boundary="_004_AM5PR0601MB23721A24028B2DD267EAE94C83D20AM5PR0601MB2372_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+X-OriginatorOrg: daytongroup.lt
+X-MS-Exchange-CrossTenant-Network-Message-Id: 1f0956b4-b9a6-4b97-ce63-08d588ba09c7
+X-MS-Exchange-CrossTenant-originalarrivaltime: 13 Mar 2018 08:11:35.1396
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: d83bc476-83b2-4f18-a20a-13b98646105c
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AM5PR0601MB2258
+X-Spam-Checked: daytongroup.lt, 92.61.37.120, microsoft.com, w3.org, outlook.com
+
+--_004_AM5PR0601MB23721A24028B2DD267EAE94C83D20AM5PR0601MB2372_
+Content-Type: multipart/alternative;
+	boundary="_000_AM5PR0601MB23721A24028B2DD267EAE94C83D20AM5PR0601MB2372_"
+
+--_000_AM5PR0601MB23721A24028B2DD267EAE94C83D20AM5PR0601MB2372_
+Content-Type: text/plain; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+Laba diena,
+
+Labai laukiu suderinimo akto, atsi=F8skite pra=F0au.
+
+
+From: Mazena Vadeisiene
+Sent: Thursday, March 08, 2018 4:07 PM
+To: modernus@grezimas.lt
+Subject: UAB Dayton
+
+Laba diena,
+
+Ar galit atsi=F8sti suderinimo akt=E0, labai laukiu.
+
+From: Mazena Vadeisiene
+Sent: Tuesday, March 06, 2018 12:22 PM
+To: modernus@grezimas.lt<mailto:modernus@grezimas.lt>
+Subject: RE: UAB Dayton
+
+Laba diena,
+
+Pra=F0au atsi=F8sti suderinimo akt=E0, noriu suderinti likut=E1.
+
+From: Mazena Vadeisiene
+Sent: Monday, March 05, 2018 8:47 AM
+To: 'modernus@grezimas.lt'
+Subject: UAB Dayton
+
+Laba diena,
+
+Nor=EBtum=EBm suderinti likut=E1, atsi=F8skite pra=F0au suderinimo akt=E0.
+
+I=F0 anksto d=EBkoju.
+
+Pagarbiai | Best regards
+
+Ma=FEena Vadei=F0ien=EB
+Buhalter=EB
+UAB Dayton
+Mob. +370 614 86093
+phone: +370 5 2602088
+mazena.vadeisiene@daytongroup.lt<mailto:mazena.vadeisiene@daytongroup.lt>
+www.daytongroup.lt<http://www.daytongroup.lt/>
+
+[cid:image001.png@01D0B98B.04893D00]
+
+UAB Dayton is part of the Finnish family owned Dayton Group Oy.
+Until 1st of July, 2015 the company was known as Rolvika and Monilaite-Thom=
+eko.
+
+
+--_000_AM5PR0601MB23721A24028B2DD267EAE94C83D20AM5PR0601MB2372_
+Content-Type: text/html; charset="windows-1257"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dwindows-1=
+257">
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle22
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:3.0cm 1.0cm 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Laba diena,<o:p></o:p>=
+</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Labai laukiu suderinim=
+o akto, atsi=F8skite pra=F0au.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Mazena V=
+adeisiene
+<br>
+<b>Sent:</b> Thursday, March 08, 2018 4:07 PM<br>
+<b>To:</b> modernus@grezimas.lt<br>
+<b>Subject:</b> UAB Dayton<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Laba diena,<o:p></o:p>=
+</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Ar galit atsi=F8sti su=
+derinimo akt=E0, labai laukiu.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Mazena V=
+adeisiene
+<br>
+<b>Sent:</b> Tuesday, March 06, 2018 12:22 PM<br>
+<b>To:</b> <a href=3D"mailto:modernus@grezimas.lt">modernus@grezimas.lt</a>=
+<br>
+<b>Subject:</b> RE: UAB Dayton<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Laba diena,<o:p></o:p>=
+</span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Pra=F0au atsi=F8sti su=
+derinimo akt=E0, noriu suderinti likut=E1.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;">From:</span></b><span style=3D"font-s=
+ize:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"> Mazena V=
+adeisiene
+<br>
+<b>Sent:</b> Monday, March 05, 2018 8:47 AM<br>
+<b>To:</b> 'modernus@grezimas.lt'<br>
+<b>Subject:</b> UAB Dayton<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Laba diena,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Nor=EBtum=EBm suderinti likut=E1, atsi=F8skite pra=
+=F0au suderinimo akt=E0.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">I=F0 anksto d=EBkoju.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span lang=3D"LT" style=3D"font-size:10.0pt;font-fam=
+ily:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-language:LT">Paga=
+rbiai | Best regards<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"LT" style=3D"font-size:10.0pt;font-fam=
+ily:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-language:LT"><o:p=
+>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span lang=3D"LT" style=3D"font-size:10.0pt;font-=
+family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-language:LT">M=
+a=FEena Vadei=F0ien=EB<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span lang=3D"LT" style=3D"font-size:10.0pt;font-fam=
+ily:&quot;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-language:LT">Buha=
+lter=EB<span style=3D"color:#00CCFF"><o:p></o:p></span></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;;mso-fareast-language:FI">UAB Dayton<o:=
+p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ta=
+homa&quot;,&quot;sans-serif&quot;;mso-fareast-language:FI">Mob. &#43;370 61=
+4 86093</span><span style=3D"font-family:&quot;Tahoma&quot;,&quot;sans-seri=
+f&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ta=
+homa&quot;,&quot;sans-serif&quot;;mso-fareast-language:FI">phone: &#43;370 =
+5 2602088</span><span style=3D"font-family:&quot;Tahoma&quot;,&quot;sans-se=
+rif&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><u><span style=3D"font-size:10.0pt;font-family:&quot=
+;Tahoma&quot;,&quot;sans-serif&quot;;color:blue;mso-fareast-language:FI"><a=
+ href=3D"mailto:mazena.vadeisiene@daytongroup.lt">mazena.vadeisiene@daytong=
+roup.lt</a></span></u><span style=3D"font-family:&quot;Tahoma&quot;,&quot;s=
+ans-serif&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><a href=3D"http://www.daytongroup.lt/"><span style=
+=3D"font-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;=
+mso-fareast-language:FI">www.daytongroup.lt</span></a><u><span style=3D"fon=
+t-size:10.0pt;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;;color:b=
+lue;mso-fareast-language:FI"><o:p></o:p></span></u></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Tahoma&quot;,&quot;=
+sans-serif&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><img border=3D"0" width=3D"189" height=3D"24" id=3D"=
+Picture_x0020_1" src=3D"cid:image001.png@01D3B6F7.78585AB0" alt=3D"cid:imag=
+e001.png@01D0B98B.04893D00"><span style=3D"font-family:&quot;Tahoma&quot;,&=
+quot;sans-serif&quot;;mso-fareast-language:FI"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Tahoma&quot;,&quot;=
+sans-serif&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ta=
+homa&quot;,&quot;sans-serif&quot;;mso-fareast-language:FI">UAB Dayton is pa=
+rt of the Finnish family owned Dayton Group Oy.</span><span style=3D"font-f=
+amily:&quot;Tahoma&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ta=
+homa&quot;,&quot;sans-serif&quot;;mso-fareast-language:FI">Until 1st of Jul=
+y, 2015 the company was known as Rolvika and Monilaite-Thomeko.</span><span=
+ style=3D"font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"><o:p></o:p=
+></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_AM5PR0601MB23721A24028B2DD267EAE94C83D20AM5PR0601MB2372_--
+
+--_004_AM5PR0601MB23721A24028B2DD267EAE94C83D20AM5PR0601MB2372_
+Content-Type: image/png; name="image001.png"
+Content-Description: image001.png
+Content-Disposition: inline; filename="image001.png"; size=3664;
+	creation-date="Tue, 13 Mar 2018 08:11:34 GMT";
+	modification-date="Tue, 13 Mar 2018 08:11:34 GMT"
+Content-ID: <image001.png@01D3B6F7.78585AB0>
+Content-Transfer-Encoding: base64
+
+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
+zbulkgAAAABJRU5ErkJggg==
+
+--_004_AM5PR0601MB23721A24028B2DD267EAE94C83D20AM5PR0601MB2372_--

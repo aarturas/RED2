@@ -1,0 +1,127 @@
+Return-path: <uabsudomino@gmail.com>
+Envelope-to: modernus@grezimas.lt
+Delivery-date: Wed, 27 Mar 2019 12:43:36 +0200
+Received: from mail by gandras.serveriai.lt with spam-scanned (Exim 4.90_1)
+	(envelope-from <uabsudomino@gmail.com>)
+	id 1h961v-0001Qx-RF
+	for modernus@grezimas.lt; Wed, 27 Mar 2019 12:43:35 +0200
+Received: from [209.85.128.47] (helo=mail-wm1-f47.google.com)
+	by gandras.serveriai.lt with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.90_1)
+	(envelope-from <uabsudomino@gmail.com>)
+	id 1h961v-0001Qs-NN
+	for modernus@grezimas.lt; Wed, 27 Mar 2019 12:43:35 +0200
+Received: by mail-wm1-f47.google.com with SMTP id a184so15616000wma.2
+        for <modernus@grezimas.lt>; Wed, 27 Mar 2019 03:43:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=HhJ83D4fPEWNByGMc92/HtVQHI0dVDP/pbbEXTh1Yf4=;
+        b=FvPRgmRmlF69iyD2zzG16f5yYi8uz1TBsTSbR+N4OkgkVTEoyK02+jGcVhiq7j50Qy
+         4HkM0cKwwAIV5A6kcbxPwC7BDJ6EyNbQZhiYtJVtOYhyqe4c9zpjKYjhjxG5Ap6k5YLF
+         P2IS0KUYaKfh9syLgNjo+rX+A9mf1ioZ6V431lCHu6AQ3fZzZ+X9/YOqeyyqMFcKmI1Y
+         4IlmpsWr7ja+e0a2rMCb3GYrp24S8AHPu/6M3evxaQFIOr9FCQXyI1z/K9EXssKzU03S
+         zTxYBwMnJ1Sc7R6aoowi+DJFo0xSTU9jcbkAzMA1mTXbcpg/IxUSqna2q8f166j4lVNc
+         zsgQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=HhJ83D4fPEWNByGMc92/HtVQHI0dVDP/pbbEXTh1Yf4=;
+        b=EQ+YSiD0t25Hi6vgZgDJElfhpofYIytkeAzhWoU4BJ2lU2fk4DUcZLB+gSxGjdAwGD
+         nbZDgltZZ3HPrs0JHn/p9ZyqrF6MtBilFnn18Jr/zITeVXUXjsYDIudaLjVMiJx4T9uR
+         d6R8x8oF6DbnU8+ibynhAW8ZcUZ6cL9gcGLSyX3iWIKTV4p6fAhTaFCuxyT5eNHT4kUW
+         bY5JY+2aFof7JxfHcOmGrWkKpwhb1zRcfzslJsBUtTSTxUeiq4L9U0ls2prOCn7lOcGm
+         NPHoF0XUb36Aojt7GRWJCttdFNpC1c1bH8CaBNUpwuleWhpWUtIrwXQuXOnE1R96u7Aw
+         0uZQ==
+X-Gm-Message-State: APjAAAWm+En9eeU0tW0PEgZluxF03vwx3baSLcvQ0yN6RCcpLILjYfGB
+	zCmFSiD4+RGJGsGSSvu3oRWAFMqruQydlVhEH5vxZA==
+X-Google-Smtp-Source: APXvYqwM2sHmZfFucLQNHpnhU7CM8ZAwplrS+kwoUpQiP7/5ubGFcHnv26u7zK6+telHfGcMVUm0R9QpKnLigoH0GEg=
+X-Received: by 2002:a7b:cd93:: with SMTP id y19mr11605377wmj.113.1553683414940;
+ Wed, 27 Mar 2019 03:43:34 -0700 (PDT)
+MIME-Version: 1.0
+From: "Vaidas | Naujos-padangos.lt" <uabsudomino@gmail.com>
+Date: Wed, 27 Mar 2019 12:42:59 +0200
+Message-ID: <CACy3a=Cd7J61pU+f22HGO+9dOLedSGD1+SDhom6uL6WYr8eFXg@mail.gmail.com>
+Subject: =?UTF-8?B?RMSXbCBuYXVqxbMgcGFkYW5nxbM=?=
+To: modernus@grezimas.lt
+Content-Type: multipart/alternative; boundary="0000000000000a821c0585111cfd"
+X-Spam-Checked: naujos-padangos.lt, 212.237.232.2, hostingas.lt
+
+--0000000000000a821c0585111cfd
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Laba diena,
+
+Prekiaujame naujomis padangomis.
+Nor=C4=97tume su=C5=BEinoti kas J=C5=ABs=C5=B3 =C4=AFmon=C4=97je atsakingas=
+ u=C5=BE nauj=C5=B3 padang=C5=B3 pirkimus?
+
+A=C4=8Di=C5=AB.
+
+Vaidas Prazauskas
+
+Direktorius
+
+SUDOMINO UAB
+
+Mob.: +370 611 87779
+
+vaidas@sudomino.lt <padangos@sudomino.lt>
+
+*Internetin=C4=97 padang=C5=B3 parduotuv=C4=97 **www.naujos-padangos.lt
+<http://www.naujos-padangos.lt/>*
+
+--0000000000000a821c0585111cfd
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><span style=3D"color:rgb=
+(0,0,0)">Laba diena,</span><div style=3D"color:rgb(0,0,0)"><br></div><div s=
+tyle=3D"color:rgb(0,0,0)">Prekiaujame naujomis padangomis.</div><div style=
+=3D"color:rgb(0,0,0)">Nor=C4=97tume su=C5=BEinoti kas J=C5=ABs=C5=B3 =C4=AF=
+mon=C4=97je atsakingas u=C5=BE nauj=C5=B3 padang=C5=B3 pirkimus?<br></div><=
+/div><div><div class=3D"m_83259118609122310gmail_signature" data-smartmail=
+=3D"gmail_signature"><div dir=3D"ltr"><div dir=3D"ltr" style=3D"color:rgb(0=
+,0,0)"><div><div style=3D"margin:0cm 0cm 0.0001pt"><div style=3D"font-famil=
+y:Menlo-Regular"></div></div></div></div></div></div></div>
+</div><div><div dir=3D"ltr" class=3D"gmail_signature" data-smartmail=3D"gma=
+il_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr">=
+<div><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><d=
+iv dir=3D"ltr"><div dir=3D"ltr" style=3D"color:rgb(0,0,0)"><div dir=3D"ltr"=
+ style=3D"color:rgb(34,34,34)"><div dir=3D"ltr"><div style=3D"color:rgb(0,0=
+,0)"><br></div></div><div><div><div dir=3D"ltr"><div dir=3D"ltr" style=3D"c=
+olor:rgb(0,0,0)"><div style=3D"margin:0cm 0cm 0.0001pt"><div style=3D"font-=
+family:Menlo-Regular"></div></div></div></div></div></div></div><div style=
+=3D"color:rgb(34,34,34)"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"=
+><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr" style=
+=3D"color:rgb(0,0,0)">A=C4=8Di=C5=AB.<br></div><div dir=3D"ltr" style=3D"co=
+lor:rgb(0,0,0)"><br><div><div style=3D"margin:0cm 0cm 0.0001pt"><div style=
+=3D"font-family:Menlo-Regular"><p style=3D"margin:0cm 0cm 0.0001pt;font-fam=
+ily:&quot;Times New Roman&quot;,serif"><span style=3D"font-family:Arial,san=
+s-serif;color:blue"><font size=3D"2">Vaidas Prazauskas</font></span></p><p =
+style=3D"margin:0cm 0cm 0.0001pt;font-family:&quot;Times New Roman&quot;,se=
+rif"><span style=3D"font-family:Arial,sans-serif;color:blue"><font size=3D"=
+2">Direktorius</font></span></p></div><div style=3D"font-family:Menlo-Regul=
+ar"><p style=3D"margin:0cm 0cm 0.0001pt;font-family:&quot;Times New Roman&q=
+uot;,serif"><span style=3D"font-family:Arial,sans-serif;color:blue"><font s=
+ize=3D"2">SUDOMINO UAB</font></span></p></div><div style=3D"font-family:Men=
+lo-Regular"><p style=3D"margin:0cm 0cm 0.0001pt;font-family:&quot;Times New=
+ Roman&quot;,serif"><span style=3D"font-family:Arial,sans-serif;color:blue"=
+><font size=3D"2">Mob.: +370 611 87779</font></span></p></div><div style=3D=
+"font-family:Menlo-Regular"><p style=3D"margin:0cm 0cm 0.0001pt;font-family=
+:&quot;Times New Roman&quot;,serif"><span style=3D"font-family:Arial,sans-s=
+erif;color:blue"><font size=3D"2" style=3D"color:purple">vaidas<a href=3D"m=
+ailto:padangos@sudomino.lt" style=3D"color:purple" target=3D"_blank">@sudom=
+ino.lt</a></font></span></p></div><div style=3D"font-family:Menlo-Regular">=
+<p style=3D"margin:0cm 0cm 0.0001pt;font-family:&quot;Times New Roman&quot;=
+,serif"><span style=3D"font-family:Arial,sans-serif;color:blue"><b>Internet=
+in=C4=97 padang=C5=B3 parduotuv=C4=97=C2=A0</b><b><font size=3D"4"><a href=
+=3D"http://www.naujos-padangos.lt/" style=3D"color:rgb(17,85,204)" target=
+=3D"_blank">www.naujos-padangos.lt</a></font></b></span></p></div></div></d=
+iv></div></div></div></div></div></div></div></div></div><div dir=3D"ltr" s=
+tyle=3D"color:rgb(0,0,0)"><div><div style=3D"margin:0cm 0cm 0.0001pt"><div =
+style=3D"font-family:Menlo-Regular"></div></div></div></div></div></div></d=
+iv></div></div></div></div></div></div></div></div></div></div></div>
+
+--0000000000000a821c0585111cfd--
