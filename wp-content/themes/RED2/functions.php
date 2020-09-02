@@ -2,7 +2,7 @@
 
 //    Užrašome konstantas
 
-define('VER_', '1.78'); // Patys sugalvojame pavadinimą ('1.78'), kad matytusi kokia versija
+define('VER_', '1.79'); // Patys sugalvojame pavadinimą ('1.78'), kad matytusi kokia versija
 
 /**
  * Enqueue scripts and styles.

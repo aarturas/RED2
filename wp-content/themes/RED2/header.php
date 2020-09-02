@@ -12,6 +12,8 @@
 
    <!-- ------------------- CSS  -------------------------------------------------------------->
    <!-- <link rel="stylesheet" href="{{asset('css/REDprojektas.css')}}"> -->
+   <link rel="stylesheet" href="{{asset('css/REDprojektas2.css')}}">
+
    <!-- <link rel="stylesheet" href="http://localhost/RED/public/css/REDprojektas.css"> -->
 
    <!-- <link rel="stylesheet" href=" {{asset('css/style.scss')}}"> -->
