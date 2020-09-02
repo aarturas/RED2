@@ -31,12 +31,11 @@
    <!--  -------------------- JS  -------------------------------------------------------------->
    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.0/js/swiper.min.js"></script>
 
-
-
    <?php wp_head();   ?>
 
 
-   <!--   ------------------Jeigu norime, kad viršuje rodytų menu, įdedame šį kodą ---------------------- -->
+   <!--   ------------------Jeigu norime, kad viršuje rodytų menu, įdedame šį kodą ------------- -->
+
    <!-- <div class="menu">
         <a href="<?= home_url() ?>">Home</a>
         <a href="<?= home_url('about us/') ?>">About Us</a>
@@ -44,11 +43,7 @@
         <a href="<?= home_url('social/') ?>">Social</a>
     </div> -->
 
-
 </head>
-
-
-
 
 
 

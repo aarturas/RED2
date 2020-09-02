@@ -13,7 +13,9 @@ add_action('wp_enqueue_scripts', function () {
     // wp_enqueue_style( 'style', get_theme_file_uri('css/REDprojektas.css'), [], VER_);
     //    wp_enqueue_style( 'style', get_theme_file_uri('css/suTrStyle.css'), [], VER_);
     // wp_enqueue_style( 'style', get_theme_file_uri('css/naujasScss.scss'), [], VER_);
-    wp_enqueue_style('red', get_theme_file_uri('css/REDprojektas.css'), [], VER_);
+    // wp_enqueue_style('red', get_theme_file_uri('css/REDprojektas.css'), [], VER_);
+    wp_enqueue_style('red', get_theme_file_uri('css/REDprojektas2.css'), [], VER_);
+
 
 
 
@@ -68,9 +70,7 @@ register_taxonomy('skills', array('our_team'), array(   // Kreipiamės į "our-t
 ));
 
 
-
-
-// Aprašomos funkcijos, kad atsirastų "Dashbord'e" (WP consoleje), nuoroda-užrašas su "Our Contact"
+// Aprašomos funkcijos, kad atsirastų "Dashbord'e" ( WP consoleje ), nuoroda-užrašas su "Our Contact"
 
 add_action('init', function () {
 
