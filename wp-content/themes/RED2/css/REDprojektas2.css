@@ -862,7 +862,9 @@ input[type='submit'] {
 
   /* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
 
-  /* Dar prirasiau: ... */
+  /* =============================================== */
+  /*            Dar prirasiau: ...                   */
+  /* =============================================== */
 
   .nav-collapse li a {
     /* font-size: 40px; */
@@ -878,6 +880,8 @@ input[type='submit'] {
 
   .box-images p {
     font-size: 2em;
+
+    /* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
   }
 }
 
@@ -906,7 +910,7 @@ input[type='submit'] {
   }
 
   /* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
-  /*      Koreguoju truputi mob.tel. vaizdeli      */
+  /*      Koreguoju truputį mob.tel. vaizdelį      */
   /* XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX */
 
   .box8 h1 {
@@ -1031,7 +1035,7 @@ input[type='submit'] {
     float: none;
     text-align: center;
     width: 100%;
-    /* Padidinu truputi FOOTER'io NAV linkus */
+    /* Padidinu truputį FOOTER'io NAV linkus */
     font-size: 2em;
   }
 }

@@ -10,7 +10,7 @@
    </h1>
 
    <p style="color:azure">
-      <h3 style="color:azure; padding-left:2em">CONNECT</h3>
+   <h3 style="color:azure; padding-left:2em">CONNECT</h3>
    </p>
 
    <a href="<?= get_permalink(get_page_by_path('p-c', OBJECT, 'page')) ?>">

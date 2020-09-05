@@ -1,6 +1,8 @@
 <?php
 
-//    Užrašome konstantas
+// ==========================================================================================================
+//                                        Užrašome konstantas
+// ==========================================================================================================
 
 define('VER_', '1.79'); // Patys sugalvojame pavadinimą ('1.78'), kad matytusi kokia versija
 
@@ -14,10 +16,10 @@ add_action('wp_enqueue_scripts', function () {
     //    wp_enqueue_style( 'style', get_theme_file_uri('css/suTrStyle.css'), [], VER_);
     // wp_enqueue_style( 'style', get_theme_file_uri('css/naujasScss.scss'), [], VER_);
     // wp_enqueue_style('red', get_theme_file_uri('css/REDprojektas.css'), [], VER_);
+    // ====================================================================================================
+    //                                      Nurodome CSS kelią :
+    // ====================================================================================================
     wp_enqueue_style('red', get_theme_file_uri('css/REDprojektas2.css'), [], VER_);
-
-
-
 
     // wp_enqueue_script( 'slider', get_theme_file_uri('js/jquery.slider.js'), [], VER_);
 
@@ -39,8 +41,9 @@ add_action('wp_footer', function () {
 
 });
 
-
-// Aprašomos funkcijos, kad atsirastų "Dashbord'e" (WP), nuoroda-užrašas su "Our Team"
+// ==========================================================================================================
+//            Aprašomos funkcijos, kad atsirastų "Dashbord'e" (WP), nuoroda-užrašas su "Our Team"
+// ==========================================================================================================
 
 add_action('init', function () {
 
@@ -59,18 +62,21 @@ add_action('init', function () {
     );
 });
 
-// ---------------- Taxonomy-skillsų kodas --------------------------
+// ==========================================================================================================
+//                                     Taxonomy-skill'sų kodas 
+// ==========================================================================================================
 
-register_taxonomy('skills', array('our_team'), array(   // Kreipiamės į "our-team"
-    'hierarchical' => true,   // Pridedame "hierarchiją"---> true
+register_taxonomy('skills', array('our_team'), array(   // Kreipiamės į "OUR - TEAM"
+    'hierarchical' => true,   // Pridedame "hierarchijai"  : true
     'show_ui' => true,
     'show_admin_column' => true,
     'query_var' => true,
     'rewrite' => array('slug' => 'skills'),
 ));
 
-
-// Aprašomos funkcijos, kad atsirastų "Dashbord'e" ( WP consoleje ), nuoroda-užrašas su "Our Contact"
+// ==========================================================================================================
+//     Aprašomos funkcijos, kad atsirastų "Dashbord'e" ( WP consoleje ), nuoroda-užrašas su "Our Contact"
+// ==========================================================================================================
 
 add_action('init', function () {
 
